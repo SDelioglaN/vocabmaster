@@ -1,0 +1,862 @@
+[
+    {
+        "id": 1,
+        "word": "house",
+        "translation": "ev",
+        "example": "I live in a big house.",
+        "exampleTr": "Büyük bir evde yaşıyorum.",
+        "phonetic": "/haʊs/",
+        "level": "a1"
+    },
+    {
+        "id": 2,
+        "word": "apartment",
+        "translation": "daire",
+        "example": "We rent an apartment.",
+        "exampleTr": "Bir daire kiralıyoruz.",
+        "phonetic": "/əˈpɑːrtmənt/",
+        "level": "a2"
+    },
+    {
+        "id": 3,
+        "word": "room",
+        "translation": "oda",
+        "example": "This is my room.",
+        "exampleTr": "Bu benim odam.",
+        "phonetic": "/ruːm/",
+        "level": "a1"
+    },
+    {
+        "id": 4,
+        "word": "bedroom",
+        "translation": "yatak odası",
+        "example": "The bedroom is upstairs.",
+        "exampleTr": "Yatak odası üst katta.",
+        "phonetic": "/ˈbedruːm/",
+        "level": "a2"
+    },
+    {
+        "id": 5,
+        "word": "bathroom",
+        "translation": "banyo",
+        "example": "The bathroom is clean.",
+        "exampleTr": "Banyo temiz.",
+        "phonetic": "/ˈbæθruːm/",
+        "level": "a1"
+    },
+    {
+        "id": 6,
+        "word": "kitchen",
+        "translation": "mutfak",
+        "example": "I cook in the kitchen.",
+        "exampleTr": "Mutfakta yemek pişiririm.",
+        "phonetic": "/ˈkɪtʃɪn/",
+        "level": "a1"
+    },
+    {
+        "id": 7,
+        "word": "living room",
+        "translation": "oturma odası",
+        "example": "We watch TV in the living room.",
+        "exampleTr": "Oturma odasında TV izleriz.",
+        "phonetic": "/ˈlɪvɪŋ ruːm/",
+        "level": "a2"
+    },
+    {
+        "id": 8,
+        "word": "dining room",
+        "translation": "yemek odası",
+        "example": "We eat in the dining room.",
+        "exampleTr": "Yemek odasında yemek yeriz.",
+        "phonetic": "/ˈdaɪnɪŋ ruːm/",
+        "level": "c1"
+    },
+    {
+        "id": 9,
+        "word": "balcony",
+        "translation": "balkon",
+        "example": "I have plants on the balcony.",
+        "exampleTr": "Balkonda bitkilerim var.",
+        "phonetic": "/ˈbælkəni/",
+        "level": "a2"
+    },
+    {
+        "id": 10,
+        "word": "garden",
+        "translation": "bahçe",
+        "example": "We have a beautiful garden.",
+        "exampleTr": "Güzel bir bahçemiz var.",
+        "phonetic": "/ˈɡɑːrdn/",
+        "level": "a1"
+    },
+    {
+        "id": 11,
+        "word": "garage",
+        "translation": "garaj",
+        "example": "The car is in the garage.",
+        "exampleTr": "Araba garajda.",
+        "phonetic": "/ɡəˈrɑːʒ/",
+        "level": "a1"
+    },
+    {
+        "id": 12,
+        "word": "basement",
+        "translation": "bodrum",
+        "example": "We store things in the basement.",
+        "exampleTr": "Bodrumda eşya saklarız.",
+        "phonetic": "/ˈbeɪsmənt/",
+        "level": "b1"
+    },
+    {
+        "id": 13,
+        "word": "attic",
+        "translation": "çatı katı",
+        "example": "Old boxes are in the attic.",
+        "exampleTr": "Eski kutular çatı katında.",
+        "phonetic": "/ˈætɪk/",
+        "level": "b1"
+    },
+    {
+        "id": 14,
+        "word": "stairs",
+        "translation": "merdiven",
+        "example": "Go up the stairs.",
+        "exampleTr": "Merdivenlerden çık.",
+        "phonetic": "/sterz/",
+        "level": "a1"
+    },
+    {
+        "id": 15,
+        "word": "elevator",
+        "translation": "asansör",
+        "example": "Take the elevator.",
+        "exampleTr": "Asansörü kullan.",
+        "phonetic": "/ˈelɪveɪtər/",
+        "level": "b2"
+    },
+    {
+        "id": 16,
+        "word": "door",
+        "translation": "kapı",
+        "example": "Close the door.",
+        "exampleTr": "Kapıyı kapat.",
+        "phonetic": "/dɔːr/",
+        "level": "a1"
+    },
+    {
+        "id": 17,
+        "word": "window",
+        "translation": "pencere",
+        "example": "Open the window.",
+        "exampleTr": "Pencereyi aç.",
+        "phonetic": "/ˈwɪndoʊ/",
+        "level": "a1"
+    },
+    {
+        "id": 18,
+        "word": "wall",
+        "translation": "duvar",
+        "example": "The picture is on the wall.",
+        "exampleTr": "Resim duvarda.",
+        "phonetic": "/wɔːl/",
+        "level": "a1"
+    },
+    {
+        "id": 19,
+        "word": "floor",
+        "translation": "zemin / kat",
+        "example": "The floor is clean.",
+        "exampleTr": "Zemin temiz.",
+        "phonetic": "/flɔːr/",
+        "level": "a1"
+    },
+    {
+        "id": 20,
+        "word": "ceiling",
+        "translation": "tavan",
+        "example": "The ceiling is white.",
+        "exampleTr": "Tavan beyaz.",
+        "phonetic": "/ˈsiːlɪŋ/",
+        "level": "a2"
+    },
+    {
+        "id": 21,
+        "word": "roof",
+        "translation": "çatı",
+        "example": "The roof needs repair.",
+        "exampleTr": "Çatının tamire ihtiyacı var.",
+        "phonetic": "/ruːf/",
+        "level": "a1"
+    },
+    {
+        "id": 22,
+        "word": "key",
+        "translation": "anahtar",
+        "example": "I lost my key.",
+        "exampleTr": "Anahtarımı kaybettim.",
+        "phonetic": "/kiː/",
+        "level": "a1"
+    },
+    {
+        "id": 23,
+        "word": "lock",
+        "translation": "kilit",
+        "example": "The lock is broken.",
+        "exampleTr": "Kilit bozuk.",
+        "phonetic": "/lɒk/",
+        "level": "a2"
+    },
+    {
+        "id": 24,
+        "word": "sofa",
+        "translation": "kanepe",
+        "example": "Sit on the sofa.",
+        "exampleTr": "Kanepeye otur.",
+        "phonetic": "/ˈsoʊfə/",
+        "level": "a1"
+    },
+    {
+        "id": 25,
+        "word": "armchair",
+        "translation": "koltuk",
+        "example": "Grandpa sits in the armchair.",
+        "exampleTr": "Dede koltuğa oturur.",
+        "phonetic": "/ˈɑːrmtʃer/",
+        "level": "b2"
+    },
+    {
+        "id": 26,
+        "word": "table",
+        "translation": "masa",
+        "example": "Put it on the table.",
+        "exampleTr": "Masanın üzerine koy.",
+        "phonetic": "/ˈteɪbl/",
+        "level": "a1"
+    },
+    {
+        "id": 27,
+        "word": "chair",
+        "translation": "sandalye",
+        "example": "Sit on the chair.",
+        "exampleTr": "Sandalyeye otur.",
+        "phonetic": "/tʃer/",
+        "level": "a1"
+    },
+    {
+        "id": 28,
+        "word": "desk",
+        "translation": "çalışma masası",
+        "example": "I work at my desk.",
+        "exampleTr": "Masamda çalışırım.",
+        "phonetic": "/desk/",
+        "level": "a2"
+    },
+    {
+        "id": 29,
+        "word": "bed",
+        "translation": "yatak",
+        "example": "The bed is comfortable.",
+        "exampleTr": "Yatak rahat.",
+        "phonetic": "/bed/",
+        "level": "a1"
+    },
+    {
+        "id": 30,
+        "word": "pillow",
+        "translation": "yastık",
+        "example": "I need two pillows.",
+        "exampleTr": "İki yastığa ihtiyacım var.",
+        "phonetic": "/ˈpɪloʊ/",
+        "level": "a2"
+    },
+    {
+        "id": 31,
+        "word": "blanket",
+        "translation": "battaniye",
+        "example": "The blanket is warm.",
+        "exampleTr": "Battaniye sıcak.",
+        "phonetic": "/ˈblæŋkɪt/",
+        "level": "a2"
+    },
+    {
+        "id": 32,
+        "word": "sheet",
+        "translation": "çarşaf",
+        "example": "Change the bed sheets.",
+        "exampleTr": "Çarşafları değiştir.",
+        "phonetic": "/ʃiːt/",
+        "level": "b1"
+    },
+    {
+        "id": 33,
+        "word": "mattress",
+        "translation": "yatak / şilte",
+        "example": "Buy a new mattress.",
+        "exampleTr": "Yeni bir şilte al.",
+        "phonetic": "/ˈmætrəs/",
+        "level": "b2"
+    },
+    {
+        "id": 34,
+        "word": "wardrobe",
+        "translation": "gardırop",
+        "example": "Clothes are in the wardrobe.",
+        "exampleTr": "Kıyafetler gardıropta.",
+        "phonetic": "/ˈwɔːrdroʊb/",
+        "level": "b1"
+    },
+    {
+        "id": 35,
+        "word": "drawer",
+        "translation": "çekmece",
+        "example": "Look in the drawer.",
+        "exampleTr": "Çekmeceye bak.",
+        "phonetic": "/drɔːr/",
+        "level": "a2"
+    },
+    {
+        "id": 36,
+        "word": "shelf",
+        "translation": "raf",
+        "example": "Books are on the shelf.",
+        "exampleTr": "Kitaplar rafta.",
+        "phonetic": "/ʃelf/",
+        "level": "a2"
+    },
+    {
+        "id": 37,
+        "word": "carpet",
+        "translation": "halı",
+        "example": "The carpet is soft.",
+        "exampleTr": "Halı yumuşak.",
+        "phonetic": "/ˈkɑːrpɪt/",
+        "level": "a2"
+    },
+    {
+        "id": 38,
+        "word": "curtain",
+        "translation": "perde",
+        "example": "Close the curtains.",
+        "exampleTr": "Perdeleri kapat.",
+        "phonetic": "/ˈkɜːrtn/",
+        "level": "a2"
+    },
+    {
+        "id": 39,
+        "word": "lamp",
+        "translation": "lamba",
+        "example": "Turn on the lamp.",
+        "exampleTr": "Lambayı aç.",
+        "phonetic": "/læmp/",
+        "level": "a1"
+    },
+    {
+        "id": 40,
+        "word": "mirror",
+        "translation": "ayna",
+        "example": "Look in the mirror.",
+        "exampleTr": "Aynaya bak.",
+        "phonetic": "/ˈmɪrər/",
+        "level": "a2"
+    },
+    {
+        "id": 41,
+        "word": "clock",
+        "translation": "saat (duvar)",
+        "example": "The clock is on the wall.",
+        "exampleTr": "Saat duvarda.",
+        "phonetic": "/klɒk/",
+        "level": "a1"
+    },
+    {
+        "id": 42,
+        "word": "vase",
+        "translation": "vazo",
+        "example": "Put flowers in the vase.",
+        "exampleTr": "Çiçekleri vazoya koy.",
+        "phonetic": "/veɪz/",
+        "level": "a2"
+    },
+    {
+        "id": 43,
+        "word": "picture",
+        "translation": "resim",
+        "example": "I have a picture of my family.",
+        "exampleTr": "Ailemin bir resmi var.",
+        "phonetic": "/ˈpɪktʃər/",
+        "level": "b2"
+    },
+    {
+        "id": 44,
+        "word": "television",
+        "translation": "televizyon",
+        "example": "Watch television.",
+        "exampleTr": "Televizyon izle.",
+        "phonetic": "/ˈtelɪvɪʒn/",
+        "level": "c1"
+    },
+    {
+        "id": 45,
+        "word": "remote control",
+        "translation": "uzaktan kumanda",
+        "example": "Pass me the remote control.",
+        "exampleTr": "Uzaktan kumandayı ver.",
+        "phonetic": "/rɪˈmoʊt kənˈtroʊl/",
+        "level": "c1"
+    },
+    {
+        "id": 46,
+        "word": "air conditioner",
+        "translation": "klima",
+        "example": "Turn on the air conditioner.",
+        "exampleTr": "Klimayı aç.",
+        "phonetic": "/er kənˈdɪʃənər/",
+        "level": "c1"
+    },
+    {
+        "id": 47,
+        "word": "heater",
+        "translation": "ısıtıcı",
+        "example": "The heater is on.",
+        "exampleTr": "Isıtıcı açık.",
+        "phonetic": "/ˈhiːtər/",
+        "level": "b1"
+    },
+    {
+        "id": 48,
+        "word": "fan",
+        "translation": "fan / vantilatör",
+        "example": "Turn on the fan.",
+        "exampleTr": "Fanı aç.",
+        "phonetic": "/fæn/",
+        "level": "a2"
+    },
+    {
+        "id": 49,
+        "word": "sink",
+        "translation": "lavabo / evye",
+        "example": "Wash your hands in the sink.",
+        "exampleTr": "Ellerini lavaboda yıka.",
+        "phonetic": "/sɪŋk/",
+        "level": "a2"
+    },
+    {
+        "id": 50,
+        "word": "toilet",
+        "translation": "tuvalet",
+        "example": "Where is the toilet?",
+        "exampleTr": "Tuvalet nerede?",
+        "phonetic": "/ˈtɔɪlət/",
+        "level": "b1"
+    },
+    {
+        "id": 51,
+        "word": "shower",
+        "translation": "duş",
+        "example": "I take a shower every day.",
+        "exampleTr": "Her gün duş alırım.",
+        "phonetic": "/ˈʃaʊər/",
+        "level": "b1"
+    },
+    {
+        "id": 52,
+        "word": "bathtub",
+        "translation": "küvet",
+        "example": "Relax in the bathtub.",
+        "exampleTr": "Küvette rahatla.",
+        "phonetic": "/ˈbæθtʌb/",
+        "level": "b2"
+    },
+    {
+        "id": 53,
+        "word": "towel",
+        "translation": "havlu",
+        "example": "Dry yourself with a towel.",
+        "exampleTr": "Havluyla kurulan.",
+        "phonetic": "/ˈtaʊəl/",
+        "level": "a2"
+    },
+    {
+        "id": 54,
+        "word": "soap",
+        "translation": "sabun",
+        "example": "Wash with soap.",
+        "exampleTr": "Sabunla yıka.",
+        "phonetic": "/soʊp/",
+        "level": "a2"
+    },
+    {
+        "id": 55,
+        "word": "toothbrush",
+        "translation": "diş fırçası",
+        "example": "Use your toothbrush twice a day.",
+        "exampleTr": "Diş fırçanı günde iki kez kullan.",
+        "phonetic": "/ˈtuːθbrʌʃ/",
+        "level": "c1"
+    },
+    {
+        "id": 56,
+        "word": "furniture",
+        "translation": "mobilya",
+        "example": "We need new furniture.",
+        "exampleTr": "Yeni mobilyaya ihtiyacımız var.",
+        "phonetic": "/ˈfɜːrnɪtʃər/",
+        "level": "a2"
+    },
+    {
+        "id": 57,
+        "word": "rent",
+        "translation": "kira",
+        "example": "The rent is expensive.",
+        "exampleTr": "Kira pahalı.",
+        "phonetic": "/rent/",
+        "level": "a2"
+    },
+    {
+        "id": 58,
+        "word": "neighbor",
+        "translation": "komşu",
+        "example": "My neighbor is friendly.",
+        "exampleTr": "Komşum arkadaş canlısı.",
+        "phonetic": "/ˈneɪbər/",
+        "level": "a2"
+    },
+    {
+        "id": 59,
+        "word": "landlord",
+        "translation": "ev sahibi",
+        "example": "Call the landlord.",
+        "exampleTr": "Ev sahibini ara.",
+        "phonetic": "/ˈlændlɔːrd/",
+        "level": "b1"
+    },
+    {
+        "id": 60,
+        "word": "move",
+        "translation": "taşınmak",
+        "example": "We moved to a new house.",
+        "exampleTr": "Yeni bir eve taşındık.",
+        "phonetic": "/muːv/",
+        "level": "a2"
+    },
+    {
+        "id": 61,
+        "word": "appliance",
+        "translation": "ev aleti",
+        "example": "We bought new kitchen appliances.",
+        "exampleTr": "Yeni mutfak aletleri aldık.",
+        "phonetic": "/əˈplaɪəns/"
+    },
+    {
+        "id": 62,
+        "word": "attic",
+        "translation": "çatı katı",
+        "example": "Old toys are in the attic.",
+        "exampleTr": "Eski oyuncaklar çatı katında.",
+        "phonetic": "/ˈætɪk/"
+    },
+    {
+        "id": 63,
+        "word": "banister",
+        "translation": "trabzan",
+        "example": "Hold the banister going downstairs.",
+        "exampleTr": "Aşağı inerken trabzana tutun.",
+        "phonetic": "/ˈbænɪstər/"
+    },
+    {
+        "id": 64,
+        "word": "basement",
+        "translation": "bodrum",
+        "example": "The basement is flooded.",
+        "exampleTr": "Bodrum su bastı.",
+        "phonetic": "/ˈbeɪsmənt/"
+    },
+    {
+        "id": 65,
+        "word": "beam",
+        "translation": "kiriş",
+        "example": "The ceiling has wooden beams.",
+        "exampleTr": "Tavanda ahşap kirişler var.",
+        "phonetic": "/biːm/"
+    },
+    {
+        "id": 66,
+        "word": "blinds",
+        "translation": "jaluzi",
+        "example": "Close the blinds.",
+        "exampleTr": "Jaluzileri kapat.",
+        "phonetic": "/blaɪndz/"
+    },
+    {
+        "id": 67,
+        "word": "cabinet",
+        "translation": "dolap",
+        "example": "Put the dishes in the cabinet.",
+        "exampleTr": "Tabakları dolaba koy.",
+        "phonetic": "/ˈkæbɪnət/"
+    },
+    {
+        "id": 68,
+        "word": "carpet",
+        "translation": "halı",
+        "example": "The carpet is soft.",
+        "exampleTr": "Halı yumuşak.",
+        "phonetic": "/ˈkɑːrpɪt/"
+    },
+    {
+        "id": 69,
+        "word": "cellar",
+        "translation": "kiler / bodrum",
+        "example": "Wine is stored in the cellar.",
+        "exampleTr": "Şarap kilerde saklanıyor.",
+        "phonetic": "/ˈselər/"
+    },
+    {
+        "id": 70,
+        "word": "chimney",
+        "translation": "baca",
+        "example": "Smoke rises from the chimney.",
+        "exampleTr": "Bacadan duman yükseliyor.",
+        "phonetic": "/ˈtʃɪmni/"
+    },
+    {
+        "id": 71,
+        "word": "closet",
+        "translation": "dolap / gardırop",
+        "example": "Hang your clothes in the closet.",
+        "exampleTr": "Kıyafetlerini dolaba as.",
+        "phonetic": "/ˈklɒzɪt/"
+    },
+    {
+        "id": 72,
+        "word": "corridor",
+        "translation": "koridor",
+        "example": "Walk down the corridor.",
+        "exampleTr": "Koridorda yürü.",
+        "phonetic": "/ˈkɒrɪdɔːr/"
+    },
+    {
+        "id": 73,
+        "word": "cushion",
+        "translation": "yastık / minder",
+        "example": "Sit on the cushion.",
+        "exampleTr": "Minderin üstüne otur.",
+        "phonetic": "/ˈkʊʃn/"
+    },
+    {
+        "id": 74,
+        "word": "doorbell",
+        "translation": "kapı zili",
+        "example": "The doorbell rang.",
+        "exampleTr": "Kapı zili çaldı.",
+        "phonetic": "/ˈdɔːrbel/"
+    },
+    {
+        "id": 75,
+        "word": "drain",
+        "translation": "tahliye / gider",
+        "example": "The drain is blocked.",
+        "exampleTr": "Gider tıkanmış.",
+        "phonetic": "/dreɪn/"
+    },
+    {
+        "id": 76,
+        "word": "drawer",
+        "translation": "çekmece",
+        "example": "Put it in the drawer.",
+        "exampleTr": "Çekmeceye koy.",
+        "phonetic": "/drɔːr/"
+    },
+    {
+        "id": 77,
+        "word": "driveway",
+        "translation": "araba yolu",
+        "example": "Park in the driveway.",
+        "exampleTr": "Araba yoluna park et.",
+        "phonetic": "/ˈdraɪvweɪ/"
+    },
+    {
+        "id": 78,
+        "word": "faucet",
+        "translation": "musluk",
+        "example": "Turn off the faucet.",
+        "exampleTr": "Musluğu kapat.",
+        "phonetic": "/ˈfɔːsɪt/"
+    },
+    {
+        "id": 79,
+        "word": "fence",
+        "translation": "çit",
+        "example": "Paint the fence white.",
+        "exampleTr": "Çiti beyaza boya.",
+        "phonetic": "/fens/"
+    },
+    {
+        "id": 80,
+        "word": "fireplace",
+        "translation": "şömine",
+        "example": "We sat by the fireplace.",
+        "exampleTr": "Şöminenin yanına oturduk.",
+        "phonetic": "/ˈfaɪərpleɪs/"
+    },
+    {
+        "id": 81,
+        "word": "floorboard",
+        "translation": "döşeme tahtası",
+        "example": "The floorboards creak.",
+        "exampleTr": "Döşeme tahtaları gıcırdıyor.",
+        "phonetic": "/ˈflɔːrbɔːrd/"
+    },
+    {
+        "id": 82,
+        "word": "furnish",
+        "translation": "döşemek / mobilya",
+        "example": "We furnished the apartment.",
+        "exampleTr": "Daireyi döşedik.",
+        "phonetic": "/ˈfɜːrnɪʃ/"
+    },
+    {
+        "id": 83,
+        "word": "gutter",
+        "translation": "oluk",
+        "example": "Clean the gutters.",
+        "exampleTr": "Olukları temizle.",
+        "phonetic": "/ˈɡʌtər/"
+    },
+    {
+        "id": 84,
+        "word": "hallway",
+        "translation": "hol / antre",
+        "example": "Leave your shoes in the hallway.",
+        "exampleTr": "Ayakkabılarını holde bırak.",
+        "phonetic": "/ˈhɔːlweɪ/"
+    },
+    {
+        "id": 85,
+        "word": "insulation",
+        "translation": "yalıtım",
+        "example": "Good insulation saves energy.",
+        "exampleTr": "İyi yalıtım enerji tasarrufu sağlar.",
+        "phonetic": "/ˌɪnsəˈleɪʃn/"
+    },
+    {
+        "id": 86,
+        "word": "landlord",
+        "translation": "ev sahibi",
+        "example": "The landlord raised the rent.",
+        "exampleTr": "Ev sahibi kirayı artırdı.",
+        "phonetic": "/ˈlændlɔːrd/"
+    },
+    {
+        "id": 87,
+        "word": "lease",
+        "translation": "kira sözleşmesi",
+        "example": "Sign the lease agreement.",
+        "exampleTr": "Kira sözleşmesini imzala.",
+        "phonetic": "/liːs/"
+    },
+    {
+        "id": 88,
+        "word": "mantelpiece",
+        "translation": "şömine rafı",
+        "example": "Photos are on the mantelpiece.",
+        "exampleTr": "Fotoğraflar şömine rafında.",
+        "phonetic": "/ˈmæntlpiːs/"
+    },
+    {
+        "id": 89,
+        "word": "mortgage",
+        "translation": "ipotek",
+        "example": "We got a mortgage.",
+        "exampleTr": "İpotek aldık.",
+        "phonetic": "/ˈmɔːrɡɪdʒ/"
+    },
+    {
+        "id": 90,
+        "word": "pantry",
+        "translation": "kiler",
+        "example": "Food is stored in the pantry.",
+        "exampleTr": "Yiyecekler kilerde saklanıyor.",
+        "phonetic": "/ˈpæntri/"
+    },
+    {
+        "id": 91,
+        "word": "patio",
+        "translation": "veranda / teras",
+        "example": "We had dinner on the patio.",
+        "exampleTr": "Verandada akşam yemeği yedik.",
+        "phonetic": "/ˈpætioʊ/"
+    },
+    {
+        "id": 92,
+        "word": "plumbing",
+        "translation": "tesisat",
+        "example": "The plumbing needs repair.",
+        "exampleTr": "Tesisat tamir gerektiriyor.",
+        "phonetic": "/ˈplʌmɪŋ/"
+    },
+    {
+        "id": 93,
+        "word": "porch",
+        "translation": "veranda / sundurma",
+        "example": "Sit on the front porch.",
+        "exampleTr": "Ön verandada otur.",
+        "phonetic": "/pɔːrtʃ/"
+    },
+    {
+        "id": 94,
+        "word": "radiator",
+        "translation": "radyatör",
+        "example": "Turn on the radiator.",
+        "exampleTr": "Radyatörü aç.",
+        "phonetic": "/ˈreɪdieɪtər/"
+    },
+    {
+        "id": 95,
+        "word": "renovate",
+        "translation": "yenilemek",
+        "example": "We renovated the kitchen.",
+        "exampleTr": "Mutfağı yeniledik.",
+        "phonetic": "/ˈrenəveɪt/"
+    },
+    {
+        "id": 96,
+        "word": "shutter",
+        "translation": "kepenk / panjur",
+        "example": "Close the shutters.",
+        "exampleTr": "Kepenkleri kapat.",
+        "phonetic": "/ˈʃʌtər/"
+    },
+    {
+        "id": 97,
+        "word": "staircase",
+        "translation": "merdiven",
+        "example": "The staircase is spiral.",
+        "exampleTr": "Merdiven sarmal.",
+        "phonetic": "/ˈsterkeɪs/"
+    },
+    {
+        "id": 98,
+        "word": "tenant",
+        "translation": "kiracı",
+        "example": "The tenant pays monthly.",
+        "exampleTr": "Kiracı aylık öder.",
+        "phonetic": "/ˈtenənt/"
+    },
+    {
+        "id": 99,
+        "word": "threshold",
+        "translation": "eşik",
+        "example": "Step over the threshold.",
+        "exampleTr": "Eşikten geç.",
+        "phonetic": "/ˈθreʃhoʊld/"
+    },
+    {
+        "id": 100,
+        "word": "ventilation",
+        "translation": "havalandırma",
+        "example": "Good ventilation is important.",
+        "exampleTr": "İyi havalandırma önemli.",
+        "phonetic": "/ˌventɪˈleɪʃn/"
+    }
+]

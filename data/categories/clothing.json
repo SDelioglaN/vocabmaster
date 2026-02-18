@@ -1,0 +1,852 @@
+[
+    {
+        "id": 1,
+        "word": "clothes",
+        "translation": "kıyafetler",
+        "example": "I need new clothes.",
+        "exampleTr": "Yeni kıyafetlere ihtiyacım var.",
+        "phonetic": "/kloʊðz/",
+        "level": "a1"
+    },
+    {
+        "id": 2,
+        "word": "shirt",
+        "translation": "gömlek",
+        "example": "Wear a shirt.",
+        "exampleTr": "Gömlek giy.",
+        "phonetic": "/ʃɜːrt/",
+        "level": "a1"
+    },
+    {
+        "id": 3,
+        "word": "t-shirt",
+        "translation": "tişört",
+        "example": "I like this t-shirt.",
+        "exampleTr": "Bu tişörtü beğendim.",
+        "phonetic": "/ˈtiːʃɜːrt/",
+        "level": "b2"
+    },
+    {
+        "id": 4,
+        "word": "pants",
+        "translation": "pantolon",
+        "example": "I need new pants.",
+        "exampleTr": "Yeni pantolona ihtiyacım var.",
+        "phonetic": "/pænts/",
+        "level": "b1"
+    },
+    {
+        "id": 5,
+        "word": "jeans",
+        "translation": "kot pantolon",
+        "example": "I wear jeans.",
+        "exampleTr": "Kot pantolon giyerim.",
+        "phonetic": "/dʒiːnz/",
+        "level": "a2"
+    },
+    {
+        "id": 6,
+        "word": "shorts",
+        "translation": "şort",
+        "example": "Wear shorts in summer.",
+        "exampleTr": "Yazın şort giy.",
+        "phonetic": "/ʃɔːrts/",
+        "level": "b1"
+    },
+    {
+        "id": 7,
+        "word": "skirt",
+        "translation": "etek",
+        "example": "She wears a skirt.",
+        "exampleTr": "Etek giyiyor.",
+        "phonetic": "/skɜːrt/",
+        "level": "b1"
+    },
+    {
+        "id": 8,
+        "word": "dress",
+        "translation": "elbise",
+        "example": "The dress is beautiful.",
+        "exampleTr": "Elbise güzel.",
+        "phonetic": "/dres/",
+        "level": "a1"
+    },
+    {
+        "id": 9,
+        "word": "suit",
+        "translation": "takım elbise",
+        "example": "Wear a suit to work.",
+        "exampleTr": "İşe takım elbise giy.",
+        "phonetic": "/suːt/",
+        "level": "a2"
+    },
+    {
+        "id": 10,
+        "word": "jacket",
+        "translation": "ceket",
+        "example": "Put on your jacket.",
+        "exampleTr": "Ceketini giy.",
+        "phonetic": "/ˈdʒækɪt/",
+        "level": "a2"
+    },
+    {
+        "id": 11,
+        "word": "coat",
+        "translation": "palto",
+        "example": "Wear a coat in winter.",
+        "exampleTr": "Kışın palto giy.",
+        "phonetic": "/koʊt/",
+        "level": "a1"
+    },
+    {
+        "id": 12,
+        "word": "sweater",
+        "translation": "kazak",
+        "example": "The sweater is warm.",
+        "exampleTr": "Kazak sıcak.",
+        "phonetic": "/ˈswetər/",
+        "level": "b2"
+    },
+    {
+        "id": 13,
+        "word": "hoodie",
+        "translation": "kapüşonlu",
+        "example": "I love my hoodie.",
+        "exampleTr": "Kapüşonlumu seviyorum.",
+        "phonetic": "/ˈhʊdi/",
+        "level": "b1"
+    },
+    {
+        "id": 14,
+        "word": "blouse",
+        "translation": "bluz",
+        "example": "She wears a blouse.",
+        "exampleTr": "Bluz giyiyor.",
+        "phonetic": "/blaʊz/",
+        "level": "b1"
+    },
+    {
+        "id": 15,
+        "word": "underwear",
+        "translation": "iç çamaşırı",
+        "example": "Change your underwear daily.",
+        "exampleTr": "İç çamaşırını her gün değiştir.",
+        "phonetic": "/ˈʌndərwer/",
+        "level": "a2"
+    },
+    {
+        "id": 16,
+        "word": "socks",
+        "translation": "çorap",
+        "example": "Wear clean socks.",
+        "exampleTr": "Temiz çorap giy.",
+        "phonetic": "/sɒks/",
+        "level": "a2"
+    },
+    {
+        "id": 17,
+        "word": "shoes",
+        "translation": "ayakkabı",
+        "example": "I bought new shoes.",
+        "exampleTr": "Yeni ayakkabı aldım.",
+        "phonetic": "/ʃuːz/",
+        "level": "b1"
+    },
+    {
+        "id": 18,
+        "word": "boots",
+        "translation": "bot",
+        "example": "Wear boots in rain.",
+        "exampleTr": "Yağmurda bot giy.",
+        "phonetic": "/buːts/",
+        "level": "a2"
+    },
+    {
+        "id": 19,
+        "word": "sneakers",
+        "translation": "spor ayakkabı",
+        "example": "I wear sneakers.",
+        "exampleTr": "Spor ayakkabı giyerim.",
+        "phonetic": "/ˈsniːkərz/",
+        "level": "b2"
+    },
+    {
+        "id": 20,
+        "word": "sandals",
+        "translation": "sandalet",
+        "example": "Wear sandals in summer.",
+        "exampleTr": "Yazın sandalet giy.",
+        "phonetic": "/ˈsændlz/",
+        "level": "b2"
+    },
+    {
+        "id": 21,
+        "word": "heels",
+        "translation": "topuklu ayakkabı",
+        "example": "She wears high heels.",
+        "exampleTr": "Yüksek topuklu giyiyor.",
+        "phonetic": "/hiːlz/",
+        "level": "b1"
+    },
+    {
+        "id": 22,
+        "word": "slippers",
+        "translation": "terlik",
+        "example": "Put on your slippers.",
+        "exampleTr": "Terliklerini giy.",
+        "phonetic": "/ˈslɪpərz/",
+        "level": "b2"
+    },
+    {
+        "id": 23,
+        "word": "hat",
+        "translation": "şapka",
+        "example": "Wear a hat.",
+        "exampleTr": "Şapka tak.",
+        "phonetic": "/hæt/",
+        "level": "a1"
+    },
+    {
+        "id": 24,
+        "word": "cap",
+        "translation": "kep",
+        "example": "I wear a cap.",
+        "exampleTr": "Kep takarım.",
+        "phonetic": "/kæp/",
+        "level": "a2"
+    },
+    {
+        "id": 25,
+        "word": "scarf",
+        "translation": "atkı / eşarp",
+        "example": "Wear a scarf in winter.",
+        "exampleTr": "Kışın atkı tak.",
+        "phonetic": "/skɑːrf/",
+        "level": "a2"
+    },
+    {
+        "id": 26,
+        "word": "gloves",
+        "translation": "eldiven",
+        "example": "Wear gloves.",
+        "exampleTr": "Eldiven giy.",
+        "phonetic": "/ɡlʌvz/",
+        "level": "a2"
+    },
+    {
+        "id": 27,
+        "word": "tie",
+        "translation": "kravat",
+        "example": "Wear a tie.",
+        "exampleTr": "Kravat tak.",
+        "phonetic": "/taɪ/",
+        "level": "a2"
+    },
+    {
+        "id": 28,
+        "word": "belt",
+        "translation": "kemer",
+        "example": "Wear a belt.",
+        "exampleTr": "Kemer tak.",
+        "phonetic": "/belt/",
+        "level": "a2"
+    },
+    {
+        "id": 29,
+        "word": "watch",
+        "translation": "kol saati",
+        "example": "I wear a watch.",
+        "exampleTr": "Saat takarım.",
+        "phonetic": "/wɒtʃ/",
+        "level": "a1"
+    },
+    {
+        "id": 30,
+        "word": "glasses",
+        "translation": "gözlük",
+        "example": "I wear glasses.",
+        "exampleTr": "Gözlük takıyorum.",
+        "phonetic": "/ˈɡlæsɪz/",
+        "level": "b2"
+    },
+    {
+        "id": 31,
+        "word": "sunglasses",
+        "translation": "güneş gözlüğü",
+        "example": "Wear sunglasses.",
+        "exampleTr": "Güneş gözlüğü tak.",
+        "phonetic": "/ˈsʌnɡlæsɪz/",
+        "level": "c1"
+    },
+    {
+        "id": 32,
+        "word": "jewelry",
+        "translation": "mücevher",
+        "example": "She loves jewelry.",
+        "exampleTr": "Mücevher seviyor.",
+        "phonetic": "/ˈdʒuːəlri/",
+        "level": "b2"
+    },
+    {
+        "id": 33,
+        "word": "necklace",
+        "translation": "kolye",
+        "example": "Beautiful necklace!",
+        "exampleTr": "Güzel kolye!",
+        "phonetic": "/ˈnekləs/",
+        "level": "b2"
+    },
+    {
+        "id": 34,
+        "word": "earrings",
+        "translation": "küpe",
+        "example": "I bought earrings.",
+        "exampleTr": "Küpe aldım.",
+        "phonetic": "/ˈɪrɪŋz/",
+        "level": "b2"
+    },
+    {
+        "id": 35,
+        "word": "ring",
+        "translation": "yüzük",
+        "example": "She wears a ring.",
+        "exampleTr": "Yüzük takıyor.",
+        "phonetic": "/rɪŋ/",
+        "level": "a2"
+    },
+    {
+        "id": 36,
+        "word": "bracelet",
+        "translation": "bilezik",
+        "example": "A gold bracelet.",
+        "exampleTr": "Altın bir bilezik.",
+        "phonetic": "/ˈbreɪslət/",
+        "level": "b2"
+    },
+    {
+        "id": 37,
+        "word": "bag",
+        "translation": "çanta",
+        "example": "I bought a bag.",
+        "exampleTr": "Çanta aldım.",
+        "phonetic": "/bæɡ/",
+        "level": "a1"
+    },
+    {
+        "id": 38,
+        "word": "purse",
+        "translation": "el çantası",
+        "example": "She carries a purse.",
+        "exampleTr": "El çantası taşıyor.",
+        "phonetic": "/pɜːrs/",
+        "level": "b1"
+    },
+    {
+        "id": 39,
+        "word": "backpack",
+        "translation": "sırt çantası",
+        "example": "I use a backpack.",
+        "exampleTr": "Sırt çantası kullanıyorum.",
+        "phonetic": "/ˈbækpæk/",
+        "level": "b2"
+    },
+    {
+        "id": 40,
+        "word": "wallet",
+        "translation": "cüzdan",
+        "example": "My wallet is lost.",
+        "exampleTr": "Cüzdanım kayboldu.",
+        "phonetic": "/ˈwɒlɪt/",
+        "level": "b1"
+    },
+    {
+        "id": 41,
+        "word": "pocket",
+        "translation": "cep",
+        "example": "Put it in your pocket.",
+        "exampleTr": "Cebine koy.",
+        "phonetic": "/ˈpɒkɪt/",
+        "level": "a1"
+    },
+    {
+        "id": 42,
+        "word": "zipper",
+        "translation": "fermuar",
+        "example": "The zipper is stuck.",
+        "exampleTr": "Fermuar takıldı.",
+        "phonetic": "/ˈzɪpər/",
+        "level": "b1"
+    },
+    {
+        "id": 43,
+        "word": "button",
+        "translation": "düğme",
+        "example": "The button fell off.",
+        "exampleTr": "Düğme düştü.",
+        "phonetic": "/ˈbʌtn/",
+        "level": "b1"
+    },
+    {
+        "id": 44,
+        "word": "size",
+        "translation": "beden",
+        "example": "What size are you?",
+        "exampleTr": "Bedenin ne?",
+        "phonetic": "/saɪz/",
+        "level": "a2"
+    },
+    {
+        "id": 45,
+        "word": "fit",
+        "translation": "uymak",
+        "example": "Does it fit?",
+        "exampleTr": "Uyuyor mu?",
+        "phonetic": "/fɪt/",
+        "level": "a2"
+    },
+    {
+        "id": 46,
+        "word": "tight",
+        "translation": "dar",
+        "example": "It's too tight.",
+        "exampleTr": "Çok dar.",
+        "phonetic": "/taɪt/",
+        "level": "b1"
+    },
+    {
+        "id": 47,
+        "word": "loose",
+        "translation": "bol",
+        "example": "It's too loose.",
+        "exampleTr": "Çok bol.",
+        "phonetic": "/luːs/",
+        "level": "b1"
+    },
+    {
+        "id": 48,
+        "word": "fashion",
+        "translation": "moda",
+        "example": "I follow fashion.",
+        "exampleTr": "Modayı takip ederim.",
+        "phonetic": "/ˈfæʃn/",
+        "level": "a2"
+    },
+    {
+        "id": 49,
+        "word": "style",
+        "translation": "stil",
+        "example": "I like your style.",
+        "exampleTr": "Stilini beğendim.",
+        "phonetic": "/staɪl/",
+        "level": "b1"
+    },
+    {
+        "id": 50,
+        "word": "trendy",
+        "translation": "modaya uygun",
+        "example": "That's very trendy.",
+        "exampleTr": "Çok moda.",
+        "phonetic": "/ˈtrendi/",
+        "level": "b1"
+    },
+    {
+        "id": 51,
+        "word": "accessory",
+        "translation": "aksesuar",
+        "example": "She loves fashion accessories.",
+        "exampleTr": "Moda aksesuarlarını çok sever.",
+        "phonetic": "/əkˈsesəri/"
+    },
+    {
+        "id": 52,
+        "word": "apron",
+        "translation": "önlük",
+        "example": "Wear an apron while cooking.",
+        "exampleTr": "Yemek yaparken önlük giy.",
+        "phonetic": "/ˈeɪprən/"
+    },
+    {
+        "id": 53,
+        "word": "bathrobe",
+        "translation": "bornoz",
+        "example": "He put on a bathrobe after the shower.",
+        "exampleTr": "Duştan sonra bornoz giydi.",
+        "phonetic": "/ˈbæθroʊb/"
+    },
+    {
+        "id": 54,
+        "word": "blazer",
+        "translation": "blazer ceket",
+        "example": "He wore a navy blazer.",
+        "exampleTr": "Lacivert bir blazer giydi.",
+        "phonetic": "/ˈbleɪzər/"
+    },
+    {
+        "id": 55,
+        "word": "bracelet",
+        "translation": "bilezik",
+        "example": "She wore a gold bracelet.",
+        "exampleTr": "Altın bir bilezik taktı.",
+        "phonetic": "/ˈbreɪslɪt/"
+    },
+    {
+        "id": 56,
+        "word": "buckle",
+        "translation": "toka",
+        "example": "The belt buckle was silver.",
+        "exampleTr": "Kemer tokası gümüştü.",
+        "phonetic": "/ˈbʌkl/"
+    },
+    {
+        "id": 57,
+        "word": "cardigan",
+        "translation": "hırka",
+        "example": "She put on a warm cardigan.",
+        "exampleTr": "Sıcak bir hırka giydi.",
+        "phonetic": "/ˈkɑːrdɪɡən/"
+    },
+    {
+        "id": 58,
+        "word": "casual",
+        "translation": "günlük / rahat",
+        "example": "The dress code is casual.",
+        "exampleTr": "Kıyafet kuralı günlük.",
+        "phonetic": "/ˈkæʒuəl/"
+    },
+    {
+        "id": 59,
+        "word": "collar",
+        "translation": "yaka",
+        "example": "The collar of his shirt was dirty.",
+        "exampleTr": "Gömleğinin yakası kirliydi.",
+        "phonetic": "/ˈkɒlər/"
+    },
+    {
+        "id": 60,
+        "word": "corduroy",
+        "translation": "fitilli kadife",
+        "example": "He wore corduroy pants.",
+        "exampleTr": "Kadife pantolon giydi.",
+        "phonetic": "/ˈkɔːrdərɔɪ/"
+    },
+    {
+        "id": 61,
+        "word": "costume",
+        "translation": "kostüm",
+        "example": "She wore a beautiful costume.",
+        "exampleTr": "Güzel bir kostüm giydi.",
+        "phonetic": "/ˈkɒstjuːm/"
+    },
+    {
+        "id": 62,
+        "word": "cuff",
+        "translation": "manşet",
+        "example": "The cuffs were too long.",
+        "exampleTr": "Manşetler çok uzundu.",
+        "phonetic": "/kʌf/"
+    },
+    {
+        "id": 63,
+        "word": "denim",
+        "translation": "kot kumaş",
+        "example": "Denim jackets are popular.",
+        "exampleTr": "Kot ceketler popüler.",
+        "phonetic": "/ˈdenɪm/"
+    },
+    {
+        "id": 64,
+        "word": "embroidery",
+        "translation": "nakış",
+        "example": "The dress had beautiful embroidery.",
+        "exampleTr": "Elbisenin güzel nakışı vardı.",
+        "phonetic": "/ɪmˈbrɔɪdəri/"
+    },
+    {
+        "id": 65,
+        "word": "fabric",
+        "translation": "kumaş",
+        "example": "This fabric is very soft.",
+        "exampleTr": "Bu kumaş çok yumuşak.",
+        "phonetic": "/ˈfæbrɪk/"
+    },
+    {
+        "id": 66,
+        "word": "fade",
+        "translation": "solmak",
+        "example": "The color faded after washing.",
+        "exampleTr": "Yıkamadan sonra renk soldu.",
+        "phonetic": "/feɪd/"
+    },
+    {
+        "id": 67,
+        "word": "fitting",
+        "translation": "prova",
+        "example": "The fitting room is over there.",
+        "exampleTr": "Soyunma odası orada.",
+        "phonetic": "/ˈfɪtɪŋ/"
+    },
+    {
+        "id": 68,
+        "word": "flannel",
+        "translation": "pazen",
+        "example": "He wore a flannel shirt.",
+        "exampleTr": "Pazen gömlek giydi.",
+        "phonetic": "/ˈflænl/"
+    },
+    {
+        "id": 69,
+        "word": "garment",
+        "translation": "giysi",
+        "example": "This garment needs dry cleaning.",
+        "exampleTr": "Bu giysi kuru temizleme gerektirir.",
+        "phonetic": "/ˈɡɑːrmənt/"
+    },
+    {
+        "id": 70,
+        "word": "heel",
+        "translation": "topuk",
+        "example": "She wore high heels.",
+        "exampleTr": "Yüksek topuklu giydi.",
+        "phonetic": "/hiːl/"
+    },
+    {
+        "id": 71,
+        "word": "hem",
+        "translation": "etek ucu",
+        "example": "The hem of the dress was torn.",
+        "exampleTr": "Elbisenin etek ucu yırtıktı.",
+        "phonetic": "/hem/"
+    },
+    {
+        "id": 72,
+        "word": "hood",
+        "translation": "kapüşon",
+        "example": "Put your hood up, it's raining.",
+        "exampleTr": "Kapüşonunu kaldır, yağmur yağıyor.",
+        "phonetic": "/hʊd/"
+    },
+    {
+        "id": 73,
+        "word": "jersey",
+        "translation": "forma",
+        "example": "He wore his team jersey.",
+        "exampleTr": "Takım formasını giydi.",
+        "phonetic": "/ˈdʒɜːrzi/"
+    },
+    {
+        "id": 74,
+        "word": "knit",
+        "translation": "örmek",
+        "example": "My grandmother knits sweaters.",
+        "exampleTr": "Büyükannem kazak örer.",
+        "phonetic": "/nɪt/"
+    },
+    {
+        "id": 75,
+        "word": "lace",
+        "translation": "dantel",
+        "example": "The dress had lace details.",
+        "exampleTr": "Elbisenin dantel detayları vardı.",
+        "phonetic": "/leɪs/"
+    },
+    {
+        "id": 76,
+        "word": "leather",
+        "translation": "deri",
+        "example": "He bought a leather wallet.",
+        "exampleTr": "Deri bir cüzdan aldı.",
+        "phonetic": "/ˈleðər/"
+    },
+    {
+        "id": 77,
+        "word": "linen",
+        "translation": "keten",
+        "example": "Linen clothes are great for summer.",
+        "exampleTr": "Keten kıyafetler yaz için harika.",
+        "phonetic": "/ˈlɪnɪn/"
+    },
+    {
+        "id": 78,
+        "word": "loafer",
+        "translation": "makosen ayakkabı",
+        "example": "He prefers wearing loafers.",
+        "exampleTr": "Makosen ayakkabı giymeyi tercih eder.",
+        "phonetic": "/ˈloʊfər/"
+    },
+    {
+        "id": 79,
+        "word": "necklace",
+        "translation": "kolye",
+        "example": "She wore a pearl necklace.",
+        "exampleTr": "İnci kolye taktı.",
+        "phonetic": "/ˈnekləs/"
+    },
+    {
+        "id": 80,
+        "word": "outfit",
+        "translation": "kıyafet kombinasyonu",
+        "example": "That's a nice outfit!",
+        "exampleTr": "Güzel bir kıyafet!",
+        "phonetic": "/ˈaʊtfɪt/"
+    },
+    {
+        "id": 81,
+        "word": "overcoat",
+        "translation": "palto",
+        "example": "Wear an overcoat, it's cold.",
+        "exampleTr": "Palto giy, hava soğuk.",
+        "phonetic": "/ˈoʊvərkoʊt/"
+    },
+    {
+        "id": 82,
+        "word": "pajamas",
+        "translation": "pijama",
+        "example": "I need new pajamas.",
+        "exampleTr": "Yeni pijamaya ihtiyacım var.",
+        "phonetic": "/pəˈdʒæməz/"
+    },
+    {
+        "id": 83,
+        "word": "pattern",
+        "translation": "desen",
+        "example": "I like the pattern on this shirt.",
+        "exampleTr": "Bu gömlekteki deseni beğendim.",
+        "phonetic": "/ˈpætərn/"
+    },
+    {
+        "id": 84,
+        "word": "plaid",
+        "translation": "ekose",
+        "example": "She wore a plaid skirt.",
+        "exampleTr": "Ekose etek giydi.",
+        "phonetic": "/plæd/"
+    },
+    {
+        "id": 85,
+        "word": "pocket",
+        "translation": "cep",
+        "example": "Put your hands in your pockets.",
+        "exampleTr": "Ellerini ceplerine koy.",
+        "phonetic": "/ˈpɒkɪt/"
+    },
+    {
+        "id": 86,
+        "word": "raincoat",
+        "translation": "yağmurluk",
+        "example": "Don't forget your raincoat.",
+        "exampleTr": "Yağmurluğunu unutma.",
+        "phonetic": "/ˈreɪnkoʊt/"
+    },
+    {
+        "id": 87,
+        "word": "sandal",
+        "translation": "sandalet",
+        "example": "She wore sandals to the beach.",
+        "exampleTr": "Plaja sandalet giydi.",
+        "phonetic": "/ˈsændl/"
+    },
+    {
+        "id": 88,
+        "word": "sew",
+        "translation": "dikmek",
+        "example": "Can you sew a button?",
+        "exampleTr": "Düğme dikebilir misin?",
+        "phonetic": "/soʊ/"
+    },
+    {
+        "id": 89,
+        "word": "sleeve",
+        "translation": "kol / yen",
+        "example": "Roll up your sleeves.",
+        "exampleTr": "Kollarını sıva.",
+        "phonetic": "/sliːv/"
+    },
+    {
+        "id": 90,
+        "word": "sneaker",
+        "translation": "spor ayakkabı",
+        "example": "I bought new sneakers.",
+        "exampleTr": "Yeni spor ayakkabı aldım.",
+        "phonetic": "/ˈsniːkər/"
+    },
+    {
+        "id": 91,
+        "word": "stain",
+        "translation": "leke",
+        "example": "There's a stain on your shirt.",
+        "exampleTr": "Gömleğinde bir leke var.",
+        "phonetic": "/steɪn/"
+    },
+    {
+        "id": 92,
+        "word": "stripe",
+        "translation": "çizgi",
+        "example": "He wore a striped tie.",
+        "exampleTr": "Çizgili kravat taktı.",
+        "phonetic": "/straɪp/"
+    },
+    {
+        "id": 93,
+        "word": "suede",
+        "translation": "süet",
+        "example": "She has suede boots.",
+        "exampleTr": "Süet çizmeleri var.",
+        "phonetic": "/sweɪd/"
+    },
+    {
+        "id": 94,
+        "word": "tailor",
+        "translation": "terzi",
+        "example": "The tailor altered the suit.",
+        "exampleTr": "Terzi takım elbiseyi düzeltti.",
+        "phonetic": "/ˈteɪlər/"
+    },
+    {
+        "id": 95,
+        "word": "trend",
+        "translation": "trend / moda akımı",
+        "example": "Oversized clothes are a trend.",
+        "exampleTr": "Büyük beden kıyafetler bir trend.",
+        "phonetic": "/trend/"
+    },
+    {
+        "id": 96,
+        "word": "tuxedo",
+        "translation": "smokin",
+        "example": "He rented a tuxedo for the party.",
+        "exampleTr": "Parti için smokin kiraladı.",
+        "phonetic": "/tʌkˈsiːdoʊ/"
+    },
+    {
+        "id": 97,
+        "word": "velvet",
+        "translation": "kadife",
+        "example": "She wore a velvet dress.",
+        "exampleTr": "Kadife elbise giydi.",
+        "phonetic": "/ˈvelvɪt/"
+    },
+    {
+        "id": 98,
+        "word": "wardrobe",
+        "translation": "gardırop",
+        "example": "She has a large wardrobe.",
+        "exampleTr": "Büyük bir gardırobu var.",
+        "phonetic": "/ˈwɔːrdroʊb/"
+    },
+    {
+        "id": 99,
+        "word": "wrinkle",
+        "translation": "kırışık / buruşuk",
+        "example": "Iron the wrinkles out of your shirt.",
+        "exampleTr": "Gömleğindeki kırışıkları ütüle.",
+        "phonetic": "/ˈrɪŋkl/"
+    },
+    {
+        "id": 100,
+        "word": "zipper",
+        "translation": "fermuar",
+        "example": "The zipper is stuck.",
+        "exampleTr": "Fermuar sıkıştı.",
+        "phonetic": "/ˈzɪpər/"
+    }
+]

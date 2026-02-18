@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1,
+        "word": "abstract",
+        "translation": "soyut",
+        "example": "An abstract painting.",
+        "exampleTr": "Soyut bir tablo.",
+        "phonetic": "/ˈæbstrækt/"
+    },
+    {
+        "id": 2,
+        "word": "aesthetic",
+        "translation": "estetik",
+        "example": "The aesthetic is modern.",
+        "exampleTr": "Estetik modern.",
+        "phonetic": "/esˈθetɪk/"
+    },
+    {
+        "id": 3,
+        "word": "architecture",
+        "translation": "mimari",
+        "example": "Gothic architecture is stunning.",
+        "exampleTr": "Gotik mimari etkileyici.",
+        "phonetic": "/ˈɑːrkɪtektʃər/"
+    },
+    {
+        "id": 4,
+        "word": "artifact",
+        "translation": "eser / yapıt",
+        "example": "Ancient artifacts were found.",
+        "exampleTr": "Antik eserler bulundu.",
+        "phonetic": "/ˈɑːrtɪfækt/"
+    },
+    {
+        "id": 5,
+        "word": "artisan",
+        "translation": "zanaatkar",
+        "example": "Local artisans sell handmade goods.",
+        "exampleTr": "Yerel zanaatkarlar el yapımı ürün satar.",
+        "phonetic": "/ˈɑːrtɪzən/"
+    },
+    {
+        "id": 6,
+        "word": "auditorium",
+        "translation": "oditoryum / salon",
+        "example": "The concert is in the auditorium.",
+        "exampleTr": "Konser oditoryumda.",
+        "phonetic": "/ˌɔːdɪˈtɔːriəm/"
+    },
+    {
+        "id": 7,
+        "word": "ballet",
+        "translation": "bale",
+        "example": "She dances ballet.",
+        "exampleTr": "Bale yapıyor.",
+        "phonetic": "/bæˈleɪ/"
+    },
+    {
+        "id": 8,
+        "word": "baroque",
+        "translation": "barok",
+        "example": "Baroque music is ornate.",
+        "exampleTr": "Barok müzik süslüdür.",
+        "phonetic": "/bəˈroʊk/"
+    },
+    {
+        "id": 9,
+        "word": "bronze",
+        "translation": "bronz",
+        "example": "A bronze statue.",
+        "exampleTr": "Bronz bir heykel.",
+        "phonetic": "/brɒnz/"
+    },
+    {
+        "id": 10,
+        "word": "brush",
+        "translation": "fırça",
+        "example": "She cleaned her brushes.",
+        "exampleTr": "Fırçalarını temizledi.",
+        "phonetic": "/brʌʃ/"
+    },
+    {
+        "id": 11,
+        "word": "canvas",
+        "translation": "tuval",
+        "example": "Paint on a canvas.",
+        "exampleTr": "Tuval üzerine boya.",
+        "phonetic": "/ˈkænvəs/"
+    },
+    {
+        "id": 12,
+        "word": "caricature",
+        "translation": "karikatür",
+        "example": "He drew a caricature.",
+        "exampleTr": "Bir karikatür çizdi.",
+        "phonetic": "/ˈkærɪkətʃʊr/"
+    },
+    {
+        "id": 13,
+        "word": "carve",
+        "translation": "oymak / yontmak",
+        "example": "Carve a sculpture from wood.",
+        "exampleTr": "Ahşaptan heykel yont.",
+        "phonetic": "/kɑːrv/"
+    },
+    {
+        "id": 14,
+        "word": "ceramics",
+        "translation": "seramik",
+        "example": "She studies ceramics.",
+        "exampleTr": "Seramik çalışıyor.",
+        "phonetic": "/sɪˈræmɪks/"
+    },
+    {
+        "id": 15,
+        "word": "choreography",
+        "translation": "koreografi",
+        "example": "The choreography was amazing.",
+        "exampleTr": "Koreografi harikaydı.",
+        "phonetic": "/ˌkɒriˈɒɡrəfi/"
+    },
+    {
+        "id": 16,
+        "word": "cinema",
+        "translation": "sinema",
+        "example": "Turkish cinema is growing.",
+        "exampleTr": "Türk sineması büyüyor.",
+        "phonetic": "/ˈsɪnəmə/"
+    },
+    {
+        "id": 17,
+        "word": "classical",
+        "translation": "klasik",
+        "example": "Classical music is timeless.",
+        "exampleTr": "Klasik müzik zamansız.",
+        "phonetic": "/ˈklæsɪkl/"
+    },
+    {
+        "id": 18,
+        "word": "collage",
+        "translation": "kolaj",
+        "example": "Make a photo collage.",
+        "exampleTr": "Fotoğraf kolajı yap.",
+        "phonetic": "/kəˈlɑːʒ/"
+    },
+    {
+        "id": 19,
+        "word": "collection",
+        "translation": "koleksiyon",
+        "example": "An art collection.",
+        "exampleTr": "Bir sanat koleksiyonu.",
+        "phonetic": "/kəˈlekʃn/"
+    },
+    {
+        "id": 20,
+        "word": "comedy",
+        "translation": "komedi",
+        "example": "A comedy play.",
+        "exampleTr": "Bir komedi oyunu.",
+        "phonetic": "/ˈkɒmədi/"
+    },
+    {
+        "id": 21,
+        "word": "commission",
+        "translation": "sipariş (sanat)",
+        "example": "She received a commission.",
+        "exampleTr": "Sanat siparişi aldı.",
+        "phonetic": "/kəˈmɪʃn/"
+    },
+    {
+        "id": 22,
+        "word": "compose",
+        "translation": "bestelemek / oluşturmak",
+        "example": "He composed a symphony.",
+        "exampleTr": "Bir senfoni besteledi.",
+        "phonetic": "/kəmˈpoʊz/"
+    },
+    {
+        "id": 23,
+        "word": "contemporary",
+        "translation": "çağdaş",
+        "example": "Contemporary art is diverse.",
+        "exampleTr": "Çağdaş sanat çeşitli.",
+        "phonetic": "/kənˈtempəreri/"
+    },
+    {
+        "id": 24,
+        "word": "contrast",
+        "translation": "kontrast / zıtlık",
+        "example": "The contrast is striking.",
+        "exampleTr": "Kontrast çarpıcı.",
+        "phonetic": "/ˈkɒntræst/"
+    },
+    {
+        "id": 25,
+        "word": "craft",
+        "translation": "zanaat / el işi",
+        "example": "Traditional crafts are valuable.",
+        "exampleTr": "Geleneksel zanaatlar değerli.",
+        "phonetic": "/kræft/"
+    },
+    {
+        "id": 26,
+        "word": "critic",
+        "translation": "eleştirmen",
+        "example": "The art critic praised it.",
+        "exampleTr": "Sanat eleştirmeni övdü.",
+        "phonetic": "/ˈkrɪtɪk/"
+    },
+    {
+        "id": 27,
+        "word": "cubism",
+        "translation": "kübizm",
+        "example": "Picasso pioneered cubism.",
+        "exampleTr": "Picasso kübizme öncülük etti.",
+        "phonetic": "/ˈkjuːbɪzəm/"
+    },
+    {
+        "id": 28,
+        "word": "curator",
+        "translation": "küratör",
+        "example": "The museum curator organized the show.",
+        "exampleTr": "Müze küratörü sergiyi düzenledi.",
+        "phonetic": "/kjʊˈreɪtər/"
+    },
+    {
+        "id": 29,
+        "word": "depict",
+        "translation": "tasvir etmek",
+        "example": "The painting depicts a landscape.",
+        "exampleTr": "Tablo bir manzarayı tasvir ediyor.",
+        "phonetic": "/dɪˈpɪkt/"
+    },
+    {
+        "id": 30,
+        "word": "documentary",
+        "translation": "belgesel",
+        "example": "A fascinating documentary.",
+        "exampleTr": "Büyüleyici bir belgesel.",
+        "phonetic": "/ˌdɒkjuˈmentri/"
+    },
+    {
+        "id": 31,
+        "word": "drama",
+        "translation": "drama / tiyatro",
+        "example": "She studied drama.",
+        "exampleTr": "Drama çalıştı.",
+        "phonetic": "/ˈdrɑːmə/"
+    },
+    {
+        "id": 32,
+        "word": "easel",
+        "translation": "şövale",
+        "example": "Put the canvas on the easel.",
+        "exampleTr": "Tuvali şövaleye koy.",
+        "phonetic": "/ˈiːzl/"
+    },
+    {
+        "id": 33,
+        "word": "engrave",
+        "translation": "kazımak / hakketmek",
+        "example": "Engrave your initials.",
+        "exampleTr": "Baş harflerini kazı.",
+        "phonetic": "/ɪnˈɡreɪv/"
+    },
+    {
+        "id": 34,
+        "word": "ensemble",
+        "translation": "topluluk",
+        "example": "A music ensemble performed.",
+        "exampleTr": "Müzik topluluğu sahne aldı.",
+        "phonetic": "/ɒnˈsɒmbl/"
+    },
+    {
+        "id": 35,
+        "word": "epic",
+        "translation": "destan / destansı",
+        "example": "An epic poem.",
+        "exampleTr": "Destansı bir şiir.",
+        "phonetic": "/ˈepɪk/"
+    },
+    {
+        "id": 36,
+        "word": "exhibit",
+        "translation": "sergilemek / sergi",
+        "example": "The exhibit opens Friday.",
+        "exampleTr": "Sergi Cuma açılıyor.",
+        "phonetic": "/ɪɡˈzɪbɪt/"
+    },
+    {
+        "id": 37,
+        "word": "fiction",
+        "translation": "kurgu",
+        "example": "She reads fiction.",
+        "exampleTr": "Kurgu okur.",
+        "phonetic": "/ˈfɪkʃn/"
+    },
+    {
+        "id": 38,
+        "word": "fresco",
+        "translation": "fresk",
+        "example": "Famous frescoes in the chapel.",
+        "exampleTr": "Şapeldeki ünlü freskler.",
+        "phonetic": "/ˈfreskoʊ/"
+    },
+    {
+        "id": 39,
+        "word": "gallery",
+        "translation": "galeri",
+        "example": "Visit the art gallery.",
+        "exampleTr": "Sanat galerisini ziyaret et.",
+        "phonetic": "/ˈɡæləri/"
+    },
+    {
+        "id": 40,
+        "word": "genre",
+        "translation": "tür / janr",
+        "example": "What genre of music?",
+        "exampleTr": "Ne tür müzik?",
+        "phonetic": "/ˈʒɒnrə/"
+    },
+    {
+        "id": 41,
+        "word": "graffiti",
+        "translation": "grafiti",
+        "example": "Graffiti is street art.",
+        "exampleTr": "Grafiti sokak sanatı.",
+        "phonetic": "/ɡrəˈfiːti/"
+    },
+    {
+        "id": 42,
+        "word": "heritage",
+        "translation": "miras / kültürel miras",
+        "example": "Cultural heritage is priceless.",
+        "exampleTr": "Kültürel miras paha biçilmez.",
+        "phonetic": "/ˈherɪtɪdʒ/"
+    },
+    {
+        "id": 43,
+        "word": "illustration",
+        "translation": "illüstrasyon / çizim",
+        "example": "Book illustrations are beautiful.",
+        "exampleTr": "Kitap çizimleri güzel.",
+        "phonetic": "/ˌɪləˈstreɪʃn/"
+    },
+    {
+        "id": 44,
+        "word": "improvise",
+        "translation": "doğaçlama",
+        "example": "Actors improvise on stage.",
+        "exampleTr": "Aktörler sahnede doğaçlama yapar.",
+        "phonetic": "/ˈɪmprəvaɪz/"
+    },
+    {
+        "id": 45,
+        "word": "inspire",
+        "translation": "ilham vermek",
+        "example": "Nature inspires artists.",
+        "exampleTr": "Doğa sanatçılara ilham verir.",
+        "phonetic": "/ɪnˈspaɪər/"
+    },
+    {
+        "id": 46,
+        "word": "installation",
+        "translation": "enstalasyon / yerleştirme sanatı",
+        "example": "An art installation.",
+        "exampleTr": "Bir sanat enstalasyonu.",
+        "phonetic": "/ˌɪnstəˈleɪʃn/"
+    },
+    {
+        "id": 47,
+        "word": "landscape",
+        "translation": "manzara / peyzaj",
+        "example": "A landscape painting.",
+        "exampleTr": "Bir manzara tablosu.",
+        "phonetic": "/ˈlændskeɪp/"
+    },
+    {
+        "id": 48,
+        "word": "legacy",
+        "translation": "miras / kalıt",
+        "example": "His artistic legacy.",
+        "exampleTr": "Sanatsal mirası.",
+        "phonetic": "/ˈleɡəsi/"
+    },
+    {
+        "id": 49,
+        "word": "literary",
+        "translation": "edebi",
+        "example": "A literary masterpiece.",
+        "exampleTr": "Edebi bir başyapıt.",
+        "phonetic": "/ˈlɪtəreri/"
+    },
+    {
+        "id": 50,
+        "word": "lyric",
+        "translation": "şarkı sözü / lirik",
+        "example": "Beautiful lyrics.",
+        "exampleTr": "Güzel şarkı sözleri.",
+        "phonetic": "/ˈlɪrɪk/"
+    },
+    {
+        "id": 51,
+        "word": "manuscript",
+        "translation": "el yazması",
+        "example": "An ancient manuscript.",
+        "exampleTr": "Antik bir el yazması.",
+        "phonetic": "/ˈmænjuskrɪpt/"
+    },
+    {
+        "id": 52,
+        "word": "marble",
+        "translation": "mermer",
+        "example": "Marble sculptures.",
+        "exampleTr": "Mermer heykeller.",
+        "phonetic": "/ˈmɑːrbl/"
+    },
+    {
+        "id": 53,
+        "word": "masterpiece",
+        "translation": "başyapıt / şaheser",
+        "example": "The painting is a masterpiece.",
+        "exampleTr": "Tablo bir başyapıt.",
+        "phonetic": "/ˈmɑːstərpiːs/"
+    },
+    {
+        "id": 54,
+        "word": "medieval",
+        "translation": "ortaçağ",
+        "example": "Medieval art is fascinating.",
+        "exampleTr": "Ortaçağ sanatı büyüleyici.",
+        "phonetic": "/ˌmediˈiːvl/"
+    },
+    {
+        "id": 55,
+        "word": "memoir",
+        "translation": "anı / hatırat",
+        "example": "She wrote a memoir.",
+        "exampleTr": "Bir hatırat yazdı.",
+        "phonetic": "/ˈmemwɑːr/"
+    },
+    {
+        "id": 56,
+        "word": "mural",
+        "translation": "duvar resmi",
+        "example": "A colorful mural.",
+        "exampleTr": "Renkli bir duvar resmi.",
+        "phonetic": "/ˈmjʊrəl/"
+    },
+    {
+        "id": 57,
+        "word": "museum",
+        "translation": "müze",
+        "example": "Visit the museum.",
+        "exampleTr": "Müzeyi ziyaret et.",
+        "phonetic": "/mjuːˈziːəm/"
+    },
+    {
+        "id": 58,
+        "word": "mythology",
+        "translation": "mitoloji",
+        "example": "Greek mythology is rich.",
+        "exampleTr": "Yunan mitolojisi zengin.",
+        "phonetic": "/mɪˈθɒlədʒi/"
+    },
+    {
+        "id": 59,
+        "word": "narrative",
+        "translation": "anlatı",
+        "example": "A compelling narrative.",
+        "exampleTr": "Etkileyici bir anlatı.",
+        "phonetic": "/ˈnærətɪv/"
+    },
+    {
+        "id": 60,
+        "word": "novel",
+        "translation": "roman",
+        "example": "She wrote a novel.",
+        "exampleTr": "Bir roman yazdı.",
+        "phonetic": "/ˈnɒvl/"
+    },
+    {
+        "id": 61,
+        "word": "opera",
+        "translation": "opera",
+        "example": "We went to the opera.",
+        "exampleTr": "Operaya gittik.",
+        "phonetic": "/ˈɒpərə/"
+    },
+    {
+        "id": 62,
+        "word": "orchestra",
+        "translation": "orkestra",
+        "example": "The orchestra played.",
+        "exampleTr": "Orkestra çaldı.",
+        "phonetic": "/ˈɔːrkɪstrə/"
+    },
+    {
+        "id": 63,
+        "word": "palette",
+        "translation": "palet",
+        "example": "Mix colors on a palette.",
+        "exampleTr": "Palette renkleri karıştır.",
+        "phonetic": "/ˈpælət/"
+    },
+    {
+        "id": 64,
+        "word": "patron",
+        "translation": "sanat koruyucusu / himayeci",
+        "example": "A patron of the arts.",
+        "exampleTr": "Sanat hamisi.",
+        "phonetic": "/ˈpeɪtrən/"
+    },
+    {
+        "id": 65,
+        "word": "performance",
+        "translation": "performans / gösteri",
+        "example": "A live performance.",
+        "exampleTr": "Canlı bir gösteri.",
+        "phonetic": "/pərˈfɔːrməns/"
+    },
+    {
+        "id": 66,
+        "word": "perspective",
+        "translation": "perspektif",
+        "example": "Draw in perspective.",
+        "exampleTr": "Perspektifle çiz.",
+        "phonetic": "/pərˈspektɪv/"
+    },
+    {
+        "id": 67,
+        "word": "photography",
+        "translation": "fotoğrafçılık",
+        "example": "Photography is her hobby.",
+        "exampleTr": "Fotoğrafçılık onun hobisi.",
+        "phonetic": "/fəˈtɒɡrəfi/"
+    },
+    {
+        "id": 68,
+        "word": "playwright",
+        "translation": "oyun yazarı",
+        "example": "Shakespeare was a playwright.",
+        "exampleTr": "Shakespeare bir oyun yazarıydı.",
+        "phonetic": "/ˈpleɪraɪt/"
+    },
+    {
+        "id": 69,
+        "word": "poem",
+        "translation": "şiir",
+        "example": "She recited a poem.",
+        "exampleTr": "Bir şiir okudu.",
+        "phonetic": "/ˈpoʊɪm/"
+    },
+    {
+        "id": 70,
+        "word": "portrait",
+        "translation": "portre",
+        "example": "He painted her portrait.",
+        "exampleTr": "Portresini çizdi.",
+        "phonetic": "/ˈpɔːrtrɪt/"
+    },
+    {
+        "id": 71,
+        "word": "pottery",
+        "translation": "çömlekçilik",
+        "example": "She makes pottery.",
+        "exampleTr": "Çömlekçilik yapıyor.",
+        "phonetic": "/ˈpɒtəri/"
+    },
+    {
+        "id": 72,
+        "word": "premiere",
+        "translation": "gala / ilk gösterim",
+        "example": "The movie premiere is tonight.",
+        "exampleTr": "Film galası bu gece.",
+        "phonetic": "/prɪˈmɪr/"
+    },
+    {
+        "id": 73,
+        "word": "prose",
+        "translation": "düzyazı",
+        "example": "She writes prose.",
+        "exampleTr": "Düzyazı yazar.",
+        "phonetic": "/proʊz/"
+    },
+    {
+        "id": 74,
+        "word": "renaissance",
+        "translation": "Rönesans",
+        "example": "The Renaissance changed art.",
+        "exampleTr": "Rönesans sanatı değiştirdi.",
+        "phonetic": "/ˈrenəsɑːns/"
+    },
+    {
+        "id": 75,
+        "word": "replica",
+        "translation": "kopya / replika",
+        "example": "A replica of the statue.",
+        "exampleTr": "Heykelin replikası.",
+        "phonetic": "/ˈreplɪkə/"
+    },
+    {
+        "id": 76,
+        "word": "restoration",
+        "translation": "restorasyon",
+        "example": "Art restoration takes skill.",
+        "exampleTr": "Sanat restorasyonu beceri gerektirir.",
+        "phonetic": "/ˌrestəˈreɪʃn/"
+    },
+    {
+        "id": 77,
+        "word": "rhythm",
+        "translation": "ritim",
+        "example": "Feel the rhythm.",
+        "exampleTr": "Ritmi hisset.",
+        "phonetic": "/ˈrɪðəm/"
+    },
+    {
+        "id": 78,
+        "word": "satire",
+        "translation": "hiciv / yergi",
+        "example": "Political satire is sharp.",
+        "exampleTr": "Politik hiciv keskin.",
+        "phonetic": "/ˈsætaɪər/"
+    },
+    {
+        "id": 79,
+        "word": "scene",
+        "translation": "sahne",
+        "example": "A dramatic scene.",
+        "exampleTr": "Dramatik bir sahne.",
+        "phonetic": "/siːn/"
+    },
+    {
+        "id": 80,
+        "word": "screenplay",
+        "translation": "senaryo",
+        "example": "She wrote the screenplay.",
+        "exampleTr": "Senaryoyu yazdı.",
+        "phonetic": "/ˈskriːnpleɪ/"
+    },
+    {
+        "id": 81,
+        "word": "sculptor",
+        "translation": "heykeltıraş",
+        "example": "Rodin was a famous sculptor.",
+        "exampleTr": "Rodin ünlü bir heykeltıraş.",
+        "phonetic": "/ˈskʌlptər/"
+    },
+    {
+        "id": 82,
+        "word": "sketch",
+        "translation": "eskiz / taslak",
+        "example": "She sketched quickly.",
+        "exampleTr": "Hızlıca eskiz çizdi.",
+        "phonetic": "/sketʃ/"
+    },
+    {
+        "id": 83,
+        "word": "sonnet",
+        "translation": "sone",
+        "example": "Shakespeare wrote sonnets.",
+        "exampleTr": "Shakespeare soneler yazdı.",
+        "phonetic": "/ˈsɒnɪt/"
+    },
+    {
+        "id": 84,
+        "word": "stanza",
+        "translation": "kıta / dize grubu",
+        "example": "Read the first stanza.",
+        "exampleTr": "İlk kıtayı oku.",
+        "phonetic": "/ˈstænzə/"
+    },
+    {
+        "id": 85,
+        "word": "still life",
+        "translation": "natürmort",
+        "example": "A still life painting.",
+        "exampleTr": "Bir natürmort tablo.",
+        "phonetic": "/stɪl laɪf/"
+    },
+    {
+        "id": 86,
+        "word": "studio",
+        "translation": "stüdyo / atölye",
+        "example": "She works in her studio.",
+        "exampleTr": "Stüdyosunda çalışır.",
+        "phonetic": "/ˈstjuːdioʊ/"
+    },
+    {
+        "id": 87,
+        "word": "surrealism",
+        "translation": "sürrealizm",
+        "example": "Dalí represented surrealism.",
+        "exampleTr": "Dalí sürrealizmi temsil etti.",
+        "phonetic": "/səˈriːəlɪzəm/"
+    },
+    {
+        "id": 88,
+        "word": "symphony",
+        "translation": "senfoni",
+        "example": "Beethoven's symphonies are legendary.",
+        "exampleTr": "Beethoven'ın senfonileri efsanevi.",
+        "phonetic": "/ˈsɪmfəni/"
+    },
+    {
+        "id": 89,
+        "word": "tableau",
+        "translation": "tablo / canlı sahne",
+        "example": "A dramatic tableau.",
+        "exampleTr": "Dramatik bir tablo.",
+        "phonetic": "/tæˈbloʊ/"
+    },
+    {
+        "id": 90,
+        "word": "technique",
+        "translation": "teknik",
+        "example": "Learn painting techniques.",
+        "exampleTr": "Boyama teknikleri öğren.",
+        "phonetic": "/tekˈniːk/"
+    },
+    {
+        "id": 91,
+        "word": "textile",
+        "translation": "tekstil / kumaş",
+        "example": "Traditional textiles.",
+        "exampleTr": "Geleneksel tekstiller.",
+        "phonetic": "/ˈtekstaɪl/"
+    },
+    {
+        "id": 92,
+        "word": "theater",
+        "translation": "tiyatro",
+        "example": "She loves theater.",
+        "exampleTr": "Tiyatroyu sever.",
+        "phonetic": "/ˈθɪətər/"
+    },
+    {
+        "id": 93,
+        "word": "tragedy",
+        "translation": "trajedi",
+        "example": "A Greek tragedy.",
+        "exampleTr": "Bir Yunan trajedisi.",
+        "phonetic": "/ˈtrædʒədi/"
+    },
+    {
+        "id": 94,
+        "word": "tribute",
+        "translation": "haraç / saygı gösterisi",
+        "example": "A tribute to the artist.",
+        "exampleTr": "Sanatçıya saygı gösterisi.",
+        "phonetic": "/ˈtrɪbjuːt/"
+    },
+    {
+        "id": 95,
+        "word": "troupe",
+        "translation": "topluluk / kumpanya",
+        "example": "A theater troupe.",
+        "exampleTr": "Tiyatro topluluğu.",
+        "phonetic": "/truːp/"
+    },
+    {
+        "id": 96,
+        "word": "verse",
+        "translation": "dize / mısra",
+        "example": "Read the first verse.",
+        "exampleTr": "İlk dizeyei oku.",
+        "phonetic": "/vɜːrs/"
+    },
+    {
+        "id": 97,
+        "word": "vintage",
+        "translation": "vintage / eski",
+        "example": "Vintage furniture is trendy.",
+        "exampleTr": "Vintage mobilyalar modada.",
+        "phonetic": "/ˈvɪntɪdʒ/"
+    },
+    {
+        "id": 98,
+        "word": "vivid",
+        "translation": "canlı / parlak",
+        "example": "Vivid colors in the painting.",
+        "exampleTr": "Tablodaki canlı renkler.",
+        "phonetic": "/ˈvɪvɪd/"
+    },
+    {
+        "id": 99,
+        "word": "watercolor",
+        "translation": "suluboya",
+        "example": "A watercolor painting.",
+        "exampleTr": "Suluboya tablo.",
+        "phonetic": "/ˈwɔːtərkʌlər/"
+    },
+    {
+        "id": 100,
+        "word": "workshop",
+        "translation": "atölye / çalıştay",
+        "example": "Attend a painting workshop.",
+        "exampleTr": "Resim atölyesine katıl.",
+        "phonetic": "/ˈwɜːrkʃɒp/"
+    }
+]

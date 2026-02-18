@@ -1,0 +1,862 @@
+[
+    {
+        "id": 1,
+        "word": "city",
+        "translation": "şehir",
+        "example": "I live in a big city.",
+        "exampleTr": "Büyük bir şehirde yaşıyorum.",
+        "phonetic": "/ˈsɪti/",
+        "level": "a1"
+    },
+    {
+        "id": 2,
+        "word": "town",
+        "translation": "kasaba",
+        "example": "This is a small town.",
+        "exampleTr": "Bu küçük bir kasaba.",
+        "phonetic": "/taʊn/",
+        "level": "a2"
+    },
+    {
+        "id": 3,
+        "word": "village",
+        "translation": "köy",
+        "example": "I grew up in a village.",
+        "exampleTr": "Bir köyde büyüdüm.",
+        "phonetic": "/ˈvɪlɪdʒ/",
+        "level": "a2"
+    },
+    {
+        "id": 4,
+        "word": "street",
+        "translation": "sokak",
+        "example": "I live on this street.",
+        "exampleTr": "Bu sokakta yaşıyorum.",
+        "phonetic": "/striːt/",
+        "level": "a1"
+    },
+    {
+        "id": 5,
+        "word": "road",
+        "translation": "yol",
+        "example": "The road is long.",
+        "exampleTr": "Yol uzun.",
+        "phonetic": "/roʊd/",
+        "level": "a1"
+    },
+    {
+        "id": 6,
+        "word": "avenue",
+        "translation": "cadde",
+        "example": "Walk down the avenue.",
+        "exampleTr": "Caddede yürü.",
+        "phonetic": "/ˈævənuː/",
+        "level": "b1"
+    },
+    {
+        "id": 7,
+        "word": "corner",
+        "translation": "köşe",
+        "example": "It's on the corner.",
+        "exampleTr": "Köşede.",
+        "phonetic": "/ˈkɔːrnər/",
+        "level": "a2"
+    },
+    {
+        "id": 8,
+        "word": "block",
+        "translation": "blok",
+        "example": "It's two blocks away.",
+        "exampleTr": "İki blok ötede.",
+        "phonetic": "/blɒk/",
+        "level": "b1"
+    },
+    {
+        "id": 9,
+        "word": "building",
+        "translation": "bina",
+        "example": "The building is tall.",
+        "exampleTr": "Bina yüksek.",
+        "phonetic": "/ˈbɪldɪŋ/",
+        "level": "a1"
+    },
+    {
+        "id": 10,
+        "word": "apartment",
+        "translation": "daire",
+        "example": "I rent an apartment.",
+        "exampleTr": "Bir daire kiralıyorum.",
+        "phonetic": "/əˈpɑːrtmənt/",
+        "level": "a2"
+    },
+    {
+        "id": 11,
+        "word": "neighborhood",
+        "translation": "mahalle",
+        "example": "This is a nice neighborhood.",
+        "exampleTr": "Bu güzel bir mahalle.",
+        "phonetic": "/ˈneɪbərhʊd/",
+        "level": "c1"
+    },
+    {
+        "id": 12,
+        "word": "suburb",
+        "translation": "banliyö",
+        "example": "I live in the suburbs.",
+        "exampleTr": "Banliyöde yaşıyorum.",
+        "phonetic": "/ˈsʌbɜːrb/",
+        "level": "a2"
+    },
+    {
+        "id": 13,
+        "word": "downtown",
+        "translation": "şehir merkezi",
+        "example": "Let's go downtown.",
+        "exampleTr": "Şehir merkezine gidelim.",
+        "phonetic": "/ˌdaʊnˈtaʊn/",
+        "level": "b1"
+    },
+    {
+        "id": 14,
+        "word": "bank",
+        "translation": "banka",
+        "example": "I go to the bank.",
+        "exampleTr": "Bankaya gidiyorum.",
+        "phonetic": "/bæŋk/",
+        "level": "a2"
+    },
+    {
+        "id": 15,
+        "word": "hospital",
+        "translation": "hastane",
+        "example": "The hospital is near.",
+        "exampleTr": "Hastane yakın.",
+        "phonetic": "/ˈhɒspɪtl/",
+        "level": "a1"
+    },
+    {
+        "id": 16,
+        "word": "pharmacy",
+        "translation": "eczane",
+        "example": "Find a pharmacy.",
+        "exampleTr": "Bir eczane bul.",
+        "phonetic": "/ˈfɑːrməsi/",
+        "level": "b1"
+    },
+    {
+        "id": 17,
+        "word": "school",
+        "translation": "okul",
+        "example": "The school is closed.",
+        "exampleTr": "Okul kapalı.",
+        "phonetic": "/skuːl/",
+        "level": "a1"
+    },
+    {
+        "id": 18,
+        "word": "library",
+        "translation": "kütüphane",
+        "example": "I study at the library.",
+        "exampleTr": "Kütüphanede çalışırım.",
+        "phonetic": "/ˈlaɪbreri/",
+        "level": "a2"
+    },
+    {
+        "id": 19,
+        "word": "post office",
+        "translation": "postane",
+        "example": "Go to the post office.",
+        "exampleTr": "Postaneye git.",
+        "phonetic": "/poʊst ˈɒfɪs/",
+        "level": "c1"
+    },
+    {
+        "id": 20,
+        "word": "police station",
+        "translation": "polis karakolu",
+        "example": "Report to the police station.",
+        "exampleTr": "Polis karakoluna bildir.",
+        "phonetic": "/pəˈliːs ˈsteɪʃn/",
+        "level": "c1"
+    },
+    {
+        "id": 21,
+        "word": "fire station",
+        "translation": "itfaiye",
+        "example": "The fire station is close.",
+        "exampleTr": "İtfaiye yakın.",
+        "phonetic": "/ˈfaɪər ˈsteɪʃn/",
+        "level": "c1"
+    },
+    {
+        "id": 22,
+        "word": "restaurant",
+        "translation": "restoran",
+        "example": "Let's eat at a restaurant.",
+        "exampleTr": "Bir restoranda yiyelim.",
+        "phonetic": "/ˈrestrɒnt/",
+        "level": "a2"
+    },
+    {
+        "id": 23,
+        "word": "cafe",
+        "translation": "kafe",
+        "example": "Let's meet at a cafe.",
+        "exampleTr": "Kafede buluşalım.",
+        "phonetic": "/kæˈfeɪ/",
+        "level": "a2"
+    },
+    {
+        "id": 24,
+        "word": "bar",
+        "translation": "bar",
+        "example": "Let's go to a bar.",
+        "exampleTr": "Bara gidelim.",
+        "phonetic": "/bɑːr/",
+        "level": "a2"
+    },
+    {
+        "id": 25,
+        "word": "hotel",
+        "translation": "otel",
+        "example": "Book a hotel.",
+        "exampleTr": "Otel ayırt.",
+        "phonetic": "/hoʊˈtel/",
+        "level": "a2"
+    },
+    {
+        "id": 26,
+        "word": "supermarket",
+        "translation": "süpermarket",
+        "example": "Shop at the supermarket.",
+        "exampleTr": "Süpermarketten alışveriş yap.",
+        "phonetic": "/ˈsuːpərmɑːrkɪt/",
+        "level": "c1"
+    },
+    {
+        "id": 27,
+        "word": "mall",
+        "translation": "alışveriş merkezi",
+        "example": "Let's go to the mall.",
+        "exampleTr": "AVM'ye gidelim.",
+        "phonetic": "/mɔːl/",
+        "level": "a2"
+    },
+    {
+        "id": 28,
+        "word": "market",
+        "translation": "pazar",
+        "example": "I shop at the market.",
+        "exampleTr": "Pazardan alışveriş yaparım.",
+        "phonetic": "/ˈmɑːrkɪt/",
+        "level": "a1"
+    },
+    {
+        "id": 29,
+        "word": "park",
+        "translation": "park",
+        "example": "Let's go to the park.",
+        "exampleTr": "Parka gidelim.",
+        "phonetic": "/pɑːrk/",
+        "level": "a1"
+    },
+    {
+        "id": 30,
+        "word": "playground",
+        "translation": "oyun alanı",
+        "example": "Kids play at the playground.",
+        "exampleTr": "Çocuklar oyun alanında oynar.",
+        "phonetic": "/ˈpleɪɡraʊnd/",
+        "level": "c1"
+    },
+    {
+        "id": 31,
+        "word": "museum",
+        "translation": "müze",
+        "example": "Visit the museum.",
+        "exampleTr": "Müzeyi ziyaret et.",
+        "phonetic": "/mjuˈziːəm/",
+        "level": "a2"
+    },
+    {
+        "id": 32,
+        "word": "theater",
+        "translation": "tiyatro",
+        "example": "Go to the theater.",
+        "exampleTr": "Tiyatroya git.",
+        "phonetic": "/ˈθiːətər/",
+        "level": "a2"
+    },
+    {
+        "id": 33,
+        "word": "cinema",
+        "translation": "sinema",
+        "example": "Let's go to the cinema.",
+        "exampleTr": "Sinemaya gidelim.",
+        "phonetic": "/ˈsɪnəmə/",
+        "level": "a2"
+    },
+    {
+        "id": 34,
+        "word": "stadium",
+        "translation": "stadyum",
+        "example": "The stadium is full.",
+        "exampleTr": "Stadyum dolu.",
+        "phonetic": "/ˈsteɪdiəm/",
+        "level": "b1"
+    },
+    {
+        "id": 35,
+        "word": "gym",
+        "translation": "spor salonu",
+        "example": "I go to the gym.",
+        "exampleTr": "Spor salonuna giderim.",
+        "phonetic": "/dʒɪm/",
+        "level": "a2"
+    },
+    {
+        "id": 36,
+        "word": "church",
+        "translation": "kilise",
+        "example": "The church is old.",
+        "exampleTr": "Kilise eski.",
+        "phonetic": "/tʃɜːrtʃ/",
+        "level": "a2"
+    },
+    {
+        "id": 37,
+        "word": "mosque",
+        "translation": "cami",
+        "example": "The mosque is beautiful.",
+        "exampleTr": "Cami güzel.",
+        "phonetic": "/mɒsk/",
+        "level": "b1"
+    },
+    {
+        "id": 38,
+        "word": "bridge",
+        "translation": "köprü",
+        "example": "Cross the bridge.",
+        "exampleTr": "Köprüyü geç.",
+        "phonetic": "/brɪdʒ/",
+        "level": "a1"
+    },
+    {
+        "id": 39,
+        "word": "square",
+        "translation": "meydan",
+        "example": "Meet at the square.",
+        "exampleTr": "Meydanda buluş.",
+        "phonetic": "/skwer/",
+        "level": "a2"
+    },
+    {
+        "id": 40,
+        "word": "fountain",
+        "translation": "çeşme / fıskiye",
+        "example": "There's a fountain.",
+        "exampleTr": "Bir çeşme var.",
+        "phonetic": "/ˈfaʊntən/",
+        "level": "b1"
+    },
+    {
+        "id": 41,
+        "word": "statue",
+        "translation": "heykel",
+        "example": "Look at the statue.",
+        "exampleTr": "Heykele bak.",
+        "phonetic": "/ˈstætʃuː/",
+        "level": "b1"
+    },
+    {
+        "id": 42,
+        "word": "monument",
+        "translation": "anıt",
+        "example": "Visit the monument.",
+        "exampleTr": "Anıtı ziyaret et.",
+        "phonetic": "/ˈmɒnjumənt/",
+        "level": "b1"
+    },
+    {
+        "id": 43,
+        "word": "tower",
+        "translation": "kule",
+        "example": "The tower is tall.",
+        "exampleTr": "Kule yüksek.",
+        "phonetic": "/ˈtaʊər/",
+        "level": "b1"
+    },
+    {
+        "id": 44,
+        "word": "traffic",
+        "translation": "trafik",
+        "example": "Traffic is bad.",
+        "exampleTr": "Trafik kötü.",
+        "phonetic": "/ˈtræfɪk/",
+        "level": "a2"
+    },
+    {
+        "id": 45,
+        "word": "traffic light",
+        "translation": "trafik ışığı",
+        "example": "Stop at the traffic light.",
+        "exampleTr": "Trafik ışığında dur.",
+        "phonetic": "/ˈtræfɪk laɪt/",
+        "level": "c1"
+    },
+    {
+        "id": 46,
+        "word": "crosswalk",
+        "translation": "yaya geçidi",
+        "example": "Use the crosswalk.",
+        "exampleTr": "Yaya geçidini kullan.",
+        "phonetic": "/ˈkrɒswɔːk/",
+        "level": "b2"
+    },
+    {
+        "id": 47,
+        "word": "sidewalk",
+        "translation": "kaldırım",
+        "example": "Walk on the sidewalk.",
+        "exampleTr": "Kaldırımda yürü.",
+        "phonetic": "/ˈsaɪdwɔːk/",
+        "level": "b2"
+    },
+    {
+        "id": 48,
+        "word": "parking",
+        "translation": "otopark",
+        "example": "Find parking.",
+        "exampleTr": "Otopark bul.",
+        "phonetic": "/ˈpɑːrkɪŋ/",
+        "level": "a2"
+    },
+    {
+        "id": 49,
+        "word": "stop",
+        "translation": "durak",
+        "example": "Wait at the bus stop.",
+        "exampleTr": "Otobüs durağında bekle.",
+        "phonetic": "/stɒp/",
+        "level": "a1"
+    },
+    {
+        "id": 50,
+        "word": "station",
+        "translation": "istasyon",
+        "example": "Go to the train station.",
+        "exampleTr": "Tren istasyonuna git.",
+        "phonetic": "/ˈsteɪʃn/",
+        "level": "a2"
+    },
+    {
+        "id": 51,
+        "word": "subway",
+        "translation": "metro",
+        "example": "Take the subway.",
+        "exampleTr": "Metroyla git.",
+        "phonetic": "/ˈsʌbweɪ/",
+        "level": "b1"
+    },
+    {
+        "id": 52,
+        "word": "airport",
+        "translation": "havalimanı",
+        "example": "Go to the airport.",
+        "exampleTr": "Havalimanına git.",
+        "phonetic": "/ˈerpɔːrt/",
+        "level": "a2"
+    },
+    {
+        "id": 53,
+        "word": "landmark",
+        "translation": "simge yapı",
+        "example": "Visit the landmarks.",
+        "exampleTr": "Simge yapıları ziyaret et.",
+        "phonetic": "/ˈlændmɑːrk/",
+        "level": "b2"
+    },
+    {
+        "id": 54,
+        "word": "tourist",
+        "translation": "turist",
+        "example": "Many tourists visit.",
+        "exampleTr": "Birçok turist ziyaret eder.",
+        "phonetic": "/ˈtʊrɪst/",
+        "level": "b2"
+    },
+    {
+        "id": 55,
+        "word": "attraction",
+        "translation": "turistik yer",
+        "example": "See the attractions.",
+        "exampleTr": "Turistik yerleri gör.",
+        "phonetic": "/əˈtrækʃn/",
+        "level": "c1"
+    },
+    {
+        "id": 56,
+        "word": "urban",
+        "translation": "kentsel",
+        "example": "Urban life is busy.",
+        "exampleTr": "Şehir hayatı yoğun.",
+        "phonetic": "/ˈɜːrbən/",
+        "level": "b1"
+    },
+    {
+        "id": 57,
+        "word": "rural",
+        "translation": "kırsal",
+        "example": "I prefer rural areas.",
+        "exampleTr": "Kırsal alanları tercih ederim.",
+        "phonetic": "/ˈrʊrəl/",
+        "level": "b1"
+    },
+    {
+        "id": 58,
+        "word": "population",
+        "translation": "nüfus",
+        "example": "The population is growing.",
+        "exampleTr": "Nüfus artıyor.",
+        "phonetic": "/ˌpɒpjuˈleɪʃn/",
+        "level": "c1"
+    },
+    {
+        "id": 59,
+        "word": "crowded",
+        "translation": "kalabalık",
+        "example": "The city is crowded.",
+        "exampleTr": "Şehir kalabalık.",
+        "phonetic": "/ˈkraʊdɪd/",
+        "level": "b2"
+    },
+    {
+        "id": 60,
+        "word": "quiet",
+        "translation": "sakin",
+        "example": "This area is quiet.",
+        "exampleTr": "Bu bölge sakin.",
+        "phonetic": "/ˈkwaɪət/",
+        "level": "a2"
+    },
+    {
+        "id": 61,
+        "word": "alley",
+        "translation": "ara sokak",
+        "example": "We walked through a narrow alley.",
+        "exampleTr": "Dar bir ara sokaktan yürüdük.",
+        "phonetic": "/ˈæli/"
+    },
+    {
+        "id": 62,
+        "word": "avenue",
+        "translation": "cadde / bulvar",
+        "example": "The avenue was lined with trees.",
+        "exampleTr": "Cadde ağaçlarla kaplıydı.",
+        "phonetic": "/ˈævənjuː/"
+    },
+    {
+        "id": 63,
+        "word": "borough",
+        "translation": "ilçe",
+        "example": "He lives in a quiet borough.",
+        "exampleTr": "Sakin bir ilçede yaşıyor.",
+        "phonetic": "/ˈbʌrə/"
+    },
+    {
+        "id": 64,
+        "word": "boulevard",
+        "translation": "bulvar",
+        "example": "A beautiful boulevard runs through the center.",
+        "exampleTr": "Merkezden güzel bir bulvar geçiyor.",
+        "phonetic": "/ˈbuːləvɑːrd/"
+    },
+    {
+        "id": 65,
+        "word": "commute",
+        "translation": "işe gidip gelmek",
+        "example": "I commute to work by train.",
+        "exampleTr": "İşe trenle gidip geliyorum.",
+        "phonetic": "/kəˈmjuːt/"
+    },
+    {
+        "id": 66,
+        "word": "congestion",
+        "translation": "trafik sıkışıklığı",
+        "example": "Traffic congestion is a daily problem.",
+        "exampleTr": "Trafik sıkışıklığı günlük sorun.",
+        "phonetic": "/kənˈdʒestʃən/"
+    },
+    {
+        "id": 67,
+        "word": "construction",
+        "translation": "inşaat",
+        "example": "There is construction on the road.",
+        "exampleTr": "Yolda inşaat var.",
+        "phonetic": "/kənˈstrʌkʃn/"
+    },
+    {
+        "id": 68,
+        "word": "curb",
+        "translation": "kaldırım kenarı",
+        "example": "Park your car by the curb.",
+        "exampleTr": "Arabanı kaldırım kenarına park et.",
+        "phonetic": "/kɜːrb/"
+    },
+    {
+        "id": 69,
+        "word": "demolish",
+        "translation": "yıkmak",
+        "example": "They demolished the old building.",
+        "exampleTr": "Eski binayı yıktılar.",
+        "phonetic": "/dɪˈmɒlɪʃ/"
+    },
+    {
+        "id": 70,
+        "word": "district",
+        "translation": "semt / bölge",
+        "example": "The financial district is busy.",
+        "exampleTr": "Finans bölgesi kalabalık.",
+        "phonetic": "/ˈdɪstrɪkt/"
+    },
+    {
+        "id": 71,
+        "word": "downtown",
+        "translation": "şehir merkezi",
+        "example": "Let's go downtown tonight.",
+        "exampleTr": "Bu gece şehir merkezine gidelim.",
+        "phonetic": "/ˌdaʊnˈtaʊn/"
+    },
+    {
+        "id": 72,
+        "word": "elevator",
+        "translation": "asansör",
+        "example": "Take the elevator to the 5th floor.",
+        "exampleTr": "5. kata asansörle çık.",
+        "phonetic": "/ˈelɪveɪtər/"
+    },
+    {
+        "id": 73,
+        "word": "fountain",
+        "translation": "çeşme / fıskiye",
+        "example": "The fountain in the park is beautiful.",
+        "exampleTr": "Parktaki çeşme çok güzel.",
+        "phonetic": "/ˈfaʊntən/"
+    },
+    {
+        "id": 74,
+        "word": "graffiti",
+        "translation": "grafiti / duvar yazısı",
+        "example": "Graffiti covered the walls.",
+        "exampleTr": "Duvarlar grafitiyle kaplıydı.",
+        "phonetic": "/ɡrəˈfiːti/"
+    },
+    {
+        "id": 75,
+        "word": "intersection",
+        "translation": "kavşak",
+        "example": "Turn left at the intersection.",
+        "exampleTr": "Kavşaktan sola dön.",
+        "phonetic": "/ˌɪntərˈsekʃn/"
+    },
+    {
+        "id": 76,
+        "word": "landmark",
+        "translation": "simge yapı",
+        "example": "The tower is a famous landmark.",
+        "exampleTr": "Kule ünlü bir simge yapı.",
+        "phonetic": "/ˈlændmɑːrk/"
+    },
+    {
+        "id": 77,
+        "word": "lane",
+        "translation": "şerit / dar yol",
+        "example": "Stay in your lane.",
+        "exampleTr": "Şeridinde kal.",
+        "phonetic": "/leɪn/"
+    },
+    {
+        "id": 78,
+        "word": "mayor",
+        "translation": "belediye başkanı",
+        "example": "The mayor gave a speech.",
+        "exampleTr": "Belediye başkanı konuşma yaptı.",
+        "phonetic": "/meər/"
+    },
+    {
+        "id": 79,
+        "word": "metropolitan",
+        "translation": "metropolitan / büyükşehir",
+        "example": "Istanbul is a metropolitan city.",
+        "exampleTr": "İstanbul bir büyükşehir.",
+        "phonetic": "/ˌmetrəˈpɒlɪtən/"
+    },
+    {
+        "id": 80,
+        "word": "monument",
+        "translation": "anıt",
+        "example": "We visited the monument.",
+        "exampleTr": "Anıtı ziyaret ettik.",
+        "phonetic": "/ˈmɒnjumənt/"
+    },
+    {
+        "id": 81,
+        "word": "municipal",
+        "translation": "belediyeye ait",
+        "example": "The municipal building is new.",
+        "exampleTr": "Belediye binası yeni.",
+        "phonetic": "/mjuːˈnɪsɪpl/"
+    },
+    {
+        "id": 82,
+        "word": "outskirts",
+        "translation": "dış mahalle / varoş",
+        "example": "They live on the outskirts.",
+        "exampleTr": "Şehrin dışında yaşıyorlar.",
+        "phonetic": "/ˈaʊtskɜːrts/"
+    },
+    {
+        "id": 83,
+        "word": "pavement",
+        "translation": "kaldırım",
+        "example": "Walk on the pavement.",
+        "exampleTr": "Kaldırımda yürü.",
+        "phonetic": "/ˈpeɪvmənt/"
+    },
+    {
+        "id": 84,
+        "word": "pedestrian",
+        "translation": "yaya",
+        "example": "This is a pedestrian zone.",
+        "exampleTr": "Burası yaya bölgesi.",
+        "phonetic": "/pəˈdestriən/"
+    },
+    {
+        "id": 85,
+        "word": "plaza",
+        "translation": "meydan / alan",
+        "example": "We met at the plaza.",
+        "exampleTr": "Meydanda buluştuk.",
+        "phonetic": "/ˈplɑːzə/"
+    },
+    {
+        "id": 86,
+        "word": "pollution",
+        "translation": "kirlilik",
+        "example": "Air pollution is increasing.",
+        "exampleTr": "Hava kirliliği artıyor.",
+        "phonetic": "/pəˈluːʃn/"
+    },
+    {
+        "id": 87,
+        "word": "province",
+        "translation": "il / taşra",
+        "example": "She moved to a small province.",
+        "exampleTr": "Küçük bir ile taşındı.",
+        "phonetic": "/ˈprɒvɪns/"
+    },
+    {
+        "id": 88,
+        "word": "renovation",
+        "translation": "renovasyon / yenileme",
+        "example": "The building needs renovation.",
+        "exampleTr": "Bina yenileme gerektiriyor.",
+        "phonetic": "/ˌrenəˈveɪʃn/"
+    },
+    {
+        "id": 89,
+        "word": "resident",
+        "translation": "sakin / ikamet eden",
+        "example": "He is a resident of Istanbul.",
+        "exampleTr": "İstanbul'da ikamet ediyor.",
+        "phonetic": "/ˈrezɪdənt/"
+    },
+    {
+        "id": 90,
+        "word": "roundabout",
+        "translation": "döner kavşak",
+        "example": "Take the second exit at the roundabout.",
+        "exampleTr": "Döner kavşaktan ikinci çıkışı al.",
+        "phonetic": "/ˈraʊndəbaʊt/"
+    },
+    {
+        "id": 91,
+        "word": "skyscraper",
+        "translation": "gökdelen",
+        "example": "The city has many skyscrapers.",
+        "exampleTr": "Şehirde çok gökdelen var.",
+        "phonetic": "/ˈskaɪskreɪpər/"
+    },
+    {
+        "id": 92,
+        "word": "slum",
+        "translation": "gecekondu",
+        "example": "Many people live in slums.",
+        "exampleTr": "Birçok insan gecekondularda yaşıyor.",
+        "phonetic": "/slʌm/"
+    },
+    {
+        "id": 93,
+        "word": "suburb",
+        "translation": "banliyö",
+        "example": "They moved to the suburbs.",
+        "exampleTr": "Banliyöye taşındılar.",
+        "phonetic": "/ˈsʌbɜːrb/"
+    },
+    {
+        "id": 94,
+        "word": "subway",
+        "translation": "metro",
+        "example": "Take the subway to work.",
+        "exampleTr": "İşe metroyla git.",
+        "phonetic": "/ˈsʌbweɪ/"
+    },
+    {
+        "id": 95,
+        "word": "toll",
+        "translation": "geçiş ücreti",
+        "example": "Pay the toll at the gate.",
+        "exampleTr": "Kapıda geçiş ücretini öde.",
+        "phonetic": "/toʊl/"
+    },
+    {
+        "id": 96,
+        "word": "tram",
+        "translation": "tramvay",
+        "example": "The tram is convenient.",
+        "exampleTr": "Tramvay kullanışlı.",
+        "phonetic": "/træm/"
+    },
+    {
+        "id": 97,
+        "word": "tunnel",
+        "translation": "tünel",
+        "example": "We drove through a tunnel.",
+        "exampleTr": "Tünelden geçtik.",
+        "phonetic": "/ˈtʌnl/"
+    },
+    {
+        "id": 98,
+        "word": "urban",
+        "translation": "kentsel",
+        "example": "Urban areas are crowded.",
+        "exampleTr": "Kentsel alanlar kalabalık.",
+        "phonetic": "/ˈɜːrbən/"
+    },
+    {
+        "id": 99,
+        "word": "venue",
+        "translation": "mekan",
+        "example": "The venue was impressive.",
+        "exampleTr": "Mekan etkileyiciydi.",
+        "phonetic": "/ˈvenjuː/"
+    },
+    {
+        "id": 100,
+        "word": "warehouse",
+        "translation": "depo",
+        "example": "Goods are stored in the warehouse.",
+        "exampleTr": "Mallar depoda saklanıyor.",
+        "phonetic": "/ˈwerhaʊs/"
+    }
+]

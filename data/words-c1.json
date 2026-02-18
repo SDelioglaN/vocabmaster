@@ -1,0 +1,1202 @@
+[
+    {
+        "id": 1,
+        "word": "abolition",
+        "translation": "kaldırılma",
+        "example": "The abolition of slavery was a historic moment.",
+        "exampleTr": "Köleliğin kaldırılması tarihi bir andı.",
+        "phonetic": "/ˌæbəˈlɪʃn/"
+    },
+    {
+        "id": 2,
+        "word": "abstraction",
+        "translation": "soyutlama",
+        "example": "The concept is a pure abstraction.",
+        "exampleTr": "Kavram saf bir soyutlamadır.",
+        "phonetic": "/æbˈstrækʃn/"
+    },
+    {
+        "id": 3,
+        "word": "acquaint",
+        "translation": "tanıştırmak",
+        "example": "Let me acquaint you with the details.",
+        "exampleTr": "Sizi detaylarla tanıştırayım.",
+        "phonetic": "/əˈkweɪnt/"
+    },
+    {
+        "id": 4,
+        "word": "albeit",
+        "translation": "her ne kadar",
+        "example": "He agreed, albeit reluctantly.",
+        "exampleTr": "İsteksizce de olsa kabul etti.",
+        "phonetic": "/ɔːlˈbiːɪt/"
+    },
+    {
+        "id": 5,
+        "word": "allegation",
+        "translation": "iddia",
+        "example": "The allegations were denied.",
+        "exampleTr": "İddialar reddedildi.",
+        "phonetic": "/ˌæləˈɡeɪʃn/"
+    },
+    {
+        "id": 6,
+        "word": "alleviate",
+        "translation": "hafifletmek",
+        "example": "Medicine can alleviate the pain.",
+        "exampleTr": "İlaç ağrıyı hafifletebilir.",
+        "phonetic": "/əˈliːvieɪt/"
+    },
+    {
+        "id": 7,
+        "word": "amalgamate",
+        "translation": "birleştirmek",
+        "example": "The two companies amalgamated.",
+        "exampleTr": "İki şirket birleşti.",
+        "phonetic": "/əˈmælɡəmeɪt/"
+    },
+    {
+        "id": 8,
+        "word": "ambivalent",
+        "translation": "kararsız",
+        "example": "She felt ambivalent about the offer.",
+        "exampleTr": "Teklif hakkında kararsız hissetti.",
+        "phonetic": "/æmˈbɪvələnt/"
+    },
+    {
+        "id": 9,
+        "word": "anomaly",
+        "translation": "anormallik",
+        "example": "Scientists discovered an anomaly.",
+        "exampleTr": "Bilim insanları bir anormallik keşfetti.",
+        "phonetic": "/əˈnɒməli/"
+    },
+    {
+        "id": 10,
+        "word": "apparatus",
+        "translation": "aygıt",
+        "example": "The laboratory has sophisticated apparatus.",
+        "exampleTr": "Laboratuvar gelişmiş aygıtlara sahip.",
+        "phonetic": "/ˌæpəˈreɪtəs/"
+    },
+    {
+        "id": 11,
+        "word": "apprehension",
+        "translation": "endişe",
+        "example": "There was some apprehension about the future.",
+        "exampleTr": "Gelecek hakkında biraz endişe vardı.",
+        "phonetic": "/ˌæprɪˈhenʃn/"
+    },
+    {
+        "id": 12,
+        "word": "arduous",
+        "translation": "zorlu",
+        "example": "It was an arduous journey.",
+        "exampleTr": "Zorlu bir yolculuktu.",
+        "phonetic": "/ˈɑːrdʒuəs/"
+    },
+    {
+        "id": 13,
+        "word": "articulate",
+        "translation": "ifade etmek",
+        "example": "She articulated her ideas clearly.",
+        "exampleTr": "Fikirlerini açıkça ifade etti.",
+        "phonetic": "/ɑːrˈtɪkjəleɪt/"
+    },
+    {
+        "id": 14,
+        "word": "ascertain",
+        "translation": "saptamak",
+        "example": "We need to ascertain the facts.",
+        "exampleTr": "Gerçekleri saptamamız gerekiyor.",
+        "phonetic": "/ˌæsərˈteɪn/"
+    },
+    {
+        "id": 15,
+        "word": "augment",
+        "translation": "artırmak",
+        "example": "They augmented their income.",
+        "exampleTr": "Gelirlerini artırdılar.",
+        "phonetic": "/ɔːɡˈment/"
+    },
+    {
+        "id": 16,
+        "word": "averse",
+        "translation": "isteksiz",
+        "example": "He is averse to taking risks.",
+        "exampleTr": "Risk almaktan kaçınıyor.",
+        "phonetic": "/əˈvɜːrs/"
+    },
+    {
+        "id": 17,
+        "word": "bewilder",
+        "translation": "şaşırtmak",
+        "example": "The complexity bewildered me.",
+        "exampleTr": "Karmaşıklık beni şaşırttı.",
+        "phonetic": "/bɪˈwɪldər/"
+    },
+    {
+        "id": 18,
+        "word": "burgeon",
+        "translation": "hızla büyümek",
+        "example": "The industry is burgeoning.",
+        "exampleTr": "Sektör hızla büyüyor.",
+        "phonetic": "/ˈbɜːrdʒən/"
+    },
+    {
+        "id": 19,
+        "word": "circumvent",
+        "translation": "atlatmak",
+        "example": "They tried to circumvent the rules.",
+        "exampleTr": "Kuralları atlatmaya çalıştılar.",
+        "phonetic": "/ˌsɜːrkəmˈvent/"
+    },
+    {
+        "id": 20,
+        "word": "coerce",
+        "translation": "zorlamak",
+        "example": "They coerced him into signing.",
+        "exampleTr": "Onu imzalamaya zorladılar.",
+        "phonetic": "/koʊˈɜːrs/"
+    },
+    {
+        "id": 21,
+        "word": "cognition",
+        "translation": "biliş",
+        "example": "Cognition affects learning ability.",
+        "exampleTr": "Biliş öğrenme yeteneğini etkiler.",
+        "phonetic": "/kɒɡˈnɪʃn/"
+    },
+    {
+        "id": 22,
+        "word": "cohesion",
+        "translation": "bağlılık",
+        "example": "Team cohesion is important.",
+        "exampleTr": "Takım bağlılığı önemlidir.",
+        "phonetic": "/koʊˈhiːʒn/"
+    },
+    {
+        "id": 23,
+        "word": "compelling",
+        "translation": "zorlayıcı",
+        "example": "He made a compelling argument.",
+        "exampleTr": "İkna edici bir argüman sundu.",
+        "phonetic": "/kəmˈpelɪŋ/"
+    },
+    {
+        "id": 24,
+        "word": "complacent",
+        "translation": "kayıtsız",
+        "example": "Don't become complacent with success.",
+        "exampleTr": "Başarıyla kayıtsız olma.",
+        "phonetic": "/kəmˈpleɪsnt/"
+    },
+    {
+        "id": 25,
+        "word": "concede",
+        "translation": "kabul etmek",
+        "example": "He conceded that he was wrong.",
+        "exampleTr": "Yanlış olduğunu kabul etti.",
+        "phonetic": "/kənˈsiːd/"
+    },
+    {
+        "id": 26,
+        "word": "conducive",
+        "translation": "elverişli",
+        "example": "The environment is conducive to learning.",
+        "exampleTr": "Ortam öğrenmeye elverişli.",
+        "phonetic": "/kənˈduːsɪv/"
+    },
+    {
+        "id": 27,
+        "word": "conjecture",
+        "translation": "tahmin",
+        "example": "It's pure conjecture at this point.",
+        "exampleTr": "Bu noktada sadece tahmin.",
+        "phonetic": "/kənˈdʒektʃər/"
+    },
+    {
+        "id": 28,
+        "word": "consolidate",
+        "translation": "pekiştirmek",
+        "example": "We need to consolidate our position.",
+        "exampleTr": "Pozisyonumuzu pekiştirmeliyiz.",
+        "phonetic": "/kənˈsɒlɪdeɪt/"
+    },
+    {
+        "id": 29,
+        "word": "constrain",
+        "translation": "kısıtlamak",
+        "example": "Resources constrain our options.",
+        "exampleTr": "Kaynaklar seçeneklerimizi kısıtlıyor.",
+        "phonetic": "/kənˈstreɪn/"
+    },
+    {
+        "id": 30,
+        "word": "contempt",
+        "translation": "küçümseme",
+        "example": "He showed contempt for the rules.",
+        "exampleTr": "Kurallara küçümseme gösterdi.",
+        "phonetic": "/kənˈtempt/"
+    },
+    {
+        "id": 31,
+        "word": "contentious",
+        "translation": "tartışmalı",
+        "example": "It's a contentious issue.",
+        "exampleTr": "Tartışmalı bir konu.",
+        "phonetic": "/kənˈtenʃəs/"
+    },
+    {
+        "id": 32,
+        "word": "contingent",
+        "translation": "bağlı",
+        "example": "Success is contingent on hard work.",
+        "exampleTr": "Başarı çok çalışmaya bağlı.",
+        "phonetic": "/kənˈtɪndʒənt/"
+    },
+    {
+        "id": 33,
+        "word": "corroborate",
+        "translation": "doğrulamak",
+        "example": "Evidence corroborated his story.",
+        "exampleTr": "Kanıtlar hikayesini doğruladı.",
+        "phonetic": "/kəˈrɒbəreɪt/"
+    },
+    {
+        "id": 34,
+        "word": "culminate",
+        "translation": "doruk noktasına ulaşmak",
+        "example": "The project culminated in success.",
+        "exampleTr": "Proje başarıyla sonuçlandı.",
+        "phonetic": "/ˈkʌlmɪneɪt/"
+    },
+    {
+        "id": 35,
+        "word": "curtail",
+        "translation": "kısaltmak",
+        "example": "We had to curtail our spending.",
+        "exampleTr": "Harcamalarımızı kısaltmak zorunda kaldık.",
+        "phonetic": "/kɜːrˈteɪl/"
+    },
+    {
+        "id": 36,
+        "word": "deem",
+        "translation": "saymak",
+        "example": "The proposal was deemed acceptable.",
+        "exampleTr": "Teklif kabul edilebilir sayıldı.",
+        "phonetic": "/diːm/"
+    },
+    {
+        "id": 37,
+        "word": "defer",
+        "translation": "ertelemek",
+        "example": "Let's defer the decision.",
+        "exampleTr": "Kararı erteleyelim.",
+        "phonetic": "/dɪˈfɜːr/"
+    },
+    {
+        "id": 38,
+        "word": "depict",
+        "translation": "betimlemek",
+        "example": "The painting depicts a battle.",
+        "exampleTr": "Tablo bir savaşı betimliyor.",
+        "phonetic": "/dɪˈpɪkt/"
+    },
+    {
+        "id": 39,
+        "word": "deplorable",
+        "translation": "içler acısı",
+        "example": "The conditions were deplorable.",
+        "exampleTr": "Koşullar içler acısıydı.",
+        "phonetic": "/dɪˈplɔːrəbl/"
+    },
+    {
+        "id": 40,
+        "word": "detrimental",
+        "translation": "zararlı",
+        "example": "Smoking is detrimental to health.",
+        "exampleTr": "Sigara sağlığa zararlıdır.",
+        "phonetic": "/ˌdetrɪˈmentl/"
+    },
+    {
+        "id": 41,
+        "word": "deviate",
+        "translation": "sapmak",
+        "example": "We should not deviate from the plan.",
+        "exampleTr": "Plandan sapmamalıyız.",
+        "phonetic": "/ˈdiːvieɪt/"
+    },
+    {
+        "id": 42,
+        "word": "dichotomy",
+        "translation": "ikilik",
+        "example": "There's a dichotomy between theory and practice.",
+        "exampleTr": "Teori ve pratik arasında bir ikilik var.",
+        "phonetic": "/daɪˈkɒtəmi/"
+    },
+    {
+        "id": 43,
+        "word": "digress",
+        "translation": "konudan sapmak",
+        "example": "Let me digress for a moment.",
+        "exampleTr": "Bir an için konudan sapayım.",
+        "phonetic": "/daɪˈɡres/"
+    },
+    {
+        "id": 44,
+        "word": "discrepancy",
+        "translation": "tutarsızlık",
+        "example": "There's a discrepancy in the data.",
+        "exampleTr": "Verilerde tutarsızlık var.",
+        "phonetic": "/dɪˈskrepənsi/"
+    },
+    {
+        "id": 45,
+        "word": "disparate",
+        "translation": "farklı",
+        "example": "The two ideas are disparate.",
+        "exampleTr": "İki fikir birbirinden farklı.",
+        "phonetic": "/ˈdɪspərət/"
+    },
+    {
+        "id": 46,
+        "word": "dispel",
+        "translation": "dağıtmak",
+        "example": "We need to dispel the myths.",
+        "exampleTr": "Mitleri dağıtmalıyız.",
+        "phonetic": "/dɪˈspel/"
+    },
+    {
+        "id": 47,
+        "word": "disposition",
+        "translation": "eğilim",
+        "example": "He has a cheerful disposition.",
+        "exampleTr": "Neşeli bir mizacı var.",
+        "phonetic": "/ˌdɪspəˈzɪʃn/"
+    },
+    {
+        "id": 48,
+        "word": "disseminate",
+        "translation": "yaymak",
+        "example": "We need to disseminate knowledge.",
+        "exampleTr": "Bilgiyi yaymalıyız.",
+        "phonetic": "/dɪˈsemɪneɪt/"
+    },
+    {
+        "id": 49,
+        "word": "diverge",
+        "translation": "ayrılmak",
+        "example": "Their opinions diverge on this point.",
+        "exampleTr": "Görüşleri bu noktada ayrılıyor.",
+        "phonetic": "/daɪˈvɜːrdʒ/"
+    },
+    {
+        "id": 50,
+        "word": "elicit",
+        "translation": "ortaya çıkarmak",
+        "example": "The question elicited no response.",
+        "exampleTr": "Soru yanıt almadı.",
+        "phonetic": "/ɪˈlɪsɪt/"
+    },
+    {
+        "id": 51,
+        "word": "eloquent",
+        "translation": "güzel konuşan",
+        "example": "She gave an eloquent speech.",
+        "exampleTr": "Etkileyici bir konuşma yaptı.",
+        "phonetic": "/ˈeləkwənt/"
+    },
+    {
+        "id": 52,
+        "word": "emancipate",
+        "translation": "özgürleştirmek",
+        "example": "The law emancipated slaves.",
+        "exampleTr": "Yasa köleleri özgürleştirdi.",
+        "phonetic": "/ɪˈmænsɪpeɪt/"
+    },
+    {
+        "id": 53,
+        "word": "embark",
+        "translation": "girişmek",
+        "example": "We embarked on a new project.",
+        "exampleTr": "Yeni bir projeye giriştik.",
+        "phonetic": "/ɪmˈbɑːrk/"
+    },
+    {
+        "id": 54,
+        "word": "empirical",
+        "translation": "deneysel",
+        "example": "Empirical evidence supports the theory.",
+        "exampleTr": "Deneysel kanıtlar teoriyi destekliyor.",
+        "phonetic": "/ɪmˈpɪrɪkl/"
+    },
+    {
+        "id": 55,
+        "word": "encompass",
+        "translation": "kapsamak",
+        "example": "The course encompasses many topics.",
+        "exampleTr": "Kurs birçok konuyu kapsıyor.",
+        "phonetic": "/ɪnˈkʌmpəs/"
+    },
+    {
+        "id": 56,
+        "word": "endow",
+        "translation": "bağışlamak / donatmak",
+        "example": "She is endowed with talent.",
+        "exampleTr": "Yetenekle donatılmış.",
+        "phonetic": "/ɪnˈdaʊ/"
+    },
+    {
+        "id": 57,
+        "word": "engender",
+        "translation": "doğurmak / yaratmak",
+        "example": "His words engendered fear.",
+        "exampleTr": "Sözleri korku yarattı.",
+        "phonetic": "/ɪnˈdʒendər/"
+    },
+    {
+        "id": 58,
+        "word": "enigma",
+        "translation": "bilmece / muamma",
+        "example": "The case remains an enigma.",
+        "exampleTr": "Dava bir muamma olmaya devam ediyor.",
+        "phonetic": "/ɪˈnɪɡmə/"
+    },
+    {
+        "id": 59,
+        "word": "entice",
+        "translation": "cezbetmek",
+        "example": "The offer enticed many applicants.",
+        "exampleTr": "Teklif birçok başvuranı cezbetti.",
+        "phonetic": "/ɪnˈtaɪs/"
+    },
+    {
+        "id": 60,
+        "word": "epitome",
+        "translation": "simge / örnek",
+        "example": "She is the epitome of grace.",
+        "exampleTr": "Zarafetin simgesi.",
+        "phonetic": "/ɪˈpɪtəmi/"
+    },
+    {
+        "id": 61,
+        "word": "equate",
+        "translation": "eşitlemek",
+        "example": "Don't equate wealth with happiness.",
+        "exampleTr": "Zenginliği mutlulukla eşitleme.",
+        "phonetic": "/ɪˈkweɪt/"
+    },
+    {
+        "id": 62,
+        "word": "erratic",
+        "translation": "düzensiz / tutarsız",
+        "example": "His behavior was erratic.",
+        "exampleTr": "Davranışı tutarsızdı.",
+        "phonetic": "/ɪˈrætɪk/"
+    },
+    {
+        "id": 63,
+        "word": "erudite",
+        "translation": "bilgili / alim",
+        "example": "She is an erudite scholar.",
+        "exampleTr": "Bilgili bir akademisyen.",
+        "phonetic": "/ˈeruːdaɪt/"
+    },
+    {
+        "id": 64,
+        "word": "exasperate",
+        "translation": "kızdırmak / çileden çıkarmak",
+        "example": "His attitude exasperated everyone.",
+        "exampleTr": "Tavrı herkesi çileden çıkardı.",
+        "phonetic": "/ɪɡˈzæspəreɪt/"
+    },
+    {
+        "id": 65,
+        "word": "exorbitant",
+        "translation": "aşırı / fahiş",
+        "example": "The prices are exorbitant.",
+        "exampleTr": "Fiyatlar fahiş.",
+        "phonetic": "/ɪɡˈzɔːrbɪtənt/"
+    },
+    {
+        "id": 66,
+        "word": "expedite",
+        "translation": "hızlandırmak",
+        "example": "We need to expedite the process.",
+        "exampleTr": "Süreci hızlandırmamız gerekiyor.",
+        "phonetic": "/ˈekspədaɪt/"
+    },
+    {
+        "id": 67,
+        "word": "extrapolate",
+        "translation": "çıkarsama yapmak",
+        "example": "We can extrapolate from the data.",
+        "exampleTr": "Verilerden çıkarsama yapabiliriz.",
+        "phonetic": "/ɪkˈstræpəleɪt/"
+    },
+    {
+        "id": 68,
+        "word": "fallacy",
+        "translation": "yanılgı",
+        "example": "That argument is a fallacy.",
+        "exampleTr": "Bu argüman bir yanılgı.",
+        "phonetic": "/ˈfæləsi/"
+    },
+    {
+        "id": 69,
+        "word": "fathom",
+        "translation": "kavramak / anlamak",
+        "example": "I can't fathom why he left.",
+        "exampleTr": "Neden gittiğini anlayamıyorum.",
+        "phonetic": "/ˈfæðəm/"
+    },
+    {
+        "id": 70,
+        "word": "fervent",
+        "translation": "ateşli / coşkulu",
+        "example": "She is a fervent supporter.",
+        "exampleTr": "Ateşli bir destekçi.",
+        "phonetic": "/ˈfɜːrvənt/"
+    },
+    {
+        "id": 71,
+        "word": "fiscal",
+        "translation": "mali",
+        "example": "The fiscal year ends in March.",
+        "exampleTr": "Mali yıl Mart'ta sona eriyor.",
+        "phonetic": "/ˈfɪskl/"
+    },
+    {
+        "id": 72,
+        "word": "futile",
+        "translation": "nafile / boşuna",
+        "example": "Their efforts proved futile.",
+        "exampleTr": "Çabaları nafile çıktı.",
+        "phonetic": "/ˈfjuːtaɪl/"
+    },
+    {
+        "id": 73,
+        "word": "galvanize",
+        "translation": "harekete geçirmek",
+        "example": "The speech galvanized the crowd.",
+        "exampleTr": "Konuşma kalabalığı harekete geçirdi.",
+        "phonetic": "/ˈɡælvənaɪz/"
+    },
+    {
+        "id": 74,
+        "word": "gratuitous",
+        "translation": "gereksiz / yersiz",
+        "example": "The violence was gratuitous.",
+        "exampleTr": "Şiddet gereksizdi.",
+        "phonetic": "/ɡrəˈtjuːɪtəs/"
+    },
+    {
+        "id": 75,
+        "word": "gregarious",
+        "translation": "sosyal / cana yakın",
+        "example": "He is a gregarious person.",
+        "exampleTr": "Sosyal bir insan.",
+        "phonetic": "/ɡrɪˈɡeəriəs/"
+    },
+    {
+        "id": 76,
+        "word": "impasse",
+        "translation": "çıkmaz",
+        "example": "Negotiations reached an impasse.",
+        "exampleTr": "Müzakereler çıkmaza girdi.",
+        "phonetic": "/ˈɪmpæs/"
+    },
+    {
+        "id": 77,
+        "word": "impede",
+        "translation": "engel olmak",
+        "example": "Bureaucracy impedes progress.",
+        "exampleTr": "Bürokrasi ilerlemeyi engelliyor.",
+        "phonetic": "/ɪmˈpiːd/"
+    },
+    {
+        "id": 78,
+        "word": "imperative",
+        "translation": "zorunlu / gerekli",
+        "example": "It is imperative that we act now.",
+        "exampleTr": "Şimdi harekete geçmemiz zorunlu.",
+        "phonetic": "/ɪmˈperətɪv/"
+    },
+    {
+        "id": 79,
+        "word": "implicate",
+        "translation": "suç ortağı yapmak",
+        "example": "The evidence implicates him.",
+        "exampleTr": "Kanıtlar onu suçluyor.",
+        "phonetic": "/ˈɪmplɪkeɪt/"
+    },
+    {
+        "id": 80,
+        "word": "incite",
+        "translation": "kışkırtmak",
+        "example": "They incited violence.",
+        "exampleTr": "Şiddeti kışkırttılar.",
+        "phonetic": "/ɪnˈsaɪt/"
+    },
+    {
+        "id": 81,
+        "word": "inclination",
+        "translation": "eğilim / meyil",
+        "example": "She has an inclination towards art.",
+        "exampleTr": "Sanata eğilimi var.",
+        "phonetic": "/ˌɪnklɪˈneɪʃn/"
+    },
+    {
+        "id": 82,
+        "word": "indispensable",
+        "translation": "vazgeçilmez",
+        "example": "Water is indispensable for life.",
+        "exampleTr": "Su yaşam için vazgeçilmez.",
+        "phonetic": "/ˌɪndɪˈspensəbl/"
+    },
+    {
+        "id": 83,
+        "word": "induce",
+        "translation": "neden olmak / ikna etmek",
+        "example": "The drug induces sleep.",
+        "exampleTr": "İlaç uykuya neden oluyor.",
+        "phonetic": "/ɪnˈdjuːs/"
+    },
+    {
+        "id": 84,
+        "word": "infer",
+        "translation": "çıkarsama yapmak",
+        "example": "We can infer from the results.",
+        "exampleTr": "Sonuçlardan çıkarsama yapabiliriz.",
+        "phonetic": "/ɪnˈfɜːr/"
+    },
+    {
+        "id": 85,
+        "word": "innate",
+        "translation": "doğuştan",
+        "example": "She has innate talent.",
+        "exampleTr": "Doğuştan yeteneği var.",
+        "phonetic": "/ɪˈneɪt/"
+    },
+    {
+        "id": 86,
+        "word": "instigate",
+        "translation": "kışkırtmak / başlatmak",
+        "example": "He instigated the rebellion.",
+        "exampleTr": "İsyanı başlattı.",
+        "phonetic": "/ˈɪnstɪɡeɪt/"
+    },
+    {
+        "id": 87,
+        "word": "intangible",
+        "translation": "soyut / elle tutulamaz",
+        "example": "Trust is an intangible asset.",
+        "exampleTr": "Güven soyut bir varlıktır.",
+        "phonetic": "/ɪnˈtændʒəbl/"
+    },
+    {
+        "id": 88,
+        "word": "interim",
+        "translation": "geçici / ara dönem",
+        "example": "An interim solution was found.",
+        "exampleTr": "Geçici bir çözüm bulundu.",
+        "phonetic": "/ˈɪntərɪm/"
+    },
+    {
+        "id": 89,
+        "word": "juxtapose",
+        "translation": "yan yana koymak",
+        "example": "The artist juxtaposed light and dark.",
+        "exampleTr": "Sanatçı aydınlık ve karanlığı yan yana koydu.",
+        "phonetic": "/ˌdʒʌkstəˈpoʊz/"
+    },
+    {
+        "id": 90,
+        "word": "lament",
+        "translation": "ağıt yakmak / yakınmak",
+        "example": "She lamented the loss.",
+        "exampleTr": "Kaybı için ağladı.",
+        "phonetic": "/ləˈment/"
+    },
+    {
+        "id": 91,
+        "word": "lucid",
+        "translation": "açık / anlaşılır",
+        "example": "His explanation was lucid.",
+        "exampleTr": "Açıklaması açık ve anlaşılırdı.",
+        "phonetic": "/ˈluːsɪd/"
+    },
+    {
+        "id": 92,
+        "word": "meticulous",
+        "translation": "titiz",
+        "example": "She is meticulous in her work.",
+        "exampleTr": "İşinde çok titiz.",
+        "phonetic": "/məˈtɪkjələs/"
+    },
+    {
+        "id": 93,
+        "word": "mitigate",
+        "translation": "hafifletmek / azaltmak",
+        "example": "Measures to mitigate climate change.",
+        "exampleTr": "İklim değişikliğini azaltma önlemleri.",
+        "phonetic": "/ˈmɪtɪɡeɪt/"
+    },
+    {
+        "id": 94,
+        "word": "nuance",
+        "translation": "nüans / ince ayrım",
+        "example": "The nuances of the language.",
+        "exampleTr": "Dilin nüansları.",
+        "phonetic": "/ˈnjuːɑːns/"
+    },
+    {
+        "id": 95,
+        "word": "obsolete",
+        "translation": "eskimiş / modası geçmiş",
+        "example": "That technology is obsolete.",
+        "exampleTr": "O teknoloji eskimiş.",
+        "phonetic": "/ˌɒbsəˈliːt/"
+    },
+    {
+        "id": 96,
+        "word": "overt",
+        "translation": "açık / aleni",
+        "example": "There was no overt hostility.",
+        "exampleTr": "Açık bir düşmanlık yoktu.",
+        "phonetic": "/oʊˈvɜːrt/"
+    },
+    {
+        "id": 97,
+        "word": "paradoxical",
+        "translation": "paradoksal / çelişkili",
+        "example": "It's a paradoxical situation.",
+        "exampleTr": "Paradoksal bir durum.",
+        "phonetic": "/ˌpærəˈdɒksɪkl/"
+    },
+    {
+        "id": 98,
+        "word": "permeate",
+        "translation": "nüfuz etmek / yayılmak",
+        "example": "Corruption permeated the system.",
+        "exampleTr": "Yolsuzluk sisteme nüfuz etti.",
+        "phonetic": "/ˈpɜːrmieɪt/"
+    },
+    {
+        "id": 99,
+        "word": "perpetuate",
+        "translation": "sürdürmek / devam ettirmek",
+        "example": "The media perpetuates stereotypes.",
+        "exampleTr": "Medya klişeleri sürdürüyor.",
+        "phonetic": "/pərˈpetʃueɪt/"
+    },
+    {
+        "id": 100,
+        "word": "pertinent",
+        "translation": "ilgili / yerinde",
+        "example": "Ask pertinent questions.",
+        "exampleTr": "Konuyla ilgili sorular sor.",
+        "phonetic": "/ˈpɜːrtɪnənt/"
+    },
+    {
+        "id": 101,
+        "word": "plethora",
+        "translation": "bolluk / çokluk",
+        "example": "A plethora of options.",
+        "exampleTr": "Bol miktarda seçenek.",
+        "phonetic": "/ˈpleθərə/"
+    },
+    {
+        "id": 102,
+        "word": "pragmatic",
+        "translation": "pragmatik / pratik",
+        "example": "We need a pragmatic approach.",
+        "exampleTr": "Pragmatik bir yaklaşıma ihtiyacımız var.",
+        "phonetic": "/præɡˈmætɪk/"
+    },
+    {
+        "id": 103,
+        "word": "precarious",
+        "translation": "tehlikeli / güvensiz",
+        "example": "The economy is in a precarious state.",
+        "exampleTr": "Ekonomi tehlikeli bir durumda.",
+        "phonetic": "/prɪˈkeəriəs/"
+    },
+    {
+        "id": 104,
+        "word": "precipitate",
+        "translation": "hızlandırmak / yol açmak",
+        "example": "The crisis precipitated change.",
+        "exampleTr": "Kriz değişimi hızlandırdı.",
+        "phonetic": "/prɪˈsɪpɪteɪt/"
+    },
+    {
+        "id": 105,
+        "word": "predicate",
+        "translation": "dayandırmak / temellemek",
+        "example": "Success is predicated on hard work.",
+        "exampleTr": "Başarı çok çalışmaya dayanır.",
+        "phonetic": "/ˈpredɪkeɪt/"
+    },
+    {
+        "id": 106,
+        "word": "prerogative",
+        "translation": "ayrıcalık / imtiyaz",
+        "example": "It's the manager's prerogative.",
+        "exampleTr": "Bu müdürün ayrıcalığı.",
+        "phonetic": "/prɪˈrɒɡətɪv/"
+    },
+    {
+        "id": 107,
+        "word": "prevalent",
+        "translation": "yaygın",
+        "example": "The disease is prevalent here.",
+        "exampleTr": "Hastalık burada yaygın.",
+        "phonetic": "/ˈprevələnt/"
+    },
+    {
+        "id": 108,
+        "word": "procure",
+        "translation": "tedarik etmek",
+        "example": "We need to procure supplies.",
+        "exampleTr": "Malzeme tedarik etmemiz gerekiyor.",
+        "phonetic": "/prəˈkjʊr/"
+    },
+    {
+        "id": 109,
+        "word": "profound",
+        "translation": "derin / köklü",
+        "example": "Her words had a profound effect.",
+        "exampleTr": "Sözlerinin derin bir etkisi oldu.",
+        "phonetic": "/prəˈfaʊnd/"
+    },
+    {
+        "id": 110,
+        "word": "proliferate",
+        "translation": "hızla çoğalmak",
+        "example": "Fake news proliferates online.",
+        "exampleTr": "Sahte haberler internette hızla çoğalıyor.",
+        "phonetic": "/prəˈlɪfəreɪt/"
+    },
+    {
+        "id": 111,
+        "word": "propensity",
+        "translation": "eğilim / meyil",
+        "example": "He has a propensity for risk.",
+        "exampleTr": "Risk alma eğilimi var.",
+        "phonetic": "/prəˈpensəti/"
+    },
+    {
+        "id": 112,
+        "word": "protagonist",
+        "translation": "başkahraman",
+        "example": "The protagonist faces many challenges.",
+        "exampleTr": "Başkahraman birçok zorlukla karşılaşıyor.",
+        "phonetic": "/prəˈtæɡənɪst/"
+    },
+    {
+        "id": 113,
+        "word": "prudent",
+        "translation": "ihtiyatlı / tedbirli",
+        "example": "It would be prudent to save money.",
+        "exampleTr": "Para biriktirmek ihtiyatlı olur.",
+        "phonetic": "/ˈpruːdnt/"
+    },
+    {
+        "id": 114,
+        "word": "quintessential",
+        "translation": "en tipik / kusursuz örnek",
+        "example": "She is the quintessential leader.",
+        "exampleTr": "Kusursuz bir lider örneği.",
+        "phonetic": "/ˌkwɪntɪˈsenʃl/"
+    },
+    {
+        "id": 115,
+        "word": "rationale",
+        "translation": "gerekçe / mantık",
+        "example": "What's the rationale behind this decision?",
+        "exampleTr": "Bu kararın gerekçesi ne?",
+        "phonetic": "/ˌræʃəˈnæl/"
+    },
+    {
+        "id": 116,
+        "word": "reconcile",
+        "translation": "uzlaştırmak / barıştırmak",
+        "example": "We need to reconcile these differences.",
+        "exampleTr": "Bu farklılıkları uzlaştırmamız gerekiyor.",
+        "phonetic": "/ˈrekənsaɪl/"
+    },
+    {
+        "id": 117,
+        "word": "redundant",
+        "translation": "gereksiz / fazlalık",
+        "example": "Some employees were made redundant.",
+        "exampleTr": "Bazı çalışanlar fazlalık ilan edildi.",
+        "phonetic": "/rɪˈdʌndənt/"
+    },
+    {
+        "id": 118,
+        "word": "refute",
+        "translation": "çürütmek",
+        "example": "She refuted all the claims.",
+        "exampleTr": "Tüm iddiaları çürüttü.",
+        "phonetic": "/rɪˈfjuːt/"
+    },
+    {
+        "id": 119,
+        "word": "relentless",
+        "translation": "amansız / acımasız",
+        "example": "The rain was relentless.",
+        "exampleTr": "Yağmur amansızdı.",
+        "phonetic": "/rɪˈlentləs/"
+    },
+    {
+        "id": 120,
+        "word": "relinquish",
+        "translation": "vazgeçmek / bırakmak",
+        "example": "He relinquished his position.",
+        "exampleTr": "Pozisyonundan vazgeçti.",
+        "phonetic": "/rɪˈlɪŋkwɪʃ/"
+    },
+    {
+        "id": 121,
+        "word": "repercussion",
+        "translation": "yansıma / sonuç",
+        "example": "The decision had serious repercussions.",
+        "exampleTr": "Kararın ciddi sonuçları oldu.",
+        "phonetic": "/ˌriːpərˈkʌʃn/"
+    },
+    {
+        "id": 122,
+        "word": "replenish",
+        "translation": "yenilemek / doldurmak",
+        "example": "We need to replenish our supplies.",
+        "exampleTr": "Malzemelerimizi yenilememiz gerekiyor.",
+        "phonetic": "/rɪˈplenɪʃ/"
+    },
+    {
+        "id": 123,
+        "word": "resilient",
+        "translation": "dayanıklı / dirençli",
+        "example": "Children are remarkably resilient.",
+        "exampleTr": "Çocuklar oldukça dayanıklıdır.",
+        "phonetic": "/rɪˈzɪliənt/"
+    },
+    {
+        "id": 124,
+        "word": "retaliate",
+        "translation": "misilleme yapmak",
+        "example": "They threatened to retaliate.",
+        "exampleTr": "Misilleme yapmakla tehdit ettiler.",
+        "phonetic": "/rɪˈtælieɪt/"
+    },
+    {
+        "id": 125,
+        "word": "rhetoric",
+        "translation": "retorik / söz sanatı",
+        "example": "His speech was full of rhetoric.",
+        "exampleTr": "Konuşması retorikle doluydu.",
+        "phonetic": "/ˈretərɪk/"
+    },
+    {
+        "id": 126,
+        "word": "rigorous",
+        "translation": "titiz / katı",
+        "example": "The testing was rigorous.",
+        "exampleTr": "Test titiz bir şekilde yapıldı.",
+        "phonetic": "/ˈrɪɡərəs/"
+    },
+    {
+        "id": 127,
+        "word": "rudimentary",
+        "translation": "temel / ilkel",
+        "example": "He has rudimentary knowledge.",
+        "exampleTr": "Temel düzeyde bilgisi var.",
+        "phonetic": "/ˌruːdɪˈmentri/"
+    },
+    {
+        "id": 128,
+        "word": "saturate",
+        "translation": "doyurmak",
+        "example": "The market is saturated.",
+        "exampleTr": "Pazar doymuş.",
+        "phonetic": "/ˈsætʃəreɪt/"
+    },
+    {
+        "id": 129,
+        "word": "scrutinize",
+        "translation": "dikkatle incelemek",
+        "example": "The auditor scrutinized the accounts.",
+        "exampleTr": "Denetçi hesapları dikkatle inceledi.",
+        "phonetic": "/ˈskruːtənaɪz/"
+    },
+    {
+        "id": 130,
+        "word": "sporadic",
+        "translation": "ara sıra olan",
+        "example": "There were sporadic outbreaks.",
+        "exampleTr": "Ara sıra salgınlar oldu.",
+        "phonetic": "/spəˈrædɪk/"
+    },
+    {
+        "id": 131,
+        "word": "stringent",
+        "translation": "katı / sıkı",
+        "example": "Stringent regulations are in place.",
+        "exampleTr": "Katı düzenlemeler yürürlükte.",
+        "phonetic": "/ˈstrɪndʒənt/"
+    },
+    {
+        "id": 132,
+        "word": "subordinate",
+        "translation": "alt / ikincil",
+        "example": "Personal needs are subordinate to work.",
+        "exampleTr": "Kişisel ihtiyaçlar işe tabi.",
+        "phonetic": "/səˈbɔːrdɪnət/"
+    },
+    {
+        "id": 133,
+        "word": "substantiate",
+        "translation": "kanıtlamak",
+        "example": "He couldn't substantiate his claims.",
+        "exampleTr": "İddialarını kanıtlayamadı.",
+        "phonetic": "/səbˈstænʃieɪt/"
+    },
+    {
+        "id": 134,
+        "word": "succinct",
+        "translation": "kısa ve öz",
+        "example": "Give a succinct summary.",
+        "exampleTr": "Kısa ve öz bir özet ver.",
+        "phonetic": "/səkˈsɪŋkt/"
+    },
+    {
+        "id": 135,
+        "word": "supersede",
+        "translation": "yerine geçmek",
+        "example": "The new law supersedes the old one.",
+        "exampleTr": "Yeni yasa eskisinin yerine geçiyor.",
+        "phonetic": "/ˌsuːpərˈsiːd/"
+    },
+    {
+        "id": 136,
+        "word": "supplement",
+        "translation": "takviye / ek",
+        "example": "Take vitamin supplements.",
+        "exampleTr": "Vitamin takviyesi al.",
+        "phonetic": "/ˈsʌplɪment/"
+    },
+    {
+        "id": 137,
+        "word": "susceptible",
+        "translation": "duyarlı / hassas",
+        "example": "Children are susceptible to infections.",
+        "exampleTr": "Çocuklar enfeksiyonlara duyarlıdır.",
+        "phonetic": "/səˈseptəbl/"
+    },
+    {
+        "id": 138,
+        "word": "tangible",
+        "translation": "somut / elle tutulur",
+        "example": "We need tangible results.",
+        "exampleTr": "Somut sonuçlara ihtiyacımız var.",
+        "phonetic": "/ˈtændʒəbl/"
+    },
+    {
+        "id": 139,
+        "word": "tenacious",
+        "translation": "inatçı / kararlı",
+        "example": "She is a tenacious negotiator.",
+        "exampleTr": "Kararlı bir müzakerecidir.",
+        "phonetic": "/tɪˈneɪʃəs/"
+    },
+    {
+        "id": 140,
+        "word": "transcend",
+        "translation": "aşmak / ötesine geçmek",
+        "example": "Music transcends language barriers.",
+        "exampleTr": "Müzik dil engellerini aşar.",
+        "phonetic": "/trænˈsend/"
+    },
+    {
+        "id": 141,
+        "word": "ubiquitous",
+        "translation": "her yerde olan",
+        "example": "Smartphones are ubiquitous.",
+        "exampleTr": "Akıllı telefonlar her yerde.",
+        "phonetic": "/juːˈbɪkwɪtəs/"
+    },
+    {
+        "id": 142,
+        "word": "underpin",
+        "translation": "temelini oluşturmak",
+        "example": "Research underpins our strategy.",
+        "exampleTr": "Araştırma stratejimizin temelini oluşturuyor.",
+        "phonetic": "/ˌʌndərˈpɪn/"
+    },
+    {
+        "id": 143,
+        "word": "unprecedented",
+        "translation": "benzeri görülmemiş",
+        "example": "This is an unprecedented event.",
+        "exampleTr": "Bu benzeri görülmemiş bir olay.",
+        "phonetic": "/ʌnˈpresɪdentɪd/"
+    },
+    {
+        "id": 144,
+        "word": "viable",
+        "translation": "uygulanabilir / sürdürülebilir",
+        "example": "Is this a viable option?",
+        "exampleTr": "Bu uygulanabilir bir seçenek mi?",
+        "phonetic": "/ˈvaɪəbl/"
+    },
+    {
+        "id": 145,
+        "word": "vindicate",
+        "translation": "haklı çıkarmak",
+        "example": "The results vindicated his theory.",
+        "exampleTr": "Sonuçlar teorisini haklı çıkardı.",
+        "phonetic": "/ˈvɪndɪkeɪt/"
+    },
+    {
+        "id": 146,
+        "word": "volatile",
+        "translation": "değişken / oynak",
+        "example": "The market is volatile.",
+        "exampleTr": "Pazar oynak.",
+        "phonetic": "/ˈvɒlətaɪl/"
+    },
+    {
+        "id": 147,
+        "word": "wane",
+        "translation": "azalmak / zayıflamak",
+        "example": "His influence has waned.",
+        "exampleTr": "Etkisi azaldı.",
+        "phonetic": "/weɪn/"
+    },
+    {
+        "id": 148,
+        "word": "warrant",
+        "translation": "haklı göstermek / gerektirmek",
+        "example": "The situation warrants investigation.",
+        "exampleTr": "Durum soruşturmayı gerektiriyor.",
+        "phonetic": "/ˈwɒrənt/"
+    },
+    {
+        "id": 149,
+        "word": "yield",
+        "translation": "vermek / teslim olmak",
+        "example": "The investment yielded high returns.",
+        "exampleTr": "Yatırım yüksek getiri sağladı.",
+        "phonetic": "/jiːld/"
+    },
+    {
+        "id": 150,
+        "word": "zealous",
+        "translation": "gayretli / hevesli",
+        "example": "She is a zealous advocate for change.",
+        "exampleTr": "Değişim için gayretli bir savunucu.",
+        "phonetic": "/ˈzeləs/"
+    }
+]

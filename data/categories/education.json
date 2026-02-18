@@ -1,0 +1,862 @@
+[
+    {
+        "id": 1,
+        "word": "school",
+        "translation": "okul",
+        "example": "I go to school.",
+        "exampleTr": "Okula gidiyorum.",
+        "phonetic": "/skuːl/",
+        "level": "a1"
+    },
+    {
+        "id": 2,
+        "word": "university",
+        "translation": "üniversite",
+        "example": "I study at a university.",
+        "exampleTr": "Bir üniversitede okuyorum.",
+        "phonetic": "/ˌjuːnɪˈvɜːrsəti/",
+        "level": "a2"
+    },
+    {
+        "id": 3,
+        "word": "college",
+        "translation": "kolej / fakülte",
+        "example": "She attends college.",
+        "exampleTr": "Koleje gidiyor.",
+        "phonetic": "/ˈkɒlɪdʒ/",
+        "level": "a2"
+    },
+    {
+        "id": 4,
+        "word": "student",
+        "translation": "öğrenci",
+        "example": "I am a student.",
+        "exampleTr": "Öğrenciyim.",
+        "phonetic": "/ˈstjuːdnt/",
+        "level": "a1"
+    },
+    {
+        "id": 5,
+        "word": "teacher",
+        "translation": "öğretmen",
+        "example": "My teacher is kind.",
+        "exampleTr": "Öğretmenim nazik.",
+        "phonetic": "/ˈtiːtʃər/",
+        "level": "a1"
+    },
+    {
+        "id": 6,
+        "word": "professor",
+        "translation": "profesör",
+        "example": "The professor is brilliant.",
+        "exampleTr": "Profesör çok parlak.",
+        "phonetic": "/prəˈfesər/",
+        "level": "b1"
+    },
+    {
+        "id": 7,
+        "word": "classroom",
+        "translation": "sınıf",
+        "example": "The classroom is clean.",
+        "exampleTr": "Sınıf temiz.",
+        "phonetic": "/ˈklɑːsruːm/",
+        "level": "b2"
+    },
+    {
+        "id": 8,
+        "word": "lesson",
+        "translation": "ders",
+        "example": "The lesson is interesting.",
+        "exampleTr": "Ders ilginç.",
+        "phonetic": "/ˈlesn/",
+        "level": "a2"
+    },
+    {
+        "id": 9,
+        "word": "lecture",
+        "translation": "konferans / ders",
+        "example": "Attend the lecture.",
+        "exampleTr": "Konferansa katıl.",
+        "phonetic": "/ˈlektʃər/",
+        "level": "b1"
+    },
+    {
+        "id": 10,
+        "word": "subject",
+        "translation": "ders / konu",
+        "example": "What's your favorite subject?",
+        "exampleTr": "En sevdiğin ders ne?",
+        "phonetic": "/ˈsʌbdʒɪkt/",
+        "level": "a2"
+    },
+    {
+        "id": 11,
+        "word": "course",
+        "translation": "kurs",
+        "example": "I'm taking an English course.",
+        "exampleTr": "İngilizce kursu alıyorum.",
+        "phonetic": "/kɔːrs/",
+        "level": "b1"
+    },
+    {
+        "id": 12,
+        "word": "study",
+        "translation": "çalışmak / öğrenim",
+        "example": "I study every day.",
+        "exampleTr": "Her gün çalışıyorum.",
+        "phonetic": "/ˈstʌdi/",
+        "level": "a1"
+    },
+    {
+        "id": 13,
+        "word": "learn",
+        "translation": "öğrenmek",
+        "example": "I want to learn English.",
+        "exampleTr": "İngilizce öğrenmek istiyorum.",
+        "phonetic": "/lɜːrn/",
+        "level": "a1"
+    },
+    {
+        "id": 14,
+        "word": "teach",
+        "translation": "öğretmek",
+        "example": "She teaches math.",
+        "exampleTr": "Matematik öğretiyor.",
+        "phonetic": "/tiːtʃ/",
+        "level": "b1"
+    },
+    {
+        "id": 15,
+        "word": "homework",
+        "translation": "ödev",
+        "example": "Do your homework.",
+        "exampleTr": "Ödevini yap.",
+        "phonetic": "/ˈhoʊmwɜːrk/",
+        "level": "a2"
+    },
+    {
+        "id": 16,
+        "word": "assignment",
+        "translation": "ödev / görev",
+        "example": "Submit the assignment.",
+        "exampleTr": "Ödevi teslim et.",
+        "phonetic": "/əˈsaɪnmənt/",
+        "level": "b1"
+    },
+    {
+        "id": 17,
+        "word": "project",
+        "translation": "proje",
+        "example": "Work on your project.",
+        "exampleTr": "Projeni hazırla.",
+        "phonetic": "/ˈprɒdʒekt/",
+        "level": "b2"
+    },
+    {
+        "id": 18,
+        "word": "exam",
+        "translation": "sınav",
+        "example": "I have an exam tomorrow.",
+        "exampleTr": "Yarın sınavım var.",
+        "phonetic": "/ɪɡˈzæm/",
+        "level": "a2"
+    },
+    {
+        "id": 19,
+        "word": "test",
+        "translation": "test",
+        "example": "We have a test today.",
+        "exampleTr": "Bugün testimiz var.",
+        "phonetic": "/test/",
+        "level": "a2"
+    },
+    {
+        "id": 20,
+        "word": "quiz",
+        "translation": "kısa sınav",
+        "example": "We had a pop quiz.",
+        "exampleTr": "Sürpriz sınav yaptık.",
+        "phonetic": "/kwɪz/",
+        "level": "a2"
+    },
+    {
+        "id": 21,
+        "word": "grade",
+        "translation": "not",
+        "example": "I got a good grade.",
+        "exampleTr": "İyi not aldım.",
+        "phonetic": "/ɡreɪd/",
+        "level": "a2"
+    },
+    {
+        "id": 22,
+        "word": "score",
+        "translation": "puan",
+        "example": "What's your score?",
+        "exampleTr": "Puanın ne?",
+        "phonetic": "/skɔːr/",
+        "level": "a2"
+    },
+    {
+        "id": 23,
+        "word": "pass",
+        "translation": "geçmek",
+        "example": "I passed the exam.",
+        "exampleTr": "Sınavı geçtim.",
+        "phonetic": "/pæs/",
+        "level": "a2"
+    },
+    {
+        "id": 24,
+        "word": "fail",
+        "translation": "başarısız olmak",
+        "example": "I failed the test.",
+        "exampleTr": "Sınavda başarısız oldum.",
+        "phonetic": "/feɪl/",
+        "level": "a2"
+    },
+    {
+        "id": 25,
+        "word": "graduate",
+        "translation": "mezun olmak",
+        "example": "I graduated last year.",
+        "exampleTr": "Geçen yıl mezun oldum.",
+        "phonetic": "/ˈɡrædʒueɪt/",
+        "level": "b2"
+    },
+    {
+        "id": 26,
+        "word": "diploma",
+        "translation": "diploma",
+        "example": "I received my diploma.",
+        "exampleTr": "Diplomamı aldım.",
+        "phonetic": "/dɪˈploʊmə/",
+        "level": "b2"
+    },
+    {
+        "id": 27,
+        "word": "degree",
+        "translation": "derece / diploma",
+        "example": "I have a bachelor's degree.",
+        "exampleTr": "Lisans diplomam var.",
+        "phonetic": "/dɪˈɡriː/",
+        "level": "a2"
+    },
+    {
+        "id": 28,
+        "word": "certificate",
+        "translation": "sertifika",
+        "example": "I got a certificate.",
+        "exampleTr": "Sertifika aldım.",
+        "phonetic": "/sərˈtɪfɪkət/",
+        "level": "a2"
+    },
+    {
+        "id": 29,
+        "word": "scholarship",
+        "translation": "burs",
+        "example": "I won a scholarship.",
+        "exampleTr": "Burs kazandım.",
+        "phonetic": "/ˈskɒlərʃɪp/",
+        "level": "b1"
+    },
+    {
+        "id": 30,
+        "word": "tuition",
+        "translation": "öğrenim ücreti",
+        "example": "Tuition is expensive.",
+        "exampleTr": "Öğrenim ücreti pahalı.",
+        "phonetic": "/tjuˈɪʃn/",
+        "level": "b2"
+    },
+    {
+        "id": 31,
+        "word": "notebook",
+        "translation": "defter",
+        "example": "Write in your notebook.",
+        "exampleTr": "Defterine yaz.",
+        "phonetic": "/ˈnoʊtbʊk/",
+        "level": "b2"
+    },
+    {
+        "id": 32,
+        "word": "textbook",
+        "translation": "ders kitabı",
+        "example": "Open your textbook.",
+        "exampleTr": "Ders kitabını aç.",
+        "phonetic": "/ˈtekstbʊk/",
+        "level": "b2"
+    },
+    {
+        "id": 33,
+        "word": "pen",
+        "translation": "kalem",
+        "example": "I need a pen.",
+        "exampleTr": "Bir kaleme ihtiyacım var.",
+        "phonetic": "/pen/",
+        "level": "a1"
+    },
+    {
+        "id": 34,
+        "word": "pencil",
+        "translation": "kurşun kalem",
+        "example": "Use a pencil.",
+        "exampleTr": "Kurşun kalem kullan.",
+        "phonetic": "/ˈpensl/",
+        "level": "a1"
+    },
+    {
+        "id": 35,
+        "word": "eraser",
+        "translation": "silgi",
+        "example": "Where is my eraser?",
+        "exampleTr": "Silgim nerede?",
+        "phonetic": "/ɪˈreɪsər/",
+        "level": "b1"
+    },
+    {
+        "id": 36,
+        "word": "ruler",
+        "translation": "cetvel",
+        "example": "Draw a line with a ruler.",
+        "exampleTr": "Cetvel ile çizgi çiz.",
+        "phonetic": "/ˈruːlər/",
+        "level": "b1"
+    },
+    {
+        "id": 37,
+        "word": "library",
+        "translation": "kütüphane",
+        "example": "Study at the library.",
+        "exampleTr": "Kütüphanede çalış.",
+        "phonetic": "/ˈlaɪbreri/",
+        "level": "a2"
+    },
+    {
+        "id": 38,
+        "word": "dictionary",
+        "translation": "sözlük",
+        "example": "Use a dictionary.",
+        "exampleTr": "Sözlük kullan.",
+        "phonetic": "/ˈdɪkʃəneri/",
+        "level": "c1"
+    },
+    {
+        "id": 39,
+        "word": "knowledge",
+        "translation": "bilgi",
+        "example": "Knowledge is power.",
+        "exampleTr": "Bilgi güçtür.",
+        "phonetic": "/ˈnɒlɪdʒ/",
+        "level": "b2"
+    },
+    {
+        "id": 40,
+        "word": "skill",
+        "translation": "beceri",
+        "example": "Develop your skills.",
+        "exampleTr": "Becerilerini geliştir.",
+        "phonetic": "/skɪl/",
+        "level": "b1"
+    },
+    {
+        "id": 41,
+        "word": "practice",
+        "translation": "pratik yapmak",
+        "example": "Practice makes perfect.",
+        "exampleTr": "Pratik mükemmelleştirir.",
+        "phonetic": "/ˈpræktɪs/",
+        "level": "a2"
+    },
+    {
+        "id": 42,
+        "word": "research",
+        "translation": "araştırma",
+        "example": "Do some research.",
+        "exampleTr": "Biraz araştırma yap.",
+        "phonetic": "/rɪˈsɜːrtʃ/",
+        "level": "b1"
+    },
+    {
+        "id": 43,
+        "word": "essay",
+        "translation": "deneme / makale",
+        "example": "Write an essay.",
+        "exampleTr": "Bir deneme yaz.",
+        "phonetic": "/ˈeseɪ/",
+        "level": "b1"
+    },
+    {
+        "id": 44,
+        "word": "report",
+        "translation": "rapor",
+        "example": "Write a report.",
+        "exampleTr": "Bir rapor yaz.",
+        "phonetic": "/rɪˈpɔːrt/",
+        "level": "b1"
+    },
+    {
+        "id": 45,
+        "word": "presentation",
+        "translation": "sunum",
+        "example": "Give a presentation.",
+        "exampleTr": "Sunum yap.",
+        "phonetic": "/ˌprezənˈteɪʃn/",
+        "level": "c1"
+    },
+    {
+        "id": 46,
+        "word": "seminar",
+        "translation": "seminer",
+        "example": "Attend a seminar.",
+        "exampleTr": "Seminere katıl.",
+        "phonetic": "/ˈsemɪnɑːr/",
+        "level": "b1"
+    },
+    {
+        "id": 47,
+        "word": "workshop",
+        "translation": "atölye",
+        "example": "Join the workshop.",
+        "exampleTr": "Atölyeye katıl.",
+        "phonetic": "/ˈwɜːrkʃɒp/",
+        "level": "b2"
+    },
+    {
+        "id": 48,
+        "word": "enroll",
+        "translation": "kaydolmak",
+        "example": "Enroll in the course.",
+        "exampleTr": "Kursa kaydol.",
+        "phonetic": "/ɪnˈroʊl/",
+        "level": "b1"
+    },
+    {
+        "id": 49,
+        "word": "absent",
+        "translation": "devamsız",
+        "example": "He was absent today.",
+        "exampleTr": "Bugün devamsızdı.",
+        "phonetic": "/ˈæbsənt/",
+        "level": "b1"
+    },
+    {
+        "id": 50,
+        "word": "attend",
+        "translation": "katılmak",
+        "example": "Attend all classes.",
+        "exampleTr": "Tüm derslere katıl.",
+        "phonetic": "/əˈtend/",
+        "level": "b1"
+    },
+    {
+        "id": 51,
+        "word": "major",
+        "translation": "ana dal",
+        "example": "What's your major?",
+        "exampleTr": "Ana dalın ne?",
+        "phonetic": "/ˈmeɪdʒər/",
+        "level": "b1"
+    },
+    {
+        "id": 52,
+        "word": "minor",
+        "translation": "yan dal",
+        "example": "I chose a minor.",
+        "exampleTr": "Bir yan dal seçtim.",
+        "phonetic": "/ˈmaɪnər/",
+        "level": "b1"
+    },
+    {
+        "id": 53,
+        "word": "semester",
+        "translation": "dönem",
+        "example": "This semester is busy.",
+        "exampleTr": "Bu dönem yoğun.",
+        "phonetic": "/sɪˈmestər/",
+        "level": "b2"
+    },
+    {
+        "id": 54,
+        "word": "term",
+        "translation": "dönem",
+        "example": "The term starts soon.",
+        "exampleTr": "Dönem yakında başlıyor.",
+        "phonetic": "/tɜːrm/",
+        "level": "a2"
+    },
+    {
+        "id": 55,
+        "word": "academic",
+        "translation": "akademik",
+        "example": "Focus on academic work.",
+        "exampleTr": "Akademik çalışmalara odaklan.",
+        "phonetic": "/ˌækəˈdemɪk/",
+        "level": "b2"
+    },
+    {
+        "id": 56,
+        "word": "curriculum",
+        "translation": "müfredat",
+        "example": "Check the curriculum.",
+        "exampleTr": "Müfredatı kontrol et.",
+        "phonetic": "/kəˈrɪkjələm/",
+        "level": "b1"
+    },
+    {
+        "id": 57,
+        "word": "deadline",
+        "translation": "son teslim tarihi",
+        "example": "Meet the deadline.",
+        "exampleTr": "Son teslim tarihine yetiş.",
+        "phonetic": "/ˈdedlaɪn/",
+        "level": "b1"
+    },
+    {
+        "id": 58,
+        "word": "concentrate",
+        "translation": "konsantre olmak",
+        "example": "I can't concentrate.",
+        "exampleTr": "Konsantre olamıyorum.",
+        "phonetic": "/ˈkɒnsəntreɪt/",
+        "level": "c1"
+    },
+    {
+        "id": 59,
+        "word": "memorize",
+        "translation": "ezberlemek",
+        "example": "Memorize the vocabulary.",
+        "exampleTr": "Kelimeleri ezberle.",
+        "phonetic": "/ˈmeməraɪz/",
+        "level": "b2"
+    },
+    {
+        "id": 60,
+        "word": "understand",
+        "translation": "anlamak",
+        "example": "I understand now.",
+        "exampleTr": "Şimdi anlıyorum.",
+        "phonetic": "/ˌʌndərˈstænd/",
+        "level": "c1"
+    },
+    {
+        "id": 61,
+        "word": "algebra",
+        "translation": "cebir",
+        "example": "She studies algebra.",
+        "exampleTr": "Cebir çalışıyor.",
+        "phonetic": "/ˈældʒɪbrə/"
+    },
+    {
+        "id": 62,
+        "word": "alumni",
+        "translation": "mezunlar",
+        "example": "Alumni gathered for the reunion.",
+        "exampleTr": "Mezunlar buluşma için toplandı.",
+        "phonetic": "/əˈlʌmnaɪ/"
+    },
+    {
+        "id": 63,
+        "word": "assessment",
+        "translation": "değerlendirme",
+        "example": "The assessment will be on Friday.",
+        "exampleTr": "Değerlendirme Cuma günü olacak.",
+        "phonetic": "/əˈsesmənt/"
+    },
+    {
+        "id": 64,
+        "word": "attendance",
+        "translation": "devam / katılım",
+        "example": "Attendance is mandatory.",
+        "exampleTr": "Devam zorunludur.",
+        "phonetic": "/əˈtendəns/"
+    },
+    {
+        "id": 65,
+        "word": "bachelor",
+        "translation": "lisans",
+        "example": "He has a bachelor's degree.",
+        "exampleTr": "Lisans derecesi var.",
+        "phonetic": "/ˈbætʃələr/"
+    },
+    {
+        "id": 66,
+        "word": "boarding",
+        "translation": "yatılı",
+        "example": "She went to a boarding school.",
+        "exampleTr": "Yatılı okula gitti.",
+        "phonetic": "/ˈbɔːrdɪŋ/"
+    },
+    {
+        "id": 67,
+        "word": "campus",
+        "translation": "kampüs",
+        "example": "The campus is very large.",
+        "exampleTr": "Kampüs çok büyük.",
+        "phonetic": "/ˈkæmpəs/"
+    },
+    {
+        "id": 68,
+        "word": "certificate",
+        "translation": "sertifika",
+        "example": "She earned a certificate.",
+        "exampleTr": "Bir sertifika kazandı.",
+        "phonetic": "/sərˈtɪfɪkət/"
+    },
+    {
+        "id": 69,
+        "word": "comprehension",
+        "translation": "anlama / kavrama",
+        "example": "Reading comprehension is important.",
+        "exampleTr": "Okuduğunu anlama önemli.",
+        "phonetic": "/ˌkɒmprɪˈhenʃn/"
+    },
+    {
+        "id": 70,
+        "word": "coursework",
+        "translation": "ders çalışması",
+        "example": "Complete your coursework on time.",
+        "exampleTr": "Ders çalışmanı zamanında tamamla.",
+        "phonetic": "/ˈkɔːrswɜːrk/"
+    },
+    {
+        "id": 71,
+        "word": "dean",
+        "translation": "dekan",
+        "example": "The dean addressed the students.",
+        "exampleTr": "Dekan öğrencilere hitap etti.",
+        "phonetic": "/diːn/"
+    },
+    {
+        "id": 72,
+        "word": "dissertation",
+        "translation": "tez",
+        "example": "She wrote her dissertation.",
+        "exampleTr": "Tezini yazdı.",
+        "phonetic": "/ˌdɪsərˈteɪʃn/"
+    },
+    {
+        "id": 73,
+        "word": "dormitory",
+        "translation": "yurt",
+        "example": "Students live in the dormitory.",
+        "exampleTr": "Öğrenciler yurtta yaşıyor.",
+        "phonetic": "/ˈdɔːrmɪtɔːri/"
+    },
+    {
+        "id": 74,
+        "word": "dropout",
+        "translation": "okulu bırakan",
+        "example": "The dropout rate is high.",
+        "exampleTr": "Okulu bırakma oranı yüksek.",
+        "phonetic": "/ˈdrɒpaʊt/"
+    },
+    {
+        "id": 75,
+        "word": "elective",
+        "translation": "seçmeli ders",
+        "example": "I chose art as an elective.",
+        "exampleTr": "Seçmeli olarak sanatı seçtim.",
+        "phonetic": "/ɪˈlektɪv/"
+    },
+    {
+        "id": 76,
+        "word": "enrollment",
+        "translation": "kayıt",
+        "example": "Enrollment starts next week.",
+        "exampleTr": "Kayıtlar gelecek hafta başlıyor.",
+        "phonetic": "/ɪnˈroʊlmənt/"
+    },
+    {
+        "id": 77,
+        "word": "essay",
+        "translation": "deneme / makale",
+        "example": "Write a 500-word essay.",
+        "exampleTr": "500 kelimelik bir deneme yaz.",
+        "phonetic": "/ˈeseɪ/"
+    },
+    {
+        "id": 78,
+        "word": "faculty",
+        "translation": "fakülte / öğretim üyeleri",
+        "example": "The faculty is excellent.",
+        "exampleTr": "Fakülte mükemmel.",
+        "phonetic": "/ˈfækəlti/"
+    },
+    {
+        "id": 79,
+        "word": "fellowship",
+        "translation": "burs / akademik pozisyon",
+        "example": "He received a research fellowship.",
+        "exampleTr": "Araştırma bursu aldı.",
+        "phonetic": "/ˈfeloʊʃɪp/"
+    },
+    {
+        "id": 80,
+        "word": "geometry",
+        "translation": "geometri",
+        "example": "Geometry is fascinating.",
+        "exampleTr": "Geometri büyüleyici.",
+        "phonetic": "/dʒiˈɒmətri/"
+    },
+    {
+        "id": 81,
+        "word": "grading",
+        "translation": "notlandırma",
+        "example": "The grading system is fair.",
+        "exampleTr": "Notlandırma sistemi adil.",
+        "phonetic": "/ˈɡreɪdɪŋ/"
+    },
+    {
+        "id": 82,
+        "word": "illiterate",
+        "translation": "okuma yazma bilmeyen",
+        "example": "Millions of people are illiterate.",
+        "exampleTr": "Milyonlarca insan okuma yazma bilmiyor.",
+        "phonetic": "/ɪˈlɪtərət/"
+    },
+    {
+        "id": 83,
+        "word": "internship",
+        "translation": "staj",
+        "example": "She got a summer internship.",
+        "exampleTr": "Yaz stajı aldı.",
+        "phonetic": "/ˈɪntɜːrnʃɪp/"
+    },
+    {
+        "id": 84,
+        "word": "lecture",
+        "translation": "ders / konferans",
+        "example": "The lecture was interesting.",
+        "exampleTr": "Ders ilginçti.",
+        "phonetic": "/ˈlektʃər/"
+    },
+    {
+        "id": 85,
+        "word": "literacy",
+        "translation": "okuryazarlık",
+        "example": "Literacy rates are improving.",
+        "exampleTr": "Okuryazarlık oranları artıyor.",
+        "phonetic": "/ˈlɪtərəsi/"
+    },
+    {
+        "id": 86,
+        "word": "manuscript",
+        "translation": "el yazması",
+        "example": "The manuscript is old.",
+        "exampleTr": "El yazması eski.",
+        "phonetic": "/ˈmænjuskrɪpt/"
+    },
+    {
+        "id": 87,
+        "word": "mentor",
+        "translation": "akıl hocası",
+        "example": "She is my mentor.",
+        "exampleTr": "O benim akıl hocam.",
+        "phonetic": "/ˈmentɔːr/"
+    },
+    {
+        "id": 88,
+        "word": "module",
+        "translation": "modül",
+        "example": "This module covers grammar.",
+        "exampleTr": "Bu modül dil bilgisini kapsar.",
+        "phonetic": "/ˈmɒdjuːl/"
+    },
+    {
+        "id": 89,
+        "word": "pedagogy",
+        "translation": "pedagoji / eğitim bilimi",
+        "example": "Modern pedagogy is student-centered.",
+        "exampleTr": "Modern pedagoji öğrenci merkezli.",
+        "phonetic": "/ˈpedəɡɒdʒi/"
+    },
+    {
+        "id": 90,
+        "word": "plagiarism",
+        "translation": "intihal",
+        "example": "Plagiarism is a serious offense.",
+        "exampleTr": "İntihal ciddi bir suç.",
+        "phonetic": "/ˈpleɪdʒərɪzəm/"
+    },
+    {
+        "id": 91,
+        "word": "postgraduate",
+        "translation": "lisansüstü",
+        "example": "She is a postgraduate student.",
+        "exampleTr": "Lisansüstü öğrenci.",
+        "phonetic": "/ˌpoʊstˈɡrædʒuət/"
+    },
+    {
+        "id": 92,
+        "word": "prerequisite",
+        "translation": "ön koşul",
+        "example": "Math is a prerequisite.",
+        "exampleTr": "Matematik bir ön koşul.",
+        "phonetic": "/priːˈrekwɪzɪt/"
+    },
+    {
+        "id": 93,
+        "word": "principal",
+        "translation": "müdür",
+        "example": "The principal announced the news.",
+        "exampleTr": "Müdür haberi duyurdu.",
+        "phonetic": "/ˈprɪnsəpl/"
+    },
+    {
+        "id": 94,
+        "word": "prodigy",
+        "translation": "dahi çocuk",
+        "example": "She is a math prodigy.",
+        "exampleTr": "Matematik dahisi.",
+        "phonetic": "/ˈprɒdɪdʒi/"
+    },
+    {
+        "id": 95,
+        "word": "proficiency",
+        "translation": "yeterlilik",
+        "example": "English proficiency is required.",
+        "exampleTr": "İngilizce yeterliliği gerekli.",
+        "phonetic": "/prəˈfɪʃnsi/"
+    },
+    {
+        "id": 96,
+        "word": "scholarship",
+        "translation": "burs",
+        "example": "She won a scholarship.",
+        "exampleTr": "Burs kazandı.",
+        "phonetic": "/ˈskɒlərʃɪp/"
+    },
+    {
+        "id": 97,
+        "word": "semester",
+        "translation": "dönem",
+        "example": "The semester starts in September.",
+        "exampleTr": "Dönem Eylül'de başlıyor.",
+        "phonetic": "/sɪˈmestər/"
+    },
+    {
+        "id": 98,
+        "word": "syllabus",
+        "translation": "müfredat",
+        "example": "Check the syllabus for details.",
+        "exampleTr": "Detaylar için müfredata bak.",
+        "phonetic": "/ˈsɪləbəs/"
+    },
+    {
+        "id": 99,
+        "word": "thesis",
+        "translation": "tez",
+        "example": "He defended his thesis.",
+        "exampleTr": "Tezini savundu.",
+        "phonetic": "/ˈθiːsɪs/"
+    },
+    {
+        "id": 100,
+        "word": "tutor",
+        "translation": "özel öğretmen",
+        "example": "She hired a math tutor.",
+        "exampleTr": "Matematik özel öğretmen tuttu.",
+        "phonetic": "/ˈtjuːtər/"
+    }
+]

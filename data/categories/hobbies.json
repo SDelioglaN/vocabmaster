@@ -1,0 +1,862 @@
+[
+    {
+        "id": 1,
+        "word": "hobby",
+        "translation": "hobi",
+        "example": "What's your hobby?",
+        "exampleTr": "Hobin ne?",
+        "phonetic": "/ˈhɒbi/",
+        "level": "b1"
+    },
+    {
+        "id": 2,
+        "word": "game",
+        "translation": "oyun",
+        "example": "Let's play a game.",
+        "exampleTr": "Hadi oyun oynayalım.",
+        "phonetic": "/ɡeɪm/",
+        "level": "a2"
+    },
+    {
+        "id": 3,
+        "word": "movie",
+        "translation": "film",
+        "example": "Let's watch a movie.",
+        "exampleTr": "Film izleyelim.",
+        "phonetic": "/ˈmuːvi/",
+        "level": "b1"
+    },
+    {
+        "id": 4,
+        "word": "music",
+        "translation": "müzik",
+        "example": "I love music.",
+        "exampleTr": "Müziği seviyorum.",
+        "phonetic": "/ˈmjuːzɪk/",
+        "level": "a1"
+    },
+    {
+        "id": 5,
+        "word": "concert",
+        "translation": "konser",
+        "example": "We went to a concert.",
+        "exampleTr": "Konsere gittik.",
+        "phonetic": "/ˈkɒnsərt/",
+        "level": "a2"
+    },
+    {
+        "id": 6,
+        "word": "dance",
+        "translation": "dans etmek",
+        "example": "I like to dance.",
+        "exampleTr": "Dans etmeyi severim.",
+        "phonetic": "/dæns/",
+        "level": "a1"
+    },
+    {
+        "id": 7,
+        "word": "sing",
+        "translation": "şarkı söylemek",
+        "example": "She sings well.",
+        "exampleTr": "İyi şarkı söylüyor.",
+        "phonetic": "/sɪŋ/",
+        "level": "a1"
+    },
+    {
+        "id": 8,
+        "word": "draw",
+        "translation": "çizmek",
+        "example": "I like to draw.",
+        "exampleTr": "Çizmeyi severim.",
+        "phonetic": "/drɔː/",
+        "level": "a2"
+    },
+    {
+        "id": 9,
+        "word": "paint",
+        "translation": "resim yapmak",
+        "example": "She paints beautifully.",
+        "exampleTr": "Güzel resim yapıyor.",
+        "phonetic": "/peɪnt/",
+        "level": "b1"
+    },
+    {
+        "id": 10,
+        "word": "photography",
+        "translation": "fotoğrafçılık",
+        "example": "Photography is my hobby.",
+        "exampleTr": "Fotoğrafçılık hobim.",
+        "phonetic": "/fəˈtɒɡrəfi/",
+        "level": "c1"
+    },
+    {
+        "id": 11,
+        "word": "read",
+        "translation": "okumak",
+        "example": "I read every day.",
+        "exampleTr": "Her gün okurum.",
+        "phonetic": "/riːd/",
+        "level": "a1"
+    },
+    {
+        "id": 12,
+        "word": "book",
+        "translation": "kitap",
+        "example": "I'm reading a book.",
+        "exampleTr": "Bir kitap okuyorum.",
+        "phonetic": "/bʊk/",
+        "level": "a1"
+    },
+    {
+        "id": 13,
+        "word": "write",
+        "translation": "yazmak",
+        "example": "I write stories.",
+        "exampleTr": "Hikayeler yazıyorum.",
+        "phonetic": "/raɪt/",
+        "level": "a1"
+    },
+    {
+        "id": 14,
+        "word": "cook",
+        "translation": "yemek pişirmek",
+        "example": "I love to cook.",
+        "exampleTr": "Yemek pişirmeyi seviyorum.",
+        "phonetic": "/kʊk/",
+        "level": "a1"
+    },
+    {
+        "id": 15,
+        "word": "garden",
+        "translation": "bahçıvanlık yapmak",
+        "example": "I garden on weekends.",
+        "exampleTr": "Hafta sonları bahçeyle uğraşırım.",
+        "phonetic": "/ˈɡɑːrdn/",
+        "level": "a1"
+    },
+    {
+        "id": 16,
+        "word": "swim",
+        "translation": "yüzmek",
+        "example": "I swim every morning.",
+        "exampleTr": "Her sabah yüzerim.",
+        "phonetic": "/swɪm/",
+        "level": "a1"
+    },
+    {
+        "id": 17,
+        "word": "run",
+        "translation": "koşmak",
+        "example": "I run in the park.",
+        "exampleTr": "Parkta koşarım.",
+        "phonetic": "/rʌn/",
+        "level": "a1"
+    },
+    {
+        "id": 18,
+        "word": "walk",
+        "translation": "yürümek",
+        "example": "I walk my dog.",
+        "exampleTr": "Köpeğimi gezdiririm.",
+        "phonetic": "/wɔːk/",
+        "level": "a1"
+    },
+    {
+        "id": 19,
+        "word": "cycle",
+        "translation": "bisiklete binmek",
+        "example": "I cycle to work.",
+        "exampleTr": "İşe bisikletle giderim.",
+        "phonetic": "/ˈsaɪkl/",
+        "level": "b1"
+    },
+    {
+        "id": 20,
+        "word": "hike",
+        "translation": "doğa yürüyüşü",
+        "example": "Let's go hiking.",
+        "exampleTr": "Doğa yürüyüşüne gidelim.",
+        "phonetic": "/haɪk/",
+        "level": "a2"
+    },
+    {
+        "id": 21,
+        "word": "camp",
+        "translation": "kamp yapmak",
+        "example": "We camp in summer.",
+        "exampleTr": "Yazın kamp yaparız.",
+        "phonetic": "/kæmp/",
+        "level": "a2"
+    },
+    {
+        "id": 22,
+        "word": "climb",
+        "translation": "tırmanmak",
+        "example": "We climb mountains.",
+        "exampleTr": "Dağlara tırmanırız.",
+        "phonetic": "/klaɪm/",
+        "level": "b1"
+    },
+    {
+        "id": 23,
+        "word": "fishing",
+        "translation": "balık tutma",
+        "example": "Fishing is relaxing.",
+        "exampleTr": "Balık tutmak rahatlatıcı.",
+        "phonetic": "/ˈfɪʃɪŋ/",
+        "level": "b2"
+    },
+    {
+        "id": 24,
+        "word": "sport",
+        "translation": "spor",
+        "example": "I do sport.",
+        "exampleTr": "Spor yaparım.",
+        "phonetic": "/spɔːrt/",
+        "level": "a1"
+    },
+    {
+        "id": 25,
+        "word": "football",
+        "translation": "futbol",
+        "example": "I play football.",
+        "exampleTr": "Futbol oynarım.",
+        "phonetic": "/ˈfʊtbɔːl/",
+        "level": "a1"
+    },
+    {
+        "id": 26,
+        "word": "basketball",
+        "translation": "basketbol",
+        "example": "I watch basketball.",
+        "exampleTr": "Basketbol izlerim.",
+        "phonetic": "/ˈbæskɪtbɔːl/",
+        "level": "a1"
+    },
+    {
+        "id": 27,
+        "word": "tennis",
+        "translation": "tenis",
+        "example": "Let's play tennis.",
+        "exampleTr": "Tenis oynayalım.",
+        "phonetic": "/ˈtenɪs/",
+        "level": "a2"
+    },
+    {
+        "id": 28,
+        "word": "yoga",
+        "translation": "yoga",
+        "example": "I do yoga.",
+        "exampleTr": "Yoga yaparım.",
+        "phonetic": "/ˈjoʊɡə/",
+        "level": "a2"
+    },
+    {
+        "id": 29,
+        "word": "gym",
+        "translation": "spor salonu",
+        "example": "I go to the gym.",
+        "exampleTr": "Spor salonuna giderim.",
+        "phonetic": "/dʒɪm/",
+        "level": "a2"
+    },
+    {
+        "id": 30,
+        "word": "exercise",
+        "translation": "egzersiz yapmak",
+        "example": "I exercise daily.",
+        "exampleTr": "Her gün egzersiz yaparım.",
+        "phonetic": "/ˈeksərsaɪz/",
+        "level": "a2"
+    },
+    {
+        "id": 31,
+        "word": "travel",
+        "translation": "seyahat etmek",
+        "example": "I love to travel.",
+        "exampleTr": "Seyahat etmeyi seviyorum.",
+        "phonetic": "/ˈtrævl/",
+        "level": "b1"
+    },
+    {
+        "id": 32,
+        "word": "collect",
+        "translation": "koleksiyon yapmak",
+        "example": "I collect stamps.",
+        "exampleTr": "Pul koleksiyonu yapıyorum.",
+        "phonetic": "/kəˈlekt/",
+        "level": "b2"
+    },
+    {
+        "id": 33,
+        "word": "puzzle",
+        "translation": "bulmaca",
+        "example": "I do puzzles.",
+        "exampleTr": "Bulmaca çözerim.",
+        "phonetic": "/ˈpʌzl/",
+        "level": "b1"
+    },
+    {
+        "id": 34,
+        "word": "chess",
+        "translation": "satranç",
+        "example": "I play chess.",
+        "exampleTr": "Satranç oynarım.",
+        "phonetic": "/tʃes/",
+        "level": "b1"
+    },
+    {
+        "id": 35,
+        "word": "video game",
+        "translation": "video oyunu",
+        "example": "I play video games.",
+        "exampleTr": "Video oyunları oynarım.",
+        "phonetic": "/ˈvɪdioʊ ɡeɪm/",
+        "level": "c1"
+    },
+    {
+        "id": 36,
+        "word": "theater",
+        "translation": "tiyatro",
+        "example": "Let's go to the theater.",
+        "exampleTr": "Tiyatroya gidelim.",
+        "phonetic": "/ˈθiːətər/",
+        "level": "a2"
+    },
+    {
+        "id": 37,
+        "word": "museum",
+        "translation": "müze",
+        "example": "Visit the museum.",
+        "exampleTr": "Müzeyi ziyaret et.",
+        "phonetic": "/mjuˈziːəm/",
+        "level": "a2"
+    },
+    {
+        "id": 38,
+        "word": "exhibition",
+        "translation": "sergi",
+        "example": "There's an art exhibition.",
+        "exampleTr": "Bir sanat sergisi var.",
+        "phonetic": "/ˌeksɪˈbɪʃn/",
+        "level": "c1"
+    },
+    {
+        "id": 39,
+        "word": "party",
+        "translation": "parti",
+        "example": "Let's have a party.",
+        "exampleTr": "Parti yapalım.",
+        "phonetic": "/ˈpɑːrti/",
+        "level": "b1"
+    },
+    {
+        "id": 40,
+        "word": "celebrate",
+        "translation": "kutlamak",
+        "example": "Let's celebrate!",
+        "exampleTr": "Kutlayalım!",
+        "phonetic": "/ˈseləbreɪt/",
+        "level": "a2"
+    },
+    {
+        "id": 41,
+        "word": "entertainment",
+        "translation": "eğlence",
+        "example": "What's for entertainment?",
+        "exampleTr": "Eğlence ne var?",
+        "phonetic": "/ˌentərˈteɪnmənt/",
+        "level": "c1"
+    },
+    {
+        "id": 42,
+        "word": "relax",
+        "translation": "dinlenmek",
+        "example": "I relax on Sundays.",
+        "exampleTr": "Pazarları dinlenirim.",
+        "phonetic": "/rɪˈlæks/",
+        "level": "b1"
+    },
+    {
+        "id": 43,
+        "word": "leisure",
+        "translation": "boş zaman",
+        "example": "What do you do in your leisure time?",
+        "exampleTr": "Boş zamanında ne yaparsın?",
+        "phonetic": "/ˈleʒər/",
+        "level": "b2"
+    },
+    {
+        "id": 44,
+        "word": "fun",
+        "translation": "eğlence",
+        "example": "Have fun!",
+        "exampleTr": "İyi eğlenceler!",
+        "phonetic": "/fʌn/",
+        "level": "a2"
+    },
+    {
+        "id": 45,
+        "word": "enjoy",
+        "translation": "keyif almak",
+        "example": "Enjoy your vacation!",
+        "exampleTr": "Tatilinin keyfini çıkar!",
+        "phonetic": "/ɪnˈdʒɔɪ/",
+        "level": "b1"
+    },
+    {
+        "id": 46,
+        "word": "interest",
+        "translation": "ilgi",
+        "example": "What are your interests?",
+        "exampleTr": "İlgi alanların neler?",
+        "phonetic": "/ˈɪntrəst/",
+        "level": "b1"
+    },
+    {
+        "id": 47,
+        "word": "bored",
+        "translation": "sıkılmış",
+        "example": "I'm bored.",
+        "exampleTr": "Sıkıldım.",
+        "phonetic": "/bɔːrd/",
+        "level": "a2"
+    },
+    {
+        "id": 48,
+        "word": "exciting",
+        "translation": "heyecan verici",
+        "example": "This is exciting!",
+        "exampleTr": "Bu heyecan verici!",
+        "phonetic": "/ɪkˈsaɪtɪŋ/",
+        "level": "b2"
+    },
+    {
+        "id": 49,
+        "word": "boring",
+        "translation": "sıkıcı",
+        "example": "The movie was boring.",
+        "exampleTr": "Film sıkıcıydı.",
+        "phonetic": "/ˈbɔːrɪŋ/",
+        "level": "b1"
+    },
+    {
+        "id": 50,
+        "word": "adventure",
+        "translation": "macera",
+        "example": "I love adventure.",
+        "exampleTr": "Macerayı seviyorum.",
+        "phonetic": "/ədˈventʃər/",
+        "level": "b2"
+    },
+    {
+        "id": 51,
+        "word": "podcast",
+        "translation": "podcast",
+        "example": "I listen to podcasts.",
+        "exampleTr": "Podcast dinlerim.",
+        "phonetic": "/ˈpɒdkɑːst/",
+        "level": "b2"
+    },
+    {
+        "id": 52,
+        "word": "stream",
+        "translation": "canlı yayın",
+        "example": "I stream movies.",
+        "exampleTr": "Film izlerim (online).",
+        "phonetic": "/striːm/",
+        "level": "b1"
+    },
+    {
+        "id": 53,
+        "word": "series",
+        "translation": "dizi",
+        "example": "I'm watching a series.",
+        "exampleTr": "Bir dizi izliyorum.",
+        "phonetic": "/ˈsɪriːz/",
+        "level": "b1"
+    },
+    {
+        "id": 54,
+        "word": "guitar",
+        "translation": "gitar",
+        "example": "I play guitar.",
+        "exampleTr": "Gitar çalarım.",
+        "phonetic": "/ɡɪˈtɑːr/",
+        "level": "a1"
+    },
+    {
+        "id": 55,
+        "word": "piano",
+        "translation": "piyano",
+        "example": "She plays piano.",
+        "exampleTr": "Piyano çalıyor.",
+        "phonetic": "/piˈænoʊ/",
+        "level": "a1"
+    },
+    {
+        "id": 56,
+        "word": "instrument",
+        "translation": "enstrüman",
+        "example": "Play an instrument.",
+        "exampleTr": "Bir enstrüman çal.",
+        "phonetic": "/ˈɪnstrəmənt/",
+        "level": "c1"
+    },
+    {
+        "id": 57,
+        "word": "band",
+        "translation": "müzik grubu",
+        "example": "He's in a band.",
+        "exampleTr": "Bir grupta çalıyor.",
+        "phonetic": "/bænd/",
+        "level": "a2"
+    },
+    {
+        "id": 58,
+        "word": "show",
+        "translation": "gösteri",
+        "example": "Watch the show.",
+        "exampleTr": "Gösteriyi izle.",
+        "phonetic": "/ʃoʊ/",
+        "level": "a2"
+    },
+    {
+        "id": 59,
+        "word": "performance",
+        "translation": "performans",
+        "example": "Great performance!",
+        "exampleTr": "Harika performans!",
+        "phonetic": "/pərˈfɔːrməns/",
+        "level": "b2"
+    },
+    {
+        "id": 60,
+        "word": "audience",
+        "translation": "seyirci",
+        "example": "The audience applauded.",
+        "exampleTr": "Seyirciler alkışladı.",
+        "phonetic": "/ˈɔːdiəns/",
+        "level": "b2"
+    },
+    {
+        "id": 61,
+        "word": "archery",
+        "translation": "okçuluk",
+        "example": "She practices archery.",
+        "exampleTr": "Okçuluk yapıyor.",
+        "phonetic": "/ˈɑːrtʃəri/"
+    },
+    {
+        "id": 62,
+        "word": "astronomy",
+        "translation": "astronomi",
+        "example": "Astronomy is fascinating.",
+        "exampleTr": "Astronomi büyüleyici.",
+        "phonetic": "/əˈstrɒnəmi/"
+    },
+    {
+        "id": 63,
+        "word": "birdwatching",
+        "translation": "kuş gözlemciliği",
+        "example": "Birdwatching is relaxing.",
+        "exampleTr": "Kuş gözlemciliği rahatlatıcı.",
+        "phonetic": "/ˈbɜːrdwɒtʃɪŋ/"
+    },
+    {
+        "id": 64,
+        "word": "calligraphy",
+        "translation": "hat sanatı / güzel yazı",
+        "example": "She learned calligraphy.",
+        "exampleTr": "Hat sanatı öğrendi.",
+        "phonetic": "/kəˈlɪɡrəfi/"
+    },
+    {
+        "id": 65,
+        "word": "carpentry",
+        "translation": "marangozluk",
+        "example": "He enjoys carpentry.",
+        "exampleTr": "Marangozluktan hoşlanır.",
+        "phonetic": "/ˈkɑːrpəntri/"
+    },
+    {
+        "id": 66,
+        "word": "ceramics",
+        "translation": "seramik",
+        "example": "She makes ceramics.",
+        "exampleTr": "Seramik yapıyor.",
+        "phonetic": "/sɪˈræmɪks/"
+    },
+    {
+        "id": 67,
+        "word": "chess",
+        "translation": "satranç",
+        "example": "Let's play chess.",
+        "exampleTr": "Satranç oynayalım.",
+        "phonetic": "/tʃes/"
+    },
+    {
+        "id": 68,
+        "word": "crochet",
+        "translation": "tığ işi",
+        "example": "My mother does crochet.",
+        "exampleTr": "Annem tığ işi yapar.",
+        "phonetic": "/kroʊˈʃeɪ/"
+    },
+    {
+        "id": 69,
+        "word": "darts",
+        "translation": "dart",
+        "example": "We played darts at the pub.",
+        "exampleTr": "Barda dart oynadık.",
+        "phonetic": "/dɑːrts/"
+    },
+    {
+        "id": 70,
+        "word": "embroidery",
+        "translation": "nakış",
+        "example": "Embroidery requires patience.",
+        "exampleTr": "Nakış sabır gerektirir.",
+        "phonetic": "/ɪmˈbrɔɪdəri/"
+    },
+    {
+        "id": 71,
+        "word": "fencing",
+        "translation": "eskrim",
+        "example": "She took up fencing.",
+        "exampleTr": "Eskrime başladı.",
+        "phonetic": "/ˈfensɪŋ/"
+    },
+    {
+        "id": 72,
+        "word": "geocaching",
+        "translation": "geocaching",
+        "example": "Geocaching is an outdoor adventure.",
+        "exampleTr": "Geocaching açık hava macerası.",
+        "phonetic": "/ˈdʒiːoʊkæʃɪŋ/"
+    },
+    {
+        "id": 73,
+        "word": "gliding",
+        "translation": "planör / kayma",
+        "example": "Gliding is thrilling.",
+        "exampleTr": "Planör heyecan verici.",
+        "phonetic": "/ˈɡlaɪdɪŋ/"
+    },
+    {
+        "id": 74,
+        "word": "handicraft",
+        "translation": "el sanatı",
+        "example": "She sells her handicrafts.",
+        "exampleTr": "El sanatlarını satıyor.",
+        "phonetic": "/ˈhændikræft/"
+    },
+    {
+        "id": 75,
+        "word": "jigsaw",
+        "translation": "yapboz",
+        "example": "We completed a jigsaw puzzle.",
+        "exampleTr": "Bir yapboz tamamladık.",
+        "phonetic": "/ˈdʒɪɡsɔː/"
+    },
+    {
+        "id": 76,
+        "word": "juggling",
+        "translation": "jonglörlük",
+        "example": "He is good at juggling.",
+        "exampleTr": "Jonglörlükte iyi.",
+        "phonetic": "/ˈdʒʌɡlɪŋ/"
+    },
+    {
+        "id": 77,
+        "word": "karate",
+        "translation": "karate",
+        "example": "She has a black belt in karate.",
+        "exampleTr": "Karatede siyah kuşağı var.",
+        "phonetic": "/kəˈrɑːti/"
+    },
+    {
+        "id": 78,
+        "word": "kayaking",
+        "translation": "kano",
+        "example": "We went kayaking.",
+        "exampleTr": "Kano yaptık.",
+        "phonetic": "/ˈkaɪækɪŋ/"
+    },
+    {
+        "id": 79,
+        "word": "knitting",
+        "translation": "örgü",
+        "example": "She loves knitting.",
+        "exampleTr": "Örgü örmeyi çok sever.",
+        "phonetic": "/ˈnɪtɪŋ/"
+    },
+    {
+        "id": 80,
+        "word": "metalwork",
+        "translation": "metal işçiliği",
+        "example": "He studies metalwork.",
+        "exampleTr": "Metal işçiliği öğreniyor.",
+        "phonetic": "/ˈmetlwɜːrk/"
+    },
+    {
+        "id": 81,
+        "word": "miniature",
+        "translation": "minyatür",
+        "example": "He paints miniatures.",
+        "exampleTr": "Minyatür boyuyor.",
+        "phonetic": "/ˈmɪnɪtʃər/"
+    },
+    {
+        "id": 82,
+        "word": "origami",
+        "translation": "origami / kağıt katlama",
+        "example": "Origami is a Japanese art.",
+        "exampleTr": "Origami bir Japon sanatı.",
+        "phonetic": "/ˌɒrɪˈɡɑːmi/"
+    },
+    {
+        "id": 83,
+        "word": "paragliding",
+        "translation": "yamaç paraşütü",
+        "example": "Paragliding is exciting.",
+        "exampleTr": "Yamaç paraşütü heyecan verici.",
+        "phonetic": "/ˈpærəɡlaɪdɪŋ/"
+    },
+    {
+        "id": 84,
+        "word": "pottery",
+        "translation": "çömlekçilik",
+        "example": "She makes pottery.",
+        "exampleTr": "Çömlekçilik yapıyor.",
+        "phonetic": "/ˈpɒtəri/"
+    },
+    {
+        "id": 85,
+        "word": "puzzle",
+        "translation": "bulmaca",
+        "example": "I love solving puzzles.",
+        "exampleTr": "Bulmaca çözmeyi severim.",
+        "phonetic": "/ˈpʌzl/"
+    },
+    {
+        "id": 86,
+        "word": "quilt",
+        "translation": "yorgan / yama işi",
+        "example": "She made a beautiful quilt.",
+        "exampleTr": "Güzel bir yama işi yorgan yaptı.",
+        "phonetic": "/kwɪlt/"
+    },
+    {
+        "id": 87,
+        "word": "rafting",
+        "translation": "rafting",
+        "example": "White water rafting is fun.",
+        "exampleTr": "Rafting eğlenceli.",
+        "phonetic": "/ˈræftɪŋ/"
+    },
+    {
+        "id": 88,
+        "word": "rehearsal",
+        "translation": "prova",
+        "example": "We have a rehearsal tonight.",
+        "exampleTr": "Bu gece prova var.",
+        "phonetic": "/rɪˈhɜːrsl/"
+    },
+    {
+        "id": 89,
+        "word": "scrapbook",
+        "translation": "anı defteri",
+        "example": "She keeps a scrapbook.",
+        "exampleTr": "Anı defteri tutuyor.",
+        "phonetic": "/ˈskræpbʊk/"
+    },
+    {
+        "id": 90,
+        "word": "sculpture",
+        "translation": "heykel",
+        "example": "The sculpture is impressive.",
+        "exampleTr": "Heykel etkileyici.",
+        "phonetic": "/ˈskʌlptʃər/"
+    },
+    {
+        "id": 91,
+        "word": "sketching",
+        "translation": "eskiz çizme",
+        "example": "She enjoys sketching.",
+        "exampleTr": "Eskiz çizmeyi sever.",
+        "phonetic": "/ˈsketʃɪŋ/"
+    },
+    {
+        "id": 92,
+        "word": "snorkeling",
+        "translation": "şnorkelle dalma",
+        "example": "We went snorkeling.",
+        "exampleTr": "Şnorkelle daldık.",
+        "phonetic": "/ˈsnɔːrkəlɪŋ/"
+    },
+    {
+        "id": 93,
+        "word": "stargazing",
+        "translation": "yıldız gözlemciliği",
+        "example": "Stargazing is peaceful.",
+        "exampleTr": "Yıldız gözlemi huzurlu.",
+        "phonetic": "/ˈstɑːrɡeɪzɪŋ/"
+    },
+    {
+        "id": 94,
+        "word": "stitching",
+        "translation": "dikiş",
+        "example": "She is good at stitching.",
+        "exampleTr": "Dikişte iyi.",
+        "phonetic": "/ˈstɪtʃɪŋ/"
+    },
+    {
+        "id": 95,
+        "word": "surfing",
+        "translation": "sörf",
+        "example": "He goes surfing every weekend.",
+        "exampleTr": "Her hafta sonu sörf yapıyor.",
+        "phonetic": "/ˈsɜːrfɪŋ/"
+    },
+    {
+        "id": 96,
+        "word": "taxidermy",
+        "translation": "hayvan doldurma",
+        "example": "Taxidermy is an unusual hobby.",
+        "exampleTr": "Hayvan doldurma alışılmadık bir hobi.",
+        "phonetic": "/ˈtæksɪdɜːrmi/"
+    },
+    {
+        "id": 97,
+        "word": "terrarium",
+        "translation": "teraryum",
+        "example": "She built a terrarium.",
+        "exampleTr": "Bir teraryum yaptı.",
+        "phonetic": "/təˈreəriəm/"
+    },
+    {
+        "id": 98,
+        "word": "ukulele",
+        "translation": "ukulele",
+        "example": "She plays the ukulele.",
+        "exampleTr": "Ukulele çalıyor.",
+        "phonetic": "/ˌjuːkəˈleɪli/"
+    },
+    {
+        "id": 99,
+        "word": "watercolor",
+        "translation": "suluboya",
+        "example": "She paints with watercolors.",
+        "exampleTr": "Suluboya ile boyama yapıyor.",
+        "phonetic": "/ˈwɔːtərkʌlər/"
+    },
+    {
+        "id": 100,
+        "word": "woodwork",
+        "translation": "ahşap işçiliği",
+        "example": "He does woodwork on weekends.",
+        "exampleTr": "Hafta sonları ahşap işçiliği yapıyor.",
+        "phonetic": "/ˈwʊdwɜːrk/"
+    }
+]

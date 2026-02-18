@@ -1,0 +1,862 @@
+[
+    {
+        "id": 1,
+        "word": "law",
+        "translation": "hukuk / kanun",
+        "example": "The law protects everyone.",
+        "exampleTr": "Kanun herkesi korur.",
+        "phonetic": "/lɔː/",
+        "level": "a2"
+    },
+    {
+        "id": 2,
+        "word": "legal",
+        "translation": "yasal / hukuki",
+        "example": "Is this legal?",
+        "exampleTr": "Bu yasal mı?",
+        "phonetic": "/ˈliːɡl/",
+        "level": "a2"
+    },
+    {
+        "id": 3,
+        "word": "illegal",
+        "translation": "yasadışı",
+        "example": "That is illegal.",
+        "exampleTr": "O yasadışı.",
+        "phonetic": "/ɪˈliːɡl/",
+        "level": "a2"
+    },
+    {
+        "id": 4,
+        "word": "court",
+        "translation": "mahkeme",
+        "example": "The case went to court.",
+        "exampleTr": "Dava mahkemeye gitti.",
+        "phonetic": "/kɔːrt/",
+        "level": "b1"
+    },
+    {
+        "id": 5,
+        "word": "judge",
+        "translation": "hakim",
+        "example": "The judge made a ruling.",
+        "exampleTr": "Hakim karar verdi.",
+        "phonetic": "/dʒʌdʒ/",
+        "level": "b1"
+    },
+    {
+        "id": 6,
+        "word": "lawyer",
+        "translation": "avukat",
+        "example": "I need a lawyer.",
+        "exampleTr": "Bir avukata ihtiyacım var.",
+        "phonetic": "/ˈlɔːjər/",
+        "level": "b1"
+    },
+    {
+        "id": 7,
+        "word": "crime",
+        "translation": "suç",
+        "example": "Crime rates are falling.",
+        "exampleTr": "Suç oranları düşüyor.",
+        "phonetic": "/kraɪm/",
+        "level": "a2"
+    },
+    {
+        "id": 8,
+        "word": "criminal",
+        "translation": "suçlu",
+        "example": "The criminal was caught.",
+        "exampleTr": "Suçlu yakalandı.",
+        "phonetic": "/ˈkrɪmɪnl/",
+        "level": "b2"
+    },
+    {
+        "id": 9,
+        "word": "arrest",
+        "translation": "tutuklama",
+        "example": "The police made an arrest.",
+        "exampleTr": "Polis tutuklama yaptı.",
+        "phonetic": "/əˈrest/",
+        "level": "b1"
+    },
+    {
+        "id": 10,
+        "word": "prison",
+        "translation": "hapishane",
+        "example": "He was sent to prison.",
+        "exampleTr": "Hapishaneye gönderildi.",
+        "phonetic": "/ˈprɪzn/",
+        "level": "a2"
+    },
+    {
+        "id": 11,
+        "word": "evidence",
+        "translation": "kanıt / delil",
+        "example": "There is strong evidence.",
+        "exampleTr": "Güçlü kanıt var.",
+        "phonetic": "/ˈevɪdəns/",
+        "level": "b1"
+    },
+    {
+        "id": 12,
+        "word": "witness",
+        "translation": "tanık",
+        "example": "The witness testified.",
+        "exampleTr": "Tanık ifade verdi.",
+        "phonetic": "/ˈwɪtnəs/",
+        "level": "b1"
+    },
+    {
+        "id": 13,
+        "word": "trial",
+        "translation": "yargılama / duruşma",
+        "example": "The trial begins Monday.",
+        "exampleTr": "Duruşma pazartesi başlıyor.",
+        "phonetic": "/ˈtraɪəl/",
+        "level": "b1"
+    },
+    {
+        "id": 14,
+        "word": "verdict",
+        "translation": "karar / hüküm",
+        "example": "The verdict was guilty.",
+        "exampleTr": "Karar suçluydu.",
+        "phonetic": "/ˈvɜːrdɪkt/",
+        "level": "b1"
+    },
+    {
+        "id": 15,
+        "word": "sentence",
+        "translation": "ceza",
+        "example": "He received a long sentence.",
+        "exampleTr": "Uzun bir ceza aldı.",
+        "phonetic": "/ˈsentəns/",
+        "level": "b1"
+    },
+    {
+        "id": 16,
+        "word": "guilty",
+        "translation": "suçlu",
+        "example": "He was found guilty.",
+        "exampleTr": "Suçlu bulundu.",
+        "phonetic": "/ˈɡɪlti/",
+        "level": "b1"
+    },
+    {
+        "id": 17,
+        "word": "innocent",
+        "translation": "masum",
+        "example": "She is innocent.",
+        "exampleTr": "O masum.",
+        "phonetic": "/ˈɪnəsnt/",
+        "level": "b1"
+    },
+    {
+        "id": 18,
+        "word": "justice",
+        "translation": "adalet",
+        "example": "Justice must be served.",
+        "exampleTr": "Adalet yerini bulmalı.",
+        "phonetic": "/ˈdʒʌstɪs/",
+        "level": "b1"
+    },
+    {
+        "id": 19,
+        "word": "right",
+        "translation": "hak",
+        "example": "Everyone has the right to education.",
+        "exampleTr": "Herkesin eğitim hakkı var.",
+        "phonetic": "/raɪt/",
+        "level": "b1"
+    },
+    {
+        "id": 20,
+        "word": "freedom",
+        "translation": "özgürlük",
+        "example": "Freedom of speech is important.",
+        "exampleTr": "Konuşma özgürlüğü önemlidir.",
+        "phonetic": "/ˈfriːdəm/",
+        "level": "b1"
+    },
+    {
+        "id": 21,
+        "word": "democracy",
+        "translation": "demokrasi",
+        "example": "Democracy is valuable.",
+        "exampleTr": "Demokrasi değerlidir.",
+        "phonetic": "/dɪˈmɒkrəsi/",
+        "level": "b1"
+    },
+    {
+        "id": 22,
+        "word": "government",
+        "translation": "hükümet",
+        "example": "The government announced new policies.",
+        "exampleTr": "Hükümet yeni politikalar açıkladı.",
+        "phonetic": "/ˈɡʌvərnmənt/",
+        "level": "a2"
+    },
+    {
+        "id": 23,
+        "word": "parliament",
+        "translation": "meclis / parlamento",
+        "example": "Parliament passed the law.",
+        "exampleTr": "Meclis yasayı çıkardı.",
+        "phonetic": "/ˈpɑːrləmənt/",
+        "level": "b2"
+    },
+    {
+        "id": 24,
+        "word": "president",
+        "translation": "cumhurbaşkanı",
+        "example": "The president gave a speech.",
+        "exampleTr": "Cumhurbaşkanı konuşma yaptı.",
+        "phonetic": "/ˈprezɪdənt/",
+        "level": "a2"
+    },
+    {
+        "id": 25,
+        "word": "minister",
+        "translation": "bakan",
+        "example": "The minister resigned.",
+        "exampleTr": "Bakan istifa etti.",
+        "phonetic": "/ˈmɪnɪstər/",
+        "level": "b2"
+    },
+    {
+        "id": 26,
+        "word": "election",
+        "translation": "seçim",
+        "example": "Elections are held every four years.",
+        "exampleTr": "Seçimler dört yılda bir yapılır.",
+        "phonetic": "/ɪˈlekʃn/",
+        "level": "a2"
+    },
+    {
+        "id": 27,
+        "word": "vote",
+        "translation": "oy / oy vermek",
+        "example": "Everyone should vote.",
+        "exampleTr": "Herkes oy vermeli.",
+        "phonetic": "/voʊt/",
+        "level": "a2"
+    },
+    {
+        "id": 28,
+        "word": "citizen",
+        "translation": "vatandaş",
+        "example": "He is a citizen.",
+        "exampleTr": "O bir vatandaş.",
+        "phonetic": "/ˈsɪtɪzn/",
+        "level": "b1"
+    },
+    {
+        "id": 29,
+        "word": "constitution",
+        "translation": "anayasa",
+        "example": "The constitution protects rights.",
+        "exampleTr": "Anayasa hakları korur.",
+        "phonetic": "/ˌkɒnstɪˈtjuːʃn/",
+        "level": "b1"
+    },
+    {
+        "id": 30,
+        "word": "regulation",
+        "translation": "düzenleme / yönetmelik",
+        "example": "Follow the regulations.",
+        "exampleTr": "Yönetmeliklere uy.",
+        "phonetic": "/ˌreɡjuˈleɪʃn/",
+        "level": "b1"
+    },
+    {
+        "id": 31,
+        "word": "policy",
+        "translation": "politika",
+        "example": "The company changed its policy.",
+        "exampleTr": "Şirket politikasını değiştirdi.",
+        "phonetic": "/ˈpɒləsi/",
+        "level": "b1"
+    },
+    {
+        "id": 32,
+        "word": "reform",
+        "translation": "reform",
+        "example": "The education reform is needed.",
+        "exampleTr": "Eğitim reformu gerekli.",
+        "phonetic": "/rɪˈfɔːrm/",
+        "level": "b1"
+    },
+    {
+        "id": 33,
+        "word": "protest",
+        "translation": "protesto",
+        "example": "People joined the protest.",
+        "exampleTr": "İnsanlar protestoya katıldı.",
+        "phonetic": "/ˈproʊtest/",
+        "level": "b1"
+    },
+    {
+        "id": 34,
+        "word": "penalty",
+        "translation": "ceza",
+        "example": "There is a penalty for littering.",
+        "exampleTr": "Çöp atmanın cezası var.",
+        "phonetic": "/ˈpenəlti/",
+        "level": "b1"
+    },
+    {
+        "id": 35,
+        "word": "fine",
+        "translation": "para cezası",
+        "example": "He got a parking fine.",
+        "exampleTr": "Park cezası aldı.",
+        "phonetic": "/faɪn/",
+        "level": "a2"
+    },
+    {
+        "id": 36,
+        "word": "ban",
+        "translation": "yasak / yasaklamak",
+        "example": "Smoking is banned here.",
+        "exampleTr": "Burada sigara yasaklanmış.",
+        "phonetic": "/bæn/",
+        "level": "b1"
+    },
+    {
+        "id": 37,
+        "word": "permit",
+        "translation": "izin / ruhsat",
+        "example": "You need a permit.",
+        "exampleTr": "Bir izne ihtiyacın var.",
+        "phonetic": "/ˈpɜːrmɪt/",
+        "level": "b1"
+    },
+    {
+        "id": 38,
+        "word": "license",
+        "translation": "lisans / ehliyet",
+        "example": "Show your driving license.",
+        "exampleTr": "Ehliyetini göster.",
+        "phonetic": "/ˈlaɪsns/",
+        "level": "a2"
+    },
+    {
+        "id": 39,
+        "word": "passport",
+        "translation": "pasaport",
+        "example": "Take your passport.",
+        "exampleTr": "Pasaportunu al.",
+        "phonetic": "/ˈpæspɔːrt/",
+        "level": "a2"
+    },
+    {
+        "id": 40,
+        "word": "visa",
+        "translation": "vize",
+        "example": "Apply for a visa.",
+        "exampleTr": "Vize başvurusu yap.",
+        "phonetic": "/ˈviːzə/",
+        "level": "a2"
+    },
+    {
+        "id": 41,
+        "word": "embassy",
+        "translation": "büyükelçilik",
+        "example": "Go to the embassy.",
+        "exampleTr": "Büyükelçiliğe git.",
+        "phonetic": "/ˈembəsi/",
+        "level": "b2"
+    },
+    {
+        "id": 42,
+        "word": "diplomat",
+        "translation": "diplomat",
+        "example": "He is a diplomat.",
+        "exampleTr": "O bir diplomat.",
+        "phonetic": "/ˈdɪpləmæt/",
+        "level": "b2"
+    },
+    {
+        "id": 43,
+        "word": "treaty",
+        "translation": "antlaşma",
+        "example": "They signed a peace treaty.",
+        "exampleTr": "Barış antlaşması imzaladılar.",
+        "phonetic": "/ˈtriːti/",
+        "level": "b2"
+    },
+    {
+        "id": 44,
+        "word": "sanction",
+        "translation": "yaptırım",
+        "example": "Economic sanctions were imposed.",
+        "exampleTr": "Ekonomik yaptırımlar uygulandı.",
+        "phonetic": "/ˈsæŋkʃn/",
+        "level": "b2"
+    },
+    {
+        "id": 45,
+        "word": "corruption",
+        "translation": "yolsuzluk",
+        "example": "Fight against corruption.",
+        "exampleTr": "Yolsuzlukla mücadele et.",
+        "phonetic": "/kəˈrʌpʃn/",
+        "level": "b2"
+    },
+    {
+        "id": 46,
+        "word": "authority",
+        "translation": "otorite / yetkili",
+        "example": "Contact the authorities.",
+        "exampleTr": "Yetkililerle iletişime geç.",
+        "phonetic": "/ɔːˈθɒrəti/",
+        "level": "b2"
+    },
+    {
+        "id": 47,
+        "word": "regulation",
+        "translation": "düzenleme",
+        "example": "New regulations came into force.",
+        "exampleTr": "Yeni düzenlemeler yürürlüğe girdi.",
+        "phonetic": "/ˌreɡjuˈleɪʃn/",
+        "level": "b1"
+    },
+    {
+        "id": 48,
+        "word": "amendment",
+        "translation": "değişiklik / düzeltme",
+        "example": "An amendment was proposed.",
+        "exampleTr": "Bir değişiklik teklif edildi.",
+        "phonetic": "/əˈmendmənt/",
+        "level": "b2"
+    },
+    {
+        "id": 49,
+        "word": "debate",
+        "translation": "tartışma / münazara",
+        "example": "The debate was intense.",
+        "exampleTr": "Tartışma yoğundu.",
+        "phonetic": "/dɪˈbeɪt/",
+        "level": "b2"
+    },
+    {
+        "id": 50,
+        "word": "campaign",
+        "translation": "kampanya",
+        "example": "The election campaign started.",
+        "exampleTr": "Seçim kampanyası başladı.",
+        "phonetic": "/kæmˈpeɪn/",
+        "level": "b2"
+    },
+    {
+        "id": 51,
+        "word": "mayor",
+        "translation": "belediye başkanı",
+        "example": "The mayor gave a speech.",
+        "exampleTr": "Belediye başkanı konuşma yaptı.",
+        "phonetic": "/meɪr/",
+        "level": "b2"
+    },
+    {
+        "id": 52,
+        "word": "council",
+        "translation": "meclis / konsey",
+        "example": "The city council met.",
+        "exampleTr": "Şehir meclisi toplandı.",
+        "phonetic": "/ˈkaʊnsl/",
+        "level": "b2"
+    },
+    {
+        "id": 53,
+        "word": "territory",
+        "translation": "toprak / bölge",
+        "example": "This is their territory.",
+        "exampleTr": "Burası onların toprakları.",
+        "phonetic": "/ˈterətɔːri/",
+        "level": "b2"
+    },
+    {
+        "id": 54,
+        "word": "border",
+        "translation": "sınır",
+        "example": "We crossed the border.",
+        "exampleTr": "Sınırı geçtik.",
+        "phonetic": "/ˈbɔːrdər/",
+        "level": "b1"
+    },
+    {
+        "id": 55,
+        "word": "immigration",
+        "translation": "göç",
+        "example": "Immigration policies changed.",
+        "exampleTr": "Göç politikaları değişti.",
+        "phonetic": "/ˌɪmɪˈɡreɪʃn/",
+        "level": "b1"
+    },
+    {
+        "id": 56,
+        "word": "refugee",
+        "translation": "mülteci",
+        "example": "The refugees need help.",
+        "exampleTr": "Mültecilerin yardıma ihtiyacı var.",
+        "phonetic": "/ˌrefjuˈdʒiː/",
+        "level": "b2"
+    },
+    {
+        "id": 57,
+        "word": "welfare",
+        "translation": "refah / sosyal yardım",
+        "example": "The welfare system helps many.",
+        "exampleTr": "Sosyal yardım sistemi çoklarına yardım eder.",
+        "phonetic": "/ˈwelfer/",
+        "level": "b2"
+    },
+    {
+        "id": 58,
+        "word": "committee",
+        "translation": "komite / kurul",
+        "example": "The committee reviewed the case.",
+        "exampleTr": "Komite davayı inceledi.",
+        "phonetic": "/kəˈmɪti/",
+        "level": "b2"
+    },
+    {
+        "id": 59,
+        "word": "legislation",
+        "translation": "mevzuat / yasama",
+        "example": "New legislation was introduced.",
+        "exampleTr": "Yeni mevzuat çıkarıldı.",
+        "phonetic": "/ˌledʒɪsˈleɪʃn/",
+        "level": "b2"
+    },
+    {
+        "id": 60,
+        "word": "prosecution",
+        "translation": "kovuşturma / savcılık",
+        "example": "The prosecution presented evidence.",
+        "exampleTr": "Savcılık delil sundu.",
+        "phonetic": "/ˌprɒsɪˈkjuːʃn/",
+        "level": "b2"
+    },
+    {
+        "id": 61,
+        "word": "acquit",
+        "translation": "beraat ettirmek",
+        "example": "The jury acquitted him.",
+        "exampleTr": "Jüri onu beraat ettirdi.",
+        "phonetic": "/əˈkwɪt/"
+    },
+    {
+        "id": 62,
+        "word": "attorney",
+        "translation": "avukat",
+        "example": "Hire an attorney.",
+        "exampleTr": "Bir avukat tut.",
+        "phonetic": "/əˈtɜːrni/"
+    },
+    {
+        "id": 63,
+        "word": "bail",
+        "translation": "kefalet",
+        "example": "He was released on bail.",
+        "exampleTr": "Kefaletle serbest bırakıldı.",
+        "phonetic": "/beɪl/"
+    },
+    {
+        "id": 64,
+        "word": "bankrupt",
+        "translation": "iflas etmiş",
+        "example": "The company went bankrupt.",
+        "exampleTr": "Şirket iflas etti.",
+        "phonetic": "/ˈbæŋkrʌpt/"
+    },
+    {
+        "id": 65,
+        "word": "clause",
+        "translation": "madde / hüküm",
+        "example": "Read every clause carefully.",
+        "exampleTr": "Her maddeyi dikkatle oku.",
+        "phonetic": "/klɔːz/"
+    },
+    {
+        "id": 66,
+        "word": "comply",
+        "translation": "uymak",
+        "example": "You must comply with the law.",
+        "exampleTr": "Yasaya uymalısın.",
+        "phonetic": "/kəmˈplaɪ/"
+    },
+    {
+        "id": 67,
+        "word": "convict",
+        "translation": "mahkum etmek",
+        "example": "He was convicted of theft.",
+        "exampleTr": "Hırsızlıktan mahkum edildi.",
+        "phonetic": "/kənˈvɪkt/"
+    },
+    {
+        "id": 68,
+        "word": "custody",
+        "translation": "gözaltı / velayet",
+        "example": "He is in police custody.",
+        "exampleTr": "Polis gözetiminde.",
+        "phonetic": "/ˈkʌstədi/"
+    },
+    {
+        "id": 69,
+        "word": "decree",
+        "translation": "kararname",
+        "example": "The president issued a decree.",
+        "exampleTr": "Cumhurbaşkanı kararname yayınladı.",
+        "phonetic": "/dɪˈkriː/"
+    },
+    {
+        "id": 70,
+        "word": "defendant",
+        "translation": "sanık / davalı",
+        "example": "The defendant pleaded not guilty.",
+        "exampleTr": "Sanık suçsuz olduğunu savundu.",
+        "phonetic": "/dɪˈfendənt/"
+    },
+    {
+        "id": 71,
+        "word": "enforce",
+        "translation": "uygulamak / yürütmek",
+        "example": "The police enforce the law.",
+        "exampleTr": "Polis yasayı uygular.",
+        "phonetic": "/ɪnˈfɔːrs/"
+    },
+    {
+        "id": 72,
+        "word": "felony",
+        "translation": "ağır suç",
+        "example": "Murder is a felony.",
+        "exampleTr": "Cinayet ağır suçtur.",
+        "phonetic": "/ˈfeləni/"
+    },
+    {
+        "id": 73,
+        "word": "fraud",
+        "translation": "dolandırıcılık",
+        "example": "He was arrested for fraud.",
+        "exampleTr": "Dolandırıcılıktan tutuklandı.",
+        "phonetic": "/frɔːd/"
+    },
+    {
+        "id": 74,
+        "word": "hearing",
+        "translation": "duruşma",
+        "example": "The hearing is next week.",
+        "exampleTr": "Duruşma gelecek hafta.",
+        "phonetic": "/ˈhɪrɪŋ/"
+    },
+    {
+        "id": 75,
+        "word": "indictment",
+        "translation": "iddianame",
+        "example": "The indictment was filed.",
+        "exampleTr": "İddianame dosyalandı.",
+        "phonetic": "/ɪnˈdaɪtmənt/"
+    },
+    {
+        "id": 76,
+        "word": "jurisdiction",
+        "translation": "yetki alanı",
+        "example": "It's outside our jurisdiction.",
+        "exampleTr": "Yetki alanımız dışında.",
+        "phonetic": "/ˌdʒʊrɪsˈdɪkʃn/"
+    },
+    {
+        "id": 77,
+        "word": "lawsuit",
+        "translation": "dava",
+        "example": "He filed a lawsuit.",
+        "exampleTr": "Dava açtı.",
+        "phonetic": "/ˈlɔːsuːt/"
+    },
+    {
+        "id": 78,
+        "word": "legislation",
+        "translation": "yasama / mevzuat",
+        "example": "New legislation was passed.",
+        "exampleTr": "Yeni mevzuat kabul edildi.",
+        "phonetic": "/ˌledʒɪsˈleɪʃn/"
+    },
+    {
+        "id": 79,
+        "word": "liable",
+        "translation": "sorumlu",
+        "example": "You are liable for damages.",
+        "exampleTr": "Zararlardan sorumlusun.",
+        "phonetic": "/ˈlaɪəbl/"
+    },
+    {
+        "id": 80,
+        "word": "litigation",
+        "translation": "dava süreci",
+        "example": "Litigation is expensive.",
+        "exampleTr": "Dava süreci pahalı.",
+        "phonetic": "/ˌlɪtɪˈɡeɪʃn/"
+    },
+    {
+        "id": 81,
+        "word": "malpractice",
+        "translation": "görevi kötüye kullanma",
+        "example": "Medical malpractice is serious.",
+        "exampleTr": "Tıbbi hata ciddi.",
+        "phonetic": "/mælˈpræktɪs/"
+    },
+    {
+        "id": 82,
+        "word": "negligence",
+        "translation": "ihmal",
+        "example": "He sued for negligence.",
+        "exampleTr": "İhmalden dava açtı.",
+        "phonetic": "/ˈneɡlɪdʒəns/"
+    },
+    {
+        "id": 83,
+        "word": "oath",
+        "translation": "yemin",
+        "example": "He took an oath.",
+        "exampleTr": "Yemin etti.",
+        "phonetic": "/oʊθ/"
+    },
+    {
+        "id": 84,
+        "word": "parole",
+        "translation": "şartlı tahliye",
+        "example": "He was released on parole.",
+        "exampleTr": "Şartlı tahliye edildi.",
+        "phonetic": "/pəˈroʊl/"
+    },
+    {
+        "id": 85,
+        "word": "penalty",
+        "translation": "ceza",
+        "example": "The penalty is a fine.",
+        "exampleTr": "Ceza para cezası.",
+        "phonetic": "/ˈpenəlti/"
+    },
+    {
+        "id": 86,
+        "word": "plea",
+        "translation": "savunma / rica",
+        "example": "He entered a guilty plea.",
+        "exampleTr": "Suçlu savunması yaptı.",
+        "phonetic": "/pliː/"
+    },
+    {
+        "id": 87,
+        "word": "precedent",
+        "translation": "emsal / içtihat",
+        "example": "This case sets a precedent.",
+        "exampleTr": "Bu dava emsal teşkil ediyor.",
+        "phonetic": "/ˈpresɪdənt/"
+    },
+    {
+        "id": 88,
+        "word": "prosecution",
+        "translation": "savcılık / kovuşturma",
+        "example": "Prosecution presented evidence.",
+        "exampleTr": "Savcılık kanıt sundu.",
+        "phonetic": "/ˌprɒsɪˈkjuːʃn/"
+    },
+    {
+        "id": 89,
+        "word": "regulation",
+        "translation": "düzenleme / yönetmelik",
+        "example": "Follow the regulations.",
+        "exampleTr": "Yönetmeliklere uy.",
+        "phonetic": "/ˌreɡjuˈleɪʃn/"
+    },
+    {
+        "id": 90,
+        "word": "sanction",
+        "translation": "yaptırım",
+        "example": "Economic sanctions were imposed.",
+        "exampleTr": "Ekonomik yaptırımlar uygulandı.",
+        "phonetic": "/ˈsæŋkʃn/"
+    },
+    {
+        "id": 91,
+        "word": "sentence",
+        "translation": "ceza / hüküm",
+        "example": "He received a five-year sentence.",
+        "exampleTr": "Beş yıl ceza aldı.",
+        "phonetic": "/ˈsentəns/"
+    },
+    {
+        "id": 92,
+        "word": "statute",
+        "translation": "tüzük / kanun",
+        "example": "According to the statute.",
+        "exampleTr": "Tüzüğe göre.",
+        "phonetic": "/ˈstætʃuːt/"
+    },
+    {
+        "id": 93,
+        "word": "sue",
+        "translation": "dava açmak",
+        "example": "She sued the company.",
+        "exampleTr": "Şirkete dava açtı.",
+        "phonetic": "/suː/"
+    },
+    {
+        "id": 94,
+        "word": "testimony",
+        "translation": "tanıklık / ifade",
+        "example": "She gave her testimony.",
+        "exampleTr": "İfadesini verdi.",
+        "phonetic": "/ˈtestɪmoʊni/"
+    },
+    {
+        "id": 95,
+        "word": "tribunal",
+        "translation": "mahkeme / heyet",
+        "example": "The case went to tribunal.",
+        "exampleTr": "Dava mahkemeye gitti.",
+        "phonetic": "/traɪˈbjuːnl/"
+    },
+    {
+        "id": 96,
+        "word": "verdict",
+        "translation": "karar / hüküm",
+        "example": "The verdict was not guilty.",
+        "exampleTr": "Karar suçsuz çıktı.",
+        "phonetic": "/ˈvɜːrdɪkt/"
+    },
+    {
+        "id": 97,
+        "word": "violation",
+        "translation": "ihlal",
+        "example": "It's a violation of the law.",
+        "exampleTr": "Bu yasanın ihlali.",
+        "phonetic": "/ˌvaɪəˈleɪʃn/"
+    },
+    {
+        "id": 98,
+        "word": "warrant",
+        "translation": "tutuklama emri",
+        "example": "The police have a warrant.",
+        "exampleTr": "Polisin arama emri var.",
+        "phonetic": "/ˈwɒrənt/"
+    },
+    {
+        "id": 99,
+        "word": "witness",
+        "translation": "tanık",
+        "example": "She was a witness to the accident.",
+        "exampleTr": "Kazanın tanığıydı.",
+        "phonetic": "/ˈwɪtnəs/"
+    },
+    {
+        "id": 100,
+        "word": "wrongful",
+        "translation": "haksız",
+        "example": "Wrongful dismissal case.",
+        "exampleTr": "Haksız işten çıkarma davası.",
+        "phonetic": "/ˈrɒŋfl/"
+    }
+]

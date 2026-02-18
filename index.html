@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="description"
+        content="Türkçe-İngilizce kelime öğrenme uygulaması. Spaced Repetition ile etkili kelime öğrenimi.">
+    <title>VocabMaster - İngilizce Kelime Öğren</title>
+
+    <!-- PWA Meta Tags -->
+    <meta name="theme-color" content="#0ea5e9">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="VocabMaster">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="application-name" content="VocabMaster">
+    <meta name="msapplication-TileColor" content="#8a4fff">
+    <meta name="msapplication-navbutton-color" content="#8a4fff">
+
+    <!-- PWA Manifest -->
+    <link rel="manifest" href="manifest.json">
+
+    <!-- Apple Touch Icons -->
+    <link rel="apple-touch-icon" href="icons/icon-152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="icons/icon-192.png">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Favicon -->
+    <link rel="icon"
+        href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📚</text></svg>">
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="app-header">
+            <div class="logo">
+                <span class="logo-icon">📚</span>
+                <h1>VocabMaster</h1>
+            </div>
+
+            <div class="header-stats">
+                <div class="stat-item streak" title="Günlük Seri">
+                    <i class="fas fa-fire"></i>
+                    <span class="stat-value" id="streakCount">0</span>
+                </div>
+
+                <div class="stat-item xp" title="Toplam XP">
+                    <i class="fas fa-star"></i>
+                    <span class="stat-value" id="xpCount">0</span>
+                </div>
+
+                <div class="level-info">
+                    <span class="level-text" id="userLevel">Seviye 1</span>
+                    <div class="level-bar">
+                        <div class="level-progress" id="levelProgress" style="width: 0%"></div>
+                    </div>
+                </div>
+
+                <button class="settings-btn" id="settingsBtn" title="Ayarlar">
+                    <i class="fas fa-cog"></i>
+                </button>
+            </div>
+        </header>
+
+        <!-- Main Navigation Tabs -->
+        <nav class="main-tabs">
+            <button class="main-tab active" data-tab="learn">
+                <i class="fas fa-graduation-cap"></i>
+                <span>Öğren</span>
+            </button>
+            <button class="main-tab" data-tab="wordlist">
+                <i class="fas fa-list"></i>
+                <span>Kelime Listesi</span>
+            </button>
+            <button class="main-tab" data-tab="dictionary">
+                <i class="fas fa-book"></i>
+                <span>Sözlük</span>
+            </button>
+            <button class="main-tab" data-tab="stats">
+                <i class="fas fa-chart-bar"></i>
+                <span>İstatistikler</span>
+            </button>
+        </nav>
+
+        <!-- Tab Content -->
+        <main class="tab-content">
+
+            <!-- ==================== LEARN TAB ==================== -->
+            <section class="tab-panel active" id="learnTab">
+                <!-- Mode Selector -->
+                <div class="learn-controls">
+                    <div class="mode-selector">
+                        <button class="mode-btn active" id="flashcardModeBtn">
+                            <i class="fas fa-clone"></i>
+                            Kart
+                        </button>
+                        <button class="mode-btn" id="quizModeBtn">
+                            <i class="fas fa-question-circle"></i>
+                            Quiz
+                        </button>
+                        <button class="mode-btn" id="matchingModeBtn">
+                            <i class="fas fa-puzzle-piece"></i>
+                            Eşleştir
+                        </button>
+                    </div>
+
+                    <div class="filter-selectors">
+                        <select id="categorySelect">
+                            <option value="all">📚 Tüm Kategoriler (2900 kelime)</option>
+                            <option value="senses">👁️ Duyular (100)</option>
+                            <option value="kitchen">🍽️ Mutfak (100)</option>
+                            <option value="home">🏠 Ev (100)</option>
+                            <option value="family">👨‍👩‍👧‍👦 Aile (100)</option>
+                            <option value="work">💼 İş (100)</option>
+                            <option value="shopping">🛒 Alışveriş (100)</option>
+                            <option value="travel">✈️ Seyahat (100)</option>
+                            <option value="health">🏥 Sağlık (100)</option>
+                            <option value="education">🎓 Eğitim (100)</option>
+                            <option value="emotions">🎭 Duygular (100)</option>
+                            <option value="weather">⛅ Hava (100)</option>
+                            <option value="hobbies">🎮 Hobiler (100)</option>
+                            <option value="technology">💻 Teknoloji (100)</option>
+                            <option value="clothing">👗 Giyim (100)</option>
+                            <option value="city">🏙️ Şehir (100)</option>
+                            <option value="sports">🏅 Spor (100)</option>
+                            <option value="music">🎵 Müzik (100)</option>
+                            <option value="nature">🌿 Doğa (100)</option>
+                            <option value="food">🍕 Yiyecek &amp; İçecek (100)</option>
+                            <option value="finance">💰 Finans (100)</option>
+                            <option value="law">⚖️ Hukuk (100)</option>
+                            <option value="science">🔬 Bilim (100)</option>
+                            <option value="relationships">🤝 İlişkiler (100)</option>
+                            <option value="business">📊 İş İngilizcesi (100)</option>
+                            <option value="computer">🖥️ Bilgisayar (100)</option>
+                            <option value="daily">💬 Günlük Konuşma (100)</option>
+                            <option value="academic">📚 Akademik (100)</option>
+                            <option value="animals">🐾 Hayvanlar (100)</option>
+                            <option value="arts">🎨 Sanat &amp; Kültür (100)</option>
+                        </select>
+
+                        <select id="levelSelect">
+                            <option value="all">📊 Tüm Seviyeler</option>
+                            <option value="a1">🟢 A1</option>
+                            <option value="a2">🟡 A2</option>
+                            <option value="b1">🟠 B1</option>
+                            <option value="b2">🔴 B2</option>
+                            <option value="c1">🟣 C1</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Flashcard Area -->
+                <div class="flashcard-container">
+                    <div class="flashcard" id="flashcard">
+                        <div class="card-inner">
+                            <div class="card-front" id="cardFront">
+                                <div class="word-container">
+                                    <h1 class="word"></h1>
+                                    <p class="phonetic"></p>
+                                </div>
+                                <button class="action-btn" id="speakBtn" title="Dinle">
+                                    <i class="fas fa-volume-up"></i>
+                                </button>
+                                <p class="flip-hint">Çevirmek için tıkla</p>
+                            </div>
+                            <div class="card-back" id="cardBack">
+                                <h2 class="translation"></h2>
+                                <div class="example-container">
+                                    <p class="example"></p>
+                                    <p class="example-tr"></p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Quiz Area (inside card for layout) -->
+                        <div class="quiz-area" id="quizArea">
+                            <div class="quiz-header-label">
+                                <i class="fas fa-question-circle"></i> Doğru çeviriyi seç
+                            </div>
+                            <div class="quiz-options-grid">
+                                <button class="quiz-option" data-letter="A">
+                                    <span class="quiz-letter">A</span>
+                                    <span class="quiz-answer-text"></span>
+                                </button>
+                                <button class="quiz-option" data-letter="B">
+                                    <span class="quiz-letter">B</span>
+                                    <span class="quiz-answer-text"></span>
+                                </button>
+                                <button class="quiz-option" data-letter="C">
+                                    <span class="quiz-letter">C</span>
+                                    <span class="quiz-answer-text"></span>
+                                </button>
+                                <button class="quiz-option" data-letter="D">
+                                    <span class="quiz-letter">D</span>
+                                    <span class="quiz-answer-text"></span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Rating Buttons -->
+                <div class="rating-btns" id="ratingBtns">
+                    <button class="rating-btn hard" id="hardBtn">
+                        Zor
+                        <span>1 dk</span>
+                    </button>
+                    <button class="rating-btn good" id="goodBtn">
+                        İyi
+                        <span>1 gün</span>
+                    </button>
+                    <button class="rating-btn easy" id="easyBtn">
+                        Kolay
+                        <span>3 gün</span>
+                    </button>
+                </div>
+
+                <!-- Progress Section -->
+                <div class="progress-section">
+                    <div class="progress-header">
+                        <span class="progress-text" id="progressText">0 / 0</span>
+                        <span class="progress-text">Oturum İlerlemesi</span>
+                    </div>
+                    <div class="progress-bar">
+                        <div class="session-progress" id="sessionProgress"></div>
+                    </div>
+                </div>
+
+                <!-- Sidebar Stats -->
+                <div class="sidebar-stats">
+                    <div class="mini-stat">
+                        <span class="mini-stat-value" id="dueCount">0</span>
+                        <span class="mini-stat-label">Bekleyen</span>
+                    </div>
+                    <div class="mini-stat">
+                        <span class="mini-stat-value" id="learningCount">0</span>
+                        <span class="mini-stat-label">Öğrenilen</span>
+                    </div>
+                    <div class="mini-stat">
+                        <span class="mini-stat-value" id="masteredCount">0</span>
+                        <span class="mini-stat-label">Ustalaşılan</span>
+                    </div>
+                </div>
+
+                <!-- Matching Game Area -->
+                <div class="matching-game-container" id="matchingGameContainer" style="display: none;">
+                    <div class="matching-header">
+                        <h2><i class="fas fa-puzzle-piece"></i> Eşleştirme Oyunu</h2>
+                        <p class="matching-subtitle">İngilizce kelimeleri Türkçe karşılıklarıyla eşleştir!</p>
+                    </div>
+
+                    <div class="matching-game-stats" id="matchingGameStats" style="display: none;">
+                        <div class="matching-stat">
+                            <i class="fas fa-clock"></i>
+                            <span id="matchingTimer">0:00</span>
+                        </div>
+                        <div class="matching-stat">
+                            <i class="fas fa-hand-pointer"></i>
+                            <span id="matchingMoves">0</span> Hamle
+                        </div>
+                        <div class="matching-stat">
+                            <i class="fas fa-check-double"></i>
+                            <span id="matchingPairs">0/6</span> Eşleşme
+                        </div>
+                    </div>
+
+                    <button class="matching-start-btn" id="matchingStartBtn">
+                        <i class="fas fa-play"></i> Oyunu Başlat
+                    </button>
+
+                    <div class="matching-board" id="matchingBoard" style="display: none;">
+                        <!-- Cards will be rendered here -->
+                    </div>
+
+                    <div class="matching-result" id="matchingResult" style="display: none;">
+                        <!-- Result will be rendered here -->
+                    </div>
+                </div>
+
+                <!-- Keyboard Shortcuts -->
+                <div class="keyboard-hint">
+                    <p>Kısayollar: <kbd>Space</kbd> Çevir | <kbd>1</kbd> Zor | <kbd>2</kbd> İyi | <kbd>3</kbd> Kolay |
+                        <kbd>S</kbd> Dinle
+                    </p>
+                </div>
+            </section>
+
+            <!-- ==================== WORD LIST TAB ==================== -->
+            <section class="tab-panel" id="wordlistTab">
+                <div class="wordlist-header">
+                    <h2><i class="fas fa-list"></i> Kelime Listesi</h2>
+                    <p class="wordlist-subtitle">Tüm kelimeleri kategoriye ve seviyeye göre görüntüle</p>
+                </div>
+
+                <div class="wordlist-filters">
+                    <select id="wlCategorySelect">
+                        <option value="all">📚 Tüm Kategoriler (2900 kelime)</option>
+                        <option value="senses">👁️ Duyular (100)</option>
+                        <option value="kitchen">🍽️ Mutfak (100)</option>
+                        <option value="home">🏠 Ev (100)</option>
+                        <option value="family">👨‍👩‍👧‍👦 Aile (100)</option>
+                        <option value="work">💼 İş (100)</option>
+                        <option value="shopping">🛒 Alışveriş (100)</option>
+                        <option value="travel">✈️ Seyahat (100)</option>
+                        <option value="health">🏥 Sağlık (100)</option>
+                        <option value="education">🎓 Eğitim (100)</option>
+                        <option value="emotions">🎭 Duygular (100)</option>
+                        <option value="weather">⛅ Hava (100)</option>
+                        <option value="hobbies">🎮 Hobiler (100)</option>
+                        <option value="technology">💻 Teknoloji (100)</option>
+                        <option value="clothing">👗 Giyim (100)</option>
+                        <option value="city">🏙️ Şehir (100)</option>
+                        <option value="sports">🏅 Spor (100)</option>
+                        <option value="music">🎵 Müzik (100)</option>
+                        <option value="nature">🌿 Doğa (100)</option>
+                        <option value="food">🍕 Yiyecek &amp; İçecek (100)</option>
+                        <option value="finance">💰 Finans (100)</option>
+                        <option value="law">⚖️ Hukuk (100)</option>
+                        <option value="science">🔬 Bilim (100)</option>
+                        <option value="relationships">🤝 İlişkiler (100)</option>
+                        <option value="business">📊 İş İngilizcesi (100)</option>
+                        <option value="computer">🖥️ Bilgisayar (100)</option>
+                        <option value="daily">💬 Günlük Konuşma (100)</option>
+                        <option value="academic">📚 Akademik (100)</option>
+                        <option value="animals">🐾 Hayvanlar (100)</option>
+                        <option value="arts">🎨 Sanat &amp; Kültür (100)</option>
+                    </select>
+
+                    <select id="wlLevelSelect">
+                        <option value="all">📊 Tüm Seviyeler</option>
+                        <option value="a1">🟢 A1 - Başlangıç</option>
+                        <option value="a2">🟡 A2 - Temel</option>
+                        <option value="b1">🟠 B1 - Orta</option>
+                        <option value="b2">🔴 B2 - Orta Üstü</option>
+                        <option value="c1">🟣 C1 - İleri</option>
+                    </select>
+
+                    <input type="text" id="wlSearchInput" placeholder="🔍 Kelime ara...">
+                </div>
+
+                <div class="wordlist-stats">
+                    <span id="wlWordCount">910 kelime</span>
+                </div>
+
+                <div class="wordlist-container" id="wordlistContainer">
+                    <!-- Words will be rendered here -->
+                </div>
+            </section>
+
+            <!-- ==================== DICTIONARY TAB ==================== -->
+            <section class="tab-panel" id="dictionaryTab">
+                <div class="dict-header">
+                    <h2><i class="fas fa-book"></i> Online Sözlük</h2>
+                    <p class="dict-subtitle">Herhangi bir İngilizce kelimeyi ara</p>
+                </div>
+
+                <div class="dict-search-container">
+                    <div class="dict-search-bar">
+                        <input type="text" id="dictSearchInput" placeholder="İngilizce kelime yaz... (örn: beautiful)">
+                        <button class="dict-search-btn" id="dictSearchBtn">
+                            <i class="fas fa-search"></i> Ara
+                        </button>
+                    </div>
+                </div>
+
+                <div class="dict-result-container" id="dictResultContainer">
+                    <div class="dict-welcome">
+                        <i class="fas fa-book-open"></i>
+                        <h3>Free Dictionary API</h3>
+                        <p>Yukarıya bir İngilizce kelime yazın</p>
+                        <ul class="dict-features">
+                            <li><i class="fas fa-check"></i> Kelime tanımları</li>
+                            <li><i class="fas fa-check"></i> Fonetik yazım</li>
+                            <li><i class="fas fa-check"></i> Sesli telaffuz</li>
+                            <li><i class="fas fa-check"></i> Örnek cümleler</li>
+                            <li><i class="fas fa-check"></i> Eşanlamlılar</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+
+            <!-- ==================== STATS TAB ==================== -->
+            <section class="tab-panel" id="statsTab">
+                <div class="stats-dashboard">
+                    <!-- Top Row: Streak + Goal -->
+                    <div class="stats-top-row">
+                        <div class="stats-widget" id="statsStreakWidget"></div>
+                        <div class="stats-widget" id="statsDailyGoal"></div>
+                    </div>
+
+                    <!-- Today Stats Cards -->
+                    <div class="stats-cards-grid" id="statsTodayCards"></div>
+
+                    <!-- Weekly Activity -->
+                    <div class="stats-section" id="statsWeeklyActivity"></div>
+
+                    <!-- Word Status -->
+                    <div class="stats-section" id="statsWordStatus"></div>
+
+                    <!-- Category Breakdown -->
+                    <div class="stats-section" id="statsCategoryBreakdown"></div>
+                </div>
+            </section>
+
+        </main>
+    </div>
+
+    <!-- Settings Modal -->
+    <div class="modal-overlay" id="settingsModal">
+        <div class="modal">
+            <div class="modal-header">
+                <h2><i class="fas fa-cog"></i> Ayarlar</h2>
+                <button class="close-modal">&times;</button>
+            </div>
+
+            <div class="modal-content">
+                <div class="setting-group">
+                    <label for="speechRate">Konuşma Hızı</label>
+                    <input type="range" id="speechRate" min="0.5" max="1.5" step="0.1" value="1">
+                    <div class="setting-value" id="rateValue">1x</div>
+                </div>
+
+                <div class="setting-group">
+                    <label>İstatistikler</label>
+                    <div style="display: flex; gap: 1rem; margin-top: 0.5rem;">
+                        <div class="mini-stat" style="flex: 1;">
+                            <span class="mini-stat-value" id="totalWordsLearned">0</span>
+                            <span class="mini-stat-label">Öğrenilen</span>
+                        </div>
+                        <div class="mini-stat" style="flex: 1;">
+                            <span class="mini-stat-value" id="accuracyPercent">0%</span>
+                            <span class="mini-stat-label">Doğruluk</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="js/storage.js"></script>
+    <script src="js/srs.js"></script>
+    <script src="js/speech.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/stats.js"></script>
+    <script src="js/matching.js"></script>
+    <script src="js/wordlist.js"></script>
+    <script src="js/dictionary.js"></script>
+    <script src="js/chatbot.js"></script>
+
+    <!-- Service Worker Registration (with force cache clear) -->
+    <script>
+        // Force clear old Service Workers and caches first
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', async () => {
+                // Unregister ALL old service workers
+                const registrations = await navigator.serviceWorker.getRegistrations();
+                for (const reg of registrations) {
+                    await reg.unregister();
+                    console.log('🧹 Old SW unregistered');
+                }
+                // Delete ALL old caches
+                const cacheNames = await caches.keys();
+                for (const name of cacheNames) {
+                    await caches.delete(name);
+                    console.log('🧹 Cache deleted:', name);
+                }
+                // Now register fresh SW
+                try {
+                    const registration = await navigator.serviceWorker.register('/sw.js');
+                    console.log('✅ Fresh Service Worker registered:', registration.scope);
+                } catch (error) {
+                    console.log('❌ Service Worker registration failed:', error);
+                }
+            });
+        }
+
+        // PWA Install Prompt
+        let deferredPrompt;
+        window.addEventListener('beforeinstallprompt', (e) => {
+            e.preventDefault();
+            deferredPrompt = e;
+            console.log('📱 PWA install prompt ready');
+        });
+    </script>
+</body>
+
+</html>

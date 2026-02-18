@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1,
+        "word": "algorithm",
+        "translation": "algoritma",
+        "example": "The algorithm processes data.",
+        "exampleTr": "Algoritma verileri işler.",
+        "phonetic": "/ˈælɡərɪðəm/"
+    },
+    {
+        "id": 2,
+        "word": "API",
+        "translation": "uygulama programlama arayüzü",
+        "example": "The API connects services.",
+        "exampleTr": "API servisleri bağlar.",
+        "phonetic": "/eɪ piː aɪ/"
+    },
+    {
+        "id": 3,
+        "word": "array",
+        "translation": "dizi",
+        "example": "Store data in an array.",
+        "exampleTr": "Verileri dizide sakla.",
+        "phonetic": "/əˈreɪ/"
+    },
+    {
+        "id": 4,
+        "word": "authentication",
+        "translation": "kimlik doğrulama",
+        "example": "Two-factor authentication is secure.",
+        "exampleTr": "İki faktörlü doğrulama güvenli.",
+        "phonetic": "/ɔːˌθentɪˈkeɪʃn/"
+    },
+    {
+        "id": 5,
+        "word": "backup",
+        "translation": "yedekleme",
+        "example": "Always make a backup.",
+        "exampleTr": "Her zaman yedekleme yap.",
+        "phonetic": "/ˈbækʌp/"
+    },
+    {
+        "id": 6,
+        "word": "bandwidth",
+        "translation": "bant genişliği",
+        "example": "High bandwidth is needed.",
+        "exampleTr": "Yüksek bant genişliği gerekli.",
+        "phonetic": "/ˈbændwɪdθ/"
+    },
+    {
+        "id": 7,
+        "word": "binary",
+        "translation": "ikili / binary",
+        "example": "Computers use binary code.",
+        "exampleTr": "Bilgisayarlar ikili kod kullanır.",
+        "phonetic": "/ˈbaɪnəri/"
+    },
+    {
+        "id": 8,
+        "word": "boolean",
+        "translation": "mantıksal / boolean",
+        "example": "A boolean value is true or false.",
+        "exampleTr": "Boolean değeri doğru veya yanlış.",
+        "phonetic": "/ˈbuːliən/"
+    },
+    {
+        "id": 9,
+        "word": "boot",
+        "translation": "başlatmak / önyükleme",
+        "example": "Boot the computer.",
+        "exampleTr": "Bilgisayarı başlat.",
+        "phonetic": "/buːt/"
+    },
+    {
+        "id": 10,
+        "word": "browser",
+        "translation": "tarayıcı",
+        "example": "Open a web browser.",
+        "exampleTr": "Web tarayıcısı aç.",
+        "phonetic": "/ˈbraʊzər/"
+    },
+    {
+        "id": 11,
+        "word": "buffer",
+        "translation": "tampon bellek",
+        "example": "Data is stored in the buffer.",
+        "exampleTr": "Veri tampon bellekte saklanır.",
+        "phonetic": "/ˈbʌfər/"
+    },
+    {
+        "id": 12,
+        "word": "bug",
+        "translation": "hata / böcek",
+        "example": "Fix the bug in the code.",
+        "exampleTr": "Koddaki hatayı düzelt.",
+        "phonetic": "/bʌɡ/"
+    },
+    {
+        "id": 13,
+        "word": "byte",
+        "translation": "bayt",
+        "example": "A byte has 8 bits.",
+        "exampleTr": "Bir bayt 8 bitten oluşur.",
+        "phonetic": "/baɪt/"
+    },
+    {
+        "id": 14,
+        "word": "cache",
+        "translation": "önbellek",
+        "example": "Clear the cache.",
+        "exampleTr": "Önbelleği temizle.",
+        "phonetic": "/kæʃ/"
+    },
+    {
+        "id": 15,
+        "word": "cloud",
+        "translation": "bulut",
+        "example": "Store files in the cloud.",
+        "exampleTr": "Dosyaları bulutta sakla.",
+        "phonetic": "/klaʊd/"
+    },
+    {
+        "id": 16,
+        "word": "compile",
+        "translation": "derlemek",
+        "example": "Compile the source code.",
+        "exampleTr": "Kaynak kodu derle.",
+        "phonetic": "/kəmˈpaɪl/"
+    },
+    {
+        "id": 17,
+        "word": "component",
+        "translation": "bileşen",
+        "example": "Replace the component.",
+        "exampleTr": "Bileşeni değiştir.",
+        "phonetic": "/kəmˈpoʊnənt/"
+    },
+    {
+        "id": 18,
+        "word": "compress",
+        "translation": "sıkıştırmak",
+        "example": "Compress the file.",
+        "exampleTr": "Dosyayı sıkıştır.",
+        "phonetic": "/kəmˈpres/"
+    },
+    {
+        "id": 19,
+        "word": "configure",
+        "translation": "yapılandırmak",
+        "example": "Configure the network settings.",
+        "exampleTr": "Ağ ayarlarını yapılandır.",
+        "phonetic": "/kənˈfɪɡər/"
+    },
+    {
+        "id": 20,
+        "word": "cookie",
+        "translation": "çerez",
+        "example": "Accept cookies.",
+        "exampleTr": "Çerezleri kabul et.",
+        "phonetic": "/ˈkʊki/"
+    },
+    {
+        "id": 21,
+        "word": "CPU",
+        "translation": "işlemci",
+        "example": "The CPU is overheating.",
+        "exampleTr": "İşlemci aşırı ısınıyor.",
+        "phonetic": "/siː piː juː/"
+    },
+    {
+        "id": 22,
+        "word": "crash",
+        "translation": "çökmek",
+        "example": "The system crashed.",
+        "exampleTr": "Sistem çöktü.",
+        "phonetic": "/kræʃ/"
+    },
+    {
+        "id": 23,
+        "word": "cursor",
+        "translation": "imleç",
+        "example": "Move the cursor.",
+        "exampleTr": "İmleci hareket ettir.",
+        "phonetic": "/ˈkɜːrsər/"
+    },
+    {
+        "id": 24,
+        "word": "database",
+        "translation": "veritabanı",
+        "example": "Query the database.",
+        "exampleTr": "Veritabanını sorgula.",
+        "phonetic": "/ˈdeɪtəbeɪs/"
+    },
+    {
+        "id": 25,
+        "word": "debug",
+        "translation": "hata ayıklamak",
+        "example": "Debug the application.",
+        "exampleTr": "Uygulamanın hatasını ayıkla.",
+        "phonetic": "/diːˈbʌɡ/"
+    },
+    {
+        "id": 26,
+        "word": "decrypt",
+        "translation": "şifre çözmek",
+        "example": "Decrypt the message.",
+        "exampleTr": "Mesajın şifresini çöz.",
+        "phonetic": "/diːˈkrɪpt/"
+    },
+    {
+        "id": 27,
+        "word": "default",
+        "translation": "varsayılan",
+        "example": "Use the default settings.",
+        "exampleTr": "Varsayılan ayarları kullan.",
+        "phonetic": "/dɪˈfɔːlt/"
+    },
+    {
+        "id": 28,
+        "word": "deploy",
+        "translation": "dağıtmak / yayınlamak",
+        "example": "Deploy the update.",
+        "exampleTr": "Güncellemeyi yayınla.",
+        "phonetic": "/dɪˈplɔɪ/"
+    },
+    {
+        "id": 29,
+        "word": "developer",
+        "translation": "geliştirici",
+        "example": "She is a web developer.",
+        "exampleTr": "Web geliştiricisi.",
+        "phonetic": "/dɪˈveləpər/"
+    },
+    {
+        "id": 30,
+        "word": "directory",
+        "translation": "dizin / klasör",
+        "example": "Create a new directory.",
+        "exampleTr": "Yeni bir dizin oluştur.",
+        "phonetic": "/daɪˈrektəri/"
+    },
+    {
+        "id": 31,
+        "word": "domain",
+        "translation": "alan adı",
+        "example": "Register a domain name.",
+        "exampleTr": "Bir alan adı kaydet.",
+        "phonetic": "/doʊˈmeɪn/"
+    },
+    {
+        "id": 32,
+        "word": "download",
+        "translation": "indirmek",
+        "example": "Download the file.",
+        "exampleTr": "Dosyayı indir.",
+        "phonetic": "/ˈdaʊnloʊd/"
+    },
+    {
+        "id": 33,
+        "word": "driver",
+        "translation": "sürücü yazılım",
+        "example": "Install the printer driver.",
+        "exampleTr": "Yazıcı sürücüsünü yükle.",
+        "phonetic": "/ˈdraɪvər/"
+    },
+    {
+        "id": 34,
+        "word": "embed",
+        "translation": "gömmek / yerleştirmek",
+        "example": "Embed the video in the page.",
+        "exampleTr": "Videoyu sayfaya yerleştir.",
+        "phonetic": "/ɪmˈbed/"
+    },
+    {
+        "id": 35,
+        "word": "encrypt",
+        "translation": "şifrelemek",
+        "example": "Encrypt sensitive data.",
+        "exampleTr": "Hassas verileri şifrele.",
+        "phonetic": "/ɪnˈkrɪpt/"
+    },
+    {
+        "id": 36,
+        "word": "endpoint",
+        "translation": "uç nokta",
+        "example": "Configure the API endpoint.",
+        "exampleTr": "API uç noktasını yapılandır.",
+        "phonetic": "/ˈendpɔɪnt/"
+    },
+    {
+        "id": 37,
+        "word": "execute",
+        "translation": "çalıştırmak / yürütmek",
+        "example": "Execute the command.",
+        "exampleTr": "Komutu çalıştır.",
+        "phonetic": "/ˈeksɪkjuːt/"
+    },
+    {
+        "id": 38,
+        "word": "firewall",
+        "translation": "güvenlik duvarı",
+        "example": "Enable the firewall.",
+        "exampleTr": "Güvenlik duvarını etkinleştir.",
+        "phonetic": "/ˈfaɪərwɔːl/"
+    },
+    {
+        "id": 39,
+        "word": "firmware",
+        "translation": "donanım yazılımı",
+        "example": "Update the firmware.",
+        "exampleTr": "Donanım yazılımını güncelle.",
+        "phonetic": "/ˈfɜːrmwer/"
+    },
+    {
+        "id": 40,
+        "word": "framework",
+        "translation": "çatı / çerçeve",
+        "example": "Use a web framework.",
+        "exampleTr": "Bir web çerçevesi kullan.",
+        "phonetic": "/ˈfreɪmwɜːrk/"
+    },
+    {
+        "id": 41,
+        "word": "frontend",
+        "translation": "ön yüz",
+        "example": "Frontend development is fun.",
+        "exampleTr": "Ön yüz geliştirme eğlenceli.",
+        "phonetic": "/ˈfrʌntend/"
+    },
+    {
+        "id": 42,
+        "word": "backend",
+        "translation": "arka yüz",
+        "example": "Backend handles data.",
+        "exampleTr": "Arka yüz veriyi işler.",
+        "phonetic": "/ˈbækend/"
+    },
+    {
+        "id": 43,
+        "word": "function",
+        "translation": "fonksiyon / işlev",
+        "example": "Call the function.",
+        "exampleTr": "Fonksiyonu çağır.",
+        "phonetic": "/ˈfʌŋkʃn/"
+    },
+    {
+        "id": 44,
+        "word": "gateway",
+        "translation": "ağ geçidi",
+        "example": "Configure the gateway.",
+        "exampleTr": "Ağ geçidini yapılandır.",
+        "phonetic": "/ˈɡeɪtweɪ/"
+    },
+    {
+        "id": 45,
+        "word": "GUI",
+        "translation": "grafik arayüz",
+        "example": "The GUI is user-friendly.",
+        "exampleTr": "Grafik arayüz kullanıcı dostu.",
+        "phonetic": "/ɡuːi/"
+    },
+    {
+        "id": 46,
+        "word": "hacker",
+        "translation": "bilgisayar korsanı",
+        "example": "Hackers attacked the server.",
+        "exampleTr": "Bilgisayar korsanları sunucuya saldırdı.",
+        "phonetic": "/ˈhækər/"
+    },
+    {
+        "id": 47,
+        "word": "hardware",
+        "translation": "donanım",
+        "example": "Upgrade the hardware.",
+        "exampleTr": "Donanımı yükselt.",
+        "phonetic": "/ˈhɑːrdwer/"
+    },
+    {
+        "id": 48,
+        "word": "hosting",
+        "translation": "barındırma",
+        "example": "Web hosting is affordable.",
+        "exampleTr": "Web barındırma uygun fiyatlı.",
+        "phonetic": "/ˈhoʊstɪŋ/"
+    },
+    {
+        "id": 49,
+        "word": "HTML",
+        "translation": "HTML",
+        "example": "Write HTML code.",
+        "exampleTr": "HTML kodu yaz.",
+        "phonetic": "/eɪtʃ tiː em el/"
+    },
+    {
+        "id": 50,
+        "word": "hyperlink",
+        "translation": "bağlantı",
+        "example": "Click the hyperlink.",
+        "exampleTr": "Bağlantıya tıkla.",
+        "phonetic": "/ˈhaɪpərlɪŋk/"
+    },
+    {
+        "id": 51,
+        "word": "index",
+        "translation": "dizin / indeks",
+        "example": "Index the database.",
+        "exampleTr": "Veritabanını indeksle.",
+        "phonetic": "/ˈɪndeks/"
+    },
+    {
+        "id": 52,
+        "word": "input",
+        "translation": "girdi / giriş",
+        "example": "Enter your input.",
+        "exampleTr": "Girdini gir.",
+        "phonetic": "/ˈɪnpʊt/"
+    },
+    {
+        "id": 53,
+        "word": "install",
+        "translation": "yüklemek / kurmak",
+        "example": "Install the software.",
+        "exampleTr": "Yazılımı yükle.",
+        "phonetic": "/ɪnˈstɔːl/"
+    },
+    {
+        "id": 54,
+        "word": "interface",
+        "translation": "arayüz",
+        "example": "Design the user interface.",
+        "exampleTr": "Kullanıcı arayüzünü tasarla.",
+        "phonetic": "/ˈɪntərfeɪs/"
+    },
+    {
+        "id": 55,
+        "word": "iterate",
+        "translation": "yinelemek",
+        "example": "Iterate through the list.",
+        "exampleTr": "Listeyi yinele.",
+        "phonetic": "/ˈɪtəreɪt/"
+    },
+    {
+        "id": 56,
+        "word": "kernel",
+        "translation": "çekirdek",
+        "example": "The kernel manages hardware.",
+        "exampleTr": "Çekirdek donanımı yönetir.",
+        "phonetic": "/ˈkɜːrnl/"
+    },
+    {
+        "id": 57,
+        "word": "laptop",
+        "translation": "dizüstü bilgisayar",
+        "example": "Bring your laptop.",
+        "exampleTr": "Dizüstünü getir.",
+        "phonetic": "/ˈlæptɒp/"
+    },
+    {
+        "id": 58,
+        "word": "latency",
+        "translation": "gecikme süresi",
+        "example": "Reduce latency.",
+        "exampleTr": "Gecikmeyi azalt.",
+        "phonetic": "/ˈleɪtənsi/"
+    },
+    {
+        "id": 59,
+        "word": "library",
+        "translation": "kütüphane (yazılım)",
+        "example": "Import the library.",
+        "exampleTr": "Kütüphaneyi içe aktar.",
+        "phonetic": "/ˈlaɪbrəri/"
+    },
+    {
+        "id": 60,
+        "word": "log",
+        "translation": "günlük / kayıt",
+        "example": "Check the error log.",
+        "exampleTr": "Hata günlüğünü kontrol et.",
+        "phonetic": "/lɒɡ/"
+    },
+    {
+        "id": 61,
+        "word": "loop",
+        "translation": "döngü",
+        "example": "Use a for loop.",
+        "exampleTr": "For döngüsü kullan.",
+        "phonetic": "/luːp/"
+    },
+    {
+        "id": 62,
+        "word": "malware",
+        "translation": "kötü amaçlı yazılım",
+        "example": "Scan for malware.",
+        "exampleTr": "Kötü yazılım tara.",
+        "phonetic": "/ˈmælwer/"
+    },
+    {
+        "id": 63,
+        "word": "memory",
+        "translation": "bellek",
+        "example": "Increase the memory.",
+        "exampleTr": "Belleği artır.",
+        "phonetic": "/ˈmeməri/"
+    },
+    {
+        "id": 64,
+        "word": "merge",
+        "translation": "birleştirmek",
+        "example": "Merge the branches.",
+        "exampleTr": "Dalları birleştir.",
+        "phonetic": "/mɜːrdʒ/"
+    },
+    {
+        "id": 65,
+        "word": "middleware",
+        "translation": "ara yazılım",
+        "example": "Configure the middleware.",
+        "exampleTr": "Ara yazılımı yapılandır.",
+        "phonetic": "/ˈmɪdlwer/"
+    },
+    {
+        "id": 66,
+        "word": "module",
+        "translation": "modül",
+        "example": "Import the module.",
+        "exampleTr": "Modülü içe aktar.",
+        "phonetic": "/ˈmɒdjuːl/"
+    },
+    {
+        "id": 67,
+        "word": "network",
+        "translation": "ağ",
+        "example": "Connect to the network.",
+        "exampleTr": "Ağa bağlan.",
+        "phonetic": "/ˈnetwɜːrk/"
+    },
+    {
+        "id": 68,
+        "word": "node",
+        "translation": "düğüm / node",
+        "example": "Add a node to the cluster.",
+        "exampleTr": "Kümeye bir düğüm ekle.",
+        "phonetic": "/noʊd/"
+    },
+    {
+        "id": 69,
+        "word": "object",
+        "translation": "nesne",
+        "example": "Create a new object.",
+        "exampleTr": "Yeni bir nesne oluştur.",
+        "phonetic": "/ˈɒbdʒekt/"
+    },
+    {
+        "id": 70,
+        "word": "open source",
+        "translation": "açık kaynak",
+        "example": "It's open source software.",
+        "exampleTr": "Açık kaynak yazılım.",
+        "phonetic": "/ˌoʊpən ˈsɔːrs/"
+    },
+    {
+        "id": 71,
+        "word": "output",
+        "translation": "çıktı",
+        "example": "Check the output.",
+        "exampleTr": "Çıktıyı kontrol et.",
+        "phonetic": "/ˈaʊtpʊt/"
+    },
+    {
+        "id": 72,
+        "word": "parse",
+        "translation": "ayrıştırmak",
+        "example": "Parse the JSON data.",
+        "exampleTr": "JSON verisini ayrıştır.",
+        "phonetic": "/pɑːrs/"
+    },
+    {
+        "id": 73,
+        "word": "patch",
+        "translation": "yama",
+        "example": "Apply the security patch.",
+        "exampleTr": "Güvenlik yamasını uygula.",
+        "phonetic": "/pætʃ/"
+    },
+    {
+        "id": 74,
+        "word": "pixel",
+        "translation": "piksel",
+        "example": "The image is 1920 pixels wide.",
+        "exampleTr": "Görsel 1920 piksel genişliğinde.",
+        "phonetic": "/ˈpɪksl/"
+    },
+    {
+        "id": 75,
+        "word": "plugin",
+        "translation": "eklenti",
+        "example": "Install the plugin.",
+        "exampleTr": "Eklentiyi yükle.",
+        "phonetic": "/ˈplʌɡɪn/"
+    },
+    {
+        "id": 76,
+        "word": "port",
+        "translation": "port / bağlantı noktası",
+        "example": "Open port 8080.",
+        "exampleTr": "8080 portunu aç.",
+        "phonetic": "/pɔːrt/"
+    },
+    {
+        "id": 77,
+        "word": "processor",
+        "translation": "işlemci",
+        "example": "A fast processor.",
+        "exampleTr": "Hızlı bir işlemci.",
+        "phonetic": "/ˈprɒsesər/"
+    },
+    {
+        "id": 78,
+        "word": "protocol",
+        "translation": "protokol",
+        "example": "Follow the HTTP protocol.",
+        "exampleTr": "HTTP protokolünü takip et.",
+        "phonetic": "/ˈproʊtəkɒl/"
+    },
+    {
+        "id": 79,
+        "word": "query",
+        "translation": "sorgu",
+        "example": "Run a database query.",
+        "exampleTr": "Veritabanı sorgusu çalıştır.",
+        "phonetic": "/ˈkwɪri/"
+    },
+    {
+        "id": 80,
+        "word": "RAM",
+        "translation": "rastgele erişim belleği",
+        "example": "Upgrade the RAM.",
+        "exampleTr": "RAM'i yükselt.",
+        "phonetic": "/ræm/"
+    },
+    {
+        "id": 81,
+        "word": "refactor",
+        "translation": "yeniden düzenlemek",
+        "example": "Refactor the code.",
+        "exampleTr": "Kodu yeniden düzenle.",
+        "phonetic": "/riːˈfæktər/"
+    },
+    {
+        "id": 82,
+        "word": "render",
+        "translation": "işlemek / görüntülemek",
+        "example": "Render the 3D model.",
+        "exampleTr": "3D modeli işle.",
+        "phonetic": "/ˈrendər/"
+    },
+    {
+        "id": 83,
+        "word": "repository",
+        "translation": "depo / havuz",
+        "example": "Push to the repository.",
+        "exampleTr": "Depoya gönder.",
+        "phonetic": "/rɪˈpɒzɪtɔːri/"
+    },
+    {
+        "id": 84,
+        "word": "router",
+        "translation": "yönlendirici",
+        "example": "Restart the router.",
+        "exampleTr": "Yönlendiriciyi yeniden başlat.",
+        "phonetic": "/ˈraʊtər/"
+    },
+    {
+        "id": 85,
+        "word": "runtime",
+        "translation": "çalışma zamanı",
+        "example": "A runtime error occurred.",
+        "exampleTr": "Çalışma zamanı hatası oluştu.",
+        "phonetic": "/ˈrʌntaɪm/"
+    },
+    {
+        "id": 86,
+        "word": "script",
+        "translation": "betik / senaryo",
+        "example": "Run the script.",
+        "exampleTr": "Betiği çalıştır.",
+        "phonetic": "/skrɪpt/"
+    },
+    {
+        "id": 87,
+        "word": "server",
+        "translation": "sunucu",
+        "example": "The server is down.",
+        "exampleTr": "Sunucu çalışmıyor.",
+        "phonetic": "/ˈsɜːrvər/"
+    },
+    {
+        "id": 88,
+        "word": "snippet",
+        "translation": "kod parçacığı",
+        "example": "Reuse this code snippet.",
+        "exampleTr": "Bu kod parçacığını tekrar kullan.",
+        "phonetic": "/ˈsnɪpɪt/"
+    },
+    {
+        "id": 89,
+        "word": "software",
+        "translation": "yazılım",
+        "example": "Update the software.",
+        "exampleTr": "Yazılımı güncelle.",
+        "phonetic": "/ˈsɒftwer/"
+    },
+    {
+        "id": 90,
+        "word": "stack",
+        "translation": "yığın / teknoloji yığını",
+        "example": "Choose your tech stack.",
+        "exampleTr": "Teknoloji yığınını seç.",
+        "phonetic": "/stæk/"
+    },
+    {
+        "id": 91,
+        "word": "storage",
+        "translation": "depolama",
+        "example": "Buy more storage.",
+        "exampleTr": "Daha fazla depolama al.",
+        "phonetic": "/ˈstɔːrɪdʒ/"
+    },
+    {
+        "id": 92,
+        "word": "syntax",
+        "translation": "sözdizimi",
+        "example": "Check the syntax.",
+        "exampleTr": "Sözdizimini kontrol et.",
+        "phonetic": "/ˈsɪntæks/"
+    },
+    {
+        "id": 93,
+        "word": "template",
+        "translation": "şablon",
+        "example": "Use a template.",
+        "exampleTr": "Bir şablon kullan.",
+        "phonetic": "/ˈtemplət/"
+    },
+    {
+        "id": 94,
+        "word": "terminal",
+        "translation": "terminal / komut satırı",
+        "example": "Open the terminal.",
+        "exampleTr": "Terminali aç.",
+        "phonetic": "/ˈtɜːrmɪnl/"
+    },
+    {
+        "id": 95,
+        "word": "thread",
+        "translation": "iş parçacığı / thread",
+        "example": "Create a new thread.",
+        "exampleTr": "Yeni bir thread oluştur.",
+        "phonetic": "/θred/"
+    },
+    {
+        "id": 96,
+        "word": "token",
+        "translation": "belirteç / jeton",
+        "example": "Generate an access token.",
+        "exampleTr": "Erişim belirteci oluştur.",
+        "phonetic": "/ˈtoʊkən/"
+    },
+    {
+        "id": 97,
+        "word": "upload",
+        "translation": "yüklemek",
+        "example": "Upload the file.",
+        "exampleTr": "Dosyayı yükle.",
+        "phonetic": "/ˈʌploʊd/"
+    },
+    {
+        "id": 98,
+        "word": "variable",
+        "translation": "değişken",
+        "example": "Declare a variable.",
+        "exampleTr": "Bir değişken tanımla.",
+        "phonetic": "/ˈveriəbl/"
+    },
+    {
+        "id": 99,
+        "word": "version",
+        "translation": "sürüm / versiyon",
+        "example": "Check the latest version.",
+        "exampleTr": "En son sürümü kontrol et.",
+        "phonetic": "/ˈvɜːrʒn/"
+    },
+    {
+        "id": 100,
+        "word": "widget",
+        "translation": "bileşen / araç",
+        "example": "Add a widget to the dashboard.",
+        "exampleTr": "Panoya bir bileşen ekle.",
+        "phonetic": "/ˈwɪdʒɪt/"
+    }
+]

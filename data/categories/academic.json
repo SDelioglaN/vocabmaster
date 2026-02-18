@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1,
+        "word": "abstract",
+        "translation": "özet / soyut",
+        "example": "Write an abstract.",
+        "exampleTr": "Bir özet yaz.",
+        "phonetic": "/ˈæbstrækt/"
+    },
+    {
+        "id": 2,
+        "word": "accumulate",
+        "translation": "biriktirmek",
+        "example": "Accumulate knowledge.",
+        "exampleTr": "Bilgi biriktir.",
+        "phonetic": "/əˈkjuːmjəleɪt/"
+    },
+    {
+        "id": 3,
+        "word": "acknowledge",
+        "translation": "kabul etmek",
+        "example": "Acknowledge the sources.",
+        "exampleTr": "Kaynakları kabul et.",
+        "phonetic": "/əkˈnɒlɪdʒ/"
+    },
+    {
+        "id": 4,
+        "word": "adjacent",
+        "translation": "bitişik / komşu",
+        "example": "Adjacent buildings.",
+        "exampleTr": "Bitişik binalar.",
+        "phonetic": "/əˈdʒeɪsnt/"
+    },
+    {
+        "id": 5,
+        "word": "allocate",
+        "translation": "tahsis etmek",
+        "example": "Allocate resources.",
+        "exampleTr": "Kaynakları tahsis et.",
+        "phonetic": "/ˈæləkeɪt/"
+    },
+    {
+        "id": 6,
+        "word": "ambiguous",
+        "translation": "belirsiz / çok anlamlı",
+        "example": "An ambiguous statement.",
+        "exampleTr": "Belirsiz bir ifade.",
+        "phonetic": "/æmˈbɪɡjuəs/"
+    },
+    {
+        "id": 7,
+        "word": "analogy",
+        "translation": "benzetme / analoji",
+        "example": "Draw an analogy.",
+        "exampleTr": "Bir analoji kur.",
+        "phonetic": "/əˈnælədʒi/"
+    },
+    {
+        "id": 8,
+        "word": "annotate",
+        "translation": "açıklama yazmak",
+        "example": "Annotate the text.",
+        "exampleTr": "Metne açıklama yaz.",
+        "phonetic": "/ˈænəteɪt/"
+    },
+    {
+        "id": 9,
+        "word": "arbitrary",
+        "translation": "keyfi / rastgele",
+        "example": "An arbitrary decision.",
+        "exampleTr": "Keyfi bir karar.",
+        "phonetic": "/ˈɑːrbɪtrəri/"
+    },
+    {
+        "id": 10,
+        "word": "assert",
+        "translation": "iddia etmek",
+        "example": "She asserted her rights.",
+        "exampleTr": "Haklarını savundu.",
+        "phonetic": "/əˈsɜːrt/"
+    },
+    {
+        "id": 11,
+        "word": "attribute",
+        "translation": "özellik / atfetmek",
+        "example": "Attribute the quote.",
+        "exampleTr": "Alıntıyı atfet.",
+        "phonetic": "/əˈtrɪbjuːt/"
+    },
+    {
+        "id": 12,
+        "word": "bias",
+        "translation": "önyargı / yanlılık",
+        "example": "Avoid bias in research.",
+        "exampleTr": "Araştırmada önyargıdan kaçın.",
+        "phonetic": "/ˈbaɪəs/"
+    },
+    {
+        "id": 13,
+        "word": "bibliography",
+        "translation": "kaynakça",
+        "example": "Include a bibliography.",
+        "exampleTr": "Kaynakça ekle.",
+        "phonetic": "/ˌbɪbliˈɒɡrəfi/"
+    },
+    {
+        "id": 14,
+        "word": "cite",
+        "translation": "alıntı yapmak",
+        "example": "Cite your sources.",
+        "exampleTr": "Kaynaklarını belirt.",
+        "phonetic": "/saɪt/"
+    },
+    {
+        "id": 15,
+        "word": "coherent",
+        "translation": "tutarlı / uyumlu",
+        "example": "A coherent argument.",
+        "exampleTr": "Tutarlı bir argüman.",
+        "phonetic": "/koʊˈhɪrənt/"
+    },
+    {
+        "id": 16,
+        "word": "compile",
+        "translation": "derlemek / bir araya getirmek",
+        "example": "Compile the data.",
+        "exampleTr": "Verileri derle.",
+        "phonetic": "/kəmˈpaɪl/"
+    },
+    {
+        "id": 17,
+        "word": "comprise",
+        "translation": "kapsamak / oluşmak",
+        "example": "The team comprises 10 members.",
+        "exampleTr": "Takım 10 üyeden oluşur.",
+        "phonetic": "/kəmˈpraɪz/"
+    },
+    {
+        "id": 18,
+        "word": "concept",
+        "translation": "kavram",
+        "example": "Explain the concept.",
+        "exampleTr": "Kavramı açıkla.",
+        "phonetic": "/ˈkɒnsept/"
+    },
+    {
+        "id": 19,
+        "word": "conclude",
+        "translation": "sonuçlandırmak",
+        "example": "We can conclude that...",
+        "exampleTr": "Şu sonuca varabiliriz...",
+        "phonetic": "/kənˈkluːd/"
+    },
+    {
+        "id": 20,
+        "word": "concurrent",
+        "translation": "eşzamanlı",
+        "example": "Concurrent events.",
+        "exampleTr": "Eşzamanlı olaylar.",
+        "phonetic": "/kənˈkʌrənt/"
+    },
+    {
+        "id": 21,
+        "word": "contradict",
+        "translation": "çelişmek",
+        "example": "The evidence contradicts the theory.",
+        "exampleTr": "Kanıt teoriyle çelişiyor.",
+        "phonetic": "/ˌkɒntrəˈdɪkt/"
+    },
+    {
+        "id": 22,
+        "word": "controversy",
+        "translation": "tartışma / polemik",
+        "example": "The topic caused controversy.",
+        "exampleTr": "Konu tartışmaya neden oldu.",
+        "phonetic": "/ˈkɒntrəvɜːrsi/"
+    },
+    {
+        "id": 23,
+        "word": "convene",
+        "translation": "toplamak / bir araya gelmek",
+        "example": "Convene a meeting.",
+        "exampleTr": "Toplantı düzenle.",
+        "phonetic": "/kənˈviːn/"
+    },
+    {
+        "id": 24,
+        "word": "correlate",
+        "translation": "ilişkilendirmek",
+        "example": "Correlate the variables.",
+        "exampleTr": "Değişkenleri ilişkilendir.",
+        "phonetic": "/ˈkɒrəleɪt/"
+    },
+    {
+        "id": 25,
+        "word": "criterion",
+        "translation": "ölçüt / kriter",
+        "example": "Meet the criteria.",
+        "exampleTr": "Kriterleri karşıla.",
+        "phonetic": "/kraɪˈtɪriən/"
+    },
+    {
+        "id": 26,
+        "word": "critique",
+        "translation": "eleştiri / değerlendirme",
+        "example": "Write a critique.",
+        "exampleTr": "Eleştiri yaz.",
+        "phonetic": "/krɪˈtiːk/"
+    },
+    {
+        "id": 27,
+        "word": "deduce",
+        "translation": "çıkarmak / sonuç çıkarmak",
+        "example": "Deduce the answer.",
+        "exampleTr": "Cevabı çıkar.",
+        "phonetic": "/dɪˈdjuːs/"
+    },
+    {
+        "id": 28,
+        "word": "deficit",
+        "translation": "eksiklik / açık",
+        "example": "A knowledge deficit.",
+        "exampleTr": "Bilgi eksikliği.",
+        "phonetic": "/ˈdefɪsɪt/"
+    },
+    {
+        "id": 29,
+        "word": "derive",
+        "translation": "türetmek / elde etmek",
+        "example": "Derive a formula.",
+        "exampleTr": "Bir formül türet.",
+        "phonetic": "/dɪˈraɪv/"
+    },
+    {
+        "id": 30,
+        "word": "diminish",
+        "translation": "azaltmak / küçültmek",
+        "example": "Diminish the effect.",
+        "exampleTr": "Etkiyi azalt.",
+        "phonetic": "/dɪˈmɪnɪʃ/"
+    },
+    {
+        "id": 31,
+        "word": "discourse",
+        "translation": "söylem / tartışma",
+        "example": "Academic discourse.",
+        "exampleTr": "Akademik söylem.",
+        "phonetic": "/ˈdɪskɔːrs/"
+    },
+    {
+        "id": 32,
+        "word": "disparity",
+        "translation": "eşitsizlik / fark",
+        "example": "Income disparity is growing.",
+        "exampleTr": "Gelir eşitsizliği artıyor.",
+        "phonetic": "/dɪˈspærəti/"
+    },
+    {
+        "id": 33,
+        "word": "disseminate",
+        "translation": "yaymak / dağıtmak",
+        "example": "Disseminate the findings.",
+        "exampleTr": "Bulguları yay.",
+        "phonetic": "/dɪˈsemɪneɪt/"
+    },
+    {
+        "id": 34,
+        "word": "domain",
+        "translation": "alan / saha",
+        "example": "An expert in the domain.",
+        "exampleTr": "Alanında uzman.",
+        "phonetic": "/doʊˈmeɪn/"
+    },
+    {
+        "id": 35,
+        "word": "elaborate",
+        "translation": "ayrıntılı / detaylandırmak",
+        "example": "Please elaborate.",
+        "exampleTr": "Lütfen detaylandır.",
+        "phonetic": "/ɪˈlæbəreɪt/"
+    },
+    {
+        "id": 36,
+        "word": "emerge",
+        "translation": "ortaya çıkmak",
+        "example": "New evidence emerged.",
+        "exampleTr": "Yeni kanıt ortaya çıktı.",
+        "phonetic": "/ɪˈmɜːrdʒ/"
+    },
+    {
+        "id": 37,
+        "word": "empirical",
+        "translation": "deneysel / ampirik",
+        "example": "Empirical research.",
+        "exampleTr": "Deneysel araştırma.",
+        "phonetic": "/ɪmˈpɪrɪkl/"
+    },
+    {
+        "id": 38,
+        "word": "enhance",
+        "translation": "geliştirmek / artırmak",
+        "example": "Enhance the quality.",
+        "exampleTr": "Kaliteyi artır.",
+        "phonetic": "/ɪnˈhæns/"
+    },
+    {
+        "id": 39,
+        "word": "entity",
+        "translation": "varlık / oluşum",
+        "example": "A separate entity.",
+        "exampleTr": "Ayrı bir varlık.",
+        "phonetic": "/ˈentəti/"
+    },
+    {
+        "id": 40,
+        "word": "erode",
+        "translation": "aşınmak / yıpranmak",
+        "example": "Trust has eroded.",
+        "exampleTr": "Güven aşındı.",
+        "phonetic": "/ɪˈroʊd/"
+    },
+    {
+        "id": 41,
+        "word": "evaluate",
+        "translation": "değerlendirmek",
+        "example": "Evaluate the results.",
+        "exampleTr": "Sonuçları değerlendir.",
+        "phonetic": "/ɪˈvæljueɪt/"
+    },
+    {
+        "id": 42,
+        "word": "evident",
+        "translation": "açık / belli",
+        "example": "It's evident from the data.",
+        "exampleTr": "Verilerden belli.",
+        "phonetic": "/ˈevɪdənt/"
+    },
+    {
+        "id": 43,
+        "word": "excerpt",
+        "translation": "alıntı / bölüm",
+        "example": "Read this excerpt.",
+        "exampleTr": "Bu alıntıyı oku.",
+        "phonetic": "/ˈeksɜːrpt/"
+    },
+    {
+        "id": 44,
+        "word": "explicit",
+        "translation": "açık / net",
+        "example": "Be explicit.",
+        "exampleTr": "Açık ol.",
+        "phonetic": "/ɪkˈsplɪsɪt/"
+    },
+    {
+        "id": 45,
+        "word": "fluctuate",
+        "translation": "dalgalanmak",
+        "example": "Prices fluctuate.",
+        "exampleTr": "Fiyatlar dalgalanır.",
+        "phonetic": "/ˈflʌktʃueɪt/"
+    },
+    {
+        "id": 46,
+        "word": "formulate",
+        "translation": "formüle etmek",
+        "example": "Formulate a hypothesis.",
+        "exampleTr": "Bir hipotez formüle et.",
+        "phonetic": "/ˈfɔːrmjuleɪt/"
+    },
+    {
+        "id": 47,
+        "word": "framework",
+        "translation": "çerçeve / yapı",
+        "example": "A theoretical framework.",
+        "exampleTr": "Teorik çerçeve.",
+        "phonetic": "/ˈfreɪmwɜːrk/"
+    },
+    {
+        "id": 48,
+        "word": "fundamental",
+        "translation": "temel / esas",
+        "example": "A fundamental principle.",
+        "exampleTr": "Temel bir ilke.",
+        "phonetic": "/ˌfʌndəˈmentl/"
+    },
+    {
+        "id": 49,
+        "word": "generate",
+        "translation": "üretmek / oluşturmak",
+        "example": "Generate new ideas.",
+        "exampleTr": "Yeni fikirler üret.",
+        "phonetic": "/ˈdʒenəreɪt/"
+    },
+    {
+        "id": 50,
+        "word": "hypothesis",
+        "translation": "hipotez / varsayım",
+        "example": "Test the hypothesis.",
+        "exampleTr": "Hipotezi test et.",
+        "phonetic": "/haɪˈpɒθəsɪs/"
+    },
+    {
+        "id": 51,
+        "word": "ideology",
+        "translation": "ideoloji",
+        "example": "Political ideology shapes views.",
+        "exampleTr": "Politik ideoloji görüşleri şekillendirir.",
+        "phonetic": "/ˌaɪdiˈɒlədʒi/"
+    },
+    {
+        "id": 52,
+        "word": "implication",
+        "translation": "çıkarım / ima",
+        "example": "Consider the implications.",
+        "exampleTr": "Sonuçları düşün.",
+        "phonetic": "/ˌɪmplɪˈkeɪʃn/"
+    },
+    {
+        "id": 53,
+        "word": "implicit",
+        "translation": "örtük / dolaylı",
+        "example": "An implicit assumption.",
+        "exampleTr": "Örtük bir varsayım.",
+        "phonetic": "/ɪmˈplɪsɪt/"
+    },
+    {
+        "id": 54,
+        "word": "incidence",
+        "translation": "oluş sıklığı",
+        "example": "The incidence of disease.",
+        "exampleTr": "Hastalığın görülme sıklığı.",
+        "phonetic": "/ˈɪnsɪdəns/"
+    },
+    {
+        "id": 55,
+        "word": "incorporate",
+        "translation": "dahil etmek",
+        "example": "Incorporate new data.",
+        "exampleTr": "Yeni verileri dahil et.",
+        "phonetic": "/ɪnˈkɔːrpəreɪt/"
+    },
+    {
+        "id": 56,
+        "word": "inherent",
+        "translation": "doğal / yapısal",
+        "example": "An inherent risk.",
+        "exampleTr": "Yapısal bir risk.",
+        "phonetic": "/ɪnˈhɪrənt/"
+    },
+    {
+        "id": 57,
+        "word": "innovation",
+        "translation": "yenilik / inovasyon",
+        "example": "Drive innovation.",
+        "exampleTr": "İnovasyonu yönlendir.",
+        "phonetic": "/ˌɪnəˈveɪʃn/"
+    },
+    {
+        "id": 58,
+        "word": "integral",
+        "translation": "ayrılmaz / bütünleyici",
+        "example": "An integral part.",
+        "exampleTr": "Ayrılmaz bir parça.",
+        "phonetic": "/ˈɪntɪɡrəl/"
+    },
+    {
+        "id": 59,
+        "word": "interpret",
+        "translation": "yorumlamak",
+        "example": "Interpret the results.",
+        "exampleTr": "Sonuçları yorumla.",
+        "phonetic": "/ɪnˈtɜːrprɪt/"
+    },
+    {
+        "id": 60,
+        "word": "journal",
+        "translation": "dergi / günlük",
+        "example": "Publish in a journal.",
+        "exampleTr": "Dergide yayınla.",
+        "phonetic": "/ˈdʒɜːrnl/"
+    },
+    {
+        "id": 61,
+        "word": "justify",
+        "translation": "haklı çıkarmak",
+        "example": "Justify your answer.",
+        "exampleTr": "Cevabını gerekçelendir.",
+        "phonetic": "/ˈdʒʌstɪfaɪ/"
+    },
+    {
+        "id": 62,
+        "word": "legitimate",
+        "translation": "meşru / yasal",
+        "example": "A legitimate concern.",
+        "exampleTr": "Meşru bir endişe.",
+        "phonetic": "/lɪˈdʒɪtɪmət/"
+    },
+    {
+        "id": 63,
+        "word": "methodology",
+        "translation": "metodoloji / yöntem",
+        "example": "Describe the methodology.",
+        "exampleTr": "Metodolojiyi açıkla.",
+        "phonetic": "/ˌmeθəˈdɒlədʒi/"
+    },
+    {
+        "id": 64,
+        "word": "norm",
+        "translation": "norm / standart",
+        "example": "Social norms differ.",
+        "exampleTr": "Sosyal normlar farklıdır.",
+        "phonetic": "/nɔːrm/"
+    },
+    {
+        "id": 65,
+        "word": "notion",
+        "translation": "kavram / fikir",
+        "example": "Reject the notion.",
+        "exampleTr": "Fikri reddet.",
+        "phonetic": "/ˈnoʊʃn/"
+    },
+    {
+        "id": 66,
+        "word": "objective",
+        "translation": "amaç / nesnel",
+        "example": "State your objective.",
+        "exampleTr": "Amacını belirt.",
+        "phonetic": "/əbˈdʒektɪv/"
+    },
+    {
+        "id": 67,
+        "word": "paradigm",
+        "translation": "paradigma / model",
+        "example": "A paradigm shift occurred.",
+        "exampleTr": "Paradigma değişimi oldu.",
+        "phonetic": "/ˈpærədaɪm/"
+    },
+    {
+        "id": 68,
+        "word": "parameter",
+        "translation": "parametre",
+        "example": "Define the parameters.",
+        "exampleTr": "Parametreleri tanımla.",
+        "phonetic": "/pəˈræmɪtər/"
+    },
+    {
+        "id": 69,
+        "word": "peer",
+        "translation": "akran / meslektaş",
+        "example": "Peer review is important.",
+        "exampleTr": "Hakemli değerlendirme önemli.",
+        "phonetic": "/pɪr/"
+    },
+    {
+        "id": 70,
+        "word": "perceive",
+        "translation": "algılamak",
+        "example": "How do you perceive this?",
+        "exampleTr": "Bunu nasıl algılıyorsun?",
+        "phonetic": "/pərˈsiːv/"
+    },
+    {
+        "id": 71,
+        "word": "perspective",
+        "translation": "bakış açısı",
+        "example": "From a different perspective.",
+        "exampleTr": "Farklı bir bakış açısından.",
+        "phonetic": "/pərˈspektɪv/"
+    },
+    {
+        "id": 72,
+        "word": "phenomenon",
+        "translation": "olgu / fenomen",
+        "example": "A natural phenomenon.",
+        "exampleTr": "Doğal bir olgu.",
+        "phonetic": "/fɪˈnɒmɪnən/"
+    },
+    {
+        "id": 73,
+        "word": "plausible",
+        "translation": "makul / olası",
+        "example": "A plausible explanation.",
+        "exampleTr": "Makul bir açıklama.",
+        "phonetic": "/ˈplɔːzəbl/"
+    },
+    {
+        "id": 74,
+        "word": "postulate",
+        "translation": "varsaymak / öne sürmek",
+        "example": "He postulated a theory.",
+        "exampleTr": "Bir teori öne sürdü.",
+        "phonetic": "/ˈpɒstʃuleɪt/"
+    },
+    {
+        "id": 75,
+        "word": "premise",
+        "translation": "öncül / varsayım",
+        "example": "The premise is flawed.",
+        "exampleTr": "Öncül hatalı.",
+        "phonetic": "/ˈpremɪs/"
+    },
+    {
+        "id": 76,
+        "word": "prevalent",
+        "translation": "yaygın",
+        "example": "A prevalent opinion.",
+        "exampleTr": "Yaygın bir görüş.",
+        "phonetic": "/ˈprevələnt/"
+    },
+    {
+        "id": 77,
+        "word": "principle",
+        "translation": "ilke / prensip",
+        "example": "A guiding principle.",
+        "exampleTr": "Yol gösterici bir ilke.",
+        "phonetic": "/ˈprɪnsəpl/"
+    },
+    {
+        "id": 78,
+        "word": "proportion",
+        "translation": "oran / orantı",
+        "example": "In proportion to size.",
+        "exampleTr": "Boyutla orantılı.",
+        "phonetic": "/prəˈpɔːrʃn/"
+    },
+    {
+        "id": 79,
+        "word": "qualitative",
+        "translation": "nitel",
+        "example": "Qualitative research.",
+        "exampleTr": "Nitel araştırma.",
+        "phonetic": "/ˈkwɒlɪtətɪv/"
+    },
+    {
+        "id": 80,
+        "word": "quantitative",
+        "translation": "nicel",
+        "example": "Quantitative analysis.",
+        "exampleTr": "Nicel analiz.",
+        "phonetic": "/ˈkwɒntɪtətɪv/"
+    },
+    {
+        "id": 81,
+        "word": "rationale",
+        "translation": "gerekçe / mantık",
+        "example": "Explain the rationale.",
+        "exampleTr": "Gerekçeyi açıkla.",
+        "phonetic": "/ˌræʃəˈnæl/"
+    },
+    {
+        "id": 82,
+        "word": "relevant",
+        "translation": "ilgili / alakalı",
+        "example": "Is this relevant?",
+        "exampleTr": "Bu ilgili mi?",
+        "phonetic": "/ˈreləvənt/"
+    },
+    {
+        "id": 83,
+        "word": "replicate",
+        "translation": "tekrarlamak / kopyalamak",
+        "example": "Replicate the experiment.",
+        "exampleTr": "Deneyi tekrarla.",
+        "phonetic": "/ˈreplɪkeɪt/"
+    },
+    {
+        "id": 84,
+        "word": "scope",
+        "translation": "kapsam",
+        "example": "Define the scope.",
+        "exampleTr": "Kapsamı tanımla.",
+        "phonetic": "/skoʊp/"
+    },
+    {
+        "id": 85,
+        "word": "simulate",
+        "translation": "simüle etmek",
+        "example": "Simulate the conditions.",
+        "exampleTr": "Koşulları simüle et.",
+        "phonetic": "/ˈsɪmjuleɪt/"
+    },
+    {
+        "id": 86,
+        "word": "specify",
+        "translation": "belirtmek / tanımlamak",
+        "example": "Specify the details.",
+        "exampleTr": "Detayları belirt.",
+        "phonetic": "/ˈspesɪfaɪ/"
+    },
+    {
+        "id": 87,
+        "word": "substantial",
+        "translation": "önemli / büyük",
+        "example": "A substantial increase.",
+        "exampleTr": "Önemli bir artış.",
+        "phonetic": "/səbˈstænʃl/"
+    },
+    {
+        "id": 88,
+        "word": "suffice",
+        "translation": "yeterli olmak",
+        "example": "This will suffice.",
+        "exampleTr": "Bu yeterli olacak.",
+        "phonetic": "/səˈfaɪs/"
+    },
+    {
+        "id": 89,
+        "word": "supplement",
+        "translation": "ek / ilave",
+        "example": "Supplement the text.",
+        "exampleTr": "Metni destekle.",
+        "phonetic": "/ˈsʌplɪment/"
+    },
+    {
+        "id": 90,
+        "word": "survey",
+        "translation": "anket / araştırma",
+        "example": "Conduct a survey.",
+        "exampleTr": "Anket yap.",
+        "phonetic": "/ˈsɜːrveɪ/"
+    },
+    {
+        "id": 91,
+        "word": "symposium",
+        "translation": "sempozyum",
+        "example": "Attend a symposium.",
+        "exampleTr": "Sempozyuma katıl.",
+        "phonetic": "/sɪmˈpoʊziəm/"
+    },
+    {
+        "id": 92,
+        "word": "synthesize",
+        "translation": "sentezlemek",
+        "example": "Synthesize the findings.",
+        "exampleTr": "Bulguları sentezle.",
+        "phonetic": "/ˈsɪnθəsaɪz/"
+    },
+    {
+        "id": 93,
+        "word": "systematic",
+        "translation": "sistematik",
+        "example": "A systematic approach.",
+        "exampleTr": "Sistematik bir yaklaşım.",
+        "phonetic": "/ˌsɪstəˈmætɪk/"
+    },
+    {
+        "id": 94,
+        "word": "thesis",
+        "translation": "tez",
+        "example": "Defend your thesis.",
+        "exampleTr": "Tezini savun.",
+        "phonetic": "/ˈθiːsɪs/"
+    },
+    {
+        "id": 95,
+        "word": "trigger",
+        "translation": "tetiklemek",
+        "example": "Trigger a response.",
+        "exampleTr": "Tepki tetikle.",
+        "phonetic": "/ˈtrɪɡər/"
+    },
+    {
+        "id": 96,
+        "word": "undergo",
+        "translation": "geçirmek / maruz kalmak",
+        "example": "Undergo a transformation.",
+        "exampleTr": "Dönüşüm geçir.",
+        "phonetic": "/ˌʌndərˈɡoʊ/"
+    },
+    {
+        "id": 97,
+        "word": "undermine",
+        "translation": "baltalamak",
+        "example": "Undermine the argument.",
+        "exampleTr": "Argümanı baltala.",
+        "phonetic": "/ˌʌndərˈmaɪn/"
+    },
+    {
+        "id": 98,
+        "word": "validate",
+        "translation": "doğrulamak",
+        "example": "Validate the hypothesis.",
+        "exampleTr": "Hipotezi doğrula.",
+        "phonetic": "/ˈvælɪdeɪt/"
+    },
+    {
+        "id": 99,
+        "word": "variable",
+        "translation": "değişken",
+        "example": "Control the variables.",
+        "exampleTr": "Değişkenleri kontrol et.",
+        "phonetic": "/ˈveriəbl/"
+    },
+    {
+        "id": 100,
+        "word": "verify",
+        "translation": "doğrulamak / teyit etmek",
+        "example": "Verify the information.",
+        "exampleTr": "Bilgiyi teyit et.",
+        "phonetic": "/ˈverɪfaɪ/"
+    }
+]

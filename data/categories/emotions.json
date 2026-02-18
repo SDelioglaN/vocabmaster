@@ -1,0 +1,862 @@
+[
+    {
+        "id": 1,
+        "word": "happy",
+        "translation": "mutlu",
+        "example": "I am happy.",
+        "exampleTr": "Mutluyum.",
+        "phonetic": "/ˈhæpi/",
+        "level": "a1"
+    },
+    {
+        "id": 2,
+        "word": "sad",
+        "translation": "üzgün",
+        "example": "She looks sad.",
+        "exampleTr": "Üzgün görünüyor.",
+        "phonetic": "/sæd/",
+        "level": "a1"
+    },
+    {
+        "id": 3,
+        "word": "angry",
+        "translation": "kızgın",
+        "example": "Don't be angry.",
+        "exampleTr": "Kızgın olma.",
+        "phonetic": "/ˈæŋɡri/",
+        "level": "a1"
+    },
+    {
+        "id": 4,
+        "word": "afraid",
+        "translation": "korkmuş",
+        "example": "I'm afraid of spiders.",
+        "exampleTr": "Örümceklerden korkuyorum.",
+        "phonetic": "/əˈfreɪd/",
+        "level": "a1"
+    },
+    {
+        "id": 5,
+        "word": "scared",
+        "translation": "korkmuş",
+        "example": "The child was scared.",
+        "exampleTr": "Çocuk korkmuştu.",
+        "phonetic": "/skerd/",
+        "level": "b1"
+    },
+    {
+        "id": 6,
+        "word": "nervous",
+        "translation": "gergin",
+        "example": "I feel nervous.",
+        "exampleTr": "Gergin hissediyorum.",
+        "phonetic": "/ˈnɜːrvəs/",
+        "level": "a2"
+    },
+    {
+        "id": 7,
+        "word": "worried",
+        "translation": "endişeli",
+        "example": "I'm worried about you.",
+        "exampleTr": "Senin için endişeleniyorum.",
+        "phonetic": "/ˈwɜːrid/",
+        "level": "a2"
+    },
+    {
+        "id": 8,
+        "word": "excited",
+        "translation": "heyecanlı",
+        "example": "I'm so excited!",
+        "exampleTr": "Çok heyecanlıyım!",
+        "phonetic": "/ɪkˈsaɪtɪd/",
+        "level": "a2"
+    },
+    {
+        "id": 9,
+        "word": "bored",
+        "translation": "sıkılmış",
+        "example": "I'm bored.",
+        "exampleTr": "Sıkıldım.",
+        "phonetic": "/bɔːrd/",
+        "level": "a2"
+    },
+    {
+        "id": 10,
+        "word": "tired",
+        "translation": "yorgun",
+        "example": "I'm tired.",
+        "exampleTr": "Yorgunum.",
+        "phonetic": "/ˈtaɪərd/",
+        "level": "a1"
+    },
+    {
+        "id": 11,
+        "word": "surprised",
+        "translation": "şaşırmış",
+        "example": "I was surprised.",
+        "exampleTr": "Şaşırdım.",
+        "phonetic": "/sərˈpraɪzd/",
+        "level": "a2"
+    },
+    {
+        "id": 12,
+        "word": "disappointed",
+        "translation": "hayal kırıklığına uğramış",
+        "example": "I'm disappointed.",
+        "exampleTr": "Hayal kırıklığına uğradım.",
+        "phonetic": "/ˌdɪsəˈpɔɪntɪd/",
+        "level": "c1"
+    },
+    {
+        "id": 13,
+        "word": "confused",
+        "translation": "kafası karışık",
+        "example": "I'm confused.",
+        "exampleTr": "Kafam karıştı.",
+        "phonetic": "/kənˈfjuːzd/",
+        "level": "b2"
+    },
+    {
+        "id": 14,
+        "word": "frustrated",
+        "translation": "sinirlenmiş",
+        "example": "I feel frustrated.",
+        "exampleTr": "Sinirlenmiş hissediyorum.",
+        "phonetic": "/frʌˈstreɪtɪd/",
+        "level": "b1"
+    },
+    {
+        "id": 15,
+        "word": "jealous",
+        "translation": "kıskanç",
+        "example": "Don't be jealous.",
+        "exampleTr": "Kıskanç olma.",
+        "phonetic": "/ˈdʒeləs/",
+        "level": "a2"
+    },
+    {
+        "id": 16,
+        "word": "proud",
+        "translation": "gururlu",
+        "example": "I'm proud of you.",
+        "exampleTr": "Seninle gurur duyuyorum.",
+        "phonetic": "/praʊd/",
+        "level": "a2"
+    },
+    {
+        "id": 17,
+        "word": "ashamed",
+        "translation": "utanmış",
+        "example": "He felt ashamed.",
+        "exampleTr": "Utandı.",
+        "phonetic": "/əˈʃeɪmd/",
+        "level": "b2"
+    },
+    {
+        "id": 18,
+        "word": "embarrassed",
+        "translation": "mahcup",
+        "example": "I was embarrassed.",
+        "exampleTr": "Mahcup oldum.",
+        "phonetic": "/ɪmˈbærəst/",
+        "level": "c1"
+    },
+    {
+        "id": 19,
+        "word": "grateful",
+        "translation": "minnettar",
+        "example": "I'm grateful.",
+        "exampleTr": "Minnettarım.",
+        "phonetic": "/ˈɡreɪtfl/",
+        "level": "a2"
+    },
+    {
+        "id": 20,
+        "word": "lonely",
+        "translation": "yalnız",
+        "example": "She feels lonely.",
+        "exampleTr": "Kendini yalnız hissediyor.",
+        "phonetic": "/ˈloʊnli/",
+        "level": "a2"
+    },
+    {
+        "id": 21,
+        "word": "hopeful",
+        "translation": "umutlu",
+        "example": "I'm hopeful.",
+        "exampleTr": "Umutluyum.",
+        "phonetic": "/ˈhoʊpfl/",
+        "level": "b2"
+    },
+    {
+        "id": 22,
+        "word": "hopeless",
+        "translation": "umutsuz",
+        "example": "The situation is hopeless.",
+        "exampleTr": "Durum umutsuz.",
+        "phonetic": "/ˈhoʊpləs/",
+        "level": "b2"
+    },
+    {
+        "id": 23,
+        "word": "calm",
+        "translation": "sakin",
+        "example": "Stay calm.",
+        "exampleTr": "Sakin ol.",
+        "phonetic": "/kɑːm/",
+        "level": "a2"
+    },
+    {
+        "id": 24,
+        "word": "relaxed",
+        "translation": "rahat",
+        "example": "I feel relaxed.",
+        "exampleTr": "Rahat hissediyorum.",
+        "phonetic": "/rɪˈlækst/",
+        "level": "b2"
+    },
+    {
+        "id": 25,
+        "word": "stressed",
+        "translation": "stresli",
+        "example": "I'm so stressed.",
+        "exampleTr": "Çok stresliyim.",
+        "phonetic": "/strest/",
+        "level": "b2"
+    },
+    {
+        "id": 26,
+        "word": "anxious",
+        "translation": "kaygılı",
+        "example": "I feel anxious.",
+        "exampleTr": "Kaygılı hissediyorum.",
+        "phonetic": "/ˈæŋkʃəs/",
+        "level": "b1"
+    },
+    {
+        "id": 27,
+        "word": "shy",
+        "translation": "utangaç",
+        "example": "She is shy.",
+        "exampleTr": "O utangaç.",
+        "phonetic": "/ʃaɪ/",
+        "level": "a2"
+    },
+    {
+        "id": 28,
+        "word": "confident",
+        "translation": "kendine güvenen",
+        "example": "Be confident.",
+        "exampleTr": "Kendine güven.",
+        "phonetic": "/ˈkɒnfɪdənt/",
+        "level": "a2"
+    },
+    {
+        "id": 29,
+        "word": "honest",
+        "translation": "dürüst",
+        "example": "Be honest with me.",
+        "exampleTr": "Bana karşı dürüst ol.",
+        "phonetic": "/ˈɒnɪst/",
+        "level": "a2"
+    },
+    {
+        "id": 30,
+        "word": "kind",
+        "translation": "nazik",
+        "example": "She is very kind.",
+        "exampleTr": "Çok nazik.",
+        "phonetic": "/kaɪnd/",
+        "level": "a2"
+    },
+    {
+        "id": 31,
+        "word": "generous",
+        "translation": "cömert",
+        "example": "He is generous.",
+        "exampleTr": "O cömert.",
+        "phonetic": "/ˈdʒenərəs/",
+        "level": "b1"
+    },
+    {
+        "id": 32,
+        "word": "selfish",
+        "translation": "bencil",
+        "example": "Don't be selfish.",
+        "exampleTr": "Bencil olma.",
+        "phonetic": "/ˈselfɪʃ/",
+        "level": "b1"
+    },
+    {
+        "id": 33,
+        "word": "patient",
+        "translation": "sabırlı",
+        "example": "Be patient.",
+        "exampleTr": "Sabırlı ol.",
+        "phonetic": "/ˈpeɪʃnt/",
+        "level": "b1"
+    },
+    {
+        "id": 34,
+        "word": "impatient",
+        "translation": "sabırsız",
+        "example": "He is impatient.",
+        "exampleTr": "O sabırsız.",
+        "phonetic": "/ɪmˈpeɪʃnt/",
+        "level": "b2"
+    },
+    {
+        "id": 35,
+        "word": "brave",
+        "translation": "cesur",
+        "example": "You are brave.",
+        "exampleTr": "Cesursun.",
+        "phonetic": "/breɪv/",
+        "level": "a2"
+    },
+    {
+        "id": 36,
+        "word": "lazy",
+        "translation": "tembel",
+        "example": "Don't be lazy.",
+        "exampleTr": "Tembel olma.",
+        "phonetic": "/ˈleɪzi/",
+        "level": "a2"
+    },
+    {
+        "id": 37,
+        "word": "hardworking",
+        "translation": "çalışkan",
+        "example": "She is hardworking.",
+        "exampleTr": "O çalışkan.",
+        "phonetic": "/ˌhɑːrdˈwɜːrkɪŋ/",
+        "level": "c1"
+    },
+    {
+        "id": 38,
+        "word": "ambitious",
+        "translation": "hırslı",
+        "example": "He is ambitious.",
+        "exampleTr": "O hırslı.",
+        "phonetic": "/æmˈbɪʃəs/",
+        "level": "b2"
+    },
+    {
+        "id": 39,
+        "word": "creative",
+        "translation": "yaratıcı",
+        "example": "Be creative.",
+        "exampleTr": "Yaratıcı ol.",
+        "phonetic": "/kriˈeɪtɪv/",
+        "level": "b1"
+    },
+    {
+        "id": 40,
+        "word": "curious",
+        "translation": "meraklı",
+        "example": "Children are curious.",
+        "exampleTr": "Çocuklar meraklıdır.",
+        "phonetic": "/ˈkjʊriəs/",
+        "level": "b2"
+    },
+    {
+        "id": 41,
+        "word": "friendly",
+        "translation": "arkadaş canlısı",
+        "example": "Be friendly.",
+        "exampleTr": "Arkadaş canlısı ol.",
+        "phonetic": "/ˈfrendli/",
+        "level": "b2"
+    },
+    {
+        "id": 42,
+        "word": "rude",
+        "translation": "kaba",
+        "example": "Don't be rude.",
+        "exampleTr": "Kaba olma.",
+        "phonetic": "/ruːd/",
+        "level": "a2"
+    },
+    {
+        "id": 43,
+        "word": "polite",
+        "translation": "kibar",
+        "example": "Be polite.",
+        "exampleTr": "Kibar ol.",
+        "phonetic": "/pəˈlaɪt/",
+        "level": "a2"
+    },
+    {
+        "id": 44,
+        "word": "serious",
+        "translation": "ciddi",
+        "example": "He looks serious.",
+        "exampleTr": "Ciddi görünüyor.",
+        "phonetic": "/ˈsɪriəs/",
+        "level": "b2"
+    },
+    {
+        "id": 45,
+        "word": "funny",
+        "translation": "komik",
+        "example": "You are funny.",
+        "exampleTr": "Komiksin.",
+        "phonetic": "/ˈfʌni/",
+        "level": "b1"
+    },
+    {
+        "id": 46,
+        "word": "cheerful",
+        "translation": "neşeli",
+        "example": "She is cheerful.",
+        "exampleTr": "O neşeli.",
+        "phonetic": "/ˈtʃɪrfl/",
+        "level": "b2"
+    },
+    {
+        "id": 47,
+        "word": "moody",
+        "translation": "huysuz",
+        "example": "He's being moody.",
+        "exampleTr": "Huysuz davranıyor.",
+        "phonetic": "/ˈmuːdi/",
+        "level": "b1"
+    },
+    {
+        "id": 48,
+        "word": "sensitive",
+        "translation": "hassas",
+        "example": "She is sensitive.",
+        "exampleTr": "O hassas.",
+        "phonetic": "/ˈsensətɪv/",
+        "level": "b2"
+    },
+    {
+        "id": 49,
+        "word": "stubborn",
+        "translation": "inatçı",
+        "example": "He is stubborn.",
+        "exampleTr": "O inatçı.",
+        "phonetic": "/ˈstʌbərn/",
+        "level": "b1"
+    },
+    {
+        "id": 50,
+        "word": "flexible",
+        "translation": "esnek",
+        "example": "Be flexible.",
+        "exampleTr": "Esnek ol.",
+        "phonetic": "/ˈfleksəbl/",
+        "level": "b2"
+    },
+    {
+        "id": 51,
+        "word": "optimistic",
+        "translation": "iyimser",
+        "example": "Stay optimistic.",
+        "exampleTr": "İyimser kal.",
+        "phonetic": "/ˌɒptɪˈmɪstɪk/",
+        "level": "b2"
+    },
+    {
+        "id": 52,
+        "word": "pessimistic",
+        "translation": "karamsar",
+        "example": "Don't be pessimistic.",
+        "exampleTr": "Karamsar olma.",
+        "phonetic": "/ˌpesɪˈmɪstɪk/",
+        "level": "b2"
+    },
+    {
+        "id": 53,
+        "word": "reliable",
+        "translation": "güvenilir",
+        "example": "He is reliable.",
+        "exampleTr": "O güvenilir.",
+        "phonetic": "/rɪˈlaɪəbl/",
+        "level": "b2"
+    },
+    {
+        "id": 54,
+        "word": "responsible",
+        "translation": "sorumlu",
+        "example": "Be responsible.",
+        "exampleTr": "Sorumlu ol.",
+        "phonetic": "/rɪˈspɒnsəbl/",
+        "level": "c1"
+    },
+    {
+        "id": 55,
+        "word": "independent",
+        "translation": "bağımsız",
+        "example": "Be independent.",
+        "exampleTr": "Bağımsız ol.",
+        "phonetic": "/ˌɪndɪˈpendənt/",
+        "level": "c1"
+    },
+    {
+        "id": 56,
+        "word": "loyal",
+        "translation": "sadık",
+        "example": "He is loyal.",
+        "exampleTr": "O sadık.",
+        "phonetic": "/ˈlɔɪəl/",
+        "level": "b1"
+    },
+    {
+        "id": 57,
+        "word": "thoughtful",
+        "translation": "düşünceli",
+        "example": "How thoughtful!",
+        "exampleTr": "Ne kadar düşünceli!",
+        "phonetic": "/ˈθɔːtfl/",
+        "level": "c1"
+    },
+    {
+        "id": 58,
+        "word": "careless",
+        "translation": "dikkatsiz",
+        "example": "Don't be careless.",
+        "exampleTr": "Dikkatsiz olma.",
+        "phonetic": "/ˈkerləs/",
+        "level": "b2"
+    },
+    {
+        "id": 59,
+        "word": "mature",
+        "translation": "olgun",
+        "example": "She is mature.",
+        "exampleTr": "O olgun.",
+        "phonetic": "/məˈtʃʊr/",
+        "level": "b1"
+    },
+    {
+        "id": 60,
+        "word": "immature",
+        "translation": "olgunlaşmamış",
+        "example": "He is immature.",
+        "exampleTr": "O olgunlaşmamış.",
+        "phonetic": "/ˌɪməˈtʃʊr/",
+        "level": "b2"
+    },
+    {
+        "id": 61,
+        "word": "agony",
+        "translation": "ıstırap",
+        "example": "He was in agony after the injury.",
+        "exampleTr": "Yaralanmadan sonra ıstırap içindeydi.",
+        "phonetic": "/ˈæɡəni/"
+    },
+    {
+        "id": 62,
+        "word": "bitter",
+        "translation": "acı / kırgın",
+        "example": "She felt bitter about the betrayal.",
+        "exampleTr": "İhanete karşı acı hissediyordu.",
+        "phonetic": "/ˈbɪtər/"
+    },
+    {
+        "id": 63,
+        "word": "bliss",
+        "translation": "mutluluk / huzur",
+        "example": "The vacation was pure bliss.",
+        "exampleTr": "Tatil saf mutluluktu.",
+        "phonetic": "/blɪs/"
+    },
+    {
+        "id": 64,
+        "word": "compassion",
+        "translation": "merhamet",
+        "example": "Show compassion to others.",
+        "exampleTr": "Başkalarına merhamet göster.",
+        "phonetic": "/kəmˈpæʃn/"
+    },
+    {
+        "id": 65,
+        "word": "contempt",
+        "translation": "hor görme",
+        "example": "He looked at her with contempt.",
+        "exampleTr": "Ona hor bakışlarla baktı.",
+        "phonetic": "/kənˈtempt/"
+    },
+    {
+        "id": 66,
+        "word": "crave",
+        "translation": "çok istemek",
+        "example": "I crave chocolate.",
+        "exampleTr": "Çikolata istiyorum.",
+        "phonetic": "/kreɪv/"
+    },
+    {
+        "id": 67,
+        "word": "dread",
+        "translation": "korku / dehşet",
+        "example": "She dreaded the exam.",
+        "exampleTr": "Sınavdan korkuyordu.",
+        "phonetic": "/dred/"
+    },
+    {
+        "id": 68,
+        "word": "ecstasy",
+        "translation": "coşku / vecit",
+        "example": "She was in ecstasy.",
+        "exampleTr": "Coşku içindeydi.",
+        "phonetic": "/ˈekstəsi/"
+    },
+    {
+        "id": 69,
+        "word": "empathy",
+        "translation": "empati",
+        "example": "She showed great empathy.",
+        "exampleTr": "Büyük empati gösterdi.",
+        "phonetic": "/ˈempəθi/"
+    },
+    {
+        "id": 70,
+        "word": "envy",
+        "translation": "kıskançlık",
+        "example": "Envy is a destructive emotion.",
+        "exampleTr": "Kıskançlık yıkıcı bir duygu.",
+        "phonetic": "/ˈenvi/"
+    },
+    {
+        "id": 71,
+        "word": "euphoria",
+        "translation": "aşırı mutluluk",
+        "example": "He felt euphoria after winning.",
+        "exampleTr": "Kazandıktan sonra aşırı mutluluk hissetti.",
+        "phonetic": "/juːˈfɔːriə/"
+    },
+    {
+        "id": 72,
+        "word": "fury",
+        "translation": "öfke / hiddet",
+        "example": "She was filled with fury.",
+        "exampleTr": "Öfkeyle doluydu.",
+        "phonetic": "/ˈfjʊri/"
+    },
+    {
+        "id": 73,
+        "word": "gratitude",
+        "translation": "minnettarlık",
+        "example": "I feel gratitude for your help.",
+        "exampleTr": "Yardımın için minnettarım.",
+        "phonetic": "/ˈɡrætɪtjuːd/"
+    },
+    {
+        "id": 74,
+        "word": "grief",
+        "translation": "keder / yas",
+        "example": "Grief takes time to heal.",
+        "exampleTr": "Kederin iyileşmesi zaman alır.",
+        "phonetic": "/ɡriːf/"
+    },
+    {
+        "id": 75,
+        "word": "guilt",
+        "translation": "suçluluk",
+        "example": "He was consumed by guilt.",
+        "exampleTr": "Suçluluk duygusu onu yiyordu.",
+        "phonetic": "/ɡɪlt/"
+    },
+    {
+        "id": 76,
+        "word": "hesitant",
+        "translation": "tereddütlü",
+        "example": "She was hesitant to answer.",
+        "exampleTr": "Cevap vermekte tereddütlüydü.",
+        "phonetic": "/ˈhezɪtənt/"
+    },
+    {
+        "id": 77,
+        "word": "humiliation",
+        "translation": "aşağılanma",
+        "example": "The humiliation was unbearable.",
+        "exampleTr": "Aşağılanma dayanılmazdı.",
+        "phonetic": "/hjuːˌmɪliˈeɪʃn/"
+    },
+    {
+        "id": 78,
+        "word": "indifferent",
+        "translation": "kayıtsız",
+        "example": "He seemed indifferent.",
+        "exampleTr": "Kayıtsız görünüyordu.",
+        "phonetic": "/ɪnˈdɪfrənt/"
+    },
+    {
+        "id": 79,
+        "word": "irritate",
+        "translation": "sinirlendirmek",
+        "example": "Noise irritates me.",
+        "exampleTr": "Gürültü beni sinirlendirir.",
+        "phonetic": "/ˈɪrɪteɪt/"
+    },
+    {
+        "id": 80,
+        "word": "loneliness",
+        "translation": "yalnızlık",
+        "example": "Loneliness can affect health.",
+        "exampleTr": "Yalnızlık sağlığı etkileyebilir.",
+        "phonetic": "/ˈloʊnlinəs/"
+    },
+    {
+        "id": 81,
+        "word": "melancholy",
+        "translation": "hüzün",
+        "example": "A feeling of melancholy filled her.",
+        "exampleTr": "Hüzün duygusu onu kapladı.",
+        "phonetic": "/ˈmelənkɒli/"
+    },
+    {
+        "id": 82,
+        "word": "nostalgia",
+        "translation": "nostalji / özlem",
+        "example": "The song filled me with nostalgia.",
+        "exampleTr": "Şarkı beni nostaljiye boğdu.",
+        "phonetic": "/nɒˈstældʒə/"
+    },
+    {
+        "id": 83,
+        "word": "overwhelm",
+        "translation": "bunaltmak",
+        "example": "She was overwhelmed with joy.",
+        "exampleTr": "Sevinçten bunalıyordu.",
+        "phonetic": "/ˌoʊvərˈwelm/"
+    },
+    {
+        "id": 84,
+        "word": "panic",
+        "translation": "panik",
+        "example": "Don't panic!",
+        "exampleTr": "Panik yapma!",
+        "phonetic": "/ˈpænɪk/"
+    },
+    {
+        "id": 85,
+        "word": "passionate",
+        "translation": "tutkulu",
+        "example": "She is passionate about music.",
+        "exampleTr": "Müziğe tutkulu.",
+        "phonetic": "/ˈpæʃənət/"
+    },
+    {
+        "id": 86,
+        "word": "resentment",
+        "translation": "kızgınlık / garez",
+        "example": "He felt resentment towards his boss.",
+        "exampleTr": "Patronuna karşı garez duyuyordu.",
+        "phonetic": "/rɪˈzentmənt/"
+    },
+    {
+        "id": 87,
+        "word": "restless",
+        "translation": "huzursuz",
+        "example": "She felt restless all night.",
+        "exampleTr": "Bütün gece huzursuz hissetti.",
+        "phonetic": "/ˈrestləs/"
+    },
+    {
+        "id": 88,
+        "word": "sentiment",
+        "translation": "duygu / his",
+        "example": "Public sentiment has changed.",
+        "exampleTr": "Kamuoyu duyguları değişti.",
+        "phonetic": "/ˈsentɪmənt/"
+    },
+    {
+        "id": 89,
+        "word": "serene",
+        "translation": "sakin / huzurlu",
+        "example": "The lake was serene.",
+        "exampleTr": "Göl huzurluydu.",
+        "phonetic": "/səˈriːn/"
+    },
+    {
+        "id": 90,
+        "word": "shame",
+        "translation": "utanç",
+        "example": "He felt shame for his actions.",
+        "exampleTr": "Yaptıklarından utanç duydu.",
+        "phonetic": "/ʃeɪm/"
+    },
+    {
+        "id": 91,
+        "word": "soothe",
+        "translation": "yatıştırmak",
+        "example": "Music soothes the mind.",
+        "exampleTr": "Müzik zihni yatıştırır.",
+        "phonetic": "/suːð/"
+    },
+    {
+        "id": 92,
+        "word": "spite",
+        "translation": "kin / garaz",
+        "example": "She did it out of spite.",
+        "exampleTr": "Kininden yaptı.",
+        "phonetic": "/spaɪt/"
+    },
+    {
+        "id": 93,
+        "word": "sympathy",
+        "translation": "sempati / acıma",
+        "example": "I have sympathy for them.",
+        "exampleTr": "Onlara sempati duyuyorum.",
+        "phonetic": "/ˈsɪmpəθi/"
+    },
+    {
+        "id": 94,
+        "word": "tender",
+        "translation": "şefkatli / hassas",
+        "example": "She gave a tender smile.",
+        "exampleTr": "Şefkatli bir gülümseme verdi.",
+        "phonetic": "/ˈtendər/"
+    },
+    {
+        "id": 95,
+        "word": "thrilled",
+        "translation": "heyecanlı / çok mutlu",
+        "example": "I'm thrilled about the news.",
+        "exampleTr": "Haberden çok heyecanlıyım.",
+        "phonetic": "/θrɪld/"
+    },
+    {
+        "id": 96,
+        "word": "torment",
+        "translation": "azap / işkence",
+        "example": "Guilt can torment a person.",
+        "exampleTr": "Suçluluk insana azap verir.",
+        "phonetic": "/ˈtɔːrment/"
+    },
+    {
+        "id": 97,
+        "word": "uneasy",
+        "translation": "tedirgin / rahatsız",
+        "example": "I felt uneasy about the plan.",
+        "exampleTr": "Plan hakkında tedirgin hissettim.",
+        "phonetic": "/ʌnˈiːzi/"
+    },
+    {
+        "id": 98,
+        "word": "vulnerable",
+        "translation": "savunmasız",
+        "example": "She felt vulnerable and alone.",
+        "exampleTr": "Savunmasız ve yalnız hissetti.",
+        "phonetic": "/ˈvʌlnərəbl/"
+    },
+    {
+        "id": 99,
+        "word": "wrath",
+        "translation": "gazap",
+        "example": "He feared the king's wrath.",
+        "exampleTr": "Kralın gazabından korkuyordu.",
+        "phonetic": "/ræθ/"
+    },
+    {
+        "id": 100,
+        "word": "yearn",
+        "translation": "özlemek / arzulamak",
+        "example": "She yearned for her homeland.",
+        "exampleTr": "Vatanını özlüyordu.",
+        "phonetic": "/jɜːrn/"
+    }
+]

@@ -1,0 +1,1202 @@
+[
+    {
+        "id": 1,
+        "word": "adventure",
+        "translation": "macera",
+        "example": "Life is an adventure.",
+        "exampleTr": "Hayat bir macera.",
+        "phonetic": "/ədˈventʃər/"
+    },
+    {
+        "id": 2,
+        "word": "amazing",
+        "translation": "şaşırtıcı / harika",
+        "example": "The view is amazing!",
+        "exampleTr": "Manzara harika!",
+        "phonetic": "/əˈmeɪzɪŋ/"
+    },
+    {
+        "id": 3,
+        "word": "beautiful",
+        "translation": "güzel",
+        "example": "She has beautiful eyes.",
+        "exampleTr": "Güzel gözleri var.",
+        "phonetic": "/ˈbjuːtɪfəl/"
+    },
+    {
+        "id": 4,
+        "word": "believe",
+        "translation": "inanmak",
+        "example": "I believe in you.",
+        "exampleTr": "Sana inanıyorum.",
+        "phonetic": "/bɪˈliːv/"
+    },
+    {
+        "id": 5,
+        "word": "between",
+        "translation": "arasında",
+        "example": "The cat is between the boxes.",
+        "exampleTr": "Kedi kutuların arasında.",
+        "phonetic": "/bɪˈtwiːn/"
+    },
+    {
+        "id": 6,
+        "word": "building",
+        "translation": "bina",
+        "example": "This is a tall building.",
+        "exampleTr": "Bu yüksek bir bina.",
+        "phonetic": "/ˈbɪldɪŋ/"
+    },
+    {
+        "id": 7,
+        "word": "careful",
+        "translation": "dikkatli",
+        "example": "Be careful on the road.",
+        "exampleTr": "Yolda dikkatli ol.",
+        "phonetic": "/ˈkerfl/"
+    },
+    {
+        "id": 8,
+        "word": "change",
+        "translation": "değiştirmek / değişim",
+        "example": "Change is good for you.",
+        "exampleTr": "Değişim senin için iyi.",
+        "phonetic": "/tʃeɪndʒ/"
+    },
+    {
+        "id": 9,
+        "word": "choose",
+        "translation": "seçmek",
+        "example": "You can choose any color.",
+        "exampleTr": "Herhangi bir renk seçebilirsin.",
+        "phonetic": "/tʃuːz/"
+    },
+    {
+        "id": 10,
+        "word": "comfortable",
+        "translation": "rahat",
+        "example": "This chair is very comfortable.",
+        "exampleTr": "Bu sandalye çok rahat.",
+        "phonetic": "/ˈkʌmftəbəl/"
+    },
+    {
+        "id": 11,
+        "word": "complete",
+        "translation": "tamamlamak",
+        "example": "Please complete the form.",
+        "exampleTr": "Lütfen formu tamamlayın.",
+        "phonetic": "/kəmˈpliːt/"
+    },
+    {
+        "id": 12,
+        "word": "continue",
+        "translation": "devam etmek",
+        "example": "Let's continue the meeting.",
+        "exampleTr": "Toplantıya devam edelim.",
+        "phonetic": "/kənˈtɪnjuː/"
+    },
+    {
+        "id": 13,
+        "word": "create",
+        "translation": "yaratmak / oluşturmak",
+        "example": "We can create something new.",
+        "exampleTr": "Yeni bir şey yaratabiliriz.",
+        "phonetic": "/kriˈeɪt/"
+    },
+    {
+        "id": 14,
+        "word": "decide",
+        "translation": "karar vermek",
+        "example": "I can't decide what to eat.",
+        "exampleTr": "Ne yiyeceğime karar veremiyorum.",
+        "phonetic": "/dɪˈsaɪd/"
+    },
+    {
+        "id": 15,
+        "word": "describe",
+        "translation": "tanımlamak / tarif etmek",
+        "example": "Can you describe the person?",
+        "exampleTr": "Kişiyi tarif edebilir misin?",
+        "phonetic": "/dɪˈskraɪb/"
+    },
+    {
+        "id": 16,
+        "word": "develop",
+        "translation": "geliştirmek",
+        "example": "We need to develop new skills.",
+        "exampleTr": "Yeni beceriler geliştirmeliyiz.",
+        "phonetic": "/dɪˈveləp/"
+    },
+    {
+        "id": 17,
+        "word": "different",
+        "translation": "farklı",
+        "example": "They have different opinions.",
+        "exampleTr": "Farklı görüşleri var.",
+        "phonetic": "/ˈdɪfərənt/"
+    },
+    {
+        "id": 18,
+        "word": "difficult",
+        "translation": "zor",
+        "example": "This exam is difficult.",
+        "exampleTr": "Bu sınav zor.",
+        "phonetic": "/ˈdɪfɪkəlt/"
+    },
+    {
+        "id": 19,
+        "word": "discover",
+        "translation": "keşfetmek",
+        "example": "Scientists discover new things.",
+        "exampleTr": "Bilim insanları yeni şeyler keşfeder.",
+        "phonetic": "/dɪˈskʌvər/"
+    },
+    {
+        "id": 20,
+        "word": "during",
+        "translation": "sırasında / boyunca",
+        "example": "I sleep during the flight.",
+        "exampleTr": "Uçuş sırasında uyurum.",
+        "phonetic": "/ˈdjʊərɪŋ/"
+    },
+    {
+        "id": 21,
+        "word": "education",
+        "translation": "eğitim",
+        "example": "Education is important for everyone.",
+        "exampleTr": "Eğitim herkes için önemlidir.",
+        "phonetic": "/ˌedʒuˈkeɪʃn/"
+    },
+    {
+        "id": 22,
+        "word": "environment",
+        "translation": "çevre",
+        "example": "We must protect the environment.",
+        "exampleTr": "Çevreyi korumalıyız.",
+        "phonetic": "/ɪnˈvaɪrənmənt/"
+    },
+    {
+        "id": 23,
+        "word": "especially",
+        "translation": "özellikle",
+        "example": "I love fruits, especially oranges.",
+        "exampleTr": "Meyveleri severim, özellikle portakal.",
+        "phonetic": "/ɪˈspeʃəli/"
+    },
+    {
+        "id": 24,
+        "word": "excellent",
+        "translation": "mükemmel",
+        "example": "Your work is excellent!",
+        "exampleTr": "Çalışman mükemmel!",
+        "phonetic": "/ˈeksələnt/"
+    },
+    {
+        "id": 25,
+        "word": "experience",
+        "translation": "deneyim",
+        "example": "She has a lot of experience.",
+        "exampleTr": "Çok fazla deneyimi var.",
+        "phonetic": "/ɪkˈspɪriəns/"
+    },
+    {
+        "id": 26,
+        "word": "explain",
+        "translation": "açıklamak",
+        "example": "Can you explain this to me?",
+        "exampleTr": "Bunu bana açıklayabilir misin?",
+        "phonetic": "/ɪkˈspleɪn/"
+    },
+    {
+        "id": 27,
+        "word": "favorite",
+        "translation": "favori / en sevilen",
+        "example": "What's your favorite movie?",
+        "exampleTr": "En sevdiğin film hangisi?",
+        "phonetic": "/ˈfeɪvərɪt/"
+    },
+    {
+        "id": 28,
+        "word": "finally",
+        "translation": "sonunda",
+        "example": "We finally arrived home.",
+        "exampleTr": "Sonunda eve vardık.",
+        "phonetic": "/ˈfaɪnəli/"
+    },
+    {
+        "id": 29,
+        "word": "forget",
+        "translation": "unutmak",
+        "example": "Don't forget your keys.",
+        "exampleTr": "Anahtarlarını unutma.",
+        "phonetic": "/fərˈɡet/"
+    },
+    {
+        "id": 30,
+        "word": "happen",
+        "translation": "olmak / gerçekleşmek",
+        "example": "What happened yesterday?",
+        "exampleTr": "Dün ne oldu?",
+        "phonetic": "/ˈhæpən/"
+    },
+    {
+        "id": 31,
+        "word": "health",
+        "translation": "sağlık",
+        "example": "Health is more important than money.",
+        "exampleTr": "Sağlık paradan daha önemli.",
+        "phonetic": "/helθ/"
+    },
+    {
+        "id": 32,
+        "word": "imagine",
+        "translation": "hayal etmek",
+        "example": "Imagine a world without war.",
+        "exampleTr": "Savaşsız bir dünya hayal et.",
+        "phonetic": "/ɪˈmædʒɪn/"
+    },
+    {
+        "id": 33,
+        "word": "improve",
+        "translation": "geliştirmek / iyileştirmek",
+        "example": "I want to improve my English.",
+        "exampleTr": "İngilizcemi geliştirmek istiyorum.",
+        "phonetic": "/ɪmˈpruːv/"
+    },
+    {
+        "id": 34,
+        "word": "include",
+        "translation": "dahil etmek / içermek",
+        "example": "The price includes breakfast.",
+        "exampleTr": "Fiyata kahvaltı dahil.",
+        "phonetic": "/ɪnˈkluːd/"
+    },
+    {
+        "id": 35,
+        "word": "interesting",
+        "translation": "ilginç",
+        "example": "This book is very interesting.",
+        "exampleTr": "Bu kitap çok ilginç.",
+        "phonetic": "/ˈɪntrəstɪŋ/"
+    },
+    {
+        "id": 36,
+        "word": "journey",
+        "translation": "yolculuk",
+        "example": "The journey takes two hours.",
+        "exampleTr": "Yolculuk iki saat sürüyor.",
+        "phonetic": "/ˈdʒɜːrni/"
+    },
+    {
+        "id": 37,
+        "word": "knowledge",
+        "translation": "bilgi",
+        "example": "Knowledge is power.",
+        "exampleTr": "Bilgi güçtür.",
+        "phonetic": "/ˈnɒlɪdʒ/"
+    },
+    {
+        "id": 38,
+        "word": "language",
+        "translation": "dil",
+        "example": "How many languages do you speak?",
+        "exampleTr": "Kaç dil konuşuyorsun?",
+        "phonetic": "/ˈlæŋɡwɪdʒ/"
+    },
+    {
+        "id": 39,
+        "word": "memory",
+        "translation": "hafıza / anı",
+        "example": "I have a good memory.",
+        "exampleTr": "İyi bir hafızam var.",
+        "phonetic": "/ˈmeməri/"
+    },
+    {
+        "id": 40,
+        "word": "message",
+        "translation": "mesaj",
+        "example": "I sent you a message.",
+        "exampleTr": "Sana bir mesaj gönderdim.",
+        "phonetic": "/ˈmesɪdʒ/"
+    },
+    {
+        "id": 41,
+        "word": "opportunity",
+        "translation": "fırsat",
+        "example": "This is a great opportunity.",
+        "exampleTr": "Bu büyük bir fırsat.",
+        "phonetic": "/ˌɒpərˈtuːnəti/"
+    },
+    {
+        "id": 42,
+        "word": "popular",
+        "translation": "popüler",
+        "example": "This song is very popular.",
+        "exampleTr": "Bu şarkı çok popüler.",
+        "phonetic": "/ˈpɒpjələr/"
+    },
+    {
+        "id": 43,
+        "word": "possible",
+        "translation": "mümkün",
+        "example": "Everything is possible.",
+        "exampleTr": "Her şey mümkün.",
+        "phonetic": "/ˈpɒsəbəl/"
+    },
+    {
+        "id": 44,
+        "word": "practice",
+        "translation": "pratik / alıştırma",
+        "example": "Practice makes perfect.",
+        "exampleTr": "Pratik mükemmelleştirir.",
+        "phonetic": "/ˈpræktɪs/"
+    },
+    {
+        "id": 45,
+        "word": "prepare",
+        "translation": "hazırlamak",
+        "example": "I need to prepare for the exam.",
+        "exampleTr": "Sınava hazırlanmam gerekiyor.",
+        "phonetic": "/prɪˈper/"
+    },
+    {
+        "id": 46,
+        "word": "problem",
+        "translation": "sorun / problem",
+        "example": "There is a problem with the computer.",
+        "exampleTr": "Bilgisayarla ilgili bir sorun var.",
+        "phonetic": "/ˈprɒbləm/"
+    },
+    {
+        "id": 47,
+        "word": "promise",
+        "translation": "söz vermek",
+        "example": "I promise to help you.",
+        "exampleTr": "Sana yardım edeceğime söz veriyorum.",
+        "phonetic": "/ˈprɒmɪs/"
+    },
+    {
+        "id": 48,
+        "word": "remember",
+        "translation": "hatırlamak",
+        "example": "I remember your face.",
+        "exampleTr": "Yüzünü hatırlıyorum.",
+        "phonetic": "/rɪˈmembər/"
+    },
+    {
+        "id": 49,
+        "word": "suggest",
+        "translation": "önermek",
+        "example": "I suggest we take a break.",
+        "exampleTr": "Mola vermemizi öneriyorum.",
+        "phonetic": "/səˈdʒest/"
+    },
+    {
+        "id": 50,
+        "word": "together",
+        "translation": "birlikte",
+        "example": "We work better together.",
+        "exampleTr": "Birlikte daha iyi çalışırız.",
+        "phonetic": "/təˈɡeðər/"
+    },
+    {
+        "id": 51,
+        "word": "accept",
+        "translation": "kabul etmek",
+        "example": "I accept your offer.",
+        "exampleTr": "Teklifini kabul ediyorum.",
+        "phonetic": "/əkˈsept/"
+    },
+    {
+        "id": 52,
+        "word": "across",
+        "translation": "karşısında / boyunca",
+        "example": "The shop is across the street.",
+        "exampleTr": "Dükkan caddenin karşısında.",
+        "phonetic": "/əˈkrɒs/"
+    },
+    {
+        "id": 53,
+        "word": "agree",
+        "translation": "katılmak / onaylamak",
+        "example": "I agree with you.",
+        "exampleTr": "Sana katılıyorum.",
+        "phonetic": "/əˈɡriː/"
+    },
+    {
+        "id": 54,
+        "word": "allow",
+        "translation": "izin vermek",
+        "example": "My parents allow me to go out.",
+        "exampleTr": "Ailem dışarı çıkmama izin veriyor.",
+        "phonetic": "/əˈlaʊ/"
+    },
+    {
+        "id": 55,
+        "word": "already",
+        "translation": "zaten / çoktan",
+        "example": "I have already eaten.",
+        "exampleTr": "Zaten yedim.",
+        "phonetic": "/ɔːlˈredi/"
+    },
+    {
+        "id": 56,
+        "word": "although",
+        "translation": "her ne kadar / rağmen",
+        "example": "Although it was raining, we went out.",
+        "exampleTr": "Yağmur yağmasına rağmen dışarı çıktık.",
+        "phonetic": "/ɔːlˈðoʊ/"
+    },
+    {
+        "id": 57,
+        "word": "appear",
+        "translation": "görünmek / ortaya çıkmak",
+        "example": "The sun appeared behind the clouds.",
+        "exampleTr": "Güneş bulutların arkasından göründü.",
+        "phonetic": "/əˈpɪr/"
+    },
+    {
+        "id": 58,
+        "word": "arrive",
+        "translation": "varmak / gelmek",
+        "example": "The train arrives at 3 PM.",
+        "exampleTr": "Tren saat 3'te varıyor.",
+        "phonetic": "/əˈraɪv/"
+    },
+    {
+        "id": 59,
+        "word": "attention",
+        "translation": "dikkat",
+        "example": "Pay attention to the teacher.",
+        "exampleTr": "Öğretmene dikkat et.",
+        "phonetic": "/əˈtenʃn/"
+    },
+    {
+        "id": 60,
+        "word": "avoid",
+        "translation": "kaçınmak",
+        "example": "Try to avoid mistakes.",
+        "exampleTr": "Hatalardan kaçınmaya çalış.",
+        "phonetic": "/əˈvɔɪd/"
+    },
+    {
+        "id": 61,
+        "word": "borrow",
+        "translation": "ödünç almak",
+        "example": "Can I borrow your pen?",
+        "exampleTr": "Kalemini ödünç alabilir miyim?",
+        "phonetic": "/ˈbɒroʊ/"
+    },
+    {
+        "id": 62,
+        "word": "break",
+        "translation": "kırmak / mola",
+        "example": "Don't break the glass.",
+        "exampleTr": "Bardağı kırma.",
+        "phonetic": "/breɪk/"
+    },
+    {
+        "id": 63,
+        "word": "bring",
+        "translation": "getirmek",
+        "example": "Bring your notebook tomorrow.",
+        "exampleTr": "Yarın defterini getir.",
+        "phonetic": "/brɪŋ/"
+    },
+    {
+        "id": 64,
+        "word": "carry",
+        "translation": "taşımak",
+        "example": "Can you carry this bag?",
+        "exampleTr": "Bu çantayı taşıyabilir misin?",
+        "phonetic": "/ˈkæri/"
+    },
+    {
+        "id": 65,
+        "word": "catch",
+        "translation": "yakalamak",
+        "example": "Catch the ball!",
+        "exampleTr": "Topu yakala!",
+        "phonetic": "/kætʃ/"
+    },
+    {
+        "id": 66,
+        "word": "cause",
+        "translation": "neden olmak / sebep",
+        "example": "What caused the accident?",
+        "exampleTr": "Kazaya ne sebep oldu?",
+        "phonetic": "/kɔːz/"
+    },
+    {
+        "id": 67,
+        "word": "chance",
+        "translation": "şans / fırsat",
+        "example": "Give me another chance.",
+        "exampleTr": "Bana bir şans daha ver.",
+        "phonetic": "/tʃæns/"
+    },
+    {
+        "id": 68,
+        "word": "compare",
+        "translation": "karşılaştırmak",
+        "example": "Compare these two photos.",
+        "exampleTr": "Bu iki fotoğrafı karşılaştır.",
+        "phonetic": "/kəmˈper/"
+    },
+    {
+        "id": 69,
+        "word": "complain",
+        "translation": "şikayet etmek",
+        "example": "He always complains about everything.",
+        "exampleTr": "Her zaman her şeyden şikayet eder.",
+        "phonetic": "/kəmˈpleɪn/"
+    },
+    {
+        "id": 70,
+        "word": "contain",
+        "translation": "içermek",
+        "example": "This box contains books.",
+        "exampleTr": "Bu kutu kitap içeriyor.",
+        "phonetic": "/kənˈteɪn/"
+    },
+    {
+        "id": 71,
+        "word": "cost",
+        "translation": "maliyet / mal olmak",
+        "example": "How much does it cost?",
+        "exampleTr": "Ne kadar?",
+        "phonetic": "/kɒst/"
+    },
+    {
+        "id": 72,
+        "word": "cover",
+        "translation": "kapak / örtmek",
+        "example": "Cover the pot with a lid.",
+        "exampleTr": "Tencereyi kapakla ört.",
+        "phonetic": "/ˈkʌvər/"
+    },
+    {
+        "id": 73,
+        "word": "cross",
+        "translation": "karşıya geçmek / çapraz",
+        "example": "Cross the street carefully.",
+        "exampleTr": "Caddeyi dikkatli geç.",
+        "phonetic": "/krɒs/"
+    },
+    {
+        "id": 74,
+        "word": "cry",
+        "translation": "ağlamak",
+        "example": "The baby is crying.",
+        "exampleTr": "Bebek ağlıyor.",
+        "phonetic": "/kraɪ/"
+    },
+    {
+        "id": 75,
+        "word": "cut",
+        "translation": "kesmek",
+        "example": "Cut the paper with scissors.",
+        "exampleTr": "Kağıdı makasla kes.",
+        "phonetic": "/kʌt/"
+    },
+    {
+        "id": 76,
+        "word": "dangerous",
+        "translation": "tehlikeli",
+        "example": "This road is dangerous.",
+        "exampleTr": "Bu yol tehlikeli.",
+        "phonetic": "/ˈdeɪndʒərəs/"
+    },
+    {
+        "id": 77,
+        "word": "dark",
+        "translation": "karanlık",
+        "example": "The room is very dark.",
+        "exampleTr": "Oda çok karanlık.",
+        "phonetic": "/dɑːrk/"
+    },
+    {
+        "id": 78,
+        "word": "deep",
+        "translation": "derin",
+        "example": "The pool is very deep.",
+        "exampleTr": "Havuz çok derin.",
+        "phonetic": "/diːp/"
+    },
+    {
+        "id": 79,
+        "word": "deliver",
+        "translation": "teslim etmek",
+        "example": "They will deliver the package tomorrow.",
+        "exampleTr": "Paketi yarın teslim edecekler.",
+        "phonetic": "/dɪˈlɪvər/"
+    },
+    {
+        "id": 80,
+        "word": "depend",
+        "translation": "bağlı olmak",
+        "example": "It depends on the weather.",
+        "exampleTr": "Havaya bağlı.",
+        "phonetic": "/dɪˈpend/"
+    },
+    {
+        "id": 81,
+        "word": "disappear",
+        "translation": "kaybolmak",
+        "example": "The cat disappeared.",
+        "exampleTr": "Kedi kayboldu.",
+        "phonetic": "/ˌdɪsəˈpɪr/"
+    },
+    {
+        "id": 82,
+        "word": "draw",
+        "translation": "çizmek",
+        "example": "She loves to draw pictures.",
+        "exampleTr": "Resim çizmeyi çok seviyor.",
+        "phonetic": "/drɔː/"
+    },
+    {
+        "id": 83,
+        "word": "dream",
+        "translation": "rüya / hayal",
+        "example": "I had a strange dream last night.",
+        "exampleTr": "Dün gece garip bir rüya gördüm.",
+        "phonetic": "/driːm/"
+    },
+    {
+        "id": 84,
+        "word": "drop",
+        "translation": "düşürmek / damla",
+        "example": "I dropped my phone.",
+        "exampleTr": "Telefonumu düşürdüm.",
+        "phonetic": "/drɒp/"
+    },
+    {
+        "id": 85,
+        "word": "dry",
+        "translation": "kuru / kurutmak",
+        "example": "The clothes are dry.",
+        "exampleTr": "Kıyafetler kuru.",
+        "phonetic": "/draɪ/"
+    },
+    {
+        "id": 86,
+        "word": "early",
+        "translation": "erken",
+        "example": "I wake up early every day.",
+        "exampleTr": "Her gün erken uyanırım.",
+        "phonetic": "/ˈɜːrli/"
+    },
+    {
+        "id": 87,
+        "word": "easy",
+        "translation": "kolay",
+        "example": "This question is easy.",
+        "exampleTr": "Bu soru kolay.",
+        "phonetic": "/ˈiːzi/"
+    },
+    {
+        "id": 88,
+        "word": "empty",
+        "translation": "boş",
+        "example": "The bottle is empty.",
+        "exampleTr": "Şişe boş.",
+        "phonetic": "/ˈempti/"
+    },
+    {
+        "id": 89,
+        "word": "end",
+        "translation": "son / bitmek",
+        "example": "The movie will end soon.",
+        "exampleTr": "Film yakında bitecek.",
+        "phonetic": "/end/"
+    },
+    {
+        "id": 90,
+        "word": "enjoy",
+        "translation": "keyif almak",
+        "example": "I enjoy reading books.",
+        "exampleTr": "Kitap okumaktan keyif alırım.",
+        "phonetic": "/ɪnˈdʒɔɪ/"
+    },
+    {
+        "id": 91,
+        "word": "enough",
+        "translation": "yeterli",
+        "example": "Do we have enough food?",
+        "exampleTr": "Yeterli yemek var mı?",
+        "phonetic": "/ɪˈnʌf/"
+    },
+    {
+        "id": 92,
+        "word": "enter",
+        "translation": "girmek",
+        "example": "Please enter the room quietly.",
+        "exampleTr": "Lütfen odaya sessizce gir.",
+        "phonetic": "/ˈentər/"
+    },
+    {
+        "id": 93,
+        "word": "even",
+        "translation": "bile / hatta",
+        "example": "Even children can do it.",
+        "exampleTr": "Çocuklar bile yapabilir.",
+        "phonetic": "/ˈiːvn/"
+    },
+    {
+        "id": 94,
+        "word": "expect",
+        "translation": "beklemek / ummak",
+        "example": "I expect to finish by Friday.",
+        "exampleTr": "Cuma'ya kadar bitirmeyi umuyorum.",
+        "phonetic": "/ɪkˈspekt/"
+    },
+    {
+        "id": 95,
+        "word": "fail",
+        "translation": "başarısız olmak",
+        "example": "Don't be afraid to fail.",
+        "exampleTr": "Başarısız olmaktan korkma.",
+        "phonetic": "/feɪl/"
+    },
+    {
+        "id": 96,
+        "word": "fall",
+        "translation": "düşmek / sonbahar",
+        "example": "Be careful, don't fall.",
+        "exampleTr": "Dikkatli ol, düşme.",
+        "phonetic": "/fɔːl/"
+    },
+    {
+        "id": 97,
+        "word": "fill",
+        "translation": "doldurmak",
+        "example": "Fill the glass with water.",
+        "exampleTr": "Bardağı suyla doldur.",
+        "phonetic": "/fɪl/"
+    },
+    {
+        "id": 98,
+        "word": "fix",
+        "translation": "tamir etmek",
+        "example": "Can you fix my bike?",
+        "exampleTr": "Bisikletimi tamir edebilir misin?",
+        "phonetic": "/fɪks/"
+    },
+    {
+        "id": 99,
+        "word": "follow",
+        "translation": "takip etmek",
+        "example": "Follow me, please.",
+        "exampleTr": "Beni takip et lütfen.",
+        "phonetic": "/ˈfɒloʊ/"
+    },
+    {
+        "id": 100,
+        "word": "free",
+        "translation": "ücretsiz / özgür",
+        "example": "The entrance is free.",
+        "exampleTr": "Giriş ücretsiz.",
+        "phonetic": "/friː/"
+    },
+    {
+        "id": 101,
+        "word": "fresh",
+        "translation": "taze",
+        "example": "I need some fresh air.",
+        "exampleTr": "Biraz temiz havaya ihtiyacım var.",
+        "phonetic": "/freʃ/"
+    },
+    {
+        "id": 102,
+        "word": "full",
+        "translation": "dolu / tok",
+        "example": "The bus is full.",
+        "exampleTr": "Otobüs dolu.",
+        "phonetic": "/fʊl/"
+    },
+    {
+        "id": 103,
+        "word": "grow",
+        "translation": "büyümek / yetiştirmek",
+        "example": "Children grow up fast.",
+        "exampleTr": "Çocuklar hızlı büyür.",
+        "phonetic": "/ɡroʊ/"
+    },
+    {
+        "id": 104,
+        "word": "guess",
+        "translation": "tahmin etmek",
+        "example": "Can you guess my age?",
+        "exampleTr": "Yaşımı tahmin edebilir misin?",
+        "phonetic": "/ɡes/"
+    },
+    {
+        "id": 105,
+        "word": "hang",
+        "translation": "asmak",
+        "example": "Hang your coat on the hook.",
+        "exampleTr": "Paltonu askıya as.",
+        "phonetic": "/hæŋ/"
+    },
+    {
+        "id": 106,
+        "word": "hate",
+        "translation": "nefret etmek",
+        "example": "I hate waking up early.",
+        "exampleTr": "Erken kalkmaktan nefret ederim.",
+        "phonetic": "/heɪt/"
+    },
+    {
+        "id": 107,
+        "word": "heavy",
+        "translation": "ağır",
+        "example": "This box is very heavy.",
+        "exampleTr": "Bu kutu çok ağır.",
+        "phonetic": "/ˈhevi/"
+    },
+    {
+        "id": 108,
+        "word": "hide",
+        "translation": "saklamak / gizlemek",
+        "example": "I hid the gift under the bed.",
+        "exampleTr": "Hediyeyi yatağın altına sakladım.",
+        "phonetic": "/haɪd/"
+    },
+    {
+        "id": 109,
+        "word": "hit",
+        "translation": "vurmak",
+        "example": "He hit the ball hard.",
+        "exampleTr": "Topa sert vurdu.",
+        "phonetic": "/hɪt/"
+    },
+    {
+        "id": 110,
+        "word": "hold",
+        "translation": "tutmak",
+        "example": "Hold my hand.",
+        "exampleTr": "Elimi tut.",
+        "phonetic": "/hoʊld/"
+    },
+    {
+        "id": 111,
+        "word": "hope",
+        "translation": "umut / ummak",
+        "example": "I hope everything will be fine.",
+        "exampleTr": "Umarım her şey iyi olacak.",
+        "phonetic": "/hoʊp/"
+    },
+    {
+        "id": 112,
+        "word": "huge",
+        "translation": "devasa / kocaman",
+        "example": "The building is huge.",
+        "exampleTr": "Bina devasa.",
+        "phonetic": "/hjuːdʒ/"
+    },
+    {
+        "id": 113,
+        "word": "hurry",
+        "translation": "acele etmek",
+        "example": "Hurry up, we are late!",
+        "exampleTr": "Acele et, geç kaldık!",
+        "phonetic": "/ˈhɜːri/"
+    },
+    {
+        "id": 114,
+        "word": "hurt",
+        "translation": "acıtmak / incitmek",
+        "example": "My leg hurts.",
+        "exampleTr": "Bacağım acıyor.",
+        "phonetic": "/hɜːrt/"
+    },
+    {
+        "id": 115,
+        "word": "important",
+        "translation": "önemli",
+        "example": "This meeting is very important.",
+        "exampleTr": "Bu toplantı çok önemli.",
+        "phonetic": "/ɪmˈpɔːrtənt/"
+    },
+    {
+        "id": 116,
+        "word": "instead",
+        "translation": "bunun yerine",
+        "example": "Let's walk instead of driving.",
+        "exampleTr": "Araba sürmek yerine yürüyelim.",
+        "phonetic": "/ɪnˈsted/"
+    },
+    {
+        "id": 117,
+        "word": "invite",
+        "translation": "davet etmek",
+        "example": "I want to invite you to dinner.",
+        "exampleTr": "Seni yemeğe davet etmek istiyorum.",
+        "phonetic": "/ɪnˈvaɪt/"
+    },
+    {
+        "id": 118,
+        "word": "join",
+        "translation": "katılmak",
+        "example": "Do you want to join us?",
+        "exampleTr": "Bize katılmak ister misin?",
+        "phonetic": "/dʒɔɪn/"
+    },
+    {
+        "id": 119,
+        "word": "keep",
+        "translation": "tutmak / saklamak",
+        "example": "Keep the change.",
+        "exampleTr": "Üstü kalsın.",
+        "phonetic": "/kiːp/"
+    },
+    {
+        "id": 120,
+        "word": "kind",
+        "translation": "nazik / tür",
+        "example": "She is a very kind person.",
+        "exampleTr": "Çok nazik bir insan.",
+        "phonetic": "/kaɪnd/"
+    },
+    {
+        "id": 121,
+        "word": "knock",
+        "translation": "kapıyı çalmak",
+        "example": "Someone is knocking on the door.",
+        "exampleTr": "Birisi kapıyı çalıyor.",
+        "phonetic": "/nɒk/"
+    },
+    {
+        "id": 122,
+        "word": "late",
+        "translation": "geç",
+        "example": "Sorry, I am late.",
+        "exampleTr": "Özür dilerim, geç kaldım.",
+        "phonetic": "/leɪt/"
+    },
+    {
+        "id": 123,
+        "word": "laugh",
+        "translation": "gülmek",
+        "example": "She loves to laugh.",
+        "exampleTr": "Gülmeyi çok sever.",
+        "phonetic": "/lɑːf/"
+    },
+    {
+        "id": 124,
+        "word": "lazy",
+        "translation": "tembel",
+        "example": "Don't be lazy!",
+        "exampleTr": "Tembel olma!",
+        "phonetic": "/ˈleɪzi/"
+    },
+    {
+        "id": 125,
+        "word": "leave",
+        "translation": "ayrılmak / bırakmak",
+        "example": "I have to leave now.",
+        "exampleTr": "Şimdi gitmem gerekiyor.",
+        "phonetic": "/liːv/"
+    },
+    {
+        "id": 126,
+        "word": "lend",
+        "translation": "ödünç vermek",
+        "example": "Can you lend me some money?",
+        "exampleTr": "Bana biraz para ödünç verebilir misin?",
+        "phonetic": "/lend/"
+    },
+    {
+        "id": 127,
+        "word": "light",
+        "translation": "ışık / hafif",
+        "example": "Turn on the light, please.",
+        "exampleTr": "Işığı aç lütfen.",
+        "phonetic": "/laɪt/"
+    },
+    {
+        "id": 128,
+        "word": "lose",
+        "translation": "kaybetmek",
+        "example": "Don't lose your ticket.",
+        "exampleTr": "Biletini kaybetme.",
+        "phonetic": "/luːz/"
+    },
+    {
+        "id": 129,
+        "word": "loud",
+        "translation": "gürültülü / yüksek sesli",
+        "example": "The music is too loud.",
+        "exampleTr": "Müzik çok gürültülü.",
+        "phonetic": "/laʊd/"
+    },
+    {
+        "id": 130,
+        "word": "lucky",
+        "translation": "şanslı",
+        "example": "You are very lucky!",
+        "exampleTr": "Çok şanslısın!",
+        "phonetic": "/ˈlʌki/"
+    },
+    {
+        "id": 131,
+        "word": "match",
+        "translation": "eşleştirmek / maç",
+        "example": "This color matches your shoes.",
+        "exampleTr": "Bu renk ayakkabılarınla uyuyor.",
+        "phonetic": "/mætʃ/"
+    },
+    {
+        "id": 132,
+        "word": "matter",
+        "translation": "önemli olmak / mesele",
+        "example": "It doesn't matter.",
+        "exampleTr": "Önemli değil.",
+        "phonetic": "/ˈmætər/"
+    },
+    {
+        "id": 133,
+        "word": "mean",
+        "translation": "anlamına gelmek / kötü",
+        "example": "What does this word mean?",
+        "exampleTr": "Bu kelime ne anlama geliyor?",
+        "phonetic": "/miːn/"
+    },
+    {
+        "id": 134,
+        "word": "miss",
+        "translation": "özlemek / kaçırmak",
+        "example": "I miss my family.",
+        "exampleTr": "Ailemi özlüyorum.",
+        "phonetic": "/mɪs/"
+    },
+    {
+        "id": 135,
+        "word": "mix",
+        "translation": "karıştırmak",
+        "example": "Mix the ingredients together.",
+        "exampleTr": "Malzemeleri birlikte karıştır.",
+        "phonetic": "/mɪks/"
+    },
+    {
+        "id": 136,
+        "word": "move",
+        "translation": "hareket etmek / taşınmak",
+        "example": "We are moving to a new house.",
+        "exampleTr": "Yeni bir eve taşınıyoruz.",
+        "phonetic": "/muːv/"
+    },
+    {
+        "id": 137,
+        "word": "narrow",
+        "translation": "dar",
+        "example": "The street is very narrow.",
+        "exampleTr": "Sokak çok dar.",
+        "phonetic": "/ˈnæroʊ/"
+    },
+    {
+        "id": 138,
+        "word": "necessary",
+        "translation": "gerekli",
+        "example": "Water is necessary for life.",
+        "exampleTr": "Su yaşam için gereklidir.",
+        "phonetic": "/ˈnesəseri/"
+    },
+    {
+        "id": 139,
+        "word": "noise",
+        "translation": "gürültü",
+        "example": "What's that noise?",
+        "exampleTr": "O gürültü ne?",
+        "phonetic": "/nɔɪz/"
+    },
+    {
+        "id": 140,
+        "word": "notice",
+        "translation": "fark etmek",
+        "example": "Did you notice anything strange?",
+        "exampleTr": "Garip bir şey fark ettin mi?",
+        "phonetic": "/ˈnoʊtɪs/"
+    },
+    {
+        "id": 141,
+        "word": "offer",
+        "translation": "teklif etmek",
+        "example": "He offered me a job.",
+        "exampleTr": "Bana bir iş teklif etti.",
+        "phonetic": "/ˈɒfər/"
+    },
+    {
+        "id": 142,
+        "word": "own",
+        "translation": "sahip olmak / kendi",
+        "example": "I have my own room.",
+        "exampleTr": "Kendi odam var.",
+        "phonetic": "/oʊn/"
+    },
+    {
+        "id": 143,
+        "word": "plan",
+        "translation": "plan / planlamak",
+        "example": "What's the plan for today?",
+        "exampleTr": "Bugünkü plan ne?",
+        "phonetic": "/plæn/"
+    },
+    {
+        "id": 144,
+        "word": "polite",
+        "translation": "kibar / nazik",
+        "example": "He is always polite.",
+        "exampleTr": "Her zaman kibar.",
+        "phonetic": "/pəˈlaɪt/"
+    },
+    {
+        "id": 145,
+        "word": "prefer",
+        "translation": "tercih etmek",
+        "example": "I prefer tea over coffee.",
+        "exampleTr": "Kahve yerine çayı tercih ederim.",
+        "phonetic": "/prɪˈfɜːr/"
+    },
+    {
+        "id": 146,
+        "word": "protect",
+        "translation": "korumak",
+        "example": "We must protect the environment.",
+        "exampleTr": "Çevreyi korumalıyız.",
+        "phonetic": "/prəˈtekt/"
+    },
+    {
+        "id": 147,
+        "word": "proud",
+        "translation": "gurur duymak / gururlu",
+        "example": "I am proud of you.",
+        "exampleTr": "Seninle gurur duyuyorum.",
+        "phonetic": "/praʊd/"
+    },
+    {
+        "id": 148,
+        "word": "pull",
+        "translation": "çekmek",
+        "example": "Pull the door to open it.",
+        "exampleTr": "Kapıyı çekerek aç.",
+        "phonetic": "/pʊl/"
+    },
+    {
+        "id": 149,
+        "word": "push",
+        "translation": "itmek",
+        "example": "Push the button.",
+        "exampleTr": "Düğmeye bas.",
+        "phonetic": "/pʊʃ/"
+    },
+    {
+        "id": 150,
+        "word": "reach",
+        "translation": "ulaşmak / erişmek",
+        "example": "We reached the top of the mountain.",
+        "exampleTr": "Dağın tepesine ulaştık.",
+        "phonetic": "/riːtʃ/"
+    }
+]

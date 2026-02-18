@@ -1,0 +1,872 @@
+[
+    {
+        "id": 1,
+        "word": "science",
+        "translation": "bilim",
+        "example": "Science explains the world.",
+        "exampleTr": "Bilim dünyayı açıklar.",
+        "phonetic": "/ˈsaɪəns/",
+        "level": "a2"
+    },
+    {
+        "id": 2,
+        "word": "scientist",
+        "translation": "bilim insanı",
+        "example": "She is a famous scientist.",
+        "exampleTr": "O ünlü bir bilim insanı.",
+        "phonetic": "/ˈsaɪəntɪst/",
+        "level": "b2"
+    },
+    {
+        "id": 3,
+        "word": "research",
+        "translation": "araştırma",
+        "example": "The research took years.",
+        "exampleTr": "Araştırma yıllar sürdü.",
+        "phonetic": "/rɪˈsɜːrtʃ/",
+        "level": "b1"
+    },
+    {
+        "id": 4,
+        "word": "experiment",
+        "translation": "deney",
+        "example": "The experiment was successful.",
+        "exampleTr": "Deney başarılı oldu.",
+        "phonetic": "/ɪkˈsperɪmənt/",
+        "level": "a2"
+    },
+    {
+        "id": 5,
+        "word": "laboratory",
+        "translation": "laboratuvar",
+        "example": "She works in a laboratory.",
+        "exampleTr": "Bir laboratuvarda çalışır.",
+        "phonetic": "/ˈlæbrətɔːri/",
+        "level": "b1"
+    },
+    {
+        "id": 6,
+        "word": "theory",
+        "translation": "teori / kuram",
+        "example": "Einstein developed the theory of relativity.",
+        "exampleTr": "Einstein görelilik kuramını geliştirdi.",
+        "phonetic": "/ˈθɪəri/",
+        "level": "b1"
+    },
+    {
+        "id": 7,
+        "word": "hypothesis",
+        "translation": "hipotez",
+        "example": "Test the hypothesis.",
+        "exampleTr": "Hipotezi test et.",
+        "phonetic": "/haɪˈpɒθəsɪs/",
+        "level": "b1"
+    },
+    {
+        "id": 8,
+        "word": "discovery",
+        "translation": "keşif",
+        "example": "It was an amazing discovery.",
+        "exampleTr": "Harika bir keşifti.",
+        "phonetic": "/dɪsˈkʌvəri/",
+        "level": "b1"
+    },
+    {
+        "id": 9,
+        "word": "invention",
+        "translation": "icat",
+        "example": "The invention changed the world.",
+        "exampleTr": "İcat dünyayı değiştirdi.",
+        "phonetic": "/ɪnˈvenʃn/",
+        "level": "b1"
+    },
+    {
+        "id": 10,
+        "word": "technology",
+        "translation": "teknoloji",
+        "example": "Technology is advancing fast.",
+        "exampleTr": "Teknoloji hızla ilerliyor.",
+        "phonetic": "/tekˈnɒlədʒi/",
+        "level": "c1"
+    },
+    {
+        "id": 11,
+        "word": "atom",
+        "translation": "atom",
+        "example": "Everything is made of atoms.",
+        "exampleTr": "Her şey atomlardan yapılmıştır.",
+        "phonetic": "/ˈætəm/",
+        "level": "b1"
+    },
+    {
+        "id": 12,
+        "word": "molecule",
+        "translation": "molekül",
+        "example": "Water is a simple molecule.",
+        "exampleTr": "Su basit bir moleküldür.",
+        "phonetic": "/ˈmɒlɪkjuːl/",
+        "level": "b1"
+    },
+    {
+        "id": 13,
+        "word": "cell",
+        "translation": "hücre",
+        "example": "The body is made of cells.",
+        "exampleTr": "Vücut hücrelerden oluşur.",
+        "phonetic": "/sel/",
+        "level": "b1"
+    },
+    {
+        "id": 14,
+        "word": "DNA",
+        "translation": "DNA",
+        "example": "DNA carries genetic information.",
+        "exampleTr": "DNA genetik bilgiyi taşır.",
+        "phonetic": "/ˌdiːenˈeɪ/",
+        "level": "a2"
+    },
+    {
+        "id": 15,
+        "word": "gene",
+        "translation": "gen",
+        "example": "Genes determine eye color.",
+        "exampleTr": "Genler göz rengini belirler.",
+        "phonetic": "/dʒiːn/",
+        "level": "b2"
+    },
+    {
+        "id": 16,
+        "word": "evolution",
+        "translation": "evrim",
+        "example": "Evolution takes millions of years.",
+        "exampleTr": "Evrim milyonlarca yıl sürer.",
+        "phonetic": "/ˌiːvəˈluːʃn/",
+        "level": "b2"
+    },
+    {
+        "id": 17,
+        "word": "species",
+        "translation": "tür",
+        "example": "Many species are endangered.",
+        "exampleTr": "Birçok tür tehlike altında.",
+        "phonetic": "/ˈspiːʃiːz/",
+        "level": "b2"
+    },
+    {
+        "id": 18,
+        "word": "biology",
+        "translation": "biyoloji",
+        "example": "She studies biology.",
+        "exampleTr": "Biyoloji okuyor.",
+        "phonetic": "/baɪˈɒlədʒi/",
+        "level": "b1"
+    },
+    {
+        "id": 19,
+        "word": "chemistry",
+        "translation": "kimya",
+        "example": "Chemistry is fascinating.",
+        "exampleTr": "Kimya büyüleyici.",
+        "phonetic": "/ˈkemɪstri/",
+        "level": "b1"
+    },
+    {
+        "id": 20,
+        "word": "physics",
+        "translation": "fizik",
+        "example": "Physics explains motion.",
+        "exampleTr": "Fizik hareketi açıklar.",
+        "phonetic": "/ˈfɪzɪks/",
+        "level": "b1"
+    },
+    {
+        "id": 21,
+        "word": "mathematics",
+        "translation": "matematik",
+        "example": "Mathematics is the language of science.",
+        "exampleTr": "Matematik bilimin dilidir.",
+        "phonetic": "/ˌmæθəˈmætɪks/",
+        "level": "b1"
+    },
+    {
+        "id": 22,
+        "word": "formula",
+        "translation": "formül",
+        "example": "Apply the formula.",
+        "exampleTr": "Formülü uygula.",
+        "phonetic": "/ˈfɔːrmjʊlə/",
+        "level": "b1"
+    },
+    {
+        "id": 23,
+        "word": "equation",
+        "translation": "denklem",
+        "example": "Solve the equation.",
+        "exampleTr": "Denklemi çöz.",
+        "phonetic": "/ɪˈkweɪʒn/",
+        "level": "b1"
+    },
+    {
+        "id": 24,
+        "word": "gravity",
+        "translation": "yerçekimi",
+        "example": "Gravity pulls things down.",
+        "exampleTr": "Yerçekimi nesneleri aşağı çeker.",
+        "phonetic": "/ˈɡrævəti/",
+        "level": "b1"
+    },
+    {
+        "id": 25,
+        "word": "energy",
+        "translation": "enerji",
+        "example": "Solar energy is renewable.",
+        "exampleTr": "Güneş enerjisi yenilenebilir.",
+        "phonetic": "/ˈenərdʒi/",
+        "level": "a2"
+    },
+    {
+        "id": 26,
+        "word": "force",
+        "translation": "kuvvet",
+        "example": "Force equals mass times acceleration.",
+        "exampleTr": "Kuvvet, kütle çarpı ivmeye eşittir.",
+        "phonetic": "/fɔːrs/",
+        "level": "b1"
+    },
+    {
+        "id": 27,
+        "word": "mass",
+        "translation": "kütle",
+        "example": "What is the mass of this object?",
+        "exampleTr": "Bu nesnenin kütlesi ne?",
+        "phonetic": "/mæs/",
+        "level": "b2"
+    },
+    {
+        "id": 28,
+        "word": "velocity",
+        "translation": "hız",
+        "example": "Calculate the velocity.",
+        "exampleTr": "Hızı hesapla.",
+        "phonetic": "/vəˈlɒsəti/",
+        "level": "b2"
+    },
+    {
+        "id": 29,
+        "word": "pressure",
+        "translation": "basınç",
+        "example": "The pressure is increasing.",
+        "exampleTr": "Basınç artıyor.",
+        "phonetic": "/ˈpreʃər/",
+        "level": "b2"
+    },
+    {
+        "id": 30,
+        "word": "temperature",
+        "translation": "sıcaklık",
+        "example": "The temperature is rising.",
+        "exampleTr": "Sıcaklık yükseliyor.",
+        "phonetic": "/ˈtemprətʃər/",
+        "level": "a2"
+    },
+    {
+        "id": 31,
+        "word": "element",
+        "translation": "element",
+        "example": "Oxygen is an element.",
+        "exampleTr": "Oksijen bir elementtir.",
+        "phonetic": "/ˈelɪmənt/",
+        "level": "b2"
+    },
+    {
+        "id": 32,
+        "word": "compound",
+        "translation": "bileşik",
+        "example": "Water is a compound.",
+        "exampleTr": "Su bir bileşiktir.",
+        "phonetic": "/ˈkɒmpaʊnd/",
+        "level": "b2"
+    },
+    {
+        "id": 33,
+        "word": "reaction",
+        "translation": "reaksiyon / tepkime",
+        "example": "A chemical reaction occurred.",
+        "exampleTr": "Kimyasal bir tepkime gerçekleşti.",
+        "phonetic": "/riˈækʃn/",
+        "level": "b2"
+    },
+    {
+        "id": 34,
+        "word": "oxygen",
+        "translation": "oksijen",
+        "example": "We breathe oxygen.",
+        "exampleTr": "Oksijen soluruz.",
+        "phonetic": "/ˈɒksɪdʒən/",
+        "level": "b1"
+    },
+    {
+        "id": 35,
+        "word": "carbon",
+        "translation": "karbon",
+        "example": "Carbon is essential for life.",
+        "exampleTr": "Karbon yaşam için gereklidir.",
+        "phonetic": "/ˈkɑːrbən/",
+        "level": "b1"
+    },
+    {
+        "id": 36,
+        "word": "hydrogen",
+        "translation": "hidrojen",
+        "example": "Hydrogen is the lightest element.",
+        "exampleTr": "Hidrojen en hafif elementtir.",
+        "phonetic": "/ˈhaɪdrədʒən/",
+        "level": "b2"
+    },
+    {
+        "id": 37,
+        "word": "nuclear",
+        "translation": "nükleer",
+        "example": "Nuclear energy is powerful.",
+        "exampleTr": "Nükleer enerji güçlüdür.",
+        "phonetic": "/ˈnjuːkliər/",
+        "level": "b2"
+    },
+    {
+        "id": 38,
+        "word": "radiation",
+        "translation": "radyasyon",
+        "example": "Avoid excessive radiation.",
+        "exampleTr": "Aşırı radyasyondan kaçın.",
+        "phonetic": "/ˌreɪdiˈeɪʃn/",
+        "level": "b2"
+    },
+    {
+        "id": 39,
+        "word": "microscope",
+        "translation": "mikroskop",
+        "example": "Look through the microscope.",
+        "exampleTr": "Mikroskopta bak.",
+        "phonetic": "/ˈmaɪkrəskoʊp/",
+        "level": "b2"
+    },
+    {
+        "id": 40,
+        "word": "telescope",
+        "translation": "teleskop",
+        "example": "Use the telescope to see stars.",
+        "exampleTr": "Yıldızları görmek için teleskop kullan.",
+        "phonetic": "/ˈtelɪskoʊp/",
+        "level": "b2"
+    },
+    {
+        "id": 41,
+        "word": "planet",
+        "translation": "gezegen",
+        "example": "Mars is a planet.",
+        "exampleTr": "Mars bir gezegendir.",
+        "phonetic": "/ˈplænɪt/",
+        "level": "a2"
+    },
+    {
+        "id": 42,
+        "word": "solar system",
+        "translation": "güneş sistemi",
+        "example": "Our solar system has eight planets.",
+        "exampleTr": "Güneş sistemimizde sekiz gezegen var.",
+        "phonetic": "/ˈsoʊlər ˈsɪstəm/",
+        "level": "b2"
+    },
+    {
+        "id": 43,
+        "word": "galaxy",
+        "translation": "galaksi",
+        "example": "The Milky Way is our galaxy.",
+        "exampleTr": "Samanyolu bizim galaksimiz.",
+        "phonetic": "/ˈɡæləksi/",
+        "level": "b2"
+    },
+    {
+        "id": 44,
+        "word": "universe",
+        "translation": "evren",
+        "example": "The universe is expanding.",
+        "exampleTr": "Evren genişliyor.",
+        "phonetic": "/ˈjuːnɪvɜːrs/",
+        "level": "b2"
+    },
+    {
+        "id": 45,
+        "word": "satellite",
+        "translation": "uydu",
+        "example": "The satellite orbits Earth.",
+        "exampleTr": "Uydu Dünya'nın yörüngesinde döner.",
+        "phonetic": "/ˈsætəlaɪt/",
+        "level": "b2"
+    },
+    {
+        "id": 46,
+        "word": "asteroid",
+        "translation": "asteroit",
+        "example": "An asteroid passed near Earth.",
+        "exampleTr": "Bir asteroit Dünya'nın yakınından geçti.",
+        "phonetic": "/ˈæstərɔɪd/",
+        "level": "b2"
+    },
+    {
+        "id": 47,
+        "word": "orbit",
+        "translation": "yörünge",
+        "example": "The moon orbits the Earth.",
+        "exampleTr": "Ay, Dünya'nın yörüngesinde döner.",
+        "phonetic": "/ˈɔːrbɪt/",
+        "level": "b2"
+    },
+    {
+        "id": 48,
+        "word": "rocket",
+        "translation": "roket",
+        "example": "The rocket launched successfully.",
+        "exampleTr": "Roket başarıyla fırlatıldı.",
+        "phonetic": "/ˈrɒkɪt/",
+        "level": "b1"
+    },
+    {
+        "id": 49,
+        "word": "astronaut",
+        "translation": "astronot",
+        "example": "She dreams of being an astronaut.",
+        "exampleTr": "Astronot olmayı hayal ediyor.",
+        "phonetic": "/ˈæstrənɔːt/",
+        "level": "b2"
+    },
+    {
+        "id": 50,
+        "word": "bacteria",
+        "translation": "bakteri",
+        "example": "Bacteria can cause illness.",
+        "exampleTr": "Bakteriler hastalığa neden olabilir.",
+        "phonetic": "/bækˈtɪriə/",
+        "level": "b1"
+    },
+    {
+        "id": 51,
+        "word": "virus",
+        "translation": "virüs",
+        "example": "Viruses spread quickly.",
+        "exampleTr": "Virüsler hızla yayılır.",
+        "phonetic": "/ˈvaɪrəs/",
+        "level": "b1"
+    },
+    {
+        "id": 52,
+        "word": "vaccine",
+        "translation": "aşı",
+        "example": "Get your vaccine.",
+        "exampleTr": "Aşını ol.",
+        "phonetic": "/vækˈsiːn/",
+        "level": "b1"
+    },
+    {
+        "id": 53,
+        "word": "data",
+        "translation": "veri",
+        "example": "Analyze the data.",
+        "exampleTr": "Verileri analiz et.",
+        "phonetic": "/ˈdeɪtə/",
+        "level": "b1"
+    },
+    {
+        "id": 54,
+        "word": "analysis",
+        "translation": "analiz",
+        "example": "The analysis shows results.",
+        "exampleTr": "Analiz sonuçları gösteriyor.",
+        "phonetic": "/əˈnæləsɪs/",
+        "level": "b1"
+    },
+    {
+        "id": 55,
+        "word": "conclusion",
+        "translation": "sonuç",
+        "example": "What is your conclusion?",
+        "exampleTr": "Sonucun ne?",
+        "phonetic": "/kənˈkluːʒn/",
+        "level": "b2"
+    },
+    {
+        "id": 56,
+        "word": "evidence",
+        "translation": "kanıt",
+        "example": "The evidence supports the theory.",
+        "exampleTr": "Kanıtlar teoriyi destekliyor.",
+        "phonetic": "/ˈevɪdəns/",
+        "level": "b1"
+    },
+    {
+        "id": 57,
+        "word": "observe",
+        "translation": "gözlemlemek",
+        "example": "Observe the experiment carefully.",
+        "exampleTr": "Deneyi dikkatli gözlemle.",
+        "phonetic": "/əbˈzɜːrv/",
+        "level": "b1"
+    },
+    {
+        "id": 58,
+        "word": "measure",
+        "translation": "ölçmek",
+        "example": "Measure the temperature.",
+        "exampleTr": "Sıcaklığı ölç.",
+        "phonetic": "/ˈmeʒər/",
+        "level": "b1"
+    },
+    {
+        "id": 59,
+        "word": "calculate",
+        "translation": "hesaplamak",
+        "example": "Calculate the distance.",
+        "exampleTr": "Mesafeyi hesapla.",
+        "phonetic": "/ˈkælkjuleɪt/",
+        "level": "b1"
+    },
+    {
+        "id": 60,
+        "word": "prove",
+        "translation": "kanıtlamak",
+        "example": "Can you prove it?",
+        "exampleTr": "Kanıtlayabilir misin?",
+        "phonetic": "/pruːv/",
+        "level": "b2"
+    },
+    {
+        "id": 61,
+        "word": "method",
+        "translation": "yöntem",
+        "example": "Use the scientific method.",
+        "exampleTr": "Bilimsel yöntemi kullan.",
+        "phonetic": "/ˈmeθəd/",
+        "level": "b2"
+    },
+    {
+        "id": 62,
+        "word": "phenomenon",
+        "translation": "fenomen / olgu",
+        "example": "This is a natural phenomenon.",
+        "exampleTr": "Bu doğal bir olgudur.",
+        "phonetic": "/fɪˈnɒmɪnən/",
+        "level": "b2"
+    },
+    {
+        "id": 63,
+        "word": "magnetic",
+        "translation": "manyetik",
+        "example": "The Earth has a magnetic field.",
+        "exampleTr": "Dünya'nın manyetik alanı var.",
+        "phonetic": "/mæɡˈnetɪk/",
+        "level": "b2"
+    },
+    {
+        "id": 64,
+        "word": "electric",
+        "translation": "elektrik",
+        "example": "Electric cars are the future.",
+        "exampleTr": "Elektrikli arabalar geleceğin araçları.",
+        "phonetic": "/ɪˈlektrɪk/",
+        "level": "b2"
+    },
+    {
+        "id": 65,
+        "word": "frequency",
+        "translation": "frekans",
+        "example": "Adjust the frequency.",
+        "exampleTr": "Frekansı ayarla.",
+        "phonetic": "/ˈfriːkwənsi/",
+        "level": "b2"
+    },
+    {
+        "id": 66,
+        "word": "wavelength",
+        "translation": "dalga boyu",
+        "example": "Light has different wavelengths.",
+        "exampleTr": "Işığın farklı dalga boyları var.",
+        "phonetic": "/ˈweɪvleŋθ/",
+        "level": "b2"
+    },
+    {
+        "id": 67,
+        "word": "spectrum",
+        "translation": "spektrum",
+        "example": "The visible spectrum includes all colors.",
+        "exampleTr": "Görünür spektrum tüm renkleri içerir.",
+        "phonetic": "/ˈspektrəm/",
+        "level": "b2"
+    },
+    {
+        "id": 68,
+        "word": "fossil",
+        "translation": "fosil",
+        "example": "Fossils tell us about the past.",
+        "exampleTr": "Fosiller bize geçmişi anlatır.",
+        "phonetic": "/ˈfɒsl/",
+        "level": "b2"
+    },
+    {
+        "id": 69,
+        "word": "geology",
+        "translation": "jeoloji",
+        "example": "Geology studies rocks and minerals.",
+        "exampleTr": "Jeoloji kayaları ve mineralleri inceler.",
+        "phonetic": "/dʒiˈɒlədʒi/",
+        "level": "b2"
+    },
+    {
+        "id": 70,
+        "word": "astronomy",
+        "translation": "astronomi",
+        "example": "Astronomy is the study of space.",
+        "exampleTr": "Astronomi uzay bilimidir.",
+        "phonetic": "/əˈstrɒnəmi/",
+        "level": "b2"
+    },
+    {
+        "id": 71,
+        "word": "hypothesis",
+        "translation": "hipotez",
+        "example": "Test the hypothesis.",
+        "exampleTr": "Hipotezi test et.",
+        "phonetic": "/haɪˈpɒθəsɪs/"
+    },
+    {
+        "id": 72,
+        "word": "molecule",
+        "translation": "molekül",
+        "example": "Water is a molecule of H2O.",
+        "exampleTr": "Su H2O molekülüdür.",
+        "phonetic": "/ˈmɒlɪkjuːl/"
+    },
+    {
+        "id": 73,
+        "word": "nucleus",
+        "translation": "çekirdek",
+        "example": "The nucleus contains protons.",
+        "exampleTr": "Çekirdek proton içerir.",
+        "phonetic": "/ˈnjuːkliəs/"
+    },
+    {
+        "id": 74,
+        "word": "organism",
+        "translation": "organizma",
+        "example": "Every organism adapts.",
+        "exampleTr": "Her organizma uyum sağlar.",
+        "phonetic": "/ˈɔːrɡənɪzəm/"
+    },
+    {
+        "id": 75,
+        "word": "particle",
+        "translation": "parçacık",
+        "example": "Subatomic particles are tiny.",
+        "exampleTr": "Atom altı parçacıklar çok küçük.",
+        "phonetic": "/ˈpɑːrtɪkl/"
+    },
+    {
+        "id": 76,
+        "word": "photosynthesis",
+        "translation": "fotosentez",
+        "example": "Plants use photosynthesis.",
+        "exampleTr": "Bitkiler fotosentez kullanır.",
+        "phonetic": "/ˌfoʊtoʊˈsɪnθəsɪs/"
+    },
+    {
+        "id": 77,
+        "word": "proton",
+        "translation": "proton",
+        "example": "Protons have positive charge.",
+        "exampleTr": "Protonlar pozitif yüklüdür.",
+        "phonetic": "/ˈproʊtɒn/"
+    },
+    {
+        "id": 78,
+        "word": "quantum",
+        "translation": "kuantum",
+        "example": "Quantum physics is complex.",
+        "exampleTr": "Kuantum fiziği karmaşık.",
+        "phonetic": "/ˈkwɒntəm/"
+    },
+    {
+        "id": 79,
+        "word": "radiation",
+        "translation": "radyasyon",
+        "example": "UV radiation is harmful.",
+        "exampleTr": "UV radyasyonu zararlı.",
+        "phonetic": "/ˌreɪdiˈeɪʃn/"
+    },
+    {
+        "id": 80,
+        "word": "reagent",
+        "translation": "reaktif",
+        "example": "Add the reagent to the solution.",
+        "exampleTr": "Çözeltiye reaktif ekle.",
+        "phonetic": "/riˈeɪdʒənt/"
+    },
+    {
+        "id": 81,
+        "word": "relativity",
+        "translation": "görelilik",
+        "example": "Einstein's theory of relativity.",
+        "exampleTr": "Einstein'ın görelilik teorisi.",
+        "phonetic": "/ˌreləˈtɪvəti/"
+    },
+    {
+        "id": 82,
+        "word": "specimen",
+        "translation": "numune / örnek",
+        "example": "Examine the specimen.",
+        "exampleTr": "Numuneyi incele.",
+        "phonetic": "/ˈspesɪmən/"
+    },
+    {
+        "id": 83,
+        "word": "spectrum",
+        "translation": "spektrum",
+        "example": "The visible light spectrum.",
+        "exampleTr": "Görünür ışık spektrumu.",
+        "phonetic": "/ˈspektrəm/"
+    },
+    {
+        "id": 84,
+        "word": "synthesis",
+        "translation": "sentez",
+        "example": "Chemical synthesis is complex.",
+        "exampleTr": "Kimyasal sentez karmaşık.",
+        "phonetic": "/ˈsɪnθəsɪs/"
+    },
+    {
+        "id": 85,
+        "word": "theorem",
+        "translation": "teorem",
+        "example": "Prove the theorem.",
+        "exampleTr": "Teoremi kanıtla.",
+        "phonetic": "/ˈθɪərəm/"
+    },
+    {
+        "id": 86,
+        "word": "thermodynamics",
+        "translation": "termodinamik",
+        "example": "Study thermodynamics.",
+        "exampleTr": "Termodinamik çalış.",
+        "phonetic": "/ˌθɜːrmoʊdaɪˈnæmɪks/"
+    },
+    {
+        "id": 87,
+        "word": "tissue",
+        "translation": "doku",
+        "example": "Tissue samples were taken.",
+        "exampleTr": "Doku örnekleri alındı.",
+        "phonetic": "/ˈtɪʃuː/"
+    },
+    {
+        "id": 88,
+        "word": "variable",
+        "translation": "değişken",
+        "example": "Control the variables.",
+        "exampleTr": "Değişkenleri kontrol et.",
+        "phonetic": "/ˈveriəbl/"
+    },
+    {
+        "id": 89,
+        "word": "velocity",
+        "translation": "hız",
+        "example": "Calculate the velocity.",
+        "exampleTr": "Hızı hesapla.",
+        "phonetic": "/vəˈlɒsəti/"
+    },
+    {
+        "id": 90,
+        "word": "virus",
+        "translation": "virüs",
+        "example": "The virus mutated.",
+        "exampleTr": "Virüs mutasyona uğradı.",
+        "phonetic": "/ˈvaɪrəs/"
+    },
+    {
+        "id": 91,
+        "word": "wavelength",
+        "translation": "dalga boyu",
+        "example": "Measure the wavelength.",
+        "exampleTr": "Dalga boyunu ölç.",
+        "phonetic": "/ˈweɪvleŋθ/"
+    },
+    {
+        "id": 92,
+        "word": "zoology",
+        "translation": "zooloji",
+        "example": "She studies zoology.",
+        "exampleTr": "Zooloji çalışıyor.",
+        "phonetic": "/zuːˈɒlədʒi/"
+    },
+    {
+        "id": 93,
+        "word": "catalyst",
+        "translation": "katalizör",
+        "example": "The enzyme acts as a catalyst.",
+        "exampleTr": "Enzim katalizör görevi görür.",
+        "phonetic": "/ˈkætəlɪst/"
+    },
+    {
+        "id": 94,
+        "word": "chromosome",
+        "translation": "kromozom",
+        "example": "Humans have 46 chromosomes.",
+        "exampleTr": "İnsanlarda 46 kromozom var.",
+        "phonetic": "/ˈkroʊməsoʊm/"
+    },
+    {
+        "id": 95,
+        "word": "compound",
+        "translation": "bileşik",
+        "example": "Water is a chemical compound.",
+        "exampleTr": "Su bir kimyasal bileşik.",
+        "phonetic": "/ˈkɒmpaʊnd/"
+    },
+    {
+        "id": 96,
+        "word": "density",
+        "translation": "yoğunluk",
+        "example": "Calculate the density.",
+        "exampleTr": "Yoğunluğu hesapla.",
+        "phonetic": "/ˈdensəti/"
+    },
+    {
+        "id": 97,
+        "word": "electrode",
+        "translation": "elektrot",
+        "example": "Connect the electrode.",
+        "exampleTr": "Elektrotu bağla.",
+        "phonetic": "/ɪˈlektroʊd/"
+    },
+    {
+        "id": 98,
+        "word": "enzyme",
+        "translation": "enzim",
+        "example": "Enzymes speed up reactions.",
+        "exampleTr": "Enzimler tepkimeleri hızlandırır.",
+        "phonetic": "/ˈenzaɪm/"
+    },
+    {
+        "id": 99,
+        "word": "genome",
+        "translation": "genom",
+        "example": "The human genome was mapped.",
+        "exampleTr": "İnsan genomu haritalandı.",
+        "phonetic": "/ˈdʒiːnoʊm/"
+    },
+    {
+        "id": 100,
+        "word": "isotope",
+        "translation": "izotop",
+        "example": "Carbon has several isotopes.",
+        "exampleTr": "Karbonun birkaç izotopu var.",
+        "phonetic": "/ˈaɪsətoʊp/"
+    }
+]

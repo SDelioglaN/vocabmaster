@@ -1,0 +1,872 @@
+[
+    {
+        "id": 1,
+        "word": "money",
+        "translation": "para",
+        "example": "Money isn't everything.",
+        "exampleTr": "Para her şey değil.",
+        "phonetic": "/ˈmʌni/",
+        "level": "a1"
+    },
+    {
+        "id": 2,
+        "word": "cash",
+        "translation": "nakit",
+        "example": "I pay in cash.",
+        "exampleTr": "Nakit ödüyorum.",
+        "phonetic": "/kæʃ/",
+        "level": "a2"
+    },
+    {
+        "id": 3,
+        "word": "bank",
+        "translation": "banka",
+        "example": "I went to the bank.",
+        "exampleTr": "Bankaya gittim.",
+        "phonetic": "/bæŋk/",
+        "level": "a2"
+    },
+    {
+        "id": 4,
+        "word": "account",
+        "translation": "hesap",
+        "example": "Open a bank account.",
+        "exampleTr": "Banka hesabı aç.",
+        "phonetic": "/əˈkaʊnt/",
+        "level": "a2"
+    },
+    {
+        "id": 5,
+        "word": "savings",
+        "translation": "birikim",
+        "example": "I have some savings.",
+        "exampleTr": "Biraz birikimim var.",
+        "phonetic": "/ˈseɪvɪŋz/",
+        "level": "b1"
+    },
+    {
+        "id": 6,
+        "word": "deposit",
+        "translation": "yatırmak / depozito",
+        "example": "Deposit the money.",
+        "exampleTr": "Parayı yatır.",
+        "phonetic": "/dɪˈpɒzɪt/",
+        "level": "b1"
+    },
+    {
+        "id": 7,
+        "word": "withdraw",
+        "translation": "para çekmek",
+        "example": "I need to withdraw money.",
+        "exampleTr": "Para çekmem lazım.",
+        "phonetic": "/wɪðˈdrɔː/",
+        "level": "b1"
+    },
+    {
+        "id": 8,
+        "word": "transfer",
+        "translation": "havale / transfer",
+        "example": "Transfer money to my account.",
+        "exampleTr": "Hesabıma para transfer et.",
+        "phonetic": "/ˈtrænsfɜːr/",
+        "level": "b1"
+    },
+    {
+        "id": 9,
+        "word": "balance",
+        "translation": "bakiye",
+        "example": "Check your balance.",
+        "exampleTr": "Bakiyeni kontrol et.",
+        "phonetic": "/ˈbæləns/",
+        "level": "b1"
+    },
+    {
+        "id": 10,
+        "word": "loan",
+        "translation": "kredi / borç",
+        "example": "I took out a loan.",
+        "exampleTr": "Kredi çektim.",
+        "phonetic": "/loʊn/",
+        "level": "b1"
+    },
+    {
+        "id": 11,
+        "word": "debt",
+        "translation": "borç",
+        "example": "Pay off your debt.",
+        "exampleTr": "Borcunu öde.",
+        "phonetic": "/det/",
+        "level": "b1"
+    },
+    {
+        "id": 12,
+        "word": "interest",
+        "translation": "faiz",
+        "example": "The interest rate is high.",
+        "exampleTr": "Faiz oranı yüksek.",
+        "phonetic": "/ˈɪntrəst/",
+        "level": "b1"
+    },
+    {
+        "id": 13,
+        "word": "mortgage",
+        "translation": "ipotek / konut kredisi",
+        "example": "We got a mortgage.",
+        "exampleTr": "Konut kredisi aldık.",
+        "phonetic": "/ˈmɔːrɡɪdʒ/",
+        "level": "b1"
+    },
+    {
+        "id": 14,
+        "word": "investment",
+        "translation": "yatırım",
+        "example": "It's a good investment.",
+        "exampleTr": "İyi bir yatırım.",
+        "phonetic": "/ɪnˈvestmənt/",
+        "level": "b1"
+    },
+    {
+        "id": 15,
+        "word": "invest",
+        "translation": "yatırım yapmak",
+        "example": "Invest in your future.",
+        "exampleTr": "Geleceğine yatırım yap.",
+        "phonetic": "/ɪnˈvest/",
+        "level": "b1"
+    },
+    {
+        "id": 16,
+        "word": "stock",
+        "translation": "hisse senedi",
+        "example": "Buy stocks carefully.",
+        "exampleTr": "Hisse senetlerini dikkatli al.",
+        "phonetic": "/stɒk/",
+        "level": "b2"
+    },
+    {
+        "id": 17,
+        "word": "share",
+        "translation": "hisse",
+        "example": "I bought shares in the company.",
+        "exampleTr": "Şirkette hisse aldım.",
+        "phonetic": "/ʃer/",
+        "level": "b1"
+    },
+    {
+        "id": 18,
+        "word": "profit",
+        "translation": "kâr",
+        "example": "The company made a profit.",
+        "exampleTr": "Şirket kâr etti.",
+        "phonetic": "/ˈprɒfɪt/",
+        "level": "b1"
+    },
+    {
+        "id": 19,
+        "word": "loss",
+        "translation": "zarar",
+        "example": "They reported a loss.",
+        "exampleTr": "Zarar bildirdiler.",
+        "phonetic": "/lɒs/",
+        "level": "b1"
+    },
+    {
+        "id": 20,
+        "word": "income",
+        "translation": "gelir",
+        "example": "What's your monthly income?",
+        "exampleTr": "Aylık gelirin ne?",
+        "phonetic": "/ˈɪnkʌm/",
+        "level": "a2"
+    },
+    {
+        "id": 21,
+        "word": "salary",
+        "translation": "maaş",
+        "example": "My salary is paid monthly.",
+        "exampleTr": "Maaşım aylık ödeniyor.",
+        "phonetic": "/ˈsæləri/",
+        "level": "a2"
+    },
+    {
+        "id": 22,
+        "word": "wage",
+        "translation": "ücret",
+        "example": "The minimum wage increased.",
+        "exampleTr": "Asgari ücret arttı.",
+        "phonetic": "/weɪdʒ/",
+        "level": "a2"
+    },
+    {
+        "id": 23,
+        "word": "expense",
+        "translation": "gider / masraf",
+        "example": "Track your expenses.",
+        "exampleTr": "Giderlerini takip et.",
+        "phonetic": "/ɪkˈspens/",
+        "level": "a2"
+    },
+    {
+        "id": 24,
+        "word": "budget",
+        "translation": "bütçe",
+        "example": "We need a budget.",
+        "exampleTr": "Bütçeye ihtiyacımız var.",
+        "phonetic": "/ˈbʌdʒɪt/",
+        "level": "a2"
+    },
+    {
+        "id": 25,
+        "word": "tax",
+        "translation": "vergi",
+        "example": "Pay your taxes.",
+        "exampleTr": "Vergini öde.",
+        "phonetic": "/tæks/",
+        "level": "a2"
+    },
+    {
+        "id": 26,
+        "word": "invoice",
+        "translation": "fatura",
+        "example": "Send the invoice.",
+        "exampleTr": "Faturayı gönder.",
+        "phonetic": "/ˈɪnvɔɪs/",
+        "level": "b2"
+    },
+    {
+        "id": 27,
+        "word": "receipt",
+        "translation": "makbuz / fiş",
+        "example": "Keep the receipt.",
+        "exampleTr": "Makbuzu sakla.",
+        "phonetic": "/rɪˈsiːt/",
+        "level": "a2"
+    },
+    {
+        "id": 28,
+        "word": "payment",
+        "translation": "ödeme",
+        "example": "Make the payment online.",
+        "exampleTr": "Ödemeyi online yap.",
+        "phonetic": "/ˈpeɪmənt/",
+        "level": "b2"
+    },
+    {
+        "id": 29,
+        "word": "credit card",
+        "translation": "kredi kartı",
+        "example": "Pay by credit card.",
+        "exampleTr": "Kredi kartıyla öde.",
+        "phonetic": "/ˈkredɪt kɑːrd/",
+        "level": "a2"
+    },
+    {
+        "id": 30,
+        "word": "currency",
+        "translation": "para birimi",
+        "example": "The currency is weak.",
+        "exampleTr": "Para birimi zayıf.",
+        "phonetic": "/ˈkʌrənsi/",
+        "level": "b1"
+    },
+    {
+        "id": 31,
+        "word": "exchange rate",
+        "translation": "döviz kuru",
+        "example": "Check the exchange rate.",
+        "exampleTr": "Döviz kurunu kontrol et.",
+        "phonetic": "/ɪksˈtʃeɪndʒ reɪt/",
+        "level": "b1"
+    },
+    {
+        "id": 32,
+        "word": "inflation",
+        "translation": "enflasyon",
+        "example": "Inflation is rising.",
+        "exampleTr": "Enflasyon yükseliyor.",
+        "phonetic": "/ɪnˈfleɪʃn/",
+        "level": "b2"
+    },
+    {
+        "id": 33,
+        "word": "economy",
+        "translation": "ekonomi",
+        "example": "The economy is growing.",
+        "exampleTr": "Ekonomi büyüyor.",
+        "phonetic": "/ɪˈkɒnəmi/",
+        "level": "b2"
+    },
+    {
+        "id": 34,
+        "word": "market",
+        "translation": "piyasa / pazar",
+        "example": "The market crashed.",
+        "exampleTr": "Piyasa çöktü.",
+        "phonetic": "/ˈmɑːrkɪt/",
+        "level": "a1"
+    },
+    {
+        "id": 35,
+        "word": "trade",
+        "translation": "ticaret",
+        "example": "International trade is important.",
+        "exampleTr": "Uluslararası ticaret önemlidir.",
+        "phonetic": "/treɪd/",
+        "level": "b1"
+    },
+    {
+        "id": 36,
+        "word": "export",
+        "translation": "ihracat",
+        "example": "We export goods abroad.",
+        "exampleTr": "Yurt dışına mal ihraç ederiz.",
+        "phonetic": "/ˈekspɔːrt/",
+        "level": "b1"
+    },
+    {
+        "id": 37,
+        "word": "import",
+        "translation": "ithalat",
+        "example": "We import raw materials.",
+        "exampleTr": "Ham madde ithal ederiz.",
+        "phonetic": "/ˈɪmpɔːrt/",
+        "level": "b1"
+    },
+    {
+        "id": 38,
+        "word": "insurance",
+        "translation": "sigorta",
+        "example": "Get health insurance.",
+        "exampleTr": "Sağlık sigortası al.",
+        "phonetic": "/ɪnˈʃʊrəns/",
+        "level": "b1"
+    },
+    {
+        "id": 39,
+        "word": "pension",
+        "translation": "emekli maaşı",
+        "example": "He receives a pension.",
+        "exampleTr": "Emekli maaşı alıyor.",
+        "phonetic": "/ˈpenʃn/",
+        "level": "b1"
+    },
+    {
+        "id": 40,
+        "word": "retire",
+        "translation": "emekli olmak",
+        "example": "She plans to retire at 60.",
+        "exampleTr": "60 yaşında emekli olmayı planlıyor.",
+        "phonetic": "/rɪˈtaɪər/",
+        "level": "b1"
+    },
+    {
+        "id": 41,
+        "word": "bankrupt",
+        "translation": "iflas etmiş",
+        "example": "The company went bankrupt.",
+        "exampleTr": "Şirket iflas etti.",
+        "phonetic": "/ˈbæŋkrʌpt/",
+        "level": "b2"
+    },
+    {
+        "id": 42,
+        "word": "afford",
+        "translation": "karşılayabilmek",
+        "example": "I can't afford it.",
+        "exampleTr": "Karşılayamıyorum.",
+        "phonetic": "/əˈfɔːrd/",
+        "level": "b1"
+    },
+    {
+        "id": 43,
+        "word": "wealthy",
+        "translation": "zengin / varlıklı",
+        "example": "He became wealthy.",
+        "exampleTr": "Zengin oldu.",
+        "phonetic": "/ˈwelθi/",
+        "level": "b1"
+    },
+    {
+        "id": 44,
+        "word": "poverty",
+        "translation": "yoksulluk",
+        "example": "Fight against poverty.",
+        "exampleTr": "Yoksullukla mücadele et.",
+        "phonetic": "/ˈpɒvərti/",
+        "level": "b1"
+    },
+    {
+        "id": 45,
+        "word": "finance",
+        "translation": "finans",
+        "example": "Study finance.",
+        "exampleTr": "Finans oku.",
+        "phonetic": "/ˈfaɪnæns/",
+        "level": "b2"
+    },
+    {
+        "id": 46,
+        "word": "fund",
+        "translation": "fon",
+        "example": "Set up a fund.",
+        "exampleTr": "Bir fon kur.",
+        "phonetic": "/fʌnd/",
+        "level": "a2"
+    },
+    {
+        "id": 47,
+        "word": "asset",
+        "translation": "varlık",
+        "example": "Property is an asset.",
+        "exampleTr": "Mülk bir varlıktır.",
+        "phonetic": "/ˈæset/",
+        "level": "b2"
+    },
+    {
+        "id": 48,
+        "word": "liability",
+        "translation": "yükümlülük / borç",
+        "example": "List all liabilities.",
+        "exampleTr": "Tüm yükümlülükleri listele.",
+        "phonetic": "/ˌlaɪəˈbɪləti/",
+        "level": "b2"
+    },
+    {
+        "id": 49,
+        "word": "revenue",
+        "translation": "gelir / hasılat",
+        "example": "Revenue increased this quarter.",
+        "exampleTr": "Bu çeyrekte gelir arttı.",
+        "phonetic": "/ˈrevənjuː/",
+        "level": "b2"
+    },
+    {
+        "id": 50,
+        "word": "dividend",
+        "translation": "temettü",
+        "example": "Shareholders receive dividends.",
+        "exampleTr": "Hissedarlar temettü alır.",
+        "phonetic": "/ˈdɪvɪdend/",
+        "level": "b2"
+    },
+    {
+        "id": 51,
+        "word": "contract",
+        "translation": "sözleşme",
+        "example": "Sign the contract.",
+        "exampleTr": "Sözleşmeyi imzala.",
+        "phonetic": "/ˈkɒntrækt/",
+        "level": "b1"
+    },
+    {
+        "id": 52,
+        "word": "negotiate",
+        "translation": "müzakere etmek",
+        "example": "Negotiate a better deal.",
+        "exampleTr": "Daha iyi bir anlaşma için müzakere et.",
+        "phonetic": "/nɪˈɡoʊʃieɪt/",
+        "level": "b1"
+    },
+    {
+        "id": 53,
+        "word": "commission",
+        "translation": "komisyon",
+        "example": "They charge a commission.",
+        "exampleTr": "Komisyon alıyorlar.",
+        "phonetic": "/kəˈmɪʃn/",
+        "level": "b1"
+    },
+    {
+        "id": 54,
+        "word": "fee",
+        "translation": "ücret / masraf",
+        "example": "There's a small fee.",
+        "exampleTr": "Küçük bir ücret var.",
+        "phonetic": "/fiː/",
+        "level": "b1"
+    },
+    {
+        "id": 55,
+        "word": "discount",
+        "translation": "indirim",
+        "example": "I got a discount.",
+        "exampleTr": "İndirim aldım.",
+        "phonetic": "/ˈdɪskaʊnt/",
+        "level": "a2"
+    },
+    {
+        "id": 56,
+        "word": "refund",
+        "translation": "geri ödeme",
+        "example": "Can I get a refund?",
+        "exampleTr": "Geri ödeme alabilir miyim?",
+        "phonetic": "/ˈriːfʌnd/",
+        "level": "a2"
+    },
+    {
+        "id": 57,
+        "word": "transaction",
+        "translation": "işlem",
+        "example": "Complete the transaction.",
+        "exampleTr": "İşlemi tamamla.",
+        "phonetic": "/trænˈzækʃn/",
+        "level": "b1"
+    },
+    {
+        "id": 58,
+        "word": "cryptocurrency",
+        "translation": "kripto para",
+        "example": "Bitcoin is a cryptocurrency.",
+        "exampleTr": "Bitcoin bir kripto paradır.",
+        "phonetic": "/ˌkrɪptoʊˈkʌrənsi/",
+        "level": "b2"
+    },
+    {
+        "id": 59,
+        "word": "bond",
+        "translation": "tahvil",
+        "example": "Government bonds are safe.",
+        "exampleTr": "Devlet tahvilleri güvenlidir.",
+        "phonetic": "/bɒnd/",
+        "level": "b2"
+    },
+    {
+        "id": 60,
+        "word": "portfolio",
+        "translation": "portföy",
+        "example": "Diversify your portfolio.",
+        "exampleTr": "Portföyünü çeşitlendir.",
+        "phonetic": "/pɔːrtˈfoʊlioʊ/",
+        "level": "b2"
+    },
+    {
+        "id": 61,
+        "word": "entrepreneur",
+        "translation": "girişimci",
+        "example": "She is an entrepreneur.",
+        "exampleTr": "O bir girişimci.",
+        "phonetic": "/ˌɒntrəprəˈnɜːr/",
+        "level": "b1"
+    },
+    {
+        "id": 62,
+        "word": "startup",
+        "translation": "girişim / startup",
+        "example": "He founded a startup.",
+        "exampleTr": "Bir startup kurdu.",
+        "phonetic": "/ˈstɑːrtʌp/",
+        "level": "b1"
+    },
+    {
+        "id": 63,
+        "word": "bankruptcy",
+        "translation": "iflas",
+        "example": "They filed for bankruptcy.",
+        "exampleTr": "İflas başvurusu yaptılar.",
+        "phonetic": "/ˈbæŋkrʌptsi/",
+        "level": "b2"
+    },
+    {
+        "id": 64,
+        "word": "audit",
+        "translation": "denetim",
+        "example": "The company needs an audit.",
+        "exampleTr": "Şirketin denetime ihtiyacı var.",
+        "phonetic": "/ˈɔːdɪt/",
+        "level": "b2"
+    },
+    {
+        "id": 65,
+        "word": "accountant",
+        "translation": "muhasebeci",
+        "example": "Hire an accountant.",
+        "exampleTr": "Bir muhasebeci tut.",
+        "phonetic": "/əˈkaʊntənt/",
+        "level": "b2"
+    },
+    {
+        "id": 66,
+        "word": "forecast",
+        "translation": "tahmin / öngörü",
+        "example": "The financial forecast is positive.",
+        "exampleTr": "Finansal tahmin olumlu.",
+        "phonetic": "/ˈfɔːrkæst/",
+        "level": "b1"
+    },
+    {
+        "id": 67,
+        "word": "capital",
+        "translation": "sermaye",
+        "example": "We need more capital.",
+        "exampleTr": "Daha fazla sermayeye ihtiyacımız var.",
+        "phonetic": "/ˈkæpɪtl/",
+        "level": "b2"
+    },
+    {
+        "id": 68,
+        "word": "shareholder",
+        "translation": "hissedar",
+        "example": "Shareholders voted.",
+        "exampleTr": "Hissedarlar oy kullandı.",
+        "phonetic": "/ˈʃerhoʊldər/",
+        "level": "b2"
+    },
+    {
+        "id": 69,
+        "word": "subsidy",
+        "translation": "sübvansiyon / destek",
+        "example": "The government provides subsidies.",
+        "exampleTr": "Devlet sübvansiyon sağlar.",
+        "phonetic": "/ˈsʌbsədi/",
+        "level": "b2"
+    },
+    {
+        "id": 70,
+        "word": "recession",
+        "translation": "durgunluk",
+        "example": "The economy is in recession.",
+        "exampleTr": "Ekonomi durgunlukta.",
+        "phonetic": "/rɪˈseʃn/",
+        "level": "b2"
+    },
+    {
+        "id": 71,
+        "word": "asset",
+        "translation": "varlık",
+        "example": "Real estate is a valuable asset.",
+        "exampleTr": "Gayrimenkul değerli bir varlık.",
+        "phonetic": "/ˈæset/"
+    },
+    {
+        "id": 72,
+        "word": "audit",
+        "translation": "denetim",
+        "example": "The company passed the audit.",
+        "exampleTr": "Şirket denetimi geçti.",
+        "phonetic": "/ˈɔːdɪt/"
+    },
+    {
+        "id": 73,
+        "word": "bankruptcy",
+        "translation": "iflas",
+        "example": "They filed for bankruptcy.",
+        "exampleTr": "İflas başvurusu yaptılar.",
+        "phonetic": "/ˈbæŋkrʌptsi/"
+    },
+    {
+        "id": 74,
+        "word": "bond",
+        "translation": "tahvil",
+        "example": "Government bonds are safe.",
+        "exampleTr": "Devlet tahvilleri güvenli.",
+        "phonetic": "/bɒnd/"
+    },
+    {
+        "id": 75,
+        "word": "broker",
+        "translation": "komisyoncu",
+        "example": "The broker arranged the deal.",
+        "exampleTr": "Komisyoncu anlaşmayı ayarladı.",
+        "phonetic": "/ˈbroʊkər/"
+    },
+    {
+        "id": 76,
+        "word": "capital",
+        "translation": "sermaye",
+        "example": "We need more capital.",
+        "exampleTr": "Daha fazla sermayeye ihtiyacımız var.",
+        "phonetic": "/ˈkæpɪtl/"
+    },
+    {
+        "id": 77,
+        "word": "commodity",
+        "translation": "emtia / mal",
+        "example": "Oil is a valuable commodity.",
+        "exampleTr": "Petrol değerli bir emtia.",
+        "phonetic": "/kəˈmɒdəti/"
+    },
+    {
+        "id": 78,
+        "word": "compound",
+        "translation": "bileşik (faiz)",
+        "example": "Compound interest grows fast.",
+        "exampleTr": "Bileşik faiz hızlı büyür.",
+        "phonetic": "/ˈkɒmpaʊnd/"
+    },
+    {
+        "id": 79,
+        "word": "deficit",
+        "translation": "açık",
+        "example": "The budget deficit is growing.",
+        "exampleTr": "Bütçe açığı büyüyor.",
+        "phonetic": "/ˈdefɪsɪt/"
+    },
+    {
+        "id": 80,
+        "word": "depreciation",
+        "translation": "değer kaybı",
+        "example": "Car depreciation is inevitable.",
+        "exampleTr": "Araba değer kaybı kaçınılmaz.",
+        "phonetic": "/dɪˌpriːʃiˈeɪʃn/"
+    },
+    {
+        "id": 81,
+        "word": "dividend",
+        "translation": "temettü",
+        "example": "Shareholders receive dividends.",
+        "exampleTr": "Hissedarlar temettü alır.",
+        "phonetic": "/ˈdɪvɪdend/"
+    },
+    {
+        "id": 82,
+        "word": "equity",
+        "translation": "öz sermaye",
+        "example": "Home equity increased.",
+        "exampleTr": "Ev öz sermayesi arttı.",
+        "phonetic": "/ˈekwəti/"
+    },
+    {
+        "id": 83,
+        "word": "forecast",
+        "translation": "tahmin",
+        "example": "The financial forecast is positive.",
+        "exampleTr": "Finansal tahmin olumlu.",
+        "phonetic": "/ˈfɔːrkæst/"
+    },
+    {
+        "id": 84,
+        "word": "hedge",
+        "translation": "riskten korunma",
+        "example": "Hedging reduces risk.",
+        "exampleTr": "Riskten korunma riski azaltır.",
+        "phonetic": "/hedʒ/"
+    },
+    {
+        "id": 85,
+        "word": "inflation",
+        "translation": "enflasyon",
+        "example": "Inflation affects purchasing power.",
+        "exampleTr": "Enflasyon alım gücünü etkiler.",
+        "phonetic": "/ɪnˈfleɪʃn/"
+    },
+    {
+        "id": 86,
+        "word": "ledger",
+        "translation": "defteri kebir",
+        "example": "Record it in the ledger.",
+        "exampleTr": "Defteri kebire kaydet.",
+        "phonetic": "/ˈledʒər/"
+    },
+    {
+        "id": 87,
+        "word": "liability",
+        "translation": "borç / yükümlülük",
+        "example": "Reduce your liabilities.",
+        "exampleTr": "Yükümlülüklerini azalt.",
+        "phonetic": "/ˌlaɪəˈbɪləti/"
+    },
+    {
+        "id": 88,
+        "word": "liquidity",
+        "translation": "likidite",
+        "example": "The company has good liquidity.",
+        "exampleTr": "Şirketin likiditesi iyi.",
+        "phonetic": "/lɪˈkwɪdəti/"
+    },
+    {
+        "id": 89,
+        "word": "margin",
+        "translation": "marj / kar payı",
+        "example": "Profit margins are thin.",
+        "exampleTr": "Kar marjları dar.",
+        "phonetic": "/ˈmɑːrdʒɪn/"
+    },
+    {
+        "id": 90,
+        "word": "merger",
+        "translation": "birleşme",
+        "example": "The merger was approved.",
+        "exampleTr": "Birleşme onaylandı.",
+        "phonetic": "/ˈmɜːrdʒər/"
+    },
+    {
+        "id": 91,
+        "word": "portfolio",
+        "translation": "portföy",
+        "example": "Diversify your portfolio.",
+        "exampleTr": "Portföyünü çeşitlendir.",
+        "phonetic": "/pɔːrtˈfoʊlioʊ/"
+    },
+    {
+        "id": 92,
+        "word": "quota",
+        "translation": "kota",
+        "example": "Sales quota was met.",
+        "exampleTr": "Satış kotası karşılandı.",
+        "phonetic": "/ˈkwoʊtə/"
+    },
+    {
+        "id": 93,
+        "word": "recession",
+        "translation": "durgunluk",
+        "example": "The country entered a recession.",
+        "exampleTr": "Ülke durgunluğa girdi.",
+        "phonetic": "/rɪˈseʃn/"
+    },
+    {
+        "id": 94,
+        "word": "revenue",
+        "translation": "gelir",
+        "example": "Annual revenue increased.",
+        "exampleTr": "Yıllık gelir arttı.",
+        "phonetic": "/ˈrevənjuː/"
+    },
+    {
+        "id": 95,
+        "word": "shareholder",
+        "translation": "hissedar",
+        "example": "Shareholders voted yes.",
+        "exampleTr": "Hissedarlar evet oyu verdi.",
+        "phonetic": "/ˈʃerhoʊldər/"
+    },
+    {
+        "id": 96,
+        "word": "subsidy",
+        "translation": "sübvansiyon",
+        "example": "Government subsidies help farmers.",
+        "exampleTr": "Devlet sübvansiyonları çiftçilere yardım eder.",
+        "phonetic": "/ˈsʌbsədi/"
+    },
+    {
+        "id": 97,
+        "word": "surplus",
+        "translation": "fazla / artık",
+        "example": "There is a budget surplus.",
+        "exampleTr": "Bütçe fazlası var.",
+        "phonetic": "/ˈsɜːrpləs/"
+    },
+    {
+        "id": 98,
+        "word": "tariff",
+        "translation": "tarife / gümrük vergisi",
+        "example": "New tariffs were imposed.",
+        "exampleTr": "Yeni tarifeler uygulandı.",
+        "phonetic": "/ˈtærɪf/"
+    },
+    {
+        "id": 99,
+        "word": "turnover",
+        "translation": "ciro",
+        "example": "Annual turnover is $1 million.",
+        "exampleTr": "Yıllık ciro 1 milyon dolar.",
+        "phonetic": "/ˈtɜːrnoʊvər/"
+    },
+    {
+        "id": 100,
+        "word": "yield",
+        "translation": "getiri",
+        "example": "Bond yields are low.",
+        "exampleTr": "Tahvil getirileri düşük.",
+        "phonetic": "/jiːld/"
+    }
+]

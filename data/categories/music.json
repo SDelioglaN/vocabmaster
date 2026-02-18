@@ -1,0 +1,882 @@
+[
+    {
+        "id": 1,
+        "word": "music",
+        "translation": "müzik",
+        "example": "I love music.",
+        "exampleTr": "Müzik seviyorum.",
+        "phonetic": "/ˈmjuːzɪk/",
+        "level": "a1"
+    },
+    {
+        "id": 2,
+        "word": "song",
+        "translation": "şarkı",
+        "example": "This is my favorite song.",
+        "exampleTr": "Bu en sevdiğim şarkı.",
+        "phonetic": "/sɒŋ/",
+        "level": "a1"
+    },
+    {
+        "id": 3,
+        "word": "singer",
+        "translation": "şarkıcı",
+        "example": "She is a famous singer.",
+        "exampleTr": "O ünlü bir şarkıcı.",
+        "phonetic": "/ˈsɪŋər/",
+        "level": "b1"
+    },
+    {
+        "id": 4,
+        "word": "musician",
+        "translation": "müzisyen",
+        "example": "He is a talented musician.",
+        "exampleTr": "O yetenekli bir müzisyen.",
+        "phonetic": "/mjuˈzɪʃn/",
+        "level": "b2"
+    },
+    {
+        "id": 5,
+        "word": "instrument",
+        "translation": "enstrüman / çalgı",
+        "example": "Can you play an instrument?",
+        "exampleTr": "Enstrüman çalabiliyor musun?",
+        "phonetic": "/ˈɪnstrəmənt/",
+        "level": "c1"
+    },
+    {
+        "id": 6,
+        "word": "guitar",
+        "translation": "gitar",
+        "example": "I play the guitar.",
+        "exampleTr": "Gitar çalıyorum.",
+        "phonetic": "/ɡɪˈtɑːr/",
+        "level": "a1"
+    },
+    {
+        "id": 7,
+        "word": "piano",
+        "translation": "piyano",
+        "example": "She plays the piano beautifully.",
+        "exampleTr": "Piyanoyu güzel çalar.",
+        "phonetic": "/piˈænoʊ/",
+        "level": "a1"
+    },
+    {
+        "id": 8,
+        "word": "drums",
+        "translation": "davul",
+        "example": "He plays the drums.",
+        "exampleTr": "Davul çalar.",
+        "phonetic": "/drʌmz/",
+        "level": "a1"
+    },
+    {
+        "id": 9,
+        "word": "violin",
+        "translation": "keman",
+        "example": "The violin sounds beautiful.",
+        "exampleTr": "Keman güzel sesleniyor.",
+        "phonetic": "/ˌvaɪəˈlɪn/",
+        "level": "b2"
+    },
+    {
+        "id": 10,
+        "word": "flute",
+        "translation": "flüt",
+        "example": "She plays the flute.",
+        "exampleTr": "Flüt çalar.",
+        "phonetic": "/fluːt/",
+        "level": "b2"
+    },
+    {
+        "id": 11,
+        "word": "concert",
+        "translation": "konser",
+        "example": "We went to a concert.",
+        "exampleTr": "Konsere gittik.",
+        "phonetic": "/ˈkɒnsərt/",
+        "level": "a2"
+    },
+    {
+        "id": 12,
+        "word": "band",
+        "translation": "grup / müzik grubu",
+        "example": "They are in a band.",
+        "exampleTr": "Bir grupta çalıyorlar.",
+        "phonetic": "/bænd/",
+        "level": "a2"
+    },
+    {
+        "id": 13,
+        "word": "orchestra",
+        "translation": "orkestra",
+        "example": "The orchestra performed brilliantly.",
+        "exampleTr": "Orkestra muhteşem performans sergiledi.",
+        "phonetic": "/ˈɔːrkɪstrə/",
+        "level": "b1"
+    },
+    {
+        "id": 14,
+        "word": "melody",
+        "translation": "melodi",
+        "example": "The melody is catchy.",
+        "exampleTr": "Melodi akılda kalıcı.",
+        "phonetic": "/ˈmelədi/",
+        "level": "b1"
+    },
+    {
+        "id": 15,
+        "word": "rhythm",
+        "translation": "ritim",
+        "example": "Feel the rhythm.",
+        "exampleTr": "Ritmi hisset.",
+        "phonetic": "/ˈrɪðəm/",
+        "level": "b1"
+    },
+    {
+        "id": 16,
+        "word": "lyrics",
+        "translation": "şarkı sözleri",
+        "example": "I memorized the lyrics.",
+        "exampleTr": "Şarkı sözlerini ezberledim.",
+        "phonetic": "/ˈlɪrɪks/",
+        "level": "b1"
+    },
+    {
+        "id": 17,
+        "word": "choir",
+        "translation": "koro",
+        "example": "She sings in the choir.",
+        "exampleTr": "Koroda şarkı söylüyor.",
+        "phonetic": "/kwaɪər/",
+        "level": "b1"
+    },
+    {
+        "id": 18,
+        "word": "compose",
+        "translation": "bestelemek",
+        "example": "He composed a symphony.",
+        "exampleTr": "Bir senfoni besteledi.",
+        "phonetic": "/kəmˈpoʊz/",
+        "level": "b1"
+    },
+    {
+        "id": 19,
+        "word": "composer",
+        "translation": "besteci",
+        "example": "Mozart was a great composer.",
+        "exampleTr": "Mozart büyük bir besteciydi.",
+        "phonetic": "/kəmˈpoʊzər/",
+        "level": "b1"
+    },
+    {
+        "id": 20,
+        "word": "album",
+        "translation": "albüm",
+        "example": "The new album is out.",
+        "exampleTr": "Yeni albüm çıktı.",
+        "phonetic": "/ˈælbəm/",
+        "level": "a2"
+    },
+    {
+        "id": 21,
+        "word": "genre",
+        "translation": "tür / janra",
+        "example": "What genre do you like?",
+        "exampleTr": "Hangi türü seversin?",
+        "phonetic": "/ˈʒɑːnrə/",
+        "level": "b2"
+    },
+    {
+        "id": 22,
+        "word": "rock",
+        "translation": "rok müzik",
+        "example": "I listen to rock music.",
+        "exampleTr": "Rok müzik dinlerim.",
+        "phonetic": "/rɒk/",
+        "level": "a2"
+    },
+    {
+        "id": 23,
+        "word": "jazz",
+        "translation": "caz",
+        "example": "Jazz is relaxing.",
+        "exampleTr": "Caz rahatlatıcıdır.",
+        "phonetic": "/dʒæz/",
+        "level": "a2"
+    },
+    {
+        "id": 24,
+        "word": "classical",
+        "translation": "klasik müzik",
+        "example": "I enjoy classical music.",
+        "exampleTr": "Klasik müzikten hoşlanırım.",
+        "phonetic": "/ˈklæsɪkl/",
+        "level": "a2"
+    },
+    {
+        "id": 25,
+        "word": "pop",
+        "translation": "pop müzik",
+        "example": "Pop music is popular.",
+        "exampleTr": "Pop müzik popülerdir.",
+        "phonetic": "/pɒp/",
+        "level": "a2"
+    },
+    {
+        "id": 26,
+        "word": "rap",
+        "translation": "rap",
+        "example": "He likes rap music.",
+        "exampleTr": "Rap müzik sever.",
+        "phonetic": "/ræp/",
+        "level": "a2"
+    },
+    {
+        "id": 27,
+        "word": "dance",
+        "translation": "dans",
+        "example": "Let's dance!",
+        "exampleTr": "Hadi dans edelim!",
+        "phonetic": "/dæns/",
+        "level": "a1"
+    },
+    {
+        "id": 28,
+        "word": "ballet",
+        "translation": "bale",
+        "example": "She studies ballet.",
+        "exampleTr": "Bale çalışıyor.",
+        "phonetic": "/bæˈleɪ/",
+        "level": "a2"
+    },
+    {
+        "id": 29,
+        "word": "painting",
+        "translation": "resim / tablo",
+        "example": "This painting is beautiful.",
+        "exampleTr": "Bu tablo güzel.",
+        "phonetic": "/ˈpeɪntɪŋ/",
+        "level": "a2"
+    },
+    {
+        "id": 30,
+        "word": "painter",
+        "translation": "ressam",
+        "example": "Picasso was a famous painter.",
+        "exampleTr": "Picasso ünlü bir ressamdı.",
+        "phonetic": "/ˈpeɪntər/",
+        "level": "b2"
+    },
+    {
+        "id": 31,
+        "word": "sculpture",
+        "translation": "heykel",
+        "example": "The sculpture is made of marble.",
+        "exampleTr": "Heykel mermerden yapılmış.",
+        "phonetic": "/ˈskʌlptʃər/",
+        "level": "b2"
+    },
+    {
+        "id": 32,
+        "word": "gallery",
+        "translation": "galeri",
+        "example": "We visited an art gallery.",
+        "exampleTr": "Bir sanat galerisini ziyaret ettik.",
+        "phonetic": "/ˈɡæləri/",
+        "level": "a2"
+    },
+    {
+        "id": 33,
+        "word": "exhibition",
+        "translation": "sergi",
+        "example": "The exhibition was impressive.",
+        "exampleTr": "Sergi etkileyiciydi.",
+        "phonetic": "/ˌeksɪˈbɪʃn/",
+        "level": "c1"
+    },
+    {
+        "id": 34,
+        "word": "museum",
+        "translation": "müze",
+        "example": "The museum is free on Sundays.",
+        "exampleTr": "Müze pazar günleri ücretsiz.",
+        "phonetic": "/mjuˈziːəm/",
+        "level": "a2"
+    },
+    {
+        "id": 35,
+        "word": "art",
+        "translation": "sanat",
+        "example": "Art is everywhere.",
+        "exampleTr": "Sanat her yerde.",
+        "phonetic": "/ɑːrt/",
+        "level": "a2"
+    },
+    {
+        "id": 36,
+        "word": "artist",
+        "translation": "sanatçı",
+        "example": "She is a talented artist.",
+        "exampleTr": "O yetenekli bir sanatçı.",
+        "phonetic": "/ˈɑːrtɪst/",
+        "level": "b1"
+    },
+    {
+        "id": 37,
+        "word": "draw",
+        "translation": "çizmek",
+        "example": "I like to draw.",
+        "exampleTr": "Çizmeyi severim.",
+        "phonetic": "/drɔː/",
+        "level": "a2"
+    },
+    {
+        "id": 38,
+        "word": "sketch",
+        "translation": "eskiz / taslak",
+        "example": "He made a quick sketch.",
+        "exampleTr": "Hızlı bir eskiz yaptı.",
+        "phonetic": "/sketʃ/",
+        "level": "b1"
+    },
+    {
+        "id": 39,
+        "word": "canvas",
+        "translation": "tuval",
+        "example": "She painted on a canvas.",
+        "exampleTr": "Tuval üzerine resim yaptı.",
+        "phonetic": "/ˈkænvəs/",
+        "level": "b1"
+    },
+    {
+        "id": 40,
+        "word": "brush",
+        "translation": "fırça",
+        "example": "Use a thin brush.",
+        "exampleTr": "İnce bir fırça kullan.",
+        "phonetic": "/brʌʃ/",
+        "level": "b1"
+    },
+    {
+        "id": 41,
+        "word": "theater",
+        "translation": "tiyatro",
+        "example": "We went to the theater.",
+        "exampleTr": "Tiyatroya gittik.",
+        "phonetic": "/ˈθiːətər/",
+        "level": "a2"
+    },
+    {
+        "id": 42,
+        "word": "play",
+        "translation": "oyun / tiyatro eseri",
+        "example": "The play was amazing.",
+        "exampleTr": "Oyun harikaydı.",
+        "phonetic": "/pleɪ/",
+        "level": "a1"
+    },
+    {
+        "id": 43,
+        "word": "stage",
+        "translation": "sahne",
+        "example": "The actors are on stage.",
+        "exampleTr": "Aktörler sahnede.",
+        "phonetic": "/steɪdʒ/",
+        "level": "b1"
+    },
+    {
+        "id": 44,
+        "word": "audience",
+        "translation": "izleyici / seyirci",
+        "example": "The audience loved it.",
+        "exampleTr": "Seyirciler çok beğendi.",
+        "phonetic": "/ˈɔːdiəns/",
+        "level": "b2"
+    },
+    {
+        "id": 45,
+        "word": "perform",
+        "translation": "sahneye çıkmak",
+        "example": "She will perform tonight.",
+        "exampleTr": "Bu gece sahneye çıkacak.",
+        "phonetic": "/pərˈfɔːrm/",
+        "level": "b2"
+    },
+    {
+        "id": 46,
+        "word": "rehearsal",
+        "translation": "prova",
+        "example": "We have a rehearsal today.",
+        "exampleTr": "Bugün provamız var.",
+        "phonetic": "/rɪˈhɜːrsl/",
+        "level": "b1"
+    },
+    {
+        "id": 47,
+        "word": "opera",
+        "translation": "opera",
+        "example": "Have you been to the opera?",
+        "exampleTr": "Operaya gittin mi?",
+        "phonetic": "/ˈɒpərə/",
+        "level": "b1"
+    },
+    {
+        "id": 48,
+        "word": "photography",
+        "translation": "fotoğrafçılık",
+        "example": "Photography is my passion.",
+        "exampleTr": "Fotoğrafçılık tutkum.",
+        "phonetic": "/fəˈtɒɡrəfi/",
+        "level": "c1"
+    },
+    {
+        "id": 49,
+        "word": "photograph",
+        "translation": "fotoğraf",
+        "example": "That's a great photograph.",
+        "exampleTr": "Bu harika bir fotoğraf.",
+        "phonetic": "/ˈfoʊtəɡræf/",
+        "level": "a2"
+    },
+    {
+        "id": 50,
+        "word": "camera",
+        "translation": "kamera",
+        "example": "Bring your camera.",
+        "exampleTr": "Kameranı getir.",
+        "phonetic": "/ˈkæmərə/",
+        "level": "a2"
+    },
+    {
+        "id": 51,
+        "word": "creative",
+        "translation": "yaratıcı",
+        "example": "She is very creative.",
+        "exampleTr": "O çok yaratıcı.",
+        "phonetic": "/kriˈeɪtɪv/",
+        "level": "b1"
+    },
+    {
+        "id": 52,
+        "word": "inspire",
+        "translation": "ilham vermek",
+        "example": "Music inspires me.",
+        "exampleTr": "Müzik bana ilham veriyor.",
+        "phonetic": "/ɪnˈspaɪər/",
+        "level": "b1"
+    },
+    {
+        "id": 53,
+        "word": "talent",
+        "translation": "yetenek",
+        "example": "He has natural talent.",
+        "exampleTr": "Doğal yeteneği var.",
+        "phonetic": "/ˈtælənt/",
+        "level": "b1"
+    },
+    {
+        "id": 54,
+        "word": "masterpiece",
+        "translation": "başyapıt",
+        "example": "This is a masterpiece.",
+        "exampleTr": "Bu bir başyapıt.",
+        "phonetic": "/ˈmæstərpiːs/",
+        "level": "b1"
+    },
+    {
+        "id": 55,
+        "word": "harmony",
+        "translation": "harmoni / uyum",
+        "example": "The harmony is perfect.",
+        "exampleTr": "Harmoni mükemmel.",
+        "phonetic": "/ˈhɑːrməni/",
+        "level": "b1"
+    },
+    {
+        "id": 56,
+        "word": "note",
+        "translation": "nota",
+        "example": "Play the right notes.",
+        "exampleTr": "Doğru notaları çal.",
+        "phonetic": "/noʊt/",
+        "level": "b1"
+    },
+    {
+        "id": 57,
+        "word": "chord",
+        "translation": "akor",
+        "example": "Learn the basic chords.",
+        "exampleTr": "Temel akorları öğren.",
+        "phonetic": "/kɔːrd/",
+        "level": "b1"
+    },
+    {
+        "id": 58,
+        "word": "tune",
+        "translation": "ezgi / akort",
+        "example": "He can play any tune.",
+        "exampleTr": "Herhangi bir ezgiyi çalabilir.",
+        "phonetic": "/tjuːn/",
+        "level": "b1"
+    },
+    {
+        "id": 59,
+        "word": "beat",
+        "translation": "vuruş / ritim",
+        "example": "Feel the beat.",
+        "exampleTr": "Ritmi hisset.",
+        "phonetic": "/biːt/",
+        "level": "b1"
+    },
+    {
+        "id": 60,
+        "word": "solo",
+        "translation": "solo",
+        "example": "She played a guitar solo.",
+        "exampleTr": "Gitar solosu çaldı.",
+        "phonetic": "/ˈsoʊloʊ/",
+        "level": "b1"
+    },
+    {
+        "id": 61,
+        "word": "microphone",
+        "translation": "mikrofon",
+        "example": "Speak into the microphone.",
+        "exampleTr": "Mikrofona konuş.",
+        "phonetic": "/ˈmaɪkrəfoʊn/",
+        "level": "a2"
+    },
+    {
+        "id": 62,
+        "word": "speaker",
+        "translation": "hoparlör",
+        "example": "Turn up the speakers.",
+        "exampleTr": "Hoparlörleri aç.",
+        "phonetic": "/ˈspiːkər/",
+        "level": "a2"
+    },
+    {
+        "id": 63,
+        "word": "volume",
+        "translation": "ses seviyesi",
+        "example": "Lower the volume please.",
+        "exampleTr": "Sesi kıs lütfen.",
+        "phonetic": "/ˈvɒljuːm/",
+        "level": "a2"
+    },
+    {
+        "id": 64,
+        "word": "headphones",
+        "translation": "kulaklık",
+        "example": "Put on your headphones.",
+        "exampleTr": "Kulaklığını tak.",
+        "phonetic": "/ˈhedfəʊnz/",
+        "level": "a2"
+    },
+    {
+        "id": 65,
+        "word": "playlist",
+        "translation": "çalma listesi",
+        "example": "Create a playlist.",
+        "exampleTr": "Çalma listesi oluştur.",
+        "phonetic": "/ˈpleɪlɪst/",
+        "level": "a2"
+    },
+    {
+        "id": 66,
+        "word": "record",
+        "translation": "kayıt / kaydetmek",
+        "example": "They recorded a new song.",
+        "exampleTr": "Yeni bir şarkı kaydettiler.",
+        "phonetic": "/rɪˈkɔːrd/",
+        "level": "b1"
+    },
+    {
+        "id": 67,
+        "word": "studio",
+        "translation": "stüdyo",
+        "example": "They work in a recording studio.",
+        "exampleTr": "Kayıt stüdyosunda çalışıyorlar.",
+        "phonetic": "/ˈstjuːdioʊ/",
+        "level": "b1"
+    },
+    {
+        "id": 68,
+        "word": "festival",
+        "translation": "festival",
+        "example": "The music festival was amazing.",
+        "exampleTr": "Müzik festivali harikaydı.",
+        "phonetic": "/ˈfestɪvl/",
+        "level": "a2"
+    },
+    {
+        "id": 69,
+        "word": "ticket",
+        "translation": "bilet",
+        "example": "Buy tickets for the concert.",
+        "exampleTr": "Konser için bilet al.",
+        "phonetic": "/ˈtɪkɪt/",
+        "level": "a2"
+    },
+    {
+        "id": 70,
+        "word": "encore",
+        "translation": "bis",
+        "example": "The crowd demanded an encore.",
+        "exampleTr": "Kalabalık bis istedi.",
+        "phonetic": "/ˈɒŋkɔːr/",
+        "level": "b1"
+    },
+    {
+        "id": 71,
+        "word": "saxophone",
+        "translation": "saksafon",
+        "example": "The saxophone sounds smooth.",
+        "exampleTr": "Saksafon yumuşak sesleniyor.",
+        "phonetic": "/ˈsæksəfoʊn/",
+        "level": "b1"
+    },
+    {
+        "id": 72,
+        "word": "trumpet",
+        "translation": "trompet",
+        "example": "He plays the trumpet.",
+        "exampleTr": "Trompet çalar.",
+        "phonetic": "/ˈtrʌmpɪt/",
+        "level": "b1"
+    },
+    {
+        "id": 73,
+        "word": "cello",
+        "translation": "çello",
+        "example": "The cello has a deep sound.",
+        "exampleTr": "Çello derin bir sese sahiptir.",
+        "phonetic": "/ˈtʃeloʊ/",
+        "level": "b1"
+    },
+    {
+        "id": 74,
+        "word": "harp",
+        "translation": "arp",
+        "example": "The harp sounds angelic.",
+        "exampleTr": "Arp melek gibi sesleniyor.",
+        "phonetic": "/hɑːrp/",
+        "level": "b1"
+    },
+    {
+        "id": 75,
+        "word": "conductor",
+        "translation": "orkestra şefi",
+        "example": "The conductor raised his baton.",
+        "exampleTr": "Orkestra şefi batonunu kaldırdı.",
+        "phonetic": "/kənˈdʌktər/",
+        "level": "b1"
+    },
+    {
+        "id": 76,
+        "word": "acoustic",
+        "translation": "akustik",
+        "example": "I prefer acoustic guitar.",
+        "exampleTr": "Akustik gitar tercih ederim.",
+        "phonetic": "/əˈkuːstɪk/",
+        "level": "b1"
+    },
+    {
+        "id": 77,
+        "word": "electric",
+        "translation": "elektrik / elektrikli",
+        "example": "He plays electric guitar.",
+        "exampleTr": "Elektro gitar çalar.",
+        "phonetic": "/ɪˈlektrɪk/",
+        "level": "b2"
+    },
+    {
+        "id": 78,
+        "word": "duet",
+        "translation": "düet",
+        "example": "They sang a beautiful duet.",
+        "exampleTr": "Güzel bir düet söylediler.",
+        "phonetic": "/djuˈet/",
+        "level": "b1"
+    },
+    {
+        "id": 79,
+        "word": "symphony",
+        "translation": "senfoni",
+        "example": "Beethoven wrote nine symphonies.",
+        "exampleTr": "Beethoven dokuz senfoni yazdı.",
+        "phonetic": "/ˈsɪmfəni/",
+        "level": "b1"
+    },
+    {
+        "id": 80,
+        "word": "applause",
+        "translation": "alkış",
+        "example": "The applause was thunderous.",
+        "exampleTr": "Alkışlar gök gürültüsü gibiydi.",
+        "phonetic": "/əˈplɔːz/",
+        "level": "b1"
+    },
+    {
+        "id": 81,
+        "word": "acoustic",
+        "translation": "akustik",
+        "example": "An acoustic guitar.",
+        "exampleTr": "Akustik gitar.",
+        "phonetic": "/əˈkuːstɪk/"
+    },
+    {
+        "id": 82,
+        "word": "amplifier",
+        "translation": "amplifikatör",
+        "example": "Turn up the amplifier.",
+        "exampleTr": "Amplifikatörü aç.",
+        "phonetic": "/ˈæmplɪfaɪər/"
+    },
+    {
+        "id": 83,
+        "word": "ballad",
+        "translation": "ballad",
+        "example": "She sang a beautiful ballad.",
+        "exampleTr": "Güzel bir ballad söyledi.",
+        "phonetic": "/ˈbæləd/"
+    },
+    {
+        "id": 84,
+        "word": "baritone",
+        "translation": "bariton",
+        "example": "He has a baritone voice.",
+        "exampleTr": "Bariton sesi var.",
+        "phonetic": "/ˈbærɪtoʊn/"
+    },
+    {
+        "id": 85,
+        "word": "chord",
+        "translation": "akor",
+        "example": "Strum a chord.",
+        "exampleTr": "Bir akor çal.",
+        "phonetic": "/kɔːrd/"
+    },
+    {
+        "id": 86,
+        "word": "conductor",
+        "translation": "orkestra şefi",
+        "example": "The conductor raised his baton.",
+        "exampleTr": "Orkestra şefi değneğini kaldırdı.",
+        "phonetic": "/kənˈdʌktər/"
+    },
+    {
+        "id": 87,
+        "word": "crescendo",
+        "translation": "kreşendo / giderek artma",
+        "example": "The music reached a crescendo.",
+        "exampleTr": "Müzik kreşendoya ulaştı.",
+        "phonetic": "/krəˈʃendoʊ/"
+    },
+    {
+        "id": 88,
+        "word": "duet",
+        "translation": "düet",
+        "example": "They sang a duet.",
+        "exampleTr": "Düet söylediler.",
+        "phonetic": "/djuːˈet/"
+    },
+    {
+        "id": 89,
+        "word": "ensemble",
+        "translation": "topluluk / oda müziği",
+        "example": "A jazz ensemble performed.",
+        "exampleTr": "Bir caz topluluğu sahne aldı.",
+        "phonetic": "/ɒnˈsɒmbl/"
+    },
+    {
+        "id": 90,
+        "word": "harmony",
+        "translation": "harmoni / uyum",
+        "example": "They sang in harmony.",
+        "exampleTr": "Uyum içinde şarkı söylediler.",
+        "phonetic": "/ˈhɑːrməni/"
+    },
+    {
+        "id": 91,
+        "word": "improvise",
+        "translation": "doğaçlama yapmak",
+        "example": "Jazz musicians improvise.",
+        "exampleTr": "Caz müzisyenleri doğaçlama yapar.",
+        "phonetic": "/ˈɪmprəvaɪz/"
+    },
+    {
+        "id": 92,
+        "word": "lyrics",
+        "translation": "şarkı sözleri",
+        "example": "I love the lyrics.",
+        "exampleTr": "Şarkı sözlerini seviyorum.",
+        "phonetic": "/ˈlɪrɪks/"
+    },
+    {
+        "id": 93,
+        "word": "metronome",
+        "translation": "metronom",
+        "example": "Practice with a metronome.",
+        "exampleTr": "Metronomla pratik yap.",
+        "phonetic": "/ˈmetrənoʊm/"
+    },
+    {
+        "id": 94,
+        "word": "notation",
+        "translation": "nota yazımı",
+        "example": "She reads musical notation.",
+        "exampleTr": "Müzik notası okuyor.",
+        "phonetic": "/noʊˈteɪʃn/"
+    },
+    {
+        "id": 95,
+        "word": "octave",
+        "translation": "oktav",
+        "example": "Sing an octave higher.",
+        "exampleTr": "Bir oktav yüksekte söyle.",
+        "phonetic": "/ˈɒktɪv/"
+    },
+    {
+        "id": 96,
+        "word": "overture",
+        "translation": "uvertür / açılış",
+        "example": "The orchestra played the overture.",
+        "exampleTr": "Orkestra uvertürü çaldı.",
+        "phonetic": "/ˈoʊvərtʃʊr/"
+    },
+    {
+        "id": 97,
+        "word": "rehearse",
+        "translation": "prova yapmak",
+        "example": "We need to rehearse more.",
+        "exampleTr": "Daha fazla prova yapmalıyız.",
+        "phonetic": "/rɪˈhɜːrs/"
+    },
+    {
+        "id": 98,
+        "word": "solo",
+        "translation": "solo",
+        "example": "She played a guitar solo.",
+        "exampleTr": "Gitar solosu çaldı.",
+        "phonetic": "/ˈsoʊloʊ/"
+    },
+    {
+        "id": 99,
+        "word": "tempo",
+        "translation": "tempo",
+        "example": "The tempo is too fast.",
+        "exampleTr": "Tempo çok hızlı.",
+        "phonetic": "/ˈtempoʊ/"
+    },
+    {
+        "id": 100,
+        "word": "virtuoso",
+        "translation": "virtüöz",
+        "example": "He is a piano virtuoso.",
+        "exampleTr": "Bir piyano virtüözü.",
+        "phonetic": "/ˌvɜːrtʃuˈoʊsoʊ/"
+    }
+]

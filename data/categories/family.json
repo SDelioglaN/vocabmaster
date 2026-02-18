@@ -1,0 +1,852 @@
+[
+    {
+        "id": 1,
+        "word": "mother",
+        "translation": "anne",
+        "example": "My mother is kind.",
+        "exampleTr": "Annem nazik.",
+        "phonetic": "/ˈmʌðər/",
+        "level": "a1"
+    },
+    {
+        "id": 2,
+        "word": "father",
+        "translation": "baba",
+        "example": "My father works hard.",
+        "exampleTr": "Babam çok çalışır.",
+        "phonetic": "/ˈfɑːðər/",
+        "level": "a1"
+    },
+    {
+        "id": 3,
+        "word": "parents",
+        "translation": "ebeveynler",
+        "example": "My parents live in Istanbul.",
+        "exampleTr": "Ebeveynlerim İstanbul'da yaşıyor.",
+        "phonetic": "/ˈperənts/",
+        "level": "b2"
+    },
+    {
+        "id": 4,
+        "word": "brother",
+        "translation": "erkek kardeş",
+        "example": "I have a brother.",
+        "exampleTr": "Bir erkek kardeşim var.",
+        "phonetic": "/ˈbrʌðər/",
+        "level": "a1"
+    },
+    {
+        "id": 5,
+        "word": "sister",
+        "translation": "kız kardeş",
+        "example": "My sister is older than me.",
+        "exampleTr": "Kız kardeşim benden büyük.",
+        "phonetic": "/ˈsɪstər/",
+        "level": "a1"
+    },
+    {
+        "id": 6,
+        "word": "son",
+        "translation": "oğul",
+        "example": "He is my son.",
+        "exampleTr": "O benim oğlum.",
+        "phonetic": "/sʌn/",
+        "level": "a1"
+    },
+    {
+        "id": 7,
+        "word": "daughter",
+        "translation": "kız",
+        "example": "She is my daughter.",
+        "exampleTr": "O benim kızım.",
+        "phonetic": "/ˈdɔːtər/",
+        "level": "a1"
+    },
+    {
+        "id": 8,
+        "word": "husband",
+        "translation": "koca",
+        "example": "My husband works at a bank.",
+        "exampleTr": "Kocam bir bankada çalışır.",
+        "phonetic": "/ˈhʌzbənd/",
+        "level": "a1"
+    },
+    {
+        "id": 9,
+        "word": "wife",
+        "translation": "eş / karı",
+        "example": "She is my wife.",
+        "exampleTr": "O benim eşim.",
+        "phonetic": "/waɪf/",
+        "level": "a1"
+    },
+    {
+        "id": 10,
+        "word": "grandfather",
+        "translation": "dede",
+        "example": "My grandfather is 80 years old.",
+        "exampleTr": "Dedem 80 yaşında.",
+        "phonetic": "/ˈɡrænfɑːðər/",
+        "level": "a2"
+    },
+    {
+        "id": 11,
+        "word": "grandmother",
+        "translation": "büyükanne",
+        "example": "My grandmother cooks well.",
+        "exampleTr": "Büyükannem iyi yemek yapar.",
+        "phonetic": "/ˈɡrænmʌðər/",
+        "level": "a2"
+    },
+    {
+        "id": 12,
+        "word": "grandparents",
+        "translation": "büyükanne ve dede",
+        "example": "I visit my grandparents often.",
+        "exampleTr": "Büyükanne ve dedemi sık ziyaret ederim.",
+        "phonetic": "/ˈɡrænperənts/",
+        "level": "c1"
+    },
+    {
+        "id": 13,
+        "word": "uncle",
+        "translation": "amca / dayı",
+        "example": "My uncle lives in Ankara.",
+        "exampleTr": "Amcam Ankara'da yaşıyor.",
+        "phonetic": "/ˈʌŋkl/",
+        "level": "a2"
+    },
+    {
+        "id": 14,
+        "word": "aunt",
+        "translation": "hala / teyze",
+        "example": "My aunt is a teacher.",
+        "exampleTr": "Teyzem öğretmen.",
+        "phonetic": "/ænt/",
+        "level": "a2"
+    },
+    {
+        "id": 15,
+        "word": "cousin",
+        "translation": "kuzen",
+        "example": "My cousin is my best friend.",
+        "exampleTr": "Kuzenim en iyi arkadaşım.",
+        "phonetic": "/ˈkʌzn/",
+        "level": "a2"
+    },
+    {
+        "id": 16,
+        "word": "nephew",
+        "translation": "yeğen (erkek)",
+        "example": "My nephew is five years old.",
+        "exampleTr": "Yeğenim beş yaşında.",
+        "phonetic": "/ˈnefju/",
+        "level": "a2"
+    },
+    {
+        "id": 17,
+        "word": "niece",
+        "translation": "yeğen (kız)",
+        "example": "My niece loves dolls.",
+        "exampleTr": "Yeğenim oyuncak bebekleri sever.",
+        "phonetic": "/niːs/",
+        "level": "a2"
+    },
+    {
+        "id": 18,
+        "word": "baby",
+        "translation": "bebek",
+        "example": "The baby is sleeping.",
+        "exampleTr": "Bebek uyuyor.",
+        "phonetic": "/ˈbeɪbi/",
+        "level": "a1"
+    },
+    {
+        "id": 19,
+        "word": "child",
+        "translation": "çocuk",
+        "example": "Every child needs love.",
+        "exampleTr": "Her çocuk sevgiye ihtiyaç duyar.",
+        "phonetic": "/tʃaɪld/",
+        "level": "a1"
+    },
+    {
+        "id": 20,
+        "word": "teenager",
+        "translation": "ergen",
+        "example": "Teenagers like music.",
+        "exampleTr": "Ergenler müzik sever.",
+        "phonetic": "/ˈtiːneɪdʒər/",
+        "level": "a2"
+    },
+    {
+        "id": 21,
+        "word": "adult",
+        "translation": "yetişkin",
+        "example": "Adults have responsibilities.",
+        "exampleTr": "Yetişkinlerin sorumlulukları var.",
+        "phonetic": "/ˈædʌlt/",
+        "level": "a2"
+    },
+    {
+        "id": 22,
+        "word": "elderly",
+        "translation": "yaşlı",
+        "example": "Help the elderly.",
+        "exampleTr": "Yaşlılara yardım et.",
+        "phonetic": "/ˈeldərli/",
+        "level": "b2"
+    },
+    {
+        "id": 23,
+        "word": "friend",
+        "translation": "arkadaş",
+        "example": "She is my friend.",
+        "exampleTr": "O benim arkadaşım.",
+        "phonetic": "/frend/",
+        "level": "a1"
+    },
+    {
+        "id": 24,
+        "word": "boyfriend",
+        "translation": "erkek arkadaş",
+        "example": "She has a boyfriend.",
+        "exampleTr": "Onun erkek arkadaşı var.",
+        "phonetic": "/ˈbɔɪfrend/",
+        "level": "b2"
+    },
+    {
+        "id": 25,
+        "word": "girlfriend",
+        "translation": "kız arkadaş",
+        "example": "He has a girlfriend.",
+        "exampleTr": "Onun kız arkadaşı var.",
+        "phonetic": "/ˈɡɜːrlfrend/",
+        "level": "c1"
+    },
+    {
+        "id": 26,
+        "word": "single",
+        "translation": "bekar",
+        "example": "I am single.",
+        "exampleTr": "Bekarım.",
+        "phonetic": "/ˈsɪŋɡl/",
+        "level": "b1"
+    },
+    {
+        "id": 27,
+        "word": "married",
+        "translation": "evli",
+        "example": "They are married.",
+        "exampleTr": "Onlar evli.",
+        "phonetic": "/ˈmærid/",
+        "level": "b2"
+    },
+    {
+        "id": 28,
+        "word": "divorced",
+        "translation": "boşanmış",
+        "example": "My parents are divorced.",
+        "exampleTr": "Ebeveynlerim boşanmış.",
+        "phonetic": "/dɪˈvɔːrst/",
+        "level": "b2"
+    },
+    {
+        "id": 29,
+        "word": "engaged",
+        "translation": "nişanlı",
+        "example": "They are engaged.",
+        "exampleTr": "Nişanlılar.",
+        "phonetic": "/ɪnˈɡeɪdʒd/",
+        "level": "b2"
+    },
+    {
+        "id": 30,
+        "word": "wedding",
+        "translation": "düğün",
+        "example": "The wedding is next month.",
+        "exampleTr": "Düğün gelecek ay.",
+        "phonetic": "/ˈwedɪŋ/",
+        "level": "a2"
+    },
+    {
+        "id": 31,
+        "word": "marriage",
+        "translation": "evlilik",
+        "example": "Marriage requires trust.",
+        "exampleTr": "Evlilik güven gerektirir.",
+        "phonetic": "/ˈmærɪdʒ/",
+        "level": "b2"
+    },
+    {
+        "id": 32,
+        "word": "relationship",
+        "translation": "ilişki",
+        "example": "They have a good relationship.",
+        "exampleTr": "İyi bir ilişkileri var.",
+        "phonetic": "/rɪˈleɪʃnʃɪp/",
+        "level": "b1"
+    },
+    {
+        "id": 33,
+        "word": "love",
+        "translation": "aşk / sevmek",
+        "example": "I love my family.",
+        "exampleTr": "Ailemi seviyorum.",
+        "phonetic": "/lʌv/",
+        "level": "a1"
+    },
+    {
+        "id": 34,
+        "word": "trust",
+        "translation": "güven",
+        "example": "Trust is important.",
+        "exampleTr": "Güven önemlidir.",
+        "phonetic": "/trʌst/",
+        "level": "b1"
+    },
+    {
+        "id": 35,
+        "word": "respect",
+        "translation": "saygı",
+        "example": "Show respect to others.",
+        "exampleTr": "Başkalarına saygı göster.",
+        "phonetic": "/rɪˈspekt/",
+        "level": "b2"
+    },
+    {
+        "id": 36,
+        "word": "care",
+        "translation": "bakım / ilgi",
+        "example": "She cares about her family.",
+        "exampleTr": "Ailesiyle ilgilenir.",
+        "phonetic": "/ker/",
+        "level": "a2"
+    },
+    {
+        "id": 37,
+        "word": "support",
+        "translation": "destek",
+        "example": "I support my parents.",
+        "exampleTr": "Aileme destek olurum.",
+        "phonetic": "/səˈpɔːrt/",
+        "level": "a2"
+    },
+    {
+        "id": 38,
+        "word": "argue",
+        "translation": "tartışmak",
+        "example": "Don't argue with your siblings.",
+        "exampleTr": "Kardeşlerinle tartışma.",
+        "phonetic": "/ˈɑːrɡjuː/",
+        "level": "a2"
+    },
+    {
+        "id": 39,
+        "word": "apologize",
+        "translation": "özür dilemek",
+        "example": "You should apologize.",
+        "exampleTr": "Özür dilemelisin.",
+        "phonetic": "/əˈpɒlədʒaɪz/",
+        "level": "a2"
+    },
+    {
+        "id": 40,
+        "word": "forgive",
+        "translation": "affetmek",
+        "example": "Please forgive me.",
+        "exampleTr": "Lütfen beni affet.",
+        "phonetic": "/fərˈɡɪv/",
+        "level": "a2"
+    },
+    {
+        "id": 41,
+        "word": "pregnant",
+        "translation": "hamile",
+        "example": "She is pregnant.",
+        "exampleTr": "O hamile.",
+        "phonetic": "/ˈpreɡnənt/",
+        "level": "b2"
+    },
+    {
+        "id": 42,
+        "word": "born",
+        "translation": "doğmuş",
+        "example": "I was born in 1990.",
+        "exampleTr": "1990'da doğdum.",
+        "phonetic": "/bɔːrn/",
+        "level": "a2"
+    },
+    {
+        "id": 43,
+        "word": "grow up",
+        "translation": "büyümek",
+        "example": "I grew up in a village.",
+        "exampleTr": "Bir köyde büyüdüm.",
+        "phonetic": "/ɡroʊ ʌp/",
+        "level": "b2"
+    },
+    {
+        "id": 44,
+        "word": "raise",
+        "translation": "yetiştirmek",
+        "example": "They raised three children.",
+        "exampleTr": "Üç çocuk yetiştirdiler.",
+        "phonetic": "/reɪz/",
+        "level": "b1"
+    },
+    {
+        "id": 45,
+        "word": "adopt",
+        "translation": "evlat edinmek",
+        "example": "They adopted a child.",
+        "exampleTr": "Bir çocuk evlat edindiler.",
+        "phonetic": "/əˈdɒpt/",
+        "level": "b1"
+    },
+    {
+        "id": 46,
+        "word": "generation",
+        "translation": "nesil",
+        "example": "Every generation is different.",
+        "exampleTr": "Her nesil farklıdır.",
+        "phonetic": "/ˌdʒenəˈreɪʃn/",
+        "level": "b1"
+    },
+    {
+        "id": 47,
+        "word": "ancestor",
+        "translation": "ata",
+        "example": "My ancestors were farmers.",
+        "exampleTr": "Atalarım çiftçiydi.",
+        "phonetic": "/ˈænsestər/",
+        "level": "b1"
+    },
+    {
+        "id": 48,
+        "word": "descendant",
+        "translation": "torun / soy",
+        "example": "He is a descendant of a famous writer.",
+        "exampleTr": "Ünlü bir yazarın torunudur.",
+        "phonetic": "/dɪˈsendənt/",
+        "level": "c1"
+    },
+    {
+        "id": 49,
+        "word": "reunion",
+        "translation": "buluşma / yeniden birleşme",
+        "example": "We had a family reunion.",
+        "exampleTr": "Aile buluşması yaptık.",
+        "phonetic": "/riːˈjuːniən/",
+        "level": "b2"
+    },
+    {
+        "id": 50,
+        "word": "hug",
+        "translation": "sarılmak",
+        "example": "Give me a hug.",
+        "exampleTr": "Bana sarıl.",
+        "phonetic": "/hʌɡ/",
+        "level": "a2"
+    },
+    {
+        "id": 51,
+        "word": "ancestor",
+        "translation": "ata / cet",
+        "example": "Our ancestors lived here.",
+        "exampleTr": "Atalarımız burada yaşadı.",
+        "phonetic": "/ˈænsestər/"
+    },
+    {
+        "id": 52,
+        "word": "bond",
+        "translation": "bağ",
+        "example": "The bond between mother and child is strong.",
+        "exampleTr": "Anne-çocuk bağı güçlüdür.",
+        "phonetic": "/bɒnd/"
+    },
+    {
+        "id": 53,
+        "word": "bride",
+        "translation": "gelin",
+        "example": "The bride looked beautiful.",
+        "exampleTr": "Gelin çok güzel görünüyordu.",
+        "phonetic": "/braɪd/"
+    },
+    {
+        "id": 54,
+        "word": "caregiver",
+        "translation": "bakıcı",
+        "example": "She is a caregiver for elderly.",
+        "exampleTr": "Yaşlılar için bakıcılık yapıyor.",
+        "phonetic": "/ˈkerɡɪvər/"
+    },
+    {
+        "id": 55,
+        "word": "cherish",
+        "translation": "değer vermek",
+        "example": "I cherish my family.",
+        "exampleTr": "Aileme çok değer veriyorum.",
+        "phonetic": "/ˈtʃerɪʃ/"
+    },
+    {
+        "id": 56,
+        "word": "companion",
+        "translation": "yol arkadaşı",
+        "example": "She is my life companion.",
+        "exampleTr": "O benim hayat arkadaşım.",
+        "phonetic": "/kəmˈpænjən/"
+    },
+    {
+        "id": 57,
+        "word": "cousin",
+        "translation": "kuzen",
+        "example": "My cousin lives in Ankara.",
+        "exampleTr": "Kuzenim Ankara'da yaşıyor.",
+        "phonetic": "/ˈkʌzn/"
+    },
+    {
+        "id": 58,
+        "word": "cradle",
+        "translation": "beşik",
+        "example": "The baby slept in a cradle.",
+        "exampleTr": "Bebek beşikte uyudu.",
+        "phonetic": "/ˈkreɪdl/"
+    },
+    {
+        "id": 59,
+        "word": "custody",
+        "translation": "velayet",
+        "example": "She got custody of the children.",
+        "exampleTr": "Çocukların velayetini aldı.",
+        "phonetic": "/ˈkʌstədi/"
+    },
+    {
+        "id": 60,
+        "word": "descendant",
+        "translation": "torun / soy",
+        "example": "She is a descendant of a famous family.",
+        "exampleTr": "Ünlü bir ailenin torunlarından.",
+        "phonetic": "/dɪˈsendənt/"
+    },
+    {
+        "id": 61,
+        "word": "devoted",
+        "translation": "adanmış / sadık",
+        "example": "She is a devoted mother.",
+        "exampleTr": "Kendini adamış bir anne.",
+        "phonetic": "/dɪˈvoʊtɪd/"
+    },
+    {
+        "id": 62,
+        "word": "divorce",
+        "translation": "boşanma",
+        "example": "The divorce was difficult.",
+        "exampleTr": "Boşanma zor oldu.",
+        "phonetic": "/dɪˈvɔːrs/"
+    },
+    {
+        "id": 63,
+        "word": "elder",
+        "translation": "büyük / yaşlı",
+        "example": "Respect your elders.",
+        "exampleTr": "Büyüklerine saygı göster.",
+        "phonetic": "/ˈeldər/"
+    },
+    {
+        "id": 64,
+        "word": "engagement",
+        "translation": "nişan",
+        "example": "They announced their engagement.",
+        "exampleTr": "Nişanlarını duyurdular.",
+        "phonetic": "/ɪnˈɡeɪdʒmənt/"
+    },
+    {
+        "id": 65,
+        "word": "foster",
+        "translation": "koruyucu aile",
+        "example": "They became foster parents.",
+        "exampleTr": "Koruyucu aile oldular.",
+        "phonetic": "/ˈfɒstər/"
+    },
+    {
+        "id": 66,
+        "word": "generation",
+        "translation": "nesil / kuşak",
+        "example": "Three generations live together.",
+        "exampleTr": "Üç nesil birlikte yaşıyor.",
+        "phonetic": "/ˌdʒenəˈreɪʃn/"
+    },
+    {
+        "id": 67,
+        "word": "grandchild",
+        "translation": "torun",
+        "example": "She has five grandchildren.",
+        "exampleTr": "Beş torunu var.",
+        "phonetic": "/ˈɡræntʃaɪld/"
+    },
+    {
+        "id": 68,
+        "word": "groom",
+        "translation": "damat",
+        "example": "The groom was very nervous.",
+        "exampleTr": "Damat çok gergin.",
+        "phonetic": "/ɡruːm/"
+    },
+    {
+        "id": 69,
+        "word": "guardian",
+        "translation": "vasi / veli",
+        "example": "His uncle is his legal guardian.",
+        "exampleTr": "Amcası yasal vasisi.",
+        "phonetic": "/ˈɡɑːrdiən/"
+    },
+    {
+        "id": 70,
+        "word": "heir",
+        "translation": "varis / mirasçı",
+        "example": "He is the heir to the fortune.",
+        "exampleTr": "Servetin varisi.",
+        "phonetic": "/er/"
+    },
+    {
+        "id": 71,
+        "word": "heritage",
+        "translation": "miras / kültürel miras",
+        "example": "Protect our cultural heritage.",
+        "exampleTr": "Kültürel mirasımızı koruyalım.",
+        "phonetic": "/ˈherɪtɪdʒ/"
+    },
+    {
+        "id": 72,
+        "word": "household",
+        "translation": "hane / ev halkı",
+        "example": "She manages the household.",
+        "exampleTr": "Evi yönetiyor.",
+        "phonetic": "/ˈhaʊshoʊld/"
+    },
+    {
+        "id": 73,
+        "word": "infant",
+        "translation": "bebek",
+        "example": "The infant is two months old.",
+        "exampleTr": "Bebek iki aylık.",
+        "phonetic": "/ˈɪnfənt/"
+    },
+    {
+        "id": 74,
+        "word": "inherit",
+        "translation": "miras almak",
+        "example": "She inherited her mother's eyes.",
+        "exampleTr": "Annesinin gözlerini miras aldı.",
+        "phonetic": "/ɪnˈherɪt/"
+    },
+    {
+        "id": 75,
+        "word": "in-law",
+        "translation": "kayın / hısım",
+        "example": "I get along with my in-laws.",
+        "exampleTr": "Kayınlarımla iyi anlaşıyorum.",
+        "phonetic": "/ˈɪnlɔː/"
+    },
+    {
+        "id": 76,
+        "word": "kindergarten",
+        "translation": "anaokulu",
+        "example": "My daughter goes to kindergarten.",
+        "exampleTr": "Kızım anaokuluna gidiyor.",
+        "phonetic": "/ˈkɪndərɡɑːrtn/"
+    },
+    {
+        "id": 77,
+        "word": "lullaby",
+        "translation": "ninni",
+        "example": "She sang a lullaby to the baby.",
+        "exampleTr": "Bebeğe ninni söyledi.",
+        "phonetic": "/ˈlʌləbaɪ/"
+    },
+    {
+        "id": 78,
+        "word": "maternity",
+        "translation": "annelik / doğum",
+        "example": "She is on maternity leave.",
+        "exampleTr": "Doğum izninde.",
+        "phonetic": "/məˈtɜːrnəti/"
+    },
+    {
+        "id": 79,
+        "word": "nephew",
+        "translation": "yeğen (erkek)",
+        "example": "My nephew is ten years old.",
+        "exampleTr": "Yeğenim on yaşında.",
+        "phonetic": "/ˈnefjuː/"
+    },
+    {
+        "id": 80,
+        "word": "niece",
+        "translation": "yeğen (kız)",
+        "example": "My niece loves painting.",
+        "exampleTr": "Yeğenim resim yapmayı sever.",
+        "phonetic": "/niːs/"
+    },
+    {
+        "id": 81,
+        "word": "nurture",
+        "translation": "beslemek / yetiştirmek",
+        "example": "Parents nurture their children.",
+        "exampleTr": "Ebeveynler çocuklarını yetiştirir.",
+        "phonetic": "/ˈnɜːrtʃər/"
+    },
+    {
+        "id": 82,
+        "word": "obedient",
+        "translation": "itaatkar",
+        "example": "The child is very obedient.",
+        "exampleTr": "Çocuk çok söz dinliyor.",
+        "phonetic": "/əˈbiːdiənt/"
+    },
+    {
+        "id": 83,
+        "word": "offspring",
+        "translation": "çocuk / yavru",
+        "example": "They have three offspring.",
+        "exampleTr": "Üç çocukları var.",
+        "phonetic": "/ˈɒfsprɪŋ/"
+    },
+    {
+        "id": 84,
+        "word": "orphan",
+        "translation": "yetim",
+        "example": "The orphan was adopted.",
+        "exampleTr": "Yetim evlat edinildi.",
+        "phonetic": "/ˈɔːrfn/"
+    },
+    {
+        "id": 85,
+        "word": "paternity",
+        "translation": "babalık",
+        "example": "He took paternity leave.",
+        "exampleTr": "Babalık izni aldı.",
+        "phonetic": "/pəˈtɜːrnəti/"
+    },
+    {
+        "id": 86,
+        "word": "privilege",
+        "translation": "ayrıcalık",
+        "example": "Being a parent is a privilege.",
+        "exampleTr": "Ebeveyn olmak bir ayrıcalık.",
+        "phonetic": "/ˈprɪvəlɪdʒ/"
+    },
+    {
+        "id": 87,
+        "word": "reunion",
+        "translation": "buluşma",
+        "example": "We have a family reunion every year.",
+        "exampleTr": "Her yıl aile buluşması yapıyoruz.",
+        "phonetic": "/riːˈjuːniən/"
+    },
+    {
+        "id": 88,
+        "word": "sibling",
+        "translation": "kardeş",
+        "example": "I have two siblings.",
+        "exampleTr": "İki kardeşim var.",
+        "phonetic": "/ˈsɪblɪŋ/"
+    },
+    {
+        "id": 89,
+        "word": "spouse",
+        "translation": "eş",
+        "example": "Bring your spouse to the party.",
+        "exampleTr": "Eşinizi partiye getirin.",
+        "phonetic": "/spaʊs/"
+    },
+    {
+        "id": 90,
+        "word": "stepfather",
+        "translation": "üvey baba",
+        "example": "Her stepfather is very kind.",
+        "exampleTr": "Üvey babası çok nazik.",
+        "phonetic": "/ˈstepfɑːðər/"
+    },
+    {
+        "id": 91,
+        "word": "stepmother",
+        "translation": "üvey anne",
+        "example": "Her stepmother treats her well.",
+        "exampleTr": "Üvey annesi ona iyi davranıyor.",
+        "phonetic": "/ˈstepmʌðər/"
+    },
+    {
+        "id": 92,
+        "word": "surname",
+        "translation": "soyadı",
+        "example": "What is your surname?",
+        "exampleTr": "Soyadınız ne?",
+        "phonetic": "/ˈsɜːrneɪm/"
+    },
+    {
+        "id": 93,
+        "word": "toddler",
+        "translation": "yürümeye başlayan çocuk",
+        "example": "The toddler is learning to walk.",
+        "exampleTr": "Küçük çocuk yürümeyi öğreniyor.",
+        "phonetic": "/ˈtɒdlər/"
+    },
+    {
+        "id": 94,
+        "word": "tradition",
+        "translation": "gelenek",
+        "example": "We follow family traditions.",
+        "exampleTr": "Aile geleneklerini takip ediyoruz.",
+        "phonetic": "/trəˈdɪʃn/"
+    },
+    {
+        "id": 95,
+        "word": "twin",
+        "translation": "ikiz",
+        "example": "They are identical twins.",
+        "exampleTr": "Tek yumurta ikizleri.",
+        "phonetic": "/twɪn/"
+    },
+    {
+        "id": 96,
+        "word": "uncle",
+        "translation": "amca / dayı",
+        "example": "My uncle lives abroad.",
+        "exampleTr": "Amcam yurt dışında yaşıyor.",
+        "phonetic": "/ˈʌŋkl/"
+    },
+    {
+        "id": 97,
+        "word": "upbringing",
+        "translation": "yetiştirilme",
+        "example": "He had a strict upbringing.",
+        "exampleTr": "Sıkı bir terbiyeyle yetişti.",
+        "phonetic": "/ˈʌpbrɪŋɪŋ/"
+    },
+    {
+        "id": 98,
+        "word": "vow",
+        "translation": "yemin / söz",
+        "example": "They exchanged wedding vows.",
+        "exampleTr": "Evlilik yeminlerini ettiler.",
+        "phonetic": "/vaʊ/"
+    },
+    {
+        "id": 99,
+        "word": "widow",
+        "translation": "dul kadın",
+        "example": "She became a widow at 40.",
+        "exampleTr": "40 yaşında dul kaldı.",
+        "phonetic": "/ˈwɪdoʊ/"
+    },
+    {
+        "id": 100,
+        "word": "youth",
+        "translation": "gençlik",
+        "example": "Youth is a time of learning.",
+        "exampleTr": "Gençlik öğrenme zamanıdır.",
+        "phonetic": "/juːθ/"
+    }
+]

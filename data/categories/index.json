@@ -1,0 +1,207 @@
+{
+    "categories": [
+        {
+            "id": "senses",
+            "name": "Duyular & İnsani Durumlar",
+            "nameEn": "Senses & Human States",
+            "icon": "👁️",
+            "wordCount": 100
+        },
+        {
+            "id": "kitchen",
+            "name": "Mutfak & Yemek",
+            "nameEn": "Kitchen & Food",
+            "icon": "🍽️",
+            "wordCount": 100
+        },
+        {
+            "id": "home",
+            "name": "Ev & Mobilya",
+            "nameEn": "Home & Furniture",
+            "icon": "🏠",
+            "wordCount": 100
+        },
+        {
+            "id": "family",
+            "name": "Aile & İlişkiler",
+            "nameEn": "Family & Relationships",
+            "icon": "👨‍👩‍👧‍👦",
+            "wordCount": 100
+        },
+        {
+            "id": "work",
+            "name": "İş & Kariyer",
+            "nameEn": "Work & Career",
+            "icon": "💼",
+            "wordCount": 100
+        },
+        {
+            "id": "shopping",
+            "name": "Alışveriş & Para",
+            "nameEn": "Shopping & Money",
+            "icon": "🛒",
+            "wordCount": 100
+        },
+        {
+            "id": "travel",
+            "name": "Seyahat & Ulaşım",
+            "nameEn": "Travel & Transport",
+            "icon": "✈️",
+            "wordCount": 100
+        },
+        {
+            "id": "health",
+            "name": "Sağlık & Vücut",
+            "nameEn": "Health & Body",
+            "icon": "🏥",
+            "wordCount": 100
+        },
+        {
+            "id": "education",
+            "name": "Eğitim & Okul",
+            "nameEn": "Education & School",
+            "icon": "🎓",
+            "wordCount": 100
+        },
+        {
+            "id": "emotions",
+            "name": "Duygular & Kişilik",
+            "nameEn": "Emotions & Personality",
+            "icon": "🎭",
+            "wordCount": 100
+        },
+        {
+            "id": "weather",
+            "name": "Hava & Doğa",
+            "nameEn": "Weather & Nature",
+            "icon": "⛅",
+            "wordCount": 100
+        },
+        {
+            "id": "hobbies",
+            "name": "Hobiler & Eğlence",
+            "nameEn": "Hobbies & Entertainment",
+            "icon": "🎮",
+            "wordCount": 100
+        },
+        {
+            "id": "technology",
+            "name": "Teknoloji & İnternet",
+            "nameEn": "Technology & Internet",
+            "icon": "💻",
+            "wordCount": 100
+        },
+        {
+            "id": "clothing",
+            "name": "Giyim & Moda",
+            "nameEn": "Clothing & Fashion",
+            "icon": "👗",
+            "wordCount": 100
+        },
+        {
+            "id": "city",
+            "name": "Şehir & Mekanlar",
+            "nameEn": "City & Places",
+            "icon": "🏙️",
+            "wordCount": 100
+        },
+        {
+            "id": "food",
+            "name": "Yiyecek & İçecek",
+            "nameEn": "Food & Drink",
+            "icon": "🍕",
+            "wordCount": 100
+        },
+        {
+            "id": "music",
+            "name": "Müzik & Sesler",
+            "nameEn": "Music & Sounds",
+            "icon": "🎵",
+            "wordCount": 100
+        },
+        {
+            "id": "nature",
+            "name": "Doğa & Çevre",
+            "nameEn": "Nature & Environment",
+            "icon": "🌿",
+            "wordCount": 100
+        },
+        {
+            "id": "sports",
+            "name": "Spor & Fitness",
+            "nameEn": "Sports & Fitness",
+            "icon": "⚽",
+            "wordCount": 100
+        },
+        {
+            "id": "science",
+            "name": "Bilim & Laboratuvar",
+            "nameEn": "Science & Lab",
+            "icon": "🔬",
+            "wordCount": 100
+        },
+        {
+            "id": "finance",
+            "name": "Finans & Ekonomi",
+            "nameEn": "Finance & Economy",
+            "icon": "💰",
+            "wordCount": 100
+        },
+        {
+            "id": "law",
+            "name": "Hukuk & Adalet",
+            "nameEn": "Law & Justice",
+            "icon": "⚖️",
+            "wordCount": 100
+        },
+        {
+            "id": "relationships",
+            "name": "İlişkiler & Sosyal",
+            "nameEn": "Relationships & Social",
+            "icon": "🤝",
+            "wordCount": 100
+        },
+        {
+            "id": "business",
+            "name": "İş İngilizcesi",
+            "nameEn": "Business English",
+            "icon": "📊",
+            "wordCount": 100
+        },
+        {
+            "id": "computer",
+            "name": "Bilgisayar & Yazılım",
+            "nameEn": "Computer & Software",
+            "icon": "🖥️",
+            "wordCount": 100
+        },
+        {
+            "id": "daily",
+            "name": "Günlük Konuşma",
+            "nameEn": "Daily Expressions",
+            "icon": "💬",
+            "wordCount": 100
+        },
+        {
+            "id": "academic",
+            "name": "Akademik Kelimeler",
+            "nameEn": "Academic Words",
+            "icon": "📚",
+            "wordCount": 100
+        },
+        {
+            "id": "animals",
+            "name": "Hayvanlar",
+            "nameEn": "Animals",
+            "icon": "🐾",
+            "wordCount": 100
+        },
+        {
+            "id": "arts",
+            "name": "Sanat & Kültür",
+            "nameEn": "Arts & Culture",
+            "icon": "🎨",
+            "wordCount": 100
+        }
+    ]
+}

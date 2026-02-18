@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1,
+        "word": "agenda",
+        "translation": "gündem",
+        "example": "What's on the agenda today?",
+        "exampleTr": "Bugün gündemde ne var?",
+        "phonetic": "/əˈdʒendə/"
+    },
+    {
+        "id": 2,
+        "word": "benchmark",
+        "translation": "kıyaslama / referans noktası",
+        "example": "Set a benchmark for success.",
+        "exampleTr": "Başarı için bir referans noktası belirle.",
+        "phonetic": "/ˈbentʃmɑːrk/"
+    },
+    {
+        "id": 3,
+        "word": "bid",
+        "translation": "teklif / ihale",
+        "example": "They submitted a bid.",
+        "exampleTr": "Bir teklif sundular.",
+        "phonetic": "/bɪd/"
+    },
+    {
+        "id": 4,
+        "word": "branding",
+        "translation": "markalaşma",
+        "example": "Branding is essential.",
+        "exampleTr": "Markalaşma gerekli.",
+        "phonetic": "/ˈbrændɪŋ/"
+    },
+    {
+        "id": 5,
+        "word": "breakeven",
+        "translation": "başabaş noktası",
+        "example": "We reached the breakeven point.",
+        "exampleTr": "Başabaş noktasına ulaştık.",
+        "phonetic": "/ˌbreɪkˈiːvn/"
+    },
+    {
+        "id": 6,
+        "word": "briefing",
+        "translation": "brifing / bilgilendirme",
+        "example": "Attend the morning briefing.",
+        "exampleTr": "Sabah brifinğine katıl.",
+        "phonetic": "/ˈbriːfɪŋ/"
+    },
+    {
+        "id": 7,
+        "word": "budget",
+        "translation": "bütçe",
+        "example": "Stay within the budget.",
+        "exampleTr": "Bütçe dahilinde kal.",
+        "phonetic": "/ˈbʌdʒɪt/"
+    },
+    {
+        "id": 8,
+        "word": "buyout",
+        "translation": "satın alma",
+        "example": "A management buyout was proposed.",
+        "exampleTr": "Yönetim satın alması önerildi.",
+        "phonetic": "/ˈbaɪaʊt/"
+    },
+    {
+        "id": 9,
+        "word": "campaign",
+        "translation": "kampanya",
+        "example": "Launch a marketing campaign.",
+        "exampleTr": "Pazarlama kampanyası başlat.",
+        "phonetic": "/kæmˈpeɪn/"
+    },
+    {
+        "id": 10,
+        "word": "clientele",
+        "translation": "müşteri kitlesi",
+        "example": "We serve a diverse clientele.",
+        "exampleTr": "Çeşitli müşteri kitlesine hizmet ediyoruz.",
+        "phonetic": "/ˌkliːɒnˈtel/"
+    },
+    {
+        "id": 11,
+        "word": "collaborate",
+        "translation": "iş birliği yapmak",
+        "example": "Let's collaborate on this project.",
+        "exampleTr": "Bu projede iş birliği yapalım.",
+        "phonetic": "/kəˈlæbəreɪt/"
+    },
+    {
+        "id": 12,
+        "word": "commodity",
+        "translation": "emtia",
+        "example": "Coffee is a global commodity.",
+        "exampleTr": "Kahve küresel bir emtia.",
+        "phonetic": "/kəˈmɒdəti/"
+    },
+    {
+        "id": 13,
+        "word": "competitive",
+        "translation": "rekabetçi",
+        "example": "The market is very competitive.",
+        "exampleTr": "Pazar çok rekabetçi.",
+        "phonetic": "/kəmˈpetətɪv/"
+    },
+    {
+        "id": 14,
+        "word": "compliance",
+        "translation": "uyum / uygunluk",
+        "example": "Ensure regulatory compliance.",
+        "exampleTr": "Düzenleyici uyumu sağla.",
+        "phonetic": "/kəmˈplaɪəns/"
+    },
+    {
+        "id": 15,
+        "word": "consortium",
+        "translation": "konsorsiyum",
+        "example": "A consortium was formed.",
+        "exampleTr": "Bir konsorsiyum kuruldu.",
+        "phonetic": "/kənˈsɔːrtiəm/"
+    },
+    {
+        "id": 16,
+        "word": "consultant",
+        "translation": "danışman",
+        "example": "Hire a business consultant.",
+        "exampleTr": "İş danışmanı tut.",
+        "phonetic": "/kənˈsʌltənt/"
+    },
+    {
+        "id": 17,
+        "word": "contract",
+        "translation": "sözleşme",
+        "example": "Sign the contract.",
+        "exampleTr": "Sözleşmeyi imzala.",
+        "phonetic": "/ˈkɒntrækt/"
+    },
+    {
+        "id": 18,
+        "word": "corporate",
+        "translation": "kurumsal",
+        "example": "Corporate culture matters.",
+        "exampleTr": "Kurumsal kültür önemli.",
+        "phonetic": "/ˈkɔːrpərət/"
+    },
+    {
+        "id": 19,
+        "word": "credential",
+        "translation": "referans / yetki belgesi",
+        "example": "Present your credentials.",
+        "exampleTr": "Kimlik belgenizi sunun.",
+        "phonetic": "/krɪˈdenʃl/"
+    },
+    {
+        "id": 20,
+        "word": "crowdfunding",
+        "translation": "kitle fonlama",
+        "example": "They used crowdfunding.",
+        "exampleTr": "Kitle fonlama kullandılar.",
+        "phonetic": "/ˈkraʊdfʌndɪŋ/"
+    },
+    {
+        "id": 21,
+        "word": "deadline",
+        "translation": "son teslim tarihi",
+        "example": "Meet the deadline.",
+        "exampleTr": "Son teslim tarihine yetiş.",
+        "phonetic": "/ˈdedlaɪn/"
+    },
+    {
+        "id": 22,
+        "word": "debrief",
+        "translation": "bilgi alma toplantısı",
+        "example": "Let's debrief after the meeting.",
+        "exampleTr": "Toplantıdan sonra değerlendirelim.",
+        "phonetic": "/diːˈbriːf/"
+    },
+    {
+        "id": 23,
+        "word": "delegate",
+        "translation": "devretmek",
+        "example": "Delegate responsibilities.",
+        "exampleTr": "Sorumlulukları devret.",
+        "phonetic": "/ˈdelɪɡeɪt/"
+    },
+    {
+        "id": 24,
+        "word": "demographic",
+        "translation": "demografik",
+        "example": "Study the demographic data.",
+        "exampleTr": "Demografik verileri çalış.",
+        "phonetic": "/ˌdeməˈɡræfɪk/"
+    },
+    {
+        "id": 25,
+        "word": "diversify",
+        "translation": "çeşitlendirmek",
+        "example": "Diversify your investments.",
+        "exampleTr": "Yatırımlarını çeşitlendir.",
+        "phonetic": "/daɪˈvɜːrsɪfaɪ/"
+    },
+    {
+        "id": 26,
+        "word": "downsize",
+        "translation": "küçülmek",
+        "example": "The company downsized.",
+        "exampleTr": "Şirket küçüldü.",
+        "phonetic": "/ˈdaʊnsaɪz/"
+    },
+    {
+        "id": 27,
+        "word": "e-commerce",
+        "translation": "e-ticaret",
+        "example": "E-commerce is booming.",
+        "exampleTr": "E-ticaret patlıyor.",
+        "phonetic": "/ˈiːkɒmɜːrs/"
+    },
+    {
+        "id": 28,
+        "word": "enterprise",
+        "translation": "girişim / işletme",
+        "example": "A small enterprise grew fast.",
+        "exampleTr": "Küçük bir işletme hızla büyüdü.",
+        "phonetic": "/ˈentərpraɪz/"
+    },
+    {
+        "id": 29,
+        "word": "executive",
+        "translation": "yönetici",
+        "example": "She is a senior executive.",
+        "exampleTr": "Kıdemli bir yönetici.",
+        "phonetic": "/ɪɡˈzekjətɪv/"
+    },
+    {
+        "id": 30,
+        "word": "expansion",
+        "translation": "genişleme",
+        "example": "Business expansion is planned.",
+        "exampleTr": "İş genişlemesi planlanıyor.",
+        "phonetic": "/ɪkˈspænʃn/"
+    },
+    {
+        "id": 31,
+        "word": "feasibility",
+        "translation": "fizibilite / uygulanabilirlik",
+        "example": "Conduct a feasibility study.",
+        "exampleTr": "Fizibilite çalışması yap.",
+        "phonetic": "/ˌfiːzəˈbɪləti/"
+    },
+    {
+        "id": 32,
+        "word": "flagship",
+        "translation": "amiral gemisi / bayrak ürün",
+        "example": "Our flagship product.",
+        "exampleTr": "Amiral gemisi ürünümüz.",
+        "phonetic": "/ˈflæɡʃɪp/"
+    },
+    {
+        "id": 33,
+        "word": "forecast",
+        "translation": "tahmin / öngörü",
+        "example": "The sales forecast is positive.",
+        "exampleTr": "Satış tahmini olumlu.",
+        "phonetic": "/ˈfɔːrkæst/"
+    },
+    {
+        "id": 34,
+        "word": "franchise",
+        "translation": "franchise / bayilik",
+        "example": "Open a franchise.",
+        "exampleTr": "Bir bayilik aç.",
+        "phonetic": "/ˈfræntʃaɪz/"
+    },
+    {
+        "id": 35,
+        "word": "gross",
+        "translation": "brüt",
+        "example": "Gross profit increased.",
+        "exampleTr": "Brüt kar arttı.",
+        "phonetic": "/ɡroʊs/"
+    },
+    {
+        "id": 36,
+        "word": "headquarter",
+        "translation": "merkez / genel müdürlük",
+        "example": "Headquarters is in London.",
+        "exampleTr": "Merkez Londra'da.",
+        "phonetic": "/ˈhedkwɔːrtər/"
+    },
+    {
+        "id": 37,
+        "word": "implement",
+        "translation": "uygulamak",
+        "example": "Implement the new strategy.",
+        "exampleTr": "Yeni stratejiyi uygula.",
+        "phonetic": "/ˈɪmplɪment/"
+    },
+    {
+        "id": 38,
+        "word": "incentive",
+        "translation": "teşvik",
+        "example": "Offer financial incentives.",
+        "exampleTr": "Finansal teşvikler sun.",
+        "phonetic": "/ɪnˈsentɪv/"
+    },
+    {
+        "id": 39,
+        "word": "incorporate",
+        "translation": "birleştirmek / tüzel kişilik",
+        "example": "Incorporate feedback into the plan.",
+        "exampleTr": "Geri bildirimi plana dahil et.",
+        "phonetic": "/ɪnˈkɔːrpəreɪt/"
+    },
+    {
+        "id": 40,
+        "word": "invoice",
+        "translation": "fatura",
+        "example": "Send the invoice promptly.",
+        "exampleTr": "Faturayı hemen gönder.",
+        "phonetic": "/ˈɪnvɔɪs/"
+    },
+    {
+        "id": 41,
+        "word": "joint venture",
+        "translation": "ortak girişim",
+        "example": "They formed a joint venture.",
+        "exampleTr": "Ortak girişim kurdular.",
+        "phonetic": "/dʒɔɪnt ˈventʃər/"
+    },
+    {
+        "id": 42,
+        "word": "leverage",
+        "translation": "kaldıraç / avantaj",
+        "example": "Leverage your strengths.",
+        "exampleTr": "Güçlü yönlerini kullan.",
+        "phonetic": "/ˈlevərɪdʒ/"
+    },
+    {
+        "id": 43,
+        "word": "liability",
+        "translation": "yükümlülük / sorumluluk",
+        "example": "Limit your liabilities.",
+        "exampleTr": "Yükümlülüklerini sınırla.",
+        "phonetic": "/ˌlaɪəˈbɪləti/"
+    },
+    {
+        "id": 44,
+        "word": "logistics",
+        "translation": "lojistik",
+        "example": "Logistics are complex.",
+        "exampleTr": "Lojistik karmaşık.",
+        "phonetic": "/ləˈdʒɪstɪks/"
+    },
+    {
+        "id": 45,
+        "word": "margin",
+        "translation": "marj / kar payı",
+        "example": "Improve profit margins.",
+        "exampleTr": "Kar marjlarını iyileştir.",
+        "phonetic": "/ˈmɑːrdʒɪn/"
+    },
+    {
+        "id": 46,
+        "word": "mediate",
+        "translation": "arabuluculuk yapmak",
+        "example": "He mediated the dispute.",
+        "exampleTr": "Anlaşmazlıkta arabuluculuk yaptı.",
+        "phonetic": "/ˈmiːdieɪt/"
+    },
+    {
+        "id": 47,
+        "word": "merchandise",
+        "translation": "ticari mal",
+        "example": "Display the merchandise.",
+        "exampleTr": "Ticari malları sergile.",
+        "phonetic": "/ˈmɜːrtʃəndaɪz/"
+    },
+    {
+        "id": 48,
+        "word": "monopoly",
+        "translation": "tekel",
+        "example": "They have a monopoly.",
+        "exampleTr": "Tekelleri var.",
+        "phonetic": "/məˈnɒpəli/"
+    },
+    {
+        "id": 49,
+        "word": "negotiate",
+        "translation": "müzakere etmek",
+        "example": "Negotiate better terms.",
+        "exampleTr": "Daha iyi koşullar müzakere et.",
+        "phonetic": "/nɪˈɡoʊʃieɪt/"
+    },
+    {
+        "id": 50,
+        "word": "networking",
+        "translation": "ağ kurma / ilişki geliştirme",
+        "example": "Networking is important.",
+        "exampleTr": "İlişki geliştirme önemli.",
+        "phonetic": "/ˈnetwɜːrkɪŋ/"
+    },
+    {
+        "id": 51,
+        "word": "niche",
+        "translation": "niş / özel alan",
+        "example": "Find your niche market.",
+        "exampleTr": "Niş pazarını bul.",
+        "phonetic": "/niːʃ/"
+    },
+    {
+        "id": 52,
+        "word": "offshore",
+        "translation": "deniz aşırı / sınır ötesi",
+        "example": "Offshore operations expanded.",
+        "exampleTr": "Deniz aşırı operasyonlar genişledi.",
+        "phonetic": "/ˌɒfˈʃɔːr/"
+    },
+    {
+        "id": 53,
+        "word": "outsource",
+        "translation": "dış kaynak kullanmak",
+        "example": "Outsource IT services.",
+        "exampleTr": "BT hizmetlerini dış kaynaktan al.",
+        "phonetic": "/ˈaʊtsɔːrs/"
+    },
+    {
+        "id": 54,
+        "word": "overhaul",
+        "translation": "elden geçirme / revize",
+        "example": "Overhaul the system.",
+        "exampleTr": "Sistemi elden geçir.",
+        "phonetic": "/ˈoʊvərhɔːl/"
+    },
+    {
+        "id": 55,
+        "word": "overhead",
+        "translation": "genel gider",
+        "example": "Reduce overhead costs.",
+        "exampleTr": "Genel giderleri azalt.",
+        "phonetic": "/ˌoʊvərˈhed/"
+    },
+    {
+        "id": 56,
+        "word": "patent",
+        "translation": "patent",
+        "example": "File a patent application.",
+        "exampleTr": "Patent başvurusu yap.",
+        "phonetic": "/ˈpætnt/"
+    },
+    {
+        "id": 57,
+        "word": "payroll",
+        "translation": "bordro",
+        "example": "Manage the payroll system.",
+        "exampleTr": "Bordro sistemini yönet.",
+        "phonetic": "/ˈpeɪroʊl/"
+    },
+    {
+        "id": 58,
+        "word": "pitch",
+        "translation": "sunum / tanıtım",
+        "example": "Pitch your idea to investors.",
+        "exampleTr": "Fikrinizi yatırımcılara sunun.",
+        "phonetic": "/pɪtʃ/"
+    },
+    {
+        "id": 59,
+        "word": "portfolio",
+        "translation": "portföy",
+        "example": "Build a strong portfolio.",
+        "exampleTr": "Güçlü bir portföy oluştur.",
+        "phonetic": "/pɔːrtˈfoʊlioʊ/"
+    },
+    {
+        "id": 60,
+        "word": "procurement",
+        "translation": "tedarik",
+        "example": "Procurement process improved.",
+        "exampleTr": "Tedarik süreci iyileşti.",
+        "phonetic": "/prəˈkjʊrmənt/"
+    },
+    {
+        "id": 61,
+        "word": "profit",
+        "translation": "kar / kazanç",
+        "example": "The company made a profit.",
+        "exampleTr": "Şirket kar etti.",
+        "phonetic": "/ˈprɒfɪt/"
+    },
+    {
+        "id": 62,
+        "word": "proposal",
+        "translation": "teklif / öneri",
+        "example": "Submit a business proposal.",
+        "exampleTr": "İş teklifi sun.",
+        "phonetic": "/prəˈpoʊzl/"
+    },
+    {
+        "id": 63,
+        "word": "prospect",
+        "translation": "potansiyel müşteri",
+        "example": "Identify new prospects.",
+        "exampleTr": "Yeni potansiyel müşteriler belirle.",
+        "phonetic": "/ˈprɒspekt/"
+    },
+    {
+        "id": 64,
+        "word": "quota",
+        "translation": "kota",
+        "example": "Sales quota was exceeded.",
+        "exampleTr": "Satış kotası aşıldı.",
+        "phonetic": "/ˈkwoʊtə/"
+    },
+    {
+        "id": 65,
+        "word": "rebate",
+        "translation": "indirim / geri ödeme",
+        "example": "Customers get a rebate.",
+        "exampleTr": "Müşteriler indirim alıyor.",
+        "phonetic": "/ˈriːbeɪt/"
+    },
+    {
+        "id": 66,
+        "word": "recruit",
+        "translation": "işe almak",
+        "example": "Recruit talented people.",
+        "exampleTr": "Yetenekli insanlar işe al.",
+        "phonetic": "/rɪˈkruːt/"
+    },
+    {
+        "id": 67,
+        "word": "revenue",
+        "translation": "gelir / hasılat",
+        "example": "Increase revenue streams.",
+        "exampleTr": "Gelir kaynaklarını artır.",
+        "phonetic": "/ˈrevənjuː/"
+    },
+    {
+        "id": 68,
+        "word": "ROI",
+        "translation": "yatırım getirisi",
+        "example": "Calculate the ROI.",
+        "exampleTr": "Yatırım getirisini hesapla.",
+        "phonetic": "/ɑːr oʊ aɪ/"
+    },
+    {
+        "id": 69,
+        "word": "scalable",
+        "translation": "ölçeklenebilir",
+        "example": "Build a scalable business.",
+        "exampleTr": "Ölçeklenebilir bir iş kur.",
+        "phonetic": "/ˈskeɪləbl/"
+    },
+    {
+        "id": 70,
+        "word": "shareholder",
+        "translation": "hissedar",
+        "example": "Shareholders demand returns.",
+        "exampleTr": "Hissedarlar getiri talep ediyor.",
+        "phonetic": "/ˈʃerhoʊldər/"
+    },
+    {
+        "id": 71,
+        "word": "startup",
+        "translation": "girişim / startup",
+        "example": "Tech startups are growing.",
+        "exampleTr": "Teknoloji girişimleri büyüyor.",
+        "phonetic": "/ˈstɑːrtʌp/"
+    },
+    {
+        "id": 72,
+        "word": "stakeholder",
+        "translation": "paydaş",
+        "example": "Engage all stakeholders.",
+        "exampleTr": "Tüm paydaşları dahil et.",
+        "phonetic": "/ˈsteɪkhoʊldər/"
+    },
+    {
+        "id": 73,
+        "word": "strategy",
+        "translation": "strateji",
+        "example": "Develop a growth strategy.",
+        "exampleTr": "Büyüme stratejisi geliştir.",
+        "phonetic": "/ˈstrætədʒi/"
+    },
+    {
+        "id": 74,
+        "word": "subsidiary",
+        "translation": "yan kuruluş / bağlı şirket",
+        "example": "They opened a subsidiary.",
+        "exampleTr": "Bir yan kuruluş açtılar.",
+        "phonetic": "/səbˈsɪdiəri/"
+    },
+    {
+        "id": 75,
+        "word": "supply chain",
+        "translation": "tedarik zinciri",
+        "example": "Optimize the supply chain.",
+        "exampleTr": "Tedarik zincirini optimize et.",
+        "phonetic": "/səˈplaɪ tʃeɪn/"
+    },
+    {
+        "id": 76,
+        "word": "surplus",
+        "translation": "fazlalık / artık",
+        "example": "There is a budget surplus.",
+        "exampleTr": "Bütçe fazlası var.",
+        "phonetic": "/ˈsɜːrpləs/"
+    },
+    {
+        "id": 77,
+        "word": "synergy",
+        "translation": "sinerji",
+        "example": "Create synergy between teams.",
+        "exampleTr": "Takımlar arasında sinerji oluştur.",
+        "phonetic": "/ˈsɪnərdʒi/"
+    },
+    {
+        "id": 78,
+        "word": "target",
+        "translation": "hedef",
+        "example": "Set realistic targets.",
+        "exampleTr": "Gerçekçi hedefler belirle.",
+        "phonetic": "/ˈtɑːrɡɪt/"
+    },
+    {
+        "id": 79,
+        "word": "tender",
+        "translation": "ihale / teklif",
+        "example": "Submit a tender.",
+        "exampleTr": "İhale teklifi sun.",
+        "phonetic": "/ˈtendər/"
+    },
+    {
+        "id": 80,
+        "word": "trademark",
+        "translation": "ticari marka",
+        "example": "Register the trademark.",
+        "exampleTr": "Ticari markayı tescil et.",
+        "phonetic": "/ˈtreɪdmɑːrk/"
+    },
+    {
+        "id": 81,
+        "word": "transaction",
+        "translation": "işlem",
+        "example": "Complete the transaction.",
+        "exampleTr": "İşlemi tamamla.",
+        "phonetic": "/trænˈzækʃn/"
+    },
+    {
+        "id": 82,
+        "word": "transparency",
+        "translation": "şeffaflık",
+        "example": "Promote financial transparency.",
+        "exampleTr": "Finansal şeffaflığı destekle.",
+        "phonetic": "/trænsˈpærənsi/"
+    },
+    {
+        "id": 83,
+        "word": "turnover",
+        "translation": "ciro",
+        "example": "Annual turnover doubled.",
+        "exampleTr": "Yıllık ciro ikiye katlandı.",
+        "phonetic": "/ˈtɜːrnoʊvər/"
+    },
+    {
+        "id": 84,
+        "word": "undercut",
+        "translation": "fiyat kırmak",
+        "example": "They undercut the competition.",
+        "exampleTr": "Rakiplerin fiyatını kırdılar.",
+        "phonetic": "/ˌʌndərˈkʌt/"
+    },
+    {
+        "id": 85,
+        "word": "valuation",
+        "translation": "değerleme",
+        "example": "The company's valuation rose.",
+        "exampleTr": "Şirketin değerlemesi yükseldi.",
+        "phonetic": "/ˌvæljuˈeɪʃn/"
+    },
+    {
+        "id": 86,
+        "word": "vendor",
+        "translation": "satıcı / tedarikçi",
+        "example": "Choose reliable vendors.",
+        "exampleTr": "Güvenilir tedarikçiler seç.",
+        "phonetic": "/ˈvendər/"
+    },
+    {
+        "id": 87,
+        "word": "venture",
+        "translation": "girişim / risk",
+        "example": "A risky business venture.",
+        "exampleTr": "Riskli bir iş girişimi.",
+        "phonetic": "/ˈventʃər/"
+    },
+    {
+        "id": 88,
+        "word": "viability",
+        "translation": "uygulanabilirlik",
+        "example": "Assess the project's viability.",
+        "exampleTr": "Projenin uygulanabilirliğini değerlendir.",
+        "phonetic": "/ˌvaɪəˈbɪləti/"
+    },
+    {
+        "id": 89,
+        "word": "wholesale",
+        "translation": "toptan satış",
+        "example": "We sell wholesale.",
+        "exampleTr": "Toptan satış yapıyoruz.",
+        "phonetic": "/ˈhoʊlseɪl/"
+    },
+    {
+        "id": 90,
+        "word": "workflow",
+        "translation": "iş akışı",
+        "example": "Improve the workflow.",
+        "exampleTr": "İş akışını iyileştir.",
+        "phonetic": "/ˈwɜːrkfloʊ/"
+    },
+    {
+        "id": 91,
+        "word": "acquisition",
+        "translation": "satın alma / edinim",
+        "example": "The acquisition was completed.",
+        "exampleTr": "Satın alma tamamlandı.",
+        "phonetic": "/ˌækwɪˈzɪʃn/"
+    },
+    {
+        "id": 92,
+        "word": "affiliate",
+        "translation": "bağlı kuruluş",
+        "example": "They have many affiliates.",
+        "exampleTr": "Birçok bağlı kuruluşları var.",
+        "phonetic": "/əˈfɪlieɪt/"
+    },
+    {
+        "id": 93,
+        "word": "allocation",
+        "translation": "tahsis / dağıtım",
+        "example": "Budget allocation was finalized.",
+        "exampleTr": "Bütçe tahsisi kesinleşti.",
+        "phonetic": "/ˌæləˈkeɪʃn/"
+    },
+    {
+        "id": 94,
+        "word": "amortize",
+        "translation": "amorti etmek",
+        "example": "Amortize the cost over 5 years.",
+        "exampleTr": "Maliyeti 5 yılda amorti et.",
+        "phonetic": "/ˈæmɔːrtaɪz/"
+    },
+    {
+        "id": 95,
+        "word": "benchmark",
+        "translation": "kıyaslama noktası",
+        "example": "Benchmark against competitors.",
+        "exampleTr": "Rakiplerle kıyasla.",
+        "phonetic": "/ˈbentʃmɑːrk/"
+    },
+    {
+        "id": 96,
+        "word": "consortium",
+        "translation": "konsorsiyum",
+        "example": "Join the consortium.",
+        "exampleTr": "Konsorsiyuma katıl.",
+        "phonetic": "/kənˈsɔːrtiəm/"
+    },
+    {
+        "id": 97,
+        "word": "depreciate",
+        "translation": "değer kaybetmek",
+        "example": "The currency depreciated.",
+        "exampleTr": "Para birimi değer kaybetti.",
+        "phonetic": "/dɪˈpriːʃieɪt/"
+    },
+    {
+        "id": 98,
+        "word": "embargo",
+        "translation": "ambargo",
+        "example": "An embargo was imposed.",
+        "exampleTr": "Ambargo uygulandı.",
+        "phonetic": "/ɪmˈbɑːrɡoʊ/"
+    },
+    {
+        "id": 99,
+        "word": "liquidate",
+        "translation": "tasfiye etmek",
+        "example": "Liquidate the assets.",
+        "exampleTr": "Varlıkları tasfiye et.",
+        "phonetic": "/ˈlɪkwɪdeɪt/"
+    },
+    {
+        "id": 100,
+        "word": "prospectus",
+        "translation": "izahname / tanıtım kitapçığı",
+        "example": "Read the prospectus carefully.",
+        "exampleTr": "İzahnameyi dikkatle oku.",
+        "phonetic": "/prəˈspektəs/"
+    }
+]

@@ -1,0 +1,1602 @@
+[
+    {
+        "id": 1,
+        "word": "abandon",
+        "translation": "terk etmek / bırakmak",
+        "example": "They had to abandon the project due to lack of funding.",
+        "exampleTr": "Finansman eksikliği nedeniyle projeyi terk etmek zorunda kaldılar.",
+        "phonetic": "/əˈbændən/"
+    },
+    {
+        "id": 2,
+        "word": "absolutely",
+        "translation": "kesinlikle / tamamen",
+        "example": "I absolutely agree with your decision.",
+        "exampleTr": "Kararınıza kesinlikle katılıyorum.",
+        "phonetic": "/ˌæbsəˈluːtli/"
+    },
+    {
+        "id": 3,
+        "word": "accomplish",
+        "translation": "başarmak / gerçekleştirmek",
+        "example": "She accomplished all her goals this year.",
+        "exampleTr": "Bu yıl tüm hedeflerini başardı.",
+        "phonetic": "/əˈkʌmplɪʃ/"
+    },
+    {
+        "id": 4,
+        "word": "accurate",
+        "translation": "doğru / kesin",
+        "example": "The report provides accurate information.",
+        "exampleTr": "Rapor doğru bilgiler sağlıyor.",
+        "phonetic": "/ˈækjərət/"
+    },
+    {
+        "id": 5,
+        "word": "achieve",
+        "translation": "elde etmek / başarmak",
+        "example": "You can achieve anything if you work hard.",
+        "exampleTr": "Çok çalışırsan her şeyi başarabilirsin.",
+        "phonetic": "/əˈtʃiːv/"
+    },
+    {
+        "id": 6,
+        "word": "acknowledge",
+        "translation": "kabul etmek / onaylamak",
+        "example": "He acknowledged his mistake immediately.",
+        "exampleTr": "Hatasını hemen kabul etti.",
+        "phonetic": "/əkˈnɒlɪdʒ/"
+    },
+    {
+        "id": 7,
+        "word": "acquire",
+        "translation": "edinmek / kazanmak",
+        "example": "She acquired fluency in three languages.",
+        "exampleTr": "Üç dilde akıcılık kazandı.",
+        "phonetic": "/əˈkwaɪər/"
+    },
+    {
+        "id": 8,
+        "word": "adapt",
+        "translation": "uyum sağlamak / adapte olmak",
+        "example": "Animals adapt to their environment.",
+        "exampleTr": "Hayvanlar çevrelerine uyum sağlar.",
+        "phonetic": "/əˈdæpt/"
+    },
+    {
+        "id": 9,
+        "word": "adequate",
+        "translation": "yeterli / uygun",
+        "example": "We have adequate resources for the project.",
+        "exampleTr": "Proje için yeterli kaynaklarımız var.",
+        "phonetic": "/ˈædɪkwət/"
+    },
+    {
+        "id": 10,
+        "word": "adjust",
+        "translation": "ayarlamak / uyarlamak",
+        "example": "Please adjust the volume of the TV.",
+        "exampleTr": "Lütfen TV'nin sesini ayarlayın.",
+        "phonetic": "/əˈdʒʌst/"
+    },
+    {
+        "id": 11,
+        "word": "administration",
+        "translation": "yönetim / idare",
+        "example": "The administration announced new policies.",
+        "exampleTr": "Yönetim yeni politikalar açıkladı.",
+        "phonetic": "/ədˌmɪnɪˈstreɪʃn/"
+    },
+    {
+        "id": 12,
+        "word": "admit",
+        "translation": "itiraf etmek / kabul etmek",
+        "example": "I must admit that I was wrong.",
+        "exampleTr": "Yanlış olduğumu itiraf etmeliyim.",
+        "phonetic": "/ədˈmɪt/"
+    },
+    {
+        "id": 13,
+        "word": "adopt",
+        "translation": "benimsemek / evlat edinmek",
+        "example": "They decided to adopt a child.",
+        "exampleTr": "Bir çocuk evlat edinmeye karar verdiler.",
+        "phonetic": "/əˈdɒpt/"
+    },
+    {
+        "id": 14,
+        "word": "advocate",
+        "translation": "savunucu / desteklemek",
+        "example": "She is an advocate for human rights.",
+        "exampleTr": "O insan hakları savunucusudur.",
+        "phonetic": "/ˈædvəkət/"
+    },
+    {
+        "id": 15,
+        "word": "affect",
+        "translation": "etkilemek",
+        "example": "The weather affects my mood.",
+        "exampleTr": "Hava ruh halimi etkiler.",
+        "phonetic": "/əˈfekt/"
+    },
+    {
+        "id": 16,
+        "word": "afford",
+        "translation": "gücü yetmek / karşılayabilmek",
+        "example": "I can't afford to buy a new car.",
+        "exampleTr": "Yeni bir araba almaya gücüm yetmez.",
+        "phonetic": "/əˈfɔːrd/"
+    },
+    {
+        "id": 17,
+        "word": "aggressive",
+        "translation": "saldırgan / agresif",
+        "example": "The dog became aggressive when threatened.",
+        "exampleTr": "Köpek tehdit edildiğinde saldırganlaştı.",
+        "phonetic": "/əˈɡresɪv/"
+    },
+    {
+        "id": 18,
+        "word": "alternative",
+        "translation": "alternatif / seçenek",
+        "example": "We need to find an alternative solution.",
+        "exampleTr": "Alternatif bir çözüm bulmamız gerekiyor.",
+        "phonetic": "/ɔːlˈtɜːrnətɪv/"
+    },
+    {
+        "id": 19,
+        "word": "analyze",
+        "translation": "analiz etmek",
+        "example": "Scientists analyze the data carefully.",
+        "exampleTr": "Bilim insanları verileri dikkatle analiz eder.",
+        "phonetic": "/ˈænəlaɪz/"
+    },
+    {
+        "id": 20,
+        "word": "annual",
+        "translation": "yıllık",
+        "example": "The company holds an annual meeting.",
+        "exampleTr": "Şirket yıllık toplantı düzenler.",
+        "phonetic": "/ˈænjuəl/"
+    },
+    {
+        "id": 21,
+        "word": "anticipate",
+        "translation": "beklemek / öngörmek",
+        "example": "We anticipate a good result.",
+        "exampleTr": "İyi bir sonuç bekliyoruz.",
+        "phonetic": "/ænˈtɪsɪpeɪt/"
+    },
+    {
+        "id": 22,
+        "word": "anxiety",
+        "translation": "kaygı / endişe",
+        "example": "She suffers from anxiety before exams.",
+        "exampleTr": "Sınavlardan önce kaygı çeker.",
+        "phonetic": "/æŋˈzaɪəti/"
+    },
+    {
+        "id": 23,
+        "word": "apparent",
+        "translation": "açık / besbelli",
+        "example": "It was apparent that he was lying.",
+        "exampleTr": "Yalan söylediği besbelliydi.",
+        "phonetic": "/əˈpærənt/"
+    },
+    {
+        "id": 24,
+        "word": "appeal",
+        "translation": "çekicilik / itiraz etmek",
+        "example": "The idea doesn't appeal to me.",
+        "exampleTr": "Bu fikir bana çekici gelmiyor.",
+        "phonetic": "/əˈpiːl/"
+    },
+    {
+        "id": 25,
+        "word": "apply",
+        "translation": "başvurmak / uygulamak",
+        "example": "I will apply for the job tomorrow.",
+        "exampleTr": "Yarın işe başvuracağım.",
+        "phonetic": "/əˈplaɪ/"
+    },
+    {
+        "id": 26,
+        "word": "appreciate",
+        "translation": "takdir etmek / değer vermek",
+        "example": "I really appreciate your help.",
+        "exampleTr": "Yardımını gerçekten takdir ediyorum.",
+        "phonetic": "/əˈpriːʃieɪt/"
+    },
+    {
+        "id": 27,
+        "word": "approach",
+        "translation": "yaklaşım / yaklaşmak",
+        "example": "We need a new approach to this problem.",
+        "exampleTr": "Bu soruna yeni bir yaklaşım gerekiyor.",
+        "phonetic": "/əˈproʊtʃ/"
+    },
+    {
+        "id": 28,
+        "word": "appropriate",
+        "translation": "uygun / münasip",
+        "example": "This dress is appropriate for the occasion.",
+        "exampleTr": "Bu elbise bu vesile için uygun.",
+        "phonetic": "/əˈproʊpriət/"
+    },
+    {
+        "id": 29,
+        "word": "approximate",
+        "translation": "yaklaşık / tahmini",
+        "example": "The approximate cost is $500.",
+        "exampleTr": "Yaklaşık maliyet 500 dolar.",
+        "phonetic": "/əˈprɒksɪmət/"
+    },
+    {
+        "id": 30,
+        "word": "argue",
+        "translation": "tartışmak / iddia etmek",
+        "example": "They always argue about politics.",
+        "exampleTr": "Her zaman politika hakkında tartışırlar.",
+        "phonetic": "/ˈɑːrɡjuː/"
+    },
+    {
+        "id": 31,
+        "word": "arise",
+        "translation": "ortaya çıkmak / doğmak",
+        "example": "Problems may arise during the project.",
+        "exampleTr": "Proje sırasında sorunlar ortaya çıkabilir.",
+        "phonetic": "/əˈraɪz/"
+    },
+    {
+        "id": 32,
+        "word": "arrange",
+        "translation": "düzenlemek / ayarlamak",
+        "example": "I will arrange a meeting for next week.",
+        "exampleTr": "Gelecek hafta için bir toplantı ayarlayacağım.",
+        "phonetic": "/əˈreɪndʒ/"
+    },
+    {
+        "id": 33,
+        "word": "aspect",
+        "translation": "yön / görünüş",
+        "example": "This is an important aspect of the project.",
+        "exampleTr": "Bu, projenin önemli bir yönüdür.",
+        "phonetic": "/ˈæspekt/"
+    },
+    {
+        "id": 34,
+        "word": "assess",
+        "translation": "değerlendirmek",
+        "example": "We need to assess the risks involved.",
+        "exampleTr": "İlgili riskleri değerlendirmemiz gerekiyor.",
+        "phonetic": "/əˈses/"
+    },
+    {
+        "id": 35,
+        "word": "assign",
+        "translation": "atamak / görevlendirmek",
+        "example": "The teacher assigned homework for the weekend.",
+        "exampleTr": "Öğretmen hafta sonu için ödev verdi.",
+        "phonetic": "/əˈsaɪn/"
+    },
+    {
+        "id": 36,
+        "word": "assist",
+        "translation": "yardım etmek",
+        "example": "Can I assist you with anything?",
+        "exampleTr": "Size herhangi bir konuda yardımcı olabilir miyim?",
+        "phonetic": "/əˈsɪst/"
+    },
+    {
+        "id": 37,
+        "word": "associate",
+        "translation": "ilişkilendirmek / ortak",
+        "example": "I associate this song with my childhood.",
+        "exampleTr": "Bu şarkıyı çocukluğumla ilişkilendiriyorum.",
+        "phonetic": "/əˈsoʊʃieɪt/"
+    },
+    {
+        "id": 38,
+        "word": "assume",
+        "translation": "varsaymak / farz etmek",
+        "example": "I assume you already know about the meeting.",
+        "exampleTr": "Toplantıyı zaten bildiğini varsayıyorum.",
+        "phonetic": "/əˈsuːm/"
+    },
+    {
+        "id": 39,
+        "word": "attach",
+        "translation": "eklemek / iliştirmek",
+        "example": "Please attach your CV to the email.",
+        "exampleTr": "Lütfen CV'nizi e-postaya ekleyin.",
+        "phonetic": "/əˈtætʃ/"
+    },
+    {
+        "id": 40,
+        "word": "attempt",
+        "translation": "girişim / denemek",
+        "example": "This is my first attempt at baking.",
+        "exampleTr": "Bu benim ilk pasta yapma girişimim.",
+        "phonetic": "/əˈtempt/"
+    },
+    {
+        "id": 41,
+        "word": "attitude",
+        "translation": "tutum / davranış",
+        "example": "Your attitude affects your success.",
+        "exampleTr": "Tutumun başarını etkiler.",
+        "phonetic": "/ˈætɪtuːd/"
+    },
+    {
+        "id": 42,
+        "word": "authority",
+        "translation": "otorite / yetki",
+        "example": "The police have the authority to arrest criminals.",
+        "exampleTr": "Polisin suçluları tutuklama yetkisi var.",
+        "phonetic": "/ɔːˈθɒrəti/"
+    },
+    {
+        "id": 43,
+        "word": "available",
+        "translation": "mevcut / müsait",
+        "example": "The product is available in all stores.",
+        "exampleTr": "Ürün tüm mağazalarda mevcut.",
+        "phonetic": "/əˈveɪləbl/"
+    },
+    {
+        "id": 44,
+        "word": "average",
+        "translation": "ortalama",
+        "example": "The average temperature is 20 degrees.",
+        "exampleTr": "Ortalama sıcaklık 20 derece.",
+        "phonetic": "/ˈævərɪdʒ/"
+    },
+    {
+        "id": 45,
+        "word": "avoid",
+        "translation": "kaçınmak",
+        "example": "Try to avoid making the same mistakes.",
+        "exampleTr": "Aynı hataları yapmaktan kaçınmaya çalış.",
+        "phonetic": "/əˈvɔɪd/"
+    },
+    {
+        "id": 46,
+        "word": "aware",
+        "translation": "farkında",
+        "example": "I am aware of the consequences.",
+        "exampleTr": "Sonuçların farkındayım.",
+        "phonetic": "/əˈwer/"
+    },
+    {
+        "id": 47,
+        "word": "background",
+        "translation": "arka plan / geçmiş",
+        "example": "Tell me about your educational background.",
+        "exampleTr": "Eğitim geçmişin hakkında bilgi ver.",
+        "phonetic": "/ˈbækɡraʊnd/"
+    },
+    {
+        "id": 48,
+        "word": "balance",
+        "translation": "denge",
+        "example": "It's important to maintain a work-life balance.",
+        "exampleTr": "İş-yaşam dengesini korumak önemli.",
+        "phonetic": "/ˈbæləns/"
+    },
+    {
+        "id": 49,
+        "word": "barrier",
+        "translation": "engel / bariyer",
+        "example": "Language can be a barrier to communication.",
+        "exampleTr": "Dil iletişime engel olabilir.",
+        "phonetic": "/ˈbæriər/"
+    },
+    {
+        "id": 50,
+        "word": "basis",
+        "translation": "temel / esas",
+        "example": "We meet on a weekly basis.",
+        "exampleTr": "Haftalık olarak toplanıyoruz.",
+        "phonetic": "/ˈbeɪsɪs/"
+    },
+    {
+        "id": 51,
+        "word": "behavior",
+        "translation": "davranış",
+        "example": "His behavior was unacceptable.",
+        "exampleTr": "Davranışı kabul edilemezdi.",
+        "phonetic": "/bɪˈheɪvjər/"
+    },
+    {
+        "id": 52,
+        "word": "benefit",
+        "translation": "fayda / yarar",
+        "example": "Exercise has many health benefits.",
+        "exampleTr": "Egzersizin birçok sağlık faydası var.",
+        "phonetic": "/ˈbenɪfɪt/"
+    },
+    {
+        "id": 53,
+        "word": "brief",
+        "translation": "kısa / özet",
+        "example": "I'll give you a brief summary.",
+        "exampleTr": "Size kısa bir özet vereceğim.",
+        "phonetic": "/briːf/"
+    },
+    {
+        "id": 54,
+        "word": "budget",
+        "translation": "bütçe",
+        "example": "We have a limited budget for this project.",
+        "exampleTr": "Bu proje için sınırlı bir bütçemiz var.",
+        "phonetic": "/ˈbʌdʒɪt/"
+    },
+    {
+        "id": 55,
+        "word": "capable",
+        "translation": "yetenekli / muktedir",
+        "example": "She is capable of solving complex problems.",
+        "exampleTr": "Karmaşık sorunları çözme yeteneğine sahip.",
+        "phonetic": "/ˈkeɪpəbl/"
+    },
+    {
+        "id": 56,
+        "word": "capacity",
+        "translation": "kapasite / yetenek",
+        "example": "The stadium has a capacity of 50,000 people.",
+        "exampleTr": "Stadyumun kapasitesi 50.000 kişi.",
+        "phonetic": "/kəˈpæsəti/"
+    },
+    {
+        "id": 57,
+        "word": "category",
+        "translation": "kategori",
+        "example": "This product belongs to a different category.",
+        "exampleTr": "Bu ürün farklı bir kategoriye ait.",
+        "phonetic": "/ˈkætəɡɔːri/"
+    },
+    {
+        "id": 58,
+        "word": "challenge",
+        "translation": "zorluk / meydan okumak",
+        "example": "Learning a new language is a challenge.",
+        "exampleTr": "Yeni bir dil öğrenmek bir zorluk.",
+        "phonetic": "/ˈtʃælɪndʒ/"
+    },
+    {
+        "id": 59,
+        "word": "characteristic",
+        "translation": "özellik / karakteristik",
+        "example": "Patience is a characteristic of good teachers.",
+        "exampleTr": "Sabır, iyi öğretmenlerin bir özelliğidir.",
+        "phonetic": "/ˌkærəktəˈrɪstɪk/"
+    },
+    {
+        "id": 60,
+        "word": "circumstance",
+        "translation": "durum / koşul",
+        "example": "Under no circumstances should you give up.",
+        "exampleTr": "Hiçbir koşulda pes etmemelisin.",
+        "phonetic": "/ˈsɜːrkəmstæns/"
+    },
+    {
+        "id": 61,
+        "word": "claim",
+        "translation": "iddia etmek / talep",
+        "example": "He claims to be an expert.",
+        "exampleTr": "Uzman olduğunu iddia ediyor.",
+        "phonetic": "/kleɪm/"
+    },
+    {
+        "id": 62,
+        "word": "clarify",
+        "translation": "açıklığa kavuşturmak",
+        "example": "Can you clarify what you mean?",
+        "exampleTr": "Ne demek istediğini açıklayabilir misin?",
+        "phonetic": "/ˈklærɪfaɪ/"
+    },
+    {
+        "id": 63,
+        "word": "climate",
+        "translation": "iklim",
+        "example": "The climate is changing rapidly.",
+        "exampleTr": "İklim hızla değişiyor.",
+        "phonetic": "/ˈklaɪmət/"
+    },
+    {
+        "id": 64,
+        "word": "colleague",
+        "translation": "meslektaş / iş arkadaşı",
+        "example": "My colleague helped me finish the report.",
+        "exampleTr": "Meslektaşım raporu bitirmeme yardım etti.",
+        "phonetic": "/ˈkɒliːɡ/"
+    },
+    {
+        "id": 65,
+        "word": "commit",
+        "translation": "taahhüt etmek / işlemek",
+        "example": "I commit to finishing this project on time.",
+        "exampleTr": "Bu projeyi zamanında bitirmeyi taahhüt ediyorum.",
+        "phonetic": "/kəˈmɪt/"
+    },
+    {
+        "id": 66,
+        "word": "communicate",
+        "translation": "iletişim kurmak",
+        "example": "It's important to communicate clearly.",
+        "exampleTr": "Açık iletişim kurmak önemli.",
+        "phonetic": "/kəˈmjuːnɪkeɪt/"
+    },
+    {
+        "id": 67,
+        "word": "community",
+        "translation": "topluluk",
+        "example": "The local community organized a festival.",
+        "exampleTr": "Yerel topluluk bir festival düzenledi.",
+        "phonetic": "/kəˈmjuːnəti/"
+    },
+    {
+        "id": 68,
+        "word": "compare",
+        "translation": "karşılaştırmak",
+        "example": "Let's compare the prices of both products.",
+        "exampleTr": "Her iki ürünün fiyatlarını karşılaştıralım.",
+        "phonetic": "/kəmˈper/"
+    },
+    {
+        "id": 69,
+        "word": "compensate",
+        "translation": "telafi etmek / tazmin etmek",
+        "example": "The company will compensate for the damages.",
+        "exampleTr": "Şirket hasarları tazmin edecek.",
+        "phonetic": "/ˈkɒmpenseɪt/"
+    },
+    {
+        "id": 70,
+        "word": "compete",
+        "translation": "yarışmak",
+        "example": "Companies compete for customers.",
+        "exampleTr": "Şirketler müşteriler için yarışır.",
+        "phonetic": "/kəmˈpiːt/"
+    },
+    {
+        "id": 71,
+        "word": "complex",
+        "translation": "karmaşık",
+        "example": "This is a complex issue that requires careful consideration.",
+        "exampleTr": "Bu, dikkatli değerlendirme gerektiren karmaşık bir konu.",
+        "phonetic": "/ˈkɒmpleks/"
+    },
+    {
+        "id": 72,
+        "word": "component",
+        "translation": "bileşen / parça",
+        "example": "This is a key component of the machine.",
+        "exampleTr": "Bu makinenin önemli bir bileşeni.",
+        "phonetic": "/kəmˈpoʊnənt/"
+    },
+    {
+        "id": 73,
+        "word": "concentrate",
+        "translation": "konsantre olmak / yoğunlaşmak",
+        "example": "I need silence to concentrate on my work.",
+        "exampleTr": "İşime konsantre olmak için sessizliğe ihtiyacım var.",
+        "phonetic": "/ˈkɒnsəntreɪt/"
+    },
+    {
+        "id": 74,
+        "word": "concept",
+        "translation": "kavram / konsept",
+        "example": "This is a new concept in marketing.",
+        "exampleTr": "Bu pazarlamada yeni bir kavram.",
+        "phonetic": "/ˈkɒnsept/"
+    },
+    {
+        "id": 75,
+        "word": "concern",
+        "translation": "endişe / ilgilendirmek",
+        "example": "Your safety is my main concern.",
+        "exampleTr": "Güvenliğin benim ana endişem.",
+        "phonetic": "/kənˈsɜːrn/"
+    },
+    {
+        "id": 76,
+        "word": "conclude",
+        "translation": "sonuçlandırmak / varmak",
+        "example": "We can conclude that the experiment was successful.",
+        "exampleTr": "Deneyin başarılı olduğu sonucuna varabiliriz.",
+        "phonetic": "/kənˈkluːd/"
+    },
+    {
+        "id": 77,
+        "word": "condition",
+        "translation": "koşul / durum",
+        "example": "The car is in excellent condition.",
+        "exampleTr": "Araba mükemmel durumda.",
+        "phonetic": "/kənˈdɪʃn/"
+    },
+    {
+        "id": 78,
+        "word": "conduct",
+        "translation": "yürütmek / davranış",
+        "example": "They will conduct a survey next month.",
+        "exampleTr": "Gelecek ay bir anket yapacaklar.",
+        "phonetic": "/kənˈdʌkt/"
+    },
+    {
+        "id": 79,
+        "word": "conference",
+        "translation": "konferans",
+        "example": "I attended an international conference.",
+        "exampleTr": "Uluslararası bir konferansa katıldım.",
+        "phonetic": "/ˈkɒnfərəns/"
+    },
+    {
+        "id": 80,
+        "word": "confident",
+        "translation": "kendine güvenen",
+        "example": "She is confident about passing the exam.",
+        "exampleTr": "Sınavı geçeceğine güveniyor.",
+        "phonetic": "/ˈkɒnfɪdənt/"
+    },
+    {
+        "id": 81,
+        "word": "confirm",
+        "translation": "onaylamak / doğrulamak",
+        "example": "Please confirm your reservation.",
+        "exampleTr": "Lütfen rezervasyonunuzu onaylayın.",
+        "phonetic": "/kənˈfɜːrm/"
+    },
+    {
+        "id": 82,
+        "word": "conflict",
+        "translation": "çatışma / anlaşmazlık",
+        "example": "There is a conflict between the two groups.",
+        "exampleTr": "İki grup arasında bir çatışma var.",
+        "phonetic": "/ˈkɒnflɪkt/"
+    },
+    {
+        "id": 83,
+        "word": "connect",
+        "translation": "bağlamak / bağlantı kurmak",
+        "example": "Connect the cable to the computer.",
+        "exampleTr": "Kabloyu bilgisayara bağla.",
+        "phonetic": "/kəˈnekt/"
+    },
+    {
+        "id": 84,
+        "word": "consequence",
+        "translation": "sonuç / netice",
+        "example": "Every action has consequences.",
+        "exampleTr": "Her eylemin sonuçları vardır.",
+        "phonetic": "/ˈkɒnsɪkwəns/"
+    },
+    {
+        "id": 85,
+        "word": "consider",
+        "translation": "düşünmek / dikkate almak",
+        "example": "Please consider my suggestion.",
+        "exampleTr": "Lütfen önerimi dikkate alın.",
+        "phonetic": "/kənˈsɪdər/"
+    },
+    {
+        "id": 86,
+        "word": "consist",
+        "translation": "oluşmak",
+        "example": "The team consists of five members.",
+        "exampleTr": "Takım beş üyeden oluşuyor.",
+        "phonetic": "/kənˈsɪst/"
+    },
+    {
+        "id": 87,
+        "word": "constant",
+        "translation": "sürekli / sabit",
+        "example": "He is under constant pressure.",
+        "exampleTr": "Sürekli baskı altında.",
+        "phonetic": "/ˈkɒnstənt/"
+    },
+    {
+        "id": 88,
+        "word": "construct",
+        "translation": "inşa etmek",
+        "example": "They are constructing a new bridge.",
+        "exampleTr": "Yeni bir köprü inşa ediyorlar.",
+        "phonetic": "/kənˈstrʌkt/"
+    },
+    {
+        "id": 89,
+        "word": "consult",
+        "translation": "danışmak",
+        "example": "You should consult a doctor.",
+        "exampleTr": "Bir doktora danışmalısın.",
+        "phonetic": "/kənˈsʌlt/"
+    },
+    {
+        "id": 90,
+        "word": "consumer",
+        "translation": "tüketici",
+        "example": "Consumers want better products.",
+        "exampleTr": "Tüketiciler daha iyi ürünler istiyor.",
+        "phonetic": "/kənˈsjuːmər/"
+    },
+    {
+        "id": 91,
+        "word": "context",
+        "translation": "bağlam",
+        "example": "You need to understand the context.",
+        "exampleTr": "Bağlamı anlamanız gerekiyor.",
+        "phonetic": "/ˈkɒntekst/"
+    },
+    {
+        "id": 92,
+        "word": "contract",
+        "translation": "sözleşme / kontrat",
+        "example": "Sign the contract before starting.",
+        "exampleTr": "Başlamadan önce sözleşmeyi imzala.",
+        "phonetic": "/ˈkɒntrækt/"
+    },
+    {
+        "id": 93,
+        "word": "contribute",
+        "translation": "katkıda bulunmak",
+        "example": "Everyone can contribute to the project.",
+        "exampleTr": "Herkes projeye katkıda bulunabilir.",
+        "phonetic": "/kənˈtrɪbjuːt/"
+    },
+    {
+        "id": 94,
+        "word": "convince",
+        "translation": "ikna etmek",
+        "example": "I tried to convince him to stay.",
+        "exampleTr": "Onu kalması için ikna etmeye çalıştım.",
+        "phonetic": "/kənˈvɪns/"
+    },
+    {
+        "id": 95,
+        "word": "cooperation",
+        "translation": "işbirliği",
+        "example": "International cooperation is essential.",
+        "exampleTr": "Uluslararası işbirliği zorunludur.",
+        "phonetic": "/koʊˌɒpəˈreɪʃn/"
+    },
+    {
+        "id": 96,
+        "word": "cope",
+        "translation": "baş etmek / başa çıkmak",
+        "example": "She learned to cope with stress.",
+        "exampleTr": "Stresle başa çıkmayı öğrendi.",
+        "phonetic": "/koʊp/"
+    },
+    {
+        "id": 97,
+        "word": "corporate",
+        "translation": "kurumsal / şirket",
+        "example": "He works in the corporate sector.",
+        "exampleTr": "Kurumsal sektörde çalışıyor.",
+        "phonetic": "/ˈkɔːrpərət/"
+    },
+    {
+        "id": 98,
+        "word": "correspond",
+        "translation": "karşılık gelmek / yazışmak",
+        "example": "His actions don't correspond to his words.",
+        "exampleTr": "Eylemleri sözlerine uymuyor.",
+        "phonetic": "/ˌkɒrɪˈspɒnd/"
+    },
+    {
+        "id": 99,
+        "word": "crisis",
+        "translation": "kriz",
+        "example": "The country is facing an economic crisis.",
+        "exampleTr": "Ülke ekonomik krizle karşı karşıya.",
+        "phonetic": "/ˈkraɪsɪs/"
+    },
+    {
+        "id": 100,
+        "word": "critical",
+        "translation": "kritik / eleştirel",
+        "example": "This is a critical moment for the company.",
+        "exampleTr": "Bu şirket için kritik bir an.",
+        "phonetic": "/ˈkrɪtɪkl/"
+    },
+    {
+        "id": 101,
+        "word": "criticism",
+        "translation": "eleştiri",
+        "example": "He doesn't accept criticism well.",
+        "exampleTr": "Eleştiriyi iyi kabul etmiyor.",
+        "phonetic": "/ˈkrɪtɪsɪzəm/"
+    },
+    {
+        "id": 102,
+        "word": "crucial",
+        "translation": "çok önemli / hayati",
+        "example": "Education is crucial for development.",
+        "exampleTr": "Eğitim gelişim için çok önemli.",
+        "phonetic": "/ˈkruːʃl/"
+    },
+    {
+        "id": 103,
+        "word": "culture",
+        "translation": "kültür",
+        "example": "Every country has a unique culture.",
+        "exampleTr": "Her ülkenin kendine özgü bir kültürü var.",
+        "phonetic": "/ˈkʌltʃər/"
+    },
+    {
+        "id": 104,
+        "word": "currently",
+        "translation": "şu anda / hâlihazırda",
+        "example": "I am currently working on a new project.",
+        "exampleTr": "Şu anda yeni bir proje üzerinde çalışıyorum.",
+        "phonetic": "/ˈkɜːrəntli/"
+    },
+    {
+        "id": 105,
+        "word": "deadline",
+        "translation": "son tarih / teslim tarihi",
+        "example": "The deadline is next Friday.",
+        "exampleTr": "Son tarih gelecek cuma.",
+        "phonetic": "/ˈdedlaɪn/"
+    },
+    {
+        "id": 106,
+        "word": "debate",
+        "translation": "tartışma / münazara",
+        "example": "There was a long debate about the issue.",
+        "exampleTr": "Konu hakkında uzun bir tartışma oldu.",
+        "phonetic": "/dɪˈbeɪt/"
+    },
+    {
+        "id": 107,
+        "word": "decade",
+        "translation": "on yıl",
+        "example": "He lived abroad for a decade.",
+        "exampleTr": "On yıl yurt dışında yaşadı.",
+        "phonetic": "/ˈdekeɪd/"
+    },
+    {
+        "id": 108,
+        "word": "decline",
+        "translation": "azalmak / reddetmek",
+        "example": "Sales declined by 10% this year.",
+        "exampleTr": "Satışlar bu yıl %10 düştü.",
+        "phonetic": "/dɪˈklaɪn/"
+    },
+    {
+        "id": 109,
+        "word": "define",
+        "translation": "tanımlamak",
+        "example": "Can you define this word?",
+        "exampleTr": "Bu kelimeyi tanımlayabilir misin?",
+        "phonetic": "/dɪˈfaɪn/"
+    },
+    {
+        "id": 110,
+        "word": "degree",
+        "translation": "derece / diploma",
+        "example": "She has a degree in engineering.",
+        "exampleTr": "Mühendislik diploması var.",
+        "phonetic": "/dɪˈɡriː/"
+    },
+    {
+        "id": 111,
+        "word": "demonstrate",
+        "translation": "göstermek / kanıtlamak",
+        "example": "He demonstrated how to use the machine.",
+        "exampleTr": "Makinenin nasıl kullanılacağını gösterdi.",
+        "phonetic": "/ˈdemənstreɪt/"
+    },
+    {
+        "id": 112,
+        "word": "deny",
+        "translation": "inkâr etmek / reddetmek",
+        "example": "He denied all the accusations.",
+        "exampleTr": "Tüm suçlamaları inkâr etti.",
+        "phonetic": "/dɪˈnaɪ/"
+    },
+    {
+        "id": 113,
+        "word": "depression",
+        "translation": "depresyon / bunalım",
+        "example": "Depression is a serious mental health condition.",
+        "exampleTr": "Depresyon ciddi bir ruh sağlığı durumudur.",
+        "phonetic": "/dɪˈpreʃn/"
+    },
+    {
+        "id": 114,
+        "word": "desire",
+        "translation": "arzu / istek",
+        "example": "She has a strong desire to succeed.",
+        "exampleTr": "Başarma konusunda güçlü bir arzusu var.",
+        "phonetic": "/dɪˈzaɪər/"
+    },
+    {
+        "id": 115,
+        "word": "despite",
+        "translation": "rağmen",
+        "example": "Despite the rain, we went out.",
+        "exampleTr": "Yağmura rağmen dışarı çıktık.",
+        "phonetic": "/dɪˈspaɪt/"
+    },
+    {
+        "id": 116,
+        "word": "detail",
+        "translation": "detay / ayrıntı",
+        "example": "Pay attention to details.",
+        "exampleTr": "Detaylara dikkat et.",
+        "phonetic": "/ˈdiːteɪl/"
+    },
+    {
+        "id": 117,
+        "word": "detect",
+        "translation": "tespit etmek / algılamak",
+        "example": "The sensor can detect movement.",
+        "exampleTr": "Sensör hareketi algılayabilir.",
+        "phonetic": "/dɪˈtekt/"
+    },
+    {
+        "id": 118,
+        "word": "determine",
+        "translation": "belirlemek / saptamak",
+        "example": "We need to determine the cause of the problem.",
+        "exampleTr": "Sorunun nedenini belirlememiz gerekiyor.",
+        "phonetic": "/dɪˈtɜːrmɪn/"
+    },
+    {
+        "id": 119,
+        "word": "device",
+        "translation": "cihaz / aygıt",
+        "example": "This device can measure temperature.",
+        "exampleTr": "Bu cihaz sıcaklığı ölçebilir.",
+        "phonetic": "/dɪˈvaɪs/"
+    },
+    {
+        "id": 120,
+        "word": "diet",
+        "translation": "diyet / beslenme",
+        "example": "A balanced diet is important for health.",
+        "exampleTr": "Dengeli beslenme sağlık için önemli.",
+        "phonetic": "/ˈdaɪət/"
+    },
+    {
+        "id": 121,
+        "word": "dimension",
+        "translation": "boyut",
+        "example": "The room has large dimensions.",
+        "exampleTr": "Odanın boyutları büyük.",
+        "phonetic": "/daɪˈmenʃn/"
+    },
+    {
+        "id": 122,
+        "word": "direction",
+        "translation": "yön / talimat",
+        "example": "What direction should we go?",
+        "exampleTr": "Hangi yöne gitmeliyiz?",
+        "phonetic": "/dəˈrekʃn/"
+    },
+    {
+        "id": 123,
+        "word": "disaster",
+        "translation": "felaket",
+        "example": "The earthquake was a major disaster.",
+        "exampleTr": "Deprem büyük bir felaketti.",
+        "phonetic": "/dɪˈzæstər/"
+    },
+    {
+        "id": 124,
+        "word": "discipline",
+        "translation": "disiplin",
+        "example": "Success requires discipline.",
+        "exampleTr": "Başarı disiplin gerektirir.",
+        "phonetic": "/ˈdɪsəplɪn/"
+    },
+    {
+        "id": 125,
+        "word": "display",
+        "translation": "sergilemek / ekran",
+        "example": "The museum displays ancient artifacts.",
+        "exampleTr": "Müze antik eserleri sergiliyor.",
+        "phonetic": "/dɪˈspleɪ/"
+    },
+    {
+        "id": 126,
+        "word": "distribute",
+        "translation": "dağıtmak",
+        "example": "They distribute food to the poor.",
+        "exampleTr": "Yoksullara yiyecek dağıtıyorlar.",
+        "phonetic": "/dɪˈstrɪbjuːt/"
+    },
+    {
+        "id": 127,
+        "word": "document",
+        "translation": "belge / doküman",
+        "example": "Please sign this document.",
+        "exampleTr": "Lütfen bu belgeyi imzalayın.",
+        "phonetic": "/ˈdɒkjumənt/"
+    },
+    {
+        "id": 128,
+        "word": "domestic",
+        "translation": "iç / ev ile ilgili",
+        "example": "Domestic flights are cheaper.",
+        "exampleTr": "İç hat uçuşları daha ucuz.",
+        "phonetic": "/dəˈmestɪk/"
+    },
+    {
+        "id": 129,
+        "word": "dominant",
+        "translation": "baskın / hâkim",
+        "example": "English is the dominant language.",
+        "exampleTr": "İngilizce baskın dildir.",
+        "phonetic": "/ˈdɒmɪnənt/"
+    },
+    {
+        "id": 130,
+        "word": "draft",
+        "translation": "taslak",
+        "example": "This is the first draft of the report.",
+        "exampleTr": "Bu raporun ilk taslağı.",
+        "phonetic": "/dræft/"
+    },
+    {
+        "id": 131,
+        "word": "dramatic",
+        "translation": "dramatik / çarpıcı",
+        "example": "There has been a dramatic change.",
+        "exampleTr": "Çarpıcı bir değişiklik oldu.",
+        "phonetic": "/drəˈmætɪk/"
+    },
+    {
+        "id": 132,
+        "word": "earn",
+        "translation": "kazanmak",
+        "example": "She earns a good salary.",
+        "exampleTr": "İyi bir maaş kazanıyor.",
+        "phonetic": "/ɜːrn/"
+    },
+    {
+        "id": 133,
+        "word": "economy",
+        "translation": "ekonomi",
+        "example": "The economy is growing.",
+        "exampleTr": "Ekonomi büyüyor.",
+        "phonetic": "/ɪˈkɒnəmi/"
+    },
+    {
+        "id": 134,
+        "word": "effective",
+        "translation": "etkili",
+        "example": "This method is very effective.",
+        "exampleTr": "Bu yöntem çok etkili.",
+        "phonetic": "/ɪˈfektɪv/"
+    },
+    {
+        "id": 135,
+        "word": "efficient",
+        "translation": "verimli",
+        "example": "The new system is more efficient.",
+        "exampleTr": "Yeni sistem daha verimli.",
+        "phonetic": "/ɪˈfɪʃnt/"
+    },
+    {
+        "id": 136,
+        "word": "element",
+        "translation": "öğe / unsur",
+        "example": "Trust is an important element of teamwork.",
+        "exampleTr": "Güven, takım çalışmasının önemli bir öğesidir.",
+        "phonetic": "/ˈelɪmənt/"
+    },
+    {
+        "id": 137,
+        "word": "eliminate",
+        "translation": "elemek / ortadan kaldırmak",
+        "example": "We need to eliminate waste.",
+        "exampleTr": "İsrafı ortadan kaldırmamız gerekiyor.",
+        "phonetic": "/ɪˈlɪmɪneɪt/"
+    },
+    {
+        "id": 138,
+        "word": "emerge",
+        "translation": "ortaya çıkmak",
+        "example": "New technologies are emerging.",
+        "exampleTr": "Yeni teknolojiler ortaya çıkıyor.",
+        "phonetic": "/ɪˈmɜːrdʒ/"
+    },
+    {
+        "id": 139,
+        "word": "emotion",
+        "translation": "duygu",
+        "example": "He couldn't control his emotions.",
+        "exampleTr": "Duygularını kontrol edemedi.",
+        "phonetic": "/ɪˈmoʊʃn/"
+    },
+    {
+        "id": 140,
+        "word": "emphasize",
+        "translation": "vurgulamak",
+        "example": "I want to emphasize the importance of safety.",
+        "exampleTr": "Güvenliğin önemini vurgulamak istiyorum.",
+        "phonetic": "/ˈemfəsaɪz/"
+    },
+    {
+        "id": 141,
+        "word": "enable",
+        "translation": "olanak sağlamak",
+        "example": "Technology enables remote work.",
+        "exampleTr": "Teknoloji uzaktan çalışmaya olanak sağlıyor.",
+        "phonetic": "/ɪˈneɪbl/"
+    },
+    {
+        "id": 142,
+        "word": "encounter",
+        "translation": "karşılaşmak",
+        "example": "We encountered many problems.",
+        "exampleTr": "Birçok sorunla karşılaştık.",
+        "phonetic": "/ɪnˈkaʊntər/"
+    },
+    {
+        "id": 143,
+        "word": "encourage",
+        "translation": "teşvik etmek / cesaretlendirmek",
+        "example": "Teachers should encourage students.",
+        "exampleTr": "Öğretmenler öğrencileri teşvik etmeli.",
+        "phonetic": "/ɪnˈkɜːrɪdʒ/"
+    },
+    {
+        "id": 144,
+        "word": "engage",
+        "translation": "meşgul etmek / nişanlanmak",
+        "example": "The game engages children for hours.",
+        "exampleTr": "Oyun çocukları saatlerce meşgul ediyor.",
+        "phonetic": "/ɪnˈɡeɪdʒ/"
+    },
+    {
+        "id": 145,
+        "word": "enormous",
+        "translation": "devasa / muazzam",
+        "example": "They made an enormous profit.",
+        "exampleTr": "Muazzam bir kâr elde ettiler.",
+        "phonetic": "/ɪˈnɔːrməs/"
+    },
+    {
+        "id": 146,
+        "word": "ensure",
+        "translation": "sağlamak / emin olmak",
+        "example": "We must ensure safety at all times.",
+        "exampleTr": "Her zaman güvenliği sağlamalıyız.",
+        "phonetic": "/ɪnˈʃʊr/"
+    },
+    {
+        "id": 147,
+        "word": "entire",
+        "translation": "bütün / tüm",
+        "example": "I read the entire book in one day.",
+        "exampleTr": "Kitabın tamamını bir günde okudum.",
+        "phonetic": "/ɪnˈtaɪər/"
+    },
+    {
+        "id": 148,
+        "word": "entry",
+        "translation": "giriş / kayıt",
+        "example": "No entry without a ticket.",
+        "exampleTr": "Biletsiz giriş yasaktır.",
+        "phonetic": "/ˈentri/"
+    },
+    {
+        "id": 149,
+        "word": "equal",
+        "translation": "eşit",
+        "example": "All people are equal.",
+        "exampleTr": "Tüm insanlar eşittir.",
+        "phonetic": "/ˈiːkwəl/"
+    },
+    {
+        "id": 150,
+        "word": "equipment",
+        "translation": "ekipman / donanım",
+        "example": "We need new equipment for the lab.",
+        "exampleTr": "Laboratuvar için yeni ekipmana ihtiyacımız var.",
+        "phonetic": "/ɪˈkwɪpmənt/"
+    },
+    {
+        "id": 151,
+        "word": "essential",
+        "translation": "temel / gerekli",
+        "example": "Water is essential for life.",
+        "exampleTr": "Su yaşam için temeldir.",
+        "phonetic": "/ɪˈsenʃl/"
+    },
+    {
+        "id": 152,
+        "word": "establish",
+        "translation": "kurmak / tesis etmek",
+        "example": "The company was established in 1990.",
+        "exampleTr": "Şirket 1990'da kuruldu.",
+        "phonetic": "/ɪˈstæblɪʃ/"
+    },
+    {
+        "id": 153,
+        "word": "estimate",
+        "translation": "tahmin etmek",
+        "example": "I estimate the cost at $1000.",
+        "exampleTr": "Maliyeti 1000 dolar olarak tahmin ediyorum.",
+        "phonetic": "/ˈestɪmeɪt/"
+    },
+    {
+        "id": 154,
+        "word": "evaluate",
+        "translation": "değerlendirmek",
+        "example": "We need to evaluate the results.",
+        "exampleTr": "Sonuçları değerlendirmemiz gerekiyor.",
+        "phonetic": "/ɪˈvæljueɪt/"
+    },
+    {
+        "id": 155,
+        "word": "eventually",
+        "translation": "sonunda / eninde sonunda",
+        "example": "He will eventually succeed.",
+        "exampleTr": "Eninde sonunda başaracak.",
+        "phonetic": "/ɪˈventʃuəli/"
+    },
+    {
+        "id": 156,
+        "word": "evidence",
+        "translation": "kanıt / delil",
+        "example": "There is no evidence of the crime.",
+        "exampleTr": "Suçun kanıtı yok.",
+        "phonetic": "/ˈevɪdəns/"
+    },
+    {
+        "id": 157,
+        "word": "evolution",
+        "translation": "evrim / gelişim",
+        "example": "The evolution of technology is rapid.",
+        "exampleTr": "Teknolojinin evrimi hızlı.",
+        "phonetic": "/ˌiːvəˈluːʃn/"
+    },
+    {
+        "id": 158,
+        "word": "examine",
+        "translation": "incelemek / muayene etmek",
+        "example": "The doctor examined the patient.",
+        "exampleTr": "Doktor hastayı muayene etti.",
+        "phonetic": "/ɪɡˈzæmɪn/"
+    },
+    {
+        "id": 159,
+        "word": "exceed",
+        "translation": "aşmak / geçmek",
+        "example": "Don't exceed the speed limit.",
+        "exampleTr": "Hız limitini aşma.",
+        "phonetic": "/ɪkˈsiːd/"
+    },
+    {
+        "id": 160,
+        "word": "exception",
+        "translation": "istisna",
+        "example": "There are no exceptions to this rule.",
+        "exampleTr": "Bu kuralın istisnası yok.",
+        "phonetic": "/ɪkˈsepʃn/"
+    },
+    {
+        "id": 161,
+        "word": "exchange",
+        "translation": "değiştirmek / takas",
+        "example": "Can I exchange this shirt?",
+        "exampleTr": "Bu gömleği değiştirebilir miyim?",
+        "phonetic": "/ɪksˈtʃeɪndʒ/"
+    },
+    {
+        "id": 162,
+        "word": "exclude",
+        "translation": "hariç tutmak",
+        "example": "The price excludes tax.",
+        "exampleTr": "Fiyata vergi dahil değil.",
+        "phonetic": "/ɪkˈskluːd/"
+    },
+    {
+        "id": 163,
+        "word": "execute",
+        "translation": "uygulamak / yürütmek",
+        "example": "We need to execute the plan.",
+        "exampleTr": "Planı uygulamamız gerekiyor.",
+        "phonetic": "/ˈeksɪkjuːt/"
+    },
+    {
+        "id": 164,
+        "word": "exhibit",
+        "translation": "sergilemek / sergi",
+        "example": "The gallery exhibits modern art.",
+        "exampleTr": "Galeri modern sanat sergiliyor.",
+        "phonetic": "/ɪɡˈzɪbɪt/"
+    },
+    {
+        "id": 165,
+        "word": "expand",
+        "translation": "genişletmek / büyütmek",
+        "example": "The company plans to expand internationally.",
+        "exampleTr": "Şirket uluslararası genişlemeyi planlıyor.",
+        "phonetic": "/ɪkˈspænd/"
+    },
+    {
+        "id": 166,
+        "word": "expense",
+        "translation": "masraf / harcama",
+        "example": "Travel expenses are high.",
+        "exampleTr": "Seyahat masrafları yüksek.",
+        "phonetic": "/ɪkˈspens/"
+    },
+    {
+        "id": 167,
+        "word": "experiment",
+        "translation": "deney",
+        "example": "The experiment was successful.",
+        "exampleTr": "Deney başarılı oldu.",
+        "phonetic": "/ɪkˈsperɪmənt/"
+    },
+    {
+        "id": 168,
+        "word": "export",
+        "translation": "ihracat / ihraç etmek",
+        "example": "Turkey exports many agricultural products.",
+        "exampleTr": "Türkiye birçok tarım ürünü ihraç ediyor.",
+        "phonetic": "/ˈekspɔːrt/"
+    },
+    {
+        "id": 169,
+        "word": "expose",
+        "translation": "ortaya çıkarmak / maruz bırakmak",
+        "example": "The reporter exposed the scandal.",
+        "exampleTr": "Muhabir skandalı ortaya çıkardı.",
+        "phonetic": "/ɪkˈspoʊz/"
+    },
+    {
+        "id": 170,
+        "word": "extend",
+        "translation": "uzatmak / genişletmek",
+        "example": "Can we extend the deadline?",
+        "exampleTr": "Son tarihi uzatabilir miyiz?",
+        "phonetic": "/ɪkˈstend/"
+    },
+    {
+        "id": 171,
+        "word": "extent",
+        "translation": "kapsam / derece",
+        "example": "To what extent do you agree?",
+        "exampleTr": "Ne ölçüde katılıyorsunuz?",
+        "phonetic": "/ɪkˈstent/"
+    },
+    {
+        "id": 172,
+        "word": "external",
+        "translation": "dış / harici",
+        "example": "External factors affect business.",
+        "exampleTr": "Dış faktörler işi etkiler.",
+        "phonetic": "/ɪkˈstɜːrnl/"
+    },
+    {
+        "id": 173,
+        "word": "extreme",
+        "translation": "aşırı / uç",
+        "example": "Extreme weather is becoming more common.",
+        "exampleTr": "Aşırı hava olayları daha yaygın hale geliyor.",
+        "phonetic": "/ɪkˈstriːm/"
+    },
+    {
+        "id": 174,
+        "word": "facility",
+        "translation": "tesis / kolaylık",
+        "example": "The company has modern facilities.",
+        "exampleTr": "Şirketin modern tesisleri var.",
+        "phonetic": "/fəˈsɪləti/"
+    },
+    {
+        "id": 175,
+        "word": "factor",
+        "translation": "faktör / etken",
+        "example": "Cost is an important factor.",
+        "exampleTr": "Maliyet önemli bir faktördür.",
+        "phonetic": "/ˈfæktər/"
+    },
+    {
+        "id": 176,
+        "word": "familiar",
+        "translation": "aşina / tanıdık",
+        "example": "This place looks familiar.",
+        "exampleTr": "Bu yer tanıdık görünüyor.",
+        "phonetic": "/fəˈmɪliər/"
+    },
+    {
+        "id": 177,
+        "word": "feature",
+        "translation": "özellik",
+        "example": "This phone has many new features.",
+        "exampleTr": "Bu telefonun birçok yeni özelliği var.",
+        "phonetic": "/ˈfiːtʃər/"
+    },
+    {
+        "id": 178,
+        "word": "flexible",
+        "translation": "esnek",
+        "example": "We need a flexible schedule.",
+        "exampleTr": "Esnek bir programa ihtiyacımız var.",
+        "phonetic": "/ˈfleksəbl/"
+    },
+    {
+        "id": 179,
+        "word": "focus",
+        "translation": "odaklanmak / odak",
+        "example": "Focus on what is important.",
+        "exampleTr": "Önemli olana odaklan.",
+        "phonetic": "/ˈfoʊkəs/"
+    },
+    {
+        "id": 180,
+        "word": "forecast",
+        "translation": "tahmin / öngörü",
+        "example": "The weather forecast says rain.",
+        "exampleTr": "Hava tahmini yağmur diyor.",
+        "phonetic": "/ˈfɔːrkæst/"
+    },
+    {
+        "id": 181,
+        "word": "formal",
+        "translation": "resmi",
+        "example": "This is a formal event.",
+        "exampleTr": "Bu resmi bir etkinlik.",
+        "phonetic": "/ˈfɔːrml/"
+    },
+    {
+        "id": 182,
+        "word": "former",
+        "translation": "eski / önceki",
+        "example": "The former president visited the school.",
+        "exampleTr": "Eski cumhurbaşkanı okulu ziyaret etti.",
+        "phonetic": "/ˈfɔːrmər/"
+    },
+    {
+        "id": 183,
+        "word": "foundation",
+        "translation": "temel / vakıf",
+        "example": "Education is the foundation of success.",
+        "exampleTr": "Eğitim başarının temelidir.",
+        "phonetic": "/faʊnˈdeɪʃn/"
+    },
+    {
+        "id": 184,
+        "word": "framework",
+        "translation": "çerçeve / iskelet",
+        "example": "We need a clear framework.",
+        "exampleTr": "Net bir çerçeveye ihtiyacımız var.",
+        "phonetic": "/ˈfreɪmwɜːrk/"
+    },
+    {
+        "id": 185,
+        "word": "frequent",
+        "translation": "sık / sık sık",
+        "example": "Frequent exercise is good for health.",
+        "exampleTr": "Sık egzersiz sağlık için iyidir.",
+        "phonetic": "/ˈfriːkwənt/"
+    },
+    {
+        "id": 186,
+        "word": "function",
+        "translation": "işlev / fonksiyon",
+        "example": "What is the function of this button?",
+        "exampleTr": "Bu düğmenin işlevi ne?",
+        "phonetic": "/ˈfʌŋkʃn/"
+    },
+    {
+        "id": 187,
+        "word": "fund",
+        "translation": "fon / finanse etmek",
+        "example": "The government funded the research.",
+        "exampleTr": "Hükümet araştırmayı finanse etti.",
+        "phonetic": "/fʌnd/"
+    },
+    {
+        "id": 188,
+        "word": "fundamental",
+        "translation": "temel / esaslı",
+        "example": "This is a fundamental right.",
+        "exampleTr": "Bu temel bir haktır.",
+        "phonetic": "/ˌfʌndəˈmentl/"
+    },
+    {
+        "id": 189,
+        "word": "generate",
+        "translation": "üretmek / oluşturmak",
+        "example": "Solar panels generate electricity.",
+        "exampleTr": "Güneş panelleri elektrik üretir.",
+        "phonetic": "/ˈdʒenəreɪt/"
+    },
+    {
+        "id": 190,
+        "word": "genuine",
+        "translation": "gerçek / samimi",
+        "example": "She showed genuine interest.",
+        "exampleTr": "Gerçek bir ilgi gösterdi.",
+        "phonetic": "/ˈdʒenjuɪn/"
+    },
+    {
+        "id": 191,
+        "word": "global",
+        "translation": "küresel",
+        "example": "Climate change is a global problem.",
+        "exampleTr": "İklim değişikliği küresel bir sorundur.",
+        "phonetic": "/ˈɡloʊbl/"
+    },
+    {
+        "id": 192,
+        "word": "guarantee",
+        "translation": "garanti / güvence",
+        "example": "The product comes with a guarantee.",
+        "exampleTr": "Ürün garantili geliyor.",
+        "phonetic": "/ˌɡærənˈtiː/"
+    },
+    {
+        "id": 193,
+        "word": "guidance",
+        "translation": "rehberlik / yönlendirme",
+        "example": "Students need guidance from teachers.",
+        "exampleTr": "Öğrenciler öğretmenlerden rehberliğe ihtiyaç duyar.",
+        "phonetic": "/ˈɡaɪdns/"
+    },
+    {
+        "id": 194,
+        "word": "identify",
+        "translation": "tanımlamak / belirlemek",
+        "example": "Can you identify the problem?",
+        "exampleTr": "Sorunu belirleyebilir misin?",
+        "phonetic": "/aɪˈdentɪfaɪ/"
+    },
+    {
+        "id": 195,
+        "word": "ignore",
+        "translation": "görmezden gelmek",
+        "example": "Don't ignore the warning signs.",
+        "exampleTr": "Uyarı işaretlerini görmezden gelme.",
+        "phonetic": "/ɪɡˈnɔːr/"
+    },
+    {
+        "id": 196,
+        "word": "illustrate",
+        "translation": "açıklamak / resimlemek",
+        "example": "This example illustrates the problem.",
+        "exampleTr": "Bu örnek sorunu açıklıyor.",
+        "phonetic": "/ˈɪləstreɪt/"
+    },
+    {
+        "id": 197,
+        "word": "impact",
+        "translation": "etki / darbe",
+        "example": "Technology has a big impact on our lives.",
+        "exampleTr": "Teknolojinin hayatımıza büyük etkisi var.",
+        "phonetic": "/ˈɪmpækt/"
+    },
+    {
+        "id": 198,
+        "word": "implement",
+        "translation": "uygulamak",
+        "example": "We need to implement the new policy.",
+        "exampleTr": "Yeni politikayı uygulamamız gerekiyor.",
+        "phonetic": "/ˈɪmplɪment/"
+    },
+    {
+        "id": 199,
+        "word": "imply",
+        "translation": "ima etmek",
+        "example": "What are you implying?",
+        "exampleTr": "Ne ima ediyorsun?",
+        "phonetic": "/ɪmˈplaɪ/"
+    },
+    {
+        "id": 200,
+        "word": "impose",
+        "translation": "dayatmak / yüklemek",
+        "example": "The government imposed new taxes.",
+        "exampleTr": "Hükümet yeni vergiler dayattı.",
+        "phonetic": "/ɪmˈpoʊz/"
+    }
+]

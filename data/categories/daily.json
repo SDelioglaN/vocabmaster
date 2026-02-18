@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1,
+        "word": "absolutely",
+        "translation": "kesinlikle",
+        "example": "Absolutely!",
+        "exampleTr": "Kesinlikle!",
+        "phonetic": "/ˈæbsəluːtli/"
+    },
+    {
+        "id": 2,
+        "word": "actually",
+        "translation": "aslında",
+        "example": "Actually, I disagree.",
+        "exampleTr": "Aslında, katılmıyorum.",
+        "phonetic": "/ˈæktʃuəli/"
+    },
+    {
+        "id": 3,
+        "word": "afford",
+        "translation": "karşılayabilmek",
+        "example": "I can't afford it.",
+        "exampleTr": "Bunu karşılayamam.",
+        "phonetic": "/əˈfɔːrd/"
+    },
+    {
+        "id": 4,
+        "word": "annoying",
+        "translation": "sinir bozucu",
+        "example": "That's so annoying!",
+        "exampleTr": "Çok sinir bozucu!",
+        "phonetic": "/əˈnɔɪɪŋ/"
+    },
+    {
+        "id": 5,
+        "word": "appointment",
+        "translation": "randevu",
+        "example": "I have an appointment.",
+        "exampleTr": "Randevum var.",
+        "phonetic": "/əˈpɔɪntmənt/"
+    },
+    {
+        "id": 6,
+        "word": "awesome",
+        "translation": "harika / müthiş",
+        "example": "That was awesome!",
+        "exampleTr": "Harikaydı!",
+        "phonetic": "/ˈɔːsəm/"
+    },
+    {
+        "id": 7,
+        "word": "bother",
+        "translation": "rahatsız etmek",
+        "example": "Don't bother me.",
+        "exampleTr": "Beni rahatsız etme.",
+        "phonetic": "/ˈbɒðər/"
+    },
+    {
+        "id": 8,
+        "word": "break",
+        "translation": "mola / ara",
+        "example": "Let's take a break.",
+        "exampleTr": "Bir mola verelim.",
+        "phonetic": "/breɪk/"
+    },
+    {
+        "id": 9,
+        "word": "bunch",
+        "translation": "bir sürü / demet",
+        "example": "A bunch of people came.",
+        "exampleTr": "Bir sürü insan geldi.",
+        "phonetic": "/bʌntʃ/"
+    },
+    {
+        "id": 10,
+        "word": "cancel",
+        "translation": "iptal etmek",
+        "example": "Cancel the order.",
+        "exampleTr": "Siparişi iptal et.",
+        "phonetic": "/ˈkænsl/"
+    },
+    {
+        "id": 11,
+        "word": "capable",
+        "translation": "yetenekli",
+        "example": "She's very capable.",
+        "exampleTr": "Çok yetenekli.",
+        "phonetic": "/ˈkeɪpəbl/"
+    },
+    {
+        "id": 12,
+        "word": "charge",
+        "translation": "şarj / ücret",
+        "example": "Charge your phone.",
+        "exampleTr": "Telefonunu şarj et.",
+        "phonetic": "/tʃɑːrdʒ/"
+    },
+    {
+        "id": 13,
+        "word": "check out",
+        "translation": "göz atmak",
+        "example": "Check this out!",
+        "exampleTr": "Şuna bak!",
+        "phonetic": "/tʃek aʊt/"
+    },
+    {
+        "id": 14,
+        "word": "chore",
+        "translation": "ev işi",
+        "example": "Do the household chores.",
+        "exampleTr": "Ev işlerini yap.",
+        "phonetic": "/tʃɔːr/"
+    },
+    {
+        "id": 15,
+        "word": "commute",
+        "translation": "işe gidip gelme",
+        "example": "My commute takes an hour.",
+        "exampleTr": "İşe gidiş-gelişim bir saat sürüyor.",
+        "phonetic": "/kəˈmjuːt/"
+    },
+    {
+        "id": 16,
+        "word": "complain",
+        "translation": "şikayet etmek",
+        "example": "Don't complain all the time.",
+        "exampleTr": "Sürekli şikayet etme.",
+        "phonetic": "/kəmˈpleɪn/"
+    },
+    {
+        "id": 17,
+        "word": "convince",
+        "translation": "ikna etmek",
+        "example": "She convinced me.",
+        "exampleTr": "Beni ikna etti.",
+        "phonetic": "/kənˈvɪns/"
+    },
+    {
+        "id": 18,
+        "word": "deal",
+        "translation": "anlaşma / fırsat",
+        "example": "It's a great deal!",
+        "exampleTr": "Harika bir fırsat!",
+        "phonetic": "/diːl/"
+    },
+    {
+        "id": 19,
+        "word": "decline",
+        "translation": "reddetmek",
+        "example": "He declined the offer.",
+        "exampleTr": "Teklifi reddetti.",
+        "phonetic": "/dɪˈklaɪn/"
+    },
+    {
+        "id": 20,
+        "word": "deliver",
+        "translation": "teslim etmek",
+        "example": "Deliver the package.",
+        "exampleTr": "Paketi teslim et.",
+        "phonetic": "/dɪˈlɪvər/"
+    },
+    {
+        "id": 21,
+        "word": "depend",
+        "translation": "bağlı olmak",
+        "example": "It depends on the weather.",
+        "exampleTr": "Havaya bağlı.",
+        "phonetic": "/dɪˈpend/"
+    },
+    {
+        "id": 22,
+        "word": "deserve",
+        "translation": "hak etmek",
+        "example": "You deserve a rest.",
+        "exampleTr": "Dinlenmeyi hak ediyorsun.",
+        "phonetic": "/dɪˈzɜːrv/"
+    },
+    {
+        "id": 23,
+        "word": "disappointed",
+        "translation": "hayal kırıklığına uğramış",
+        "example": "I'm disappointed.",
+        "exampleTr": "Hayal kırıklığına uğradım.",
+        "phonetic": "/ˌdɪsəˈpɔɪntɪd/"
+    },
+    {
+        "id": 24,
+        "word": "embarrassed",
+        "translation": "utanmış",
+        "example": "I was so embarrassed.",
+        "exampleTr": "Çok utandım.",
+        "phonetic": "/ɪmˈbærəst/"
+    },
+    {
+        "id": 25,
+        "word": "exhausted",
+        "translation": "bitkin / tükenmiş",
+        "example": "I'm exhausted.",
+        "exampleTr": "Bitkinim.",
+        "phonetic": "/ɪɡˈzɔːstɪd/"
+    },
+    {
+        "id": 26,
+        "word": "expect",
+        "translation": "beklemek / ummak",
+        "example": "I didn't expect that.",
+        "exampleTr": "Bunu beklemiyordum.",
+        "phonetic": "/ɪkˈspekt/"
+    },
+    {
+        "id": 27,
+        "word": "figure out",
+        "translation": "çözmek / anlamak",
+        "example": "I'll figure it out.",
+        "exampleTr": "Çözeceğim.",
+        "phonetic": "/ˈfɪɡər aʊt/"
+    },
+    {
+        "id": 28,
+        "word": "frustrated",
+        "translation": "hayal kırıklığına uğramış",
+        "example": "I feel frustrated.",
+        "exampleTr": "Sinirli hissediyorum.",
+        "phonetic": "/ˈfrʌstreɪtɪd/"
+    },
+    {
+        "id": 29,
+        "word": "genuine",
+        "translation": "gerçek / samimi",
+        "example": "A genuine smile.",
+        "exampleTr": "Samimi bir gülümseme.",
+        "phonetic": "/ˈdʒenjuɪn/"
+    },
+    {
+        "id": 30,
+        "word": "get rid of",
+        "translation": "kurtulmak",
+        "example": "Get rid of old stuff.",
+        "exampleTr": "Eski eşyalardan kurtul.",
+        "phonetic": "/ɡet rɪd ɒv/"
+    },
+    {
+        "id": 31,
+        "word": "gossip",
+        "translation": "dedikodu",
+        "example": "Stop gossiping!",
+        "exampleTr": "Dedikodu yapmayı bırak!",
+        "phonetic": "/ˈɡɒsɪp/"
+    },
+    {
+        "id": 32,
+        "word": "grab",
+        "translation": "kapmak / almak",
+        "example": "Grab a coffee.",
+        "exampleTr": "Bir kahve al.",
+        "phonetic": "/ɡræb/"
+    },
+    {
+        "id": 33,
+        "word": "grateful",
+        "translation": "minnettar",
+        "example": "I'm grateful for your help.",
+        "exampleTr": "Yardımın için minnettarım.",
+        "phonetic": "/ˈɡreɪtfl/"
+    },
+    {
+        "id": 34,
+        "word": "hang out",
+        "translation": "takılmak",
+        "example": "Let's hang out.",
+        "exampleTr": "Takılalım.",
+        "phonetic": "/hæŋ aʊt/"
+    },
+    {
+        "id": 35,
+        "word": "hardly",
+        "translation": "neredeyse hiç",
+        "example": "I can hardly hear you.",
+        "exampleTr": "Seni neredeyse hiç duyamıyorum.",
+        "phonetic": "/ˈhɑːrdli/"
+    },
+    {
+        "id": 36,
+        "word": "hesitate",
+        "translation": "tereddüt etmek",
+        "example": "Don't hesitate to ask.",
+        "exampleTr": "Sormaktan çekinme.",
+        "phonetic": "/ˈhezɪteɪt/"
+    },
+    {
+        "id": 37,
+        "word": "hilarious",
+        "translation": "çok komik",
+        "example": "That was hilarious!",
+        "exampleTr": "Çok komikti!",
+        "phonetic": "/hɪˈleriəs/"
+    },
+    {
+        "id": 38,
+        "word": "ignore",
+        "translation": "görmezden gelmek",
+        "example": "Don't ignore my messages.",
+        "exampleTr": "Mesajlarımı görmezden gelme.",
+        "phonetic": "/ɪɡˈnɔːr/"
+    },
+    {
+        "id": 39,
+        "word": "inconvenient",
+        "translation": "uygunsuz / zahmetli",
+        "example": "It's inconvenient right now.",
+        "exampleTr": "Şu an uygun değil.",
+        "phonetic": "/ˌɪnkənˈviːniənt/"
+    },
+    {
+        "id": 40,
+        "word": "insist",
+        "translation": "ısrar etmek",
+        "example": "I insist on paying.",
+        "exampleTr": "Ödemeye ısrar ediyorum.",
+        "phonetic": "/ɪnˈsɪst/"
+    },
+    {
+        "id": 41,
+        "word": "interrupt",
+        "translation": "kesmek / araya girmek",
+        "example": "Don't interrupt me.",
+        "exampleTr": "Sözümü kesme.",
+        "phonetic": "/ˌɪntəˈrʌpt/"
+    },
+    {
+        "id": 42,
+        "word": "involve",
+        "translation": "dahil etmek",
+        "example": "It involves a lot of work.",
+        "exampleTr": "Çok fazla iş gerektiriyor.",
+        "phonetic": "/ɪnˈvɒlv/"
+    },
+    {
+        "id": 43,
+        "word": "keep up",
+        "translation": "ayak uydurmak",
+        "example": "Keep up the good work!",
+        "exampleTr": "İyi işe devam et!",
+        "phonetic": "/kiːp ʌp/"
+    },
+    {
+        "id": 44,
+        "word": "literally",
+        "translation": "kelimenin tam anlamıyla",
+        "example": "I literally can't believe it.",
+        "exampleTr": "Gerçekten inanamıyorum.",
+        "phonetic": "/ˈlɪtərəli/"
+    },
+    {
+        "id": 45,
+        "word": "look forward to",
+        "translation": "dört gözle beklemek",
+        "example": "I look forward to seeing you.",
+        "exampleTr": "Seni görmeyi dört gözle bekliyorum.",
+        "phonetic": "/lʊk ˈfɔːrwərd tuː/"
+    },
+    {
+        "id": 46,
+        "word": "meanwhile",
+        "translation": "bu arada",
+        "example": "Meanwhile, I'll wait here.",
+        "exampleTr": "Bu arada, burada bekleyeceğim.",
+        "phonetic": "/ˈmiːnwaɪl/"
+    },
+    {
+        "id": 47,
+        "word": "mention",
+        "translation": "söz etmek / bahsetmek",
+        "example": "Don't mention it.",
+        "exampleTr": "Bir şey değil.",
+        "phonetic": "/ˈmenʃn/"
+    },
+    {
+        "id": 48,
+        "word": "mind",
+        "translation": "aldırmak / önemsemek",
+        "example": "Do you mind if I sit here?",
+        "exampleTr": "Buraya otursam sakıncası var mı?",
+        "phonetic": "/maɪnd/"
+    },
+    {
+        "id": 49,
+        "word": "mood",
+        "translation": "ruh hali",
+        "example": "I'm not in the mood.",
+        "exampleTr": "Havamda değilim.",
+        "phonetic": "/muːd/"
+    },
+    {
+        "id": 50,
+        "word": "nap",
+        "translation": "kestirmek / şekerleme",
+        "example": "I need a nap.",
+        "exampleTr": "Kestirmeye ihtiyacım var.",
+        "phonetic": "/næp/"
+    },
+    {
+        "id": 51,
+        "word": "nervous",
+        "translation": "gergin / sinirli",
+        "example": "I'm a bit nervous.",
+        "exampleTr": "Biraz gerginim.",
+        "phonetic": "/ˈnɜːrvəs/"
+    },
+    {
+        "id": 52,
+        "word": "nonsense",
+        "translation": "saçmalık",
+        "example": "That's nonsense!",
+        "exampleTr": "Bu saçmalık!",
+        "phonetic": "/ˈnɒnsns/"
+    },
+    {
+        "id": 53,
+        "word": "obviously",
+        "translation": "açıkça / belli ki",
+        "example": "Obviously, he's wrong.",
+        "exampleTr": "Açıkça, yanılıyor.",
+        "phonetic": "/ˈɒbviəsli/"
+    },
+    {
+        "id": 54,
+        "word": "occur",
+        "translation": "olmak / meydana gelmek",
+        "example": "It occurred to me.",
+        "exampleTr": "Aklıma geldi.",
+        "phonetic": "/əˈkɜːr/"
+    },
+    {
+        "id": 55,
+        "word": "on purpose",
+        "translation": "bilerek / kasten",
+        "example": "He did it on purpose.",
+        "exampleTr": "Bilerek yaptı.",
+        "phonetic": "/ɒn ˈpɜːrpəs/"
+    },
+    {
+        "id": 56,
+        "word": "ordinary",
+        "translation": "sıradan / normal",
+        "example": "Just an ordinary day.",
+        "exampleTr": "Sıradan bir gün.",
+        "phonetic": "/ˈɔːrdɪneri/"
+    },
+    {
+        "id": 57,
+        "word": "owe",
+        "translation": "borçlu olmak",
+        "example": "You owe me money.",
+        "exampleTr": "Bana para borçlusun.",
+        "phonetic": "/oʊ/"
+    },
+    {
+        "id": 58,
+        "word": "pack",
+        "translation": "paketlemek / bavul toplamak",
+        "example": "Pack your bags.",
+        "exampleTr": "Bavullarını topla.",
+        "phonetic": "/pæk/"
+    },
+    {
+        "id": 59,
+        "word": "postpone",
+        "translation": "ertelemek",
+        "example": "Postpone the meeting.",
+        "exampleTr": "Toplantıyı ertele.",
+        "phonetic": "/poʊstˈpoʊn/"
+    },
+    {
+        "id": 60,
+        "word": "pretend",
+        "translation": "numarasını yapmak",
+        "example": "Don't pretend you don't know.",
+        "exampleTr": "Bilmiyormuş gibi yapma.",
+        "phonetic": "/prɪˈtend/"
+    },
+    {
+        "id": 61,
+        "word": "priority",
+        "translation": "öncelik",
+        "example": "Safety is a priority.",
+        "exampleTr": "Güvenlik bir öncelik.",
+        "phonetic": "/praɪˈɒrəti/"
+    },
+    {
+        "id": 62,
+        "word": "quite",
+        "translation": "oldukça / epey",
+        "example": "It's quite good.",
+        "exampleTr": "Oldukça iyi.",
+        "phonetic": "/kwaɪt/"
+    },
+    {
+        "id": 63,
+        "word": "realize",
+        "translation": "farkına varmak",
+        "example": "I just realized something.",
+        "exampleTr": "Bir şeyin farkına vardım.",
+        "phonetic": "/ˈriːəlaɪz/"
+    },
+    {
+        "id": 64,
+        "word": "recommend",
+        "translation": "önermek / tavsiye etmek",
+        "example": "I recommend this restaurant.",
+        "exampleTr": "Bu restoranı tavsiye ederim.",
+        "phonetic": "/ˌrekəˈmend/"
+    },
+    {
+        "id": 65,
+        "word": "regret",
+        "translation": "pişman olmak",
+        "example": "I regret saying that.",
+        "exampleTr": "Bunu söylediğime pişmanım.",
+        "phonetic": "/rɪˈɡret/"
+    },
+    {
+        "id": 66,
+        "word": "reliable",
+        "translation": "güvenilir",
+        "example": "He's very reliable.",
+        "exampleTr": "Çok güvenilir.",
+        "phonetic": "/rɪˈlaɪəbl/"
+    },
+    {
+        "id": 67,
+        "word": "remind",
+        "translation": "hatırlatmak",
+        "example": "Remind me later.",
+        "exampleTr": "Sonra hatırlat.",
+        "phonetic": "/rɪˈmaɪnd/"
+    },
+    {
+        "id": 68,
+        "word": "ridiculous",
+        "translation": "saçma / gülünç",
+        "example": "That's ridiculous!",
+        "exampleTr": "Bu saçma!",
+        "phonetic": "/rɪˈdɪkjələs/"
+    },
+    {
+        "id": 69,
+        "word": "rush",
+        "translation": "acele etmek",
+        "example": "Don't rush me.",
+        "exampleTr": "Beni acele ettirme.",
+        "phonetic": "/rʌʃ/"
+    },
+    {
+        "id": 70,
+        "word": "saturated",
+        "translation": "doymuş / sırılsıklam",
+        "example": "I'm completely saturated.",
+        "exampleTr": "Tamamen sırılsıklamım.",
+        "phonetic": "/ˈsætʃəreɪtɪd/"
+    },
+    {
+        "id": 71,
+        "word": "schedule",
+        "translation": "program / zamanlama",
+        "example": "Check my schedule.",
+        "exampleTr": "Programıma bak.",
+        "phonetic": "/ˈʃedjuːl/"
+    },
+    {
+        "id": 72,
+        "word": "suppose",
+        "translation": "sanmak / varsaymak",
+        "example": "I suppose so.",
+        "exampleTr": "Sanırım öyle.",
+        "phonetic": "/səˈpoʊz/"
+    },
+    {
+        "id": 73,
+        "word": "swear",
+        "translation": "yemin etmek / küfretmek",
+        "example": "I swear I didn't do it.",
+        "exampleTr": "Yemin ederim yapmadım.",
+        "phonetic": "/swer/"
+    },
+    {
+        "id": 74,
+        "word": "terrific",
+        "translation": "harika / müthiş",
+        "example": "You did a terrific job!",
+        "exampleTr": "Harika bir iş çıkardın!",
+        "phonetic": "/təˈrɪfɪk/"
+    },
+    {
+        "id": 75,
+        "word": "tip",
+        "translation": "bahşiş / ipucu",
+        "example": "Leave a tip.",
+        "exampleTr": "Bahşiş bırak.",
+        "phonetic": "/tɪp/"
+    },
+    {
+        "id": 76,
+        "word": "turn out",
+        "translation": "sonuçlanmak",
+        "example": "It turned out well.",
+        "exampleTr": "İyi sonuçlandı.",
+        "phonetic": "/tɜːrn aʊt/"
+    },
+    {
+        "id": 77,
+        "word": "unfortunately",
+        "translation": "maalesef",
+        "example": "Unfortunately, I can't come.",
+        "exampleTr": "Maalesef, gelemem.",
+        "phonetic": "/ʌnˈfɔːrtʃənətli/"
+    },
+    {
+        "id": 78,
+        "word": "upset",
+        "translation": "üzgün / kızgın",
+        "example": "Don't be upset.",
+        "exampleTr": "Üzülme.",
+        "phonetic": "/ʌpˈset/"
+    },
+    {
+        "id": 79,
+        "word": "used to",
+        "translation": "alışkın / eskiden",
+        "example": "I'm used to it.",
+        "exampleTr": "Buna alışkınım.",
+        "phonetic": "/juːst tuː/"
+    },
+    {
+        "id": 80,
+        "word": "vague",
+        "translation": "belirsiz",
+        "example": "His answer was vague.",
+        "exampleTr": "Cevabı belirsizdi.",
+        "phonetic": "/veɪɡ/"
+    },
+    {
+        "id": 81,
+        "word": "waste",
+        "translation": "israf / boşa harcamak",
+        "example": "Don't waste time.",
+        "exampleTr": "Zaman harcama.",
+        "phonetic": "/weɪst/"
+    },
+    {
+        "id": 82,
+        "word": "weird",
+        "translation": "garip / tuhaf",
+        "example": "That's weird.",
+        "exampleTr": "Bu tuhaf.",
+        "phonetic": "/wɪrd/"
+    },
+    {
+        "id": 83,
+        "word": "wonder",
+        "translation": "merak etmek",
+        "example": "I wonder why.",
+        "exampleTr": "Nedenini merak ediyorum.",
+        "phonetic": "/ˈwʌndər/"
+    },
+    {
+        "id": 84,
+        "word": "worth",
+        "translation": "değer",
+        "example": "It's worth trying.",
+        "exampleTr": "Denemeye değer.",
+        "phonetic": "/wɜːrθ/"
+    },
+    {
+        "id": 85,
+        "word": "yawn",
+        "translation": "esnemek",
+        "example": "Stop yawning!",
+        "exampleTr": "Esnemeyi bırak!",
+        "phonetic": "/jɔːn/"
+    },
+    {
+        "id": 86,
+        "word": "apparently",
+        "translation": "görünüşe göre",
+        "example": "Apparently, he left.",
+        "exampleTr": "Görünüşe göre, gitmiş.",
+        "phonetic": "/əˈpærəntli/"
+    },
+    {
+        "id": 87,
+        "word": "beg",
+        "translation": "yalvarmak",
+        "example": "I beg you, please!",
+        "exampleTr": "Yalvarırım, lütfen!",
+        "phonetic": "/beɡ/"
+    },
+    {
+        "id": 88,
+        "word": "blame",
+        "translation": "suçlamak",
+        "example": "Don't blame me.",
+        "exampleTr": "Beni suçlama.",
+        "phonetic": "/bleɪm/"
+    },
+    {
+        "id": 89,
+        "word": "cheat",
+        "translation": "hile yapmak",
+        "example": "Don't cheat on the exam.",
+        "exampleTr": "Sınavda kopya çekme.",
+        "phonetic": "/tʃiːt/"
+    },
+    {
+        "id": 90,
+        "word": "clumsy",
+        "translation": "sakar",
+        "example": "I'm so clumsy.",
+        "exampleTr": "Çok sakarım.",
+        "phonetic": "/ˈklʌmzi/"
+    },
+    {
+        "id": 91,
+        "word": "creepy",
+        "translation": "ürpertici",
+        "example": "That house is creepy.",
+        "exampleTr": "O ev ürpertici.",
+        "phonetic": "/ˈkriːpi/"
+    },
+    {
+        "id": 92,
+        "word": "doubt",
+        "translation": "şüphe",
+        "example": "I have my doubts.",
+        "exampleTr": "Şüphelerim var.",
+        "phonetic": "/daʊt/"
+    },
+    {
+        "id": 93,
+        "word": "errand",
+        "translation": "iş / ayak işi",
+        "example": "I have errands to run.",
+        "exampleTr": "Yapacak işlerim var.",
+        "phonetic": "/ˈerənd/"
+    },
+    {
+        "id": 94,
+        "word": "feedback",
+        "translation": "geri bildirim",
+        "example": "Give me feedback.",
+        "exampleTr": "Geri bildirim ver.",
+        "phonetic": "/ˈfiːdbæk/"
+    },
+    {
+        "id": 95,
+        "word": "generous",
+        "translation": "cömert",
+        "example": "She's very generous.",
+        "exampleTr": "Çok cömert.",
+        "phonetic": "/ˈdʒenərəs/"
+    },
+    {
+        "id": 96,
+        "word": "give up",
+        "translation": "vazgeçmek / pes etmek",
+        "example": "Never give up!",
+        "exampleTr": "Asla pes etme!",
+        "phonetic": "/ɡɪv ʌp/"
+    },
+    {
+        "id": 97,
+        "word": "habit",
+        "translation": "alışkanlık",
+        "example": "It's a bad habit.",
+        "exampleTr": "Kötü bir alışkanlık.",
+        "phonetic": "/ˈhæbɪt/"
+    },
+    {
+        "id": 98,
+        "word": "jealous",
+        "translation": "kıskanç",
+        "example": "Don't be jealous.",
+        "exampleTr": "Kıskanma.",
+        "phonetic": "/ˈdʒeləs/"
+    },
+    {
+        "id": 99,
+        "word": "massive",
+        "translation": "devasa / büyük",
+        "example": "A massive building.",
+        "exampleTr": "Devasa bir bina.",
+        "phonetic": "/ˈmæsɪv/"
+    },
+    {
+        "id": 100,
+        "word": "struggle",
+        "translation": "mücadele etmek",
+        "example": "I struggle with math.",
+        "exampleTr": "Matematikle zorlanıyorum.",
+        "phonetic": "/ˈstrʌɡl/"
+    }
+]

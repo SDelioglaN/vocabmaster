@@ -1,0 +1,862 @@
+[
+    {
+        "id": 1,
+        "word": "computer",
+        "translation": "bilgisayar",
+        "example": "I use a computer.",
+        "exampleTr": "Bilgisayar kullanıyorum.",
+        "phonetic": "/kəmˈpjuːtər/",
+        "level": "a1"
+    },
+    {
+        "id": 2,
+        "word": "laptop",
+        "translation": "dizüstü bilgisayar",
+        "example": "I have a laptop.",
+        "exampleTr": "Bir laptobum var.",
+        "phonetic": "/ˈlæptɒp/",
+        "level": "a2"
+    },
+    {
+        "id": 3,
+        "word": "phone",
+        "translation": "telefon",
+        "example": "Call me on my phone.",
+        "exampleTr": "Telefonumdan ara.",
+        "phonetic": "/foʊn/",
+        "level": "a1"
+    },
+    {
+        "id": 4,
+        "word": "smartphone",
+        "translation": "akıllı telefon",
+        "example": "Everyone has a smartphone.",
+        "exampleTr": "Herkesin akıllı telefonu var.",
+        "phonetic": "/ˈsmɑːrtfoʊn/",
+        "level": "a2"
+    },
+    {
+        "id": 5,
+        "word": "tablet",
+        "translation": "tablet",
+        "example": "I read on my tablet.",
+        "exampleTr": "Tabletimden okuyorum.",
+        "phonetic": "/ˈtæblət/",
+        "level": "a2"
+    },
+    {
+        "id": 6,
+        "word": "device",
+        "translation": "cihaz",
+        "example": "What device do you use?",
+        "exampleTr": "Hangi cihazı kullanıyorsun?",
+        "phonetic": "/dɪˈvaɪs/",
+        "level": "b1"
+    },
+    {
+        "id": 7,
+        "word": "screen",
+        "translation": "ekran",
+        "example": "The screen is big.",
+        "exampleTr": "Ekran büyük.",
+        "phonetic": "/skriːn/",
+        "level": "a1"
+    },
+    {
+        "id": 8,
+        "word": "keyboard",
+        "translation": "klavye",
+        "example": "Type on the keyboard.",
+        "exampleTr": "Klavyede yaz.",
+        "phonetic": "/ˈkiːbɔːrd/",
+        "level": "a2"
+    },
+    {
+        "id": 9,
+        "word": "mouse",
+        "translation": "fare",
+        "example": "Click the mouse.",
+        "exampleTr": "Fareye tıkla.",
+        "phonetic": "/maʊs/",
+        "level": "a2"
+    },
+    {
+        "id": 10,
+        "word": "internet",
+        "translation": "internet",
+        "example": "I need the internet.",
+        "exampleTr": "İnternete ihtiyacım var.",
+        "phonetic": "/ˈɪntərnet/",
+        "level": "a1"
+    },
+    {
+        "id": 11,
+        "word": "wifi",
+        "translation": "kablosuz internet",
+        "example": "Is there wifi here?",
+        "exampleTr": "Burada wifi var mı?",
+        "phonetic": "/ˈwaɪfaɪ/",
+        "level": "a2"
+    },
+    {
+        "id": 12,
+        "word": "website",
+        "translation": "web sitesi",
+        "example": "Visit our website.",
+        "exampleTr": "Web sitemizi ziyaret et.",
+        "phonetic": "/ˈwebsaɪt/",
+        "level": "a2"
+    },
+    {
+        "id": 13,
+        "word": "app",
+        "translation": "uygulama",
+        "example": "Download the app.",
+        "exampleTr": "Uygulamayı indir.",
+        "phonetic": "/æp/",
+        "level": "a1"
+    },
+    {
+        "id": 14,
+        "word": "software",
+        "translation": "yazılım",
+        "example": "Install the software.",
+        "exampleTr": "Yazılımı kur.",
+        "phonetic": "/ˈsɒftweər/",
+        "level": "b1"
+    },
+    {
+        "id": 15,
+        "word": "hardware",
+        "translation": "donanım",
+        "example": "Buy new hardware.",
+        "exampleTr": "Yeni donanım al.",
+        "phonetic": "/ˈhɑːrdweər/",
+        "level": "b1"
+    },
+    {
+        "id": 16,
+        "word": "download",
+        "translation": "indirmek",
+        "example": "Download the file.",
+        "exampleTr": "Dosyayı indir.",
+        "phonetic": "/ˈdaʊnloʊd/",
+        "level": "a2"
+    },
+    {
+        "id": 17,
+        "word": "upload",
+        "translation": "yüklemek",
+        "example": "Upload your photo.",
+        "exampleTr": "Fotoğrafını yükle.",
+        "phonetic": "/ˈʌploʊd/",
+        "level": "a2"
+    },
+    {
+        "id": 18,
+        "word": "install",
+        "translation": "kurmak",
+        "example": "Install the update.",
+        "exampleTr": "Güncellemeyi kur.",
+        "phonetic": "/ɪnˈstɔːl/",
+        "level": "b1"
+    },
+    {
+        "id": 19,
+        "word": "update",
+        "translation": "güncellemek",
+        "example": "Update your phone.",
+        "exampleTr": "Telefonunu güncelle.",
+        "phonetic": "/ʌpˈdeɪt/",
+        "level": "b1"
+    },
+    {
+        "id": 20,
+        "word": "delete",
+        "translation": "silmek",
+        "example": "Delete the file.",
+        "exampleTr": "Dosyayı sil.",
+        "phonetic": "/dɪˈliːt/",
+        "level": "a2"
+    },
+    {
+        "id": 21,
+        "word": "save",
+        "translation": "kaydetmek",
+        "example": "Save the document.",
+        "exampleTr": "Belgeyi kaydet.",
+        "phonetic": "/seɪv/",
+        "level": "a2"
+    },
+    {
+        "id": 22,
+        "word": "copy",
+        "translation": "kopyalamak",
+        "example": "Copy the text.",
+        "exampleTr": "Metni kopyala.",
+        "phonetic": "/ˈkɒpi/",
+        "level": "a2"
+    },
+    {
+        "id": 23,
+        "word": "paste",
+        "translation": "yapıştırmak",
+        "example": "Paste the text.",
+        "exampleTr": "Metni yapıştır.",
+        "phonetic": "/peɪst/",
+        "level": "a2"
+    },
+    {
+        "id": 24,
+        "word": "click",
+        "translation": "tıklamak",
+        "example": "Click the button.",
+        "exampleTr": "Düğmeye tıkla.",
+        "phonetic": "/klɪk/",
+        "level": "a1"
+    },
+    {
+        "id": 25,
+        "word": "search",
+        "translation": "aramak",
+        "example": "Search on Google.",
+        "exampleTr": "Google'da ara.",
+        "phonetic": "/sɜːrtʃ/",
+        "level": "a2"
+    },
+    {
+        "id": 26,
+        "word": "password",
+        "translation": "şifre",
+        "example": "Enter your password.",
+        "exampleTr": "Şifreni gir.",
+        "phonetic": "/ˈpæswɜːrd/",
+        "level": "a2"
+    },
+    {
+        "id": 27,
+        "word": "username",
+        "translation": "kullanıcı adı",
+        "example": "Choose a username.",
+        "exampleTr": "Kullanıcı adı seç.",
+        "phonetic": "/ˈjuːzərneɪm/",
+        "level": "b2"
+    },
+    {
+        "id": 28,
+        "word": "account",
+        "translation": "hesap",
+        "example": "Create an account.",
+        "exampleTr": "Bir hesap oluştur.",
+        "phonetic": "/əˈkaʊnt/",
+        "level": "a2"
+    },
+    {
+        "id": 29,
+        "word": "login",
+        "translation": "giriş yapmak",
+        "example": "Login to your account.",
+        "exampleTr": "Hesabına giriş yap.",
+        "phonetic": "/ˈlɒɡɪn/",
+        "level": "a2"
+    },
+    {
+        "id": 30,
+        "word": "logout",
+        "translation": "çıkış yapmak",
+        "example": "Don't forget to logout.",
+        "exampleTr": "Çıkış yapmayı unutma.",
+        "phonetic": "/ˈlɒɡaʊt/",
+        "level": "a2"
+    },
+    {
+        "id": 31,
+        "word": "email",
+        "translation": "e-posta",
+        "example": "Send me an email.",
+        "exampleTr": "Bana e-posta gönder.",
+        "phonetic": "/ˈiːmeɪl/",
+        "level": "a1"
+    },
+    {
+        "id": 32,
+        "word": "message",
+        "translation": "mesaj",
+        "example": "Send a message.",
+        "exampleTr": "Mesaj gönder.",
+        "phonetic": "/ˈmesɪdʒ/",
+        "level": "a2"
+    },
+    {
+        "id": 33,
+        "word": "notification",
+        "translation": "bildirim",
+        "example": "I got a notification.",
+        "exampleTr": "Bir bildirim aldım.",
+        "phonetic": "/ˌnoʊtɪfɪˈkeɪʃn/",
+        "level": "a2"
+    },
+    {
+        "id": 34,
+        "word": "social media",
+        "translation": "sosyal medya",
+        "example": "I use social media.",
+        "exampleTr": "Sosyal medya kullanıyorum.",
+        "phonetic": "/ˈsoʊʃl ˈmiːdiə/",
+        "level": "b1"
+    },
+    {
+        "id": 35,
+        "word": "profile",
+        "translation": "profil",
+        "example": "Update your profile.",
+        "exampleTr": "Profilini güncelle.",
+        "phonetic": "/ˈproʊfaɪl/",
+        "level": "a2"
+    },
+    {
+        "id": 36,
+        "word": "post",
+        "translation": "paylaşım",
+        "example": "Create a post.",
+        "exampleTr": "Bir paylaşım yap.",
+        "phonetic": "/poʊst/",
+        "level": "b1"
+    },
+    {
+        "id": 37,
+        "word": "share",
+        "translation": "paylaşmak",
+        "example": "Share the photo.",
+        "exampleTr": "Fotoğrafı paylaş.",
+        "phonetic": "/ʃer/",
+        "level": "b1"
+    },
+    {
+        "id": 38,
+        "word": "like",
+        "translation": "beğenmek",
+        "example": "Like the post.",
+        "exampleTr": "Paylaşımı beğen.",
+        "phonetic": "/laɪk/",
+        "level": "a1"
+    },
+    {
+        "id": 39,
+        "word": "comment",
+        "translation": "yorum",
+        "example": "Leave a comment.",
+        "exampleTr": "Yorum yap.",
+        "phonetic": "/ˈkɒment/",
+        "level": "b1"
+    },
+    {
+        "id": 40,
+        "word": "follow",
+        "translation": "takip etmek",
+        "example": "Follow my page.",
+        "exampleTr": "Sayfamı takip et.",
+        "phonetic": "/ˈfɒloʊ/",
+        "level": "b1"
+    },
+    {
+        "id": 41,
+        "word": "online",
+        "translation": "çevrimiçi",
+        "example": "I'm online now.",
+        "exampleTr": "Şu an çevrimiçiyim.",
+        "phonetic": "/ˈɒnlaɪn/",
+        "level": "a2"
+    },
+    {
+        "id": 42,
+        "word": "offline",
+        "translation": "çevrimdışı",
+        "example": "I'm offline.",
+        "exampleTr": "Çevrimdışıyım.",
+        "phonetic": "/ˈɒflaɪn/",
+        "level": "a2"
+    },
+    {
+        "id": 43,
+        "word": "data",
+        "translation": "veri",
+        "example": "Save your data.",
+        "exampleTr": "Verilerini kaydet.",
+        "phonetic": "/ˈdeɪtə/",
+        "level": "b1"
+    },
+    {
+        "id": 44,
+        "word": "file",
+        "translation": "dosya",
+        "example": "Open the file.",
+        "exampleTr": "Dosyayı aç.",
+        "phonetic": "/faɪl/",
+        "level": "a2"
+    },
+    {
+        "id": 45,
+        "word": "folder",
+        "translation": "klasör",
+        "example": "Create a new folder.",
+        "exampleTr": "Yeni bir klasör oluştur.",
+        "phonetic": "/ˈfoʊldər/",
+        "level": "b1"
+    },
+    {
+        "id": 46,
+        "word": "storage",
+        "translation": "depolama",
+        "example": "I need more storage.",
+        "exampleTr": "Daha fazla depolamaya ihtiyacım var.",
+        "phonetic": "/ˈstɔːrɪdʒ/",
+        "level": "b1"
+    },
+    {
+        "id": 47,
+        "word": "cloud",
+        "translation": "bulut",
+        "example": "Save to the cloud.",
+        "exampleTr": "Buluta kaydet.",
+        "phonetic": "/klaʊd/",
+        "level": "a1"
+    },
+    {
+        "id": 48,
+        "word": "backup",
+        "translation": "yedekleme",
+        "example": "Make a backup.",
+        "exampleTr": "Yedekleme yap.",
+        "phonetic": "/ˈbækʌp/",
+        "level": "b1"
+    },
+    {
+        "id": 49,
+        "word": "battery",
+        "translation": "pil / batarya",
+        "example": "My battery is low.",
+        "exampleTr": "Pilim azaldı.",
+        "phonetic": "/ˈbætəri/",
+        "level": "b1"
+    },
+    {
+        "id": 50,
+        "word": "charger",
+        "translation": "şarj aleti",
+        "example": "Where's my charger?",
+        "exampleTr": "Şarj aletim nerede?",
+        "phonetic": "/ˈtʃɑːrdʒər/",
+        "level": "b1"
+    },
+    {
+        "id": 51,
+        "word": "wireless",
+        "translation": "kablosuz",
+        "example": "I have wireless headphones.",
+        "exampleTr": "Kablosuz kulaklığım var.",
+        "phonetic": "/ˈwaɪərləs/",
+        "level": "b1"
+    },
+    {
+        "id": 52,
+        "word": "bluetooth",
+        "translation": "bluetooth",
+        "example": "Connect via bluetooth.",
+        "exampleTr": "Bluetooth ile bağlan.",
+        "phonetic": "/ˈbluːtuːθ/",
+        "level": "b1"
+    },
+    {
+        "id": 53,
+        "word": "connect",
+        "translation": "bağlanmak",
+        "example": "Connect to wifi.",
+        "exampleTr": "Wifi'ye bağlan.",
+        "phonetic": "/kəˈnekt/",
+        "level": "b1"
+    },
+    {
+        "id": 54,
+        "word": "disconnect",
+        "translation": "bağlantıyı kesmek",
+        "example": "Disconnect the device.",
+        "exampleTr": "Cihazın bağlantısını kes.",
+        "phonetic": "/ˌdɪskəˈnekt/",
+        "level": "b1"
+    },
+    {
+        "id": 55,
+        "word": "restart",
+        "translation": "yeniden başlatmak",
+        "example": "Restart your computer.",
+        "exampleTr": "Bilgisayarını yeniden başlat.",
+        "phonetic": "/ˌriːˈstɑːrt/",
+        "level": "b1"
+    },
+    {
+        "id": 56,
+        "word": "crash",
+        "translation": "çökmek",
+        "example": "The app crashed.",
+        "exampleTr": "Uygulama çöktü.",
+        "phonetic": "/kræʃ/",
+        "level": "b1"
+    },
+    {
+        "id": 57,
+        "word": "bug",
+        "translation": "hata",
+        "example": "There's a bug.",
+        "exampleTr": "Bir hata var.",
+        "phonetic": "/bʌɡ/",
+        "level": "b1"
+    },
+    {
+        "id": 58,
+        "word": "virus",
+        "translation": "virüs",
+        "example": "My computer has a virus.",
+        "exampleTr": "Bilgisayarımda virüs var.",
+        "phonetic": "/ˈvaɪrəs/",
+        "level": "b1"
+    },
+    {
+        "id": 59,
+        "word": "security",
+        "translation": "güvenlik",
+        "example": "Check security settings.",
+        "exampleTr": "Güvenlik ayarlarını kontrol et.",
+        "phonetic": "/sɪˈkjʊrəti/",
+        "level": "b1"
+    },
+    {
+        "id": 60,
+        "word": "privacy",
+        "translation": "gizlilik",
+        "example": "Protect your privacy.",
+        "exampleTr": "Gizliliğini koru.",
+        "phonetic": "/ˈprɪvəsi/",
+        "level": "b1"
+    },
+    {
+        "id": 61,
+        "word": "algorithm",
+        "translation": "algoritma",
+        "example": "The algorithm sorts the data.",
+        "exampleTr": "Algoritma verileri sıralar.",
+        "phonetic": "/ˈælɡərɪðəm/"
+    },
+    {
+        "id": 62,
+        "word": "automation",
+        "translation": "otomasyon",
+        "example": "Automation improves efficiency.",
+        "exampleTr": "Otomasyon verimliliği artırır.",
+        "phonetic": "/ˌɔːtəˈmeɪʃn/"
+    },
+    {
+        "id": 63,
+        "word": "bandwidth",
+        "translation": "bant genişliği",
+        "example": "We need more bandwidth.",
+        "exampleTr": "Daha fazla bant genişliği lazım.",
+        "phonetic": "/ˈbændwɪdθ/"
+    },
+    {
+        "id": 64,
+        "word": "biometric",
+        "translation": "biyometrik",
+        "example": "Biometric security is modern.",
+        "exampleTr": "Biyometrik güvenlik modern.",
+        "phonetic": "/ˌbaɪoʊˈmetrɪk/"
+    },
+    {
+        "id": 65,
+        "word": "blockchain",
+        "translation": "blok zinciri",
+        "example": "Blockchain technology is growing.",
+        "exampleTr": "Blok zinciri teknolojisi büyüyor.",
+        "phonetic": "/ˈblɒktʃeɪn/"
+    },
+    {
+        "id": 66,
+        "word": "bug",
+        "translation": "hata / böcek",
+        "example": "Fix the bug in the code.",
+        "exampleTr": "Koddaki hatayı düzelt.",
+        "phonetic": "/bʌɡ/"
+    },
+    {
+        "id": 67,
+        "word": "cache",
+        "translation": "önbellek",
+        "example": "Clear the browser cache.",
+        "exampleTr": "Tarayıcı önbelleğini temizle.",
+        "phonetic": "/kæʃ/"
+    },
+    {
+        "id": 68,
+        "word": "compatible",
+        "translation": "uyumlu",
+        "example": "Is it compatible with my phone?",
+        "exampleTr": "Telefonumla uyumlu mu?",
+        "phonetic": "/kəmˈpætəbl/"
+    },
+    {
+        "id": 69,
+        "word": "configure",
+        "translation": "yapılandırmak",
+        "example": "Configure the settings.",
+        "exampleTr": "Ayarları yapılandır.",
+        "phonetic": "/kənˈfɪɡər/"
+    },
+    {
+        "id": 70,
+        "word": "cursor",
+        "translation": "imleç",
+        "example": "Move the cursor to the right.",
+        "exampleTr": "İmleci sağa taşı.",
+        "phonetic": "/ˈkɜːrsər/"
+    },
+    {
+        "id": 71,
+        "word": "cybersecurity",
+        "translation": "siber güvenlik",
+        "example": "Cybersecurity is crucial.",
+        "exampleTr": "Siber güvenlik çok önemli.",
+        "phonetic": "/ˌsaɪbərˈsɪkjʊrəti/"
+    },
+    {
+        "id": 72,
+        "word": "debug",
+        "translation": "hata ayıklamak",
+        "example": "Debug the program.",
+        "exampleTr": "Programın hatasını ayıkla.",
+        "phonetic": "/diːˈbʌɡ/"
+    },
+    {
+        "id": 73,
+        "word": "deploy",
+        "translation": "dağıtmak / yayınlamak",
+        "example": "Deploy the application.",
+        "exampleTr": "Uygulamayı yayınla.",
+        "phonetic": "/dɪˈplɔɪ/"
+    },
+    {
+        "id": 74,
+        "word": "drone",
+        "translation": "drone / İHA",
+        "example": "Drones deliver packages.",
+        "exampleTr": "Dronlar paketleri teslim ediyor.",
+        "phonetic": "/droʊn/"
+    },
+    {
+        "id": 75,
+        "word": "encryption",
+        "translation": "şifreleme",
+        "example": "Use encryption for security.",
+        "exampleTr": "Güvenlik için şifreleme kullan.",
+        "phonetic": "/ɪnˈkrɪpʃn/"
+    },
+    {
+        "id": 76,
+        "word": "ethernet",
+        "translation": "ethernet",
+        "example": "Connect via ethernet cable.",
+        "exampleTr": "Ethernet kablosuyla bağlan.",
+        "phonetic": "/ˈiːθərnet/"
+    },
+    {
+        "id": 77,
+        "word": "firmware",
+        "translation": "donanım yazılımı",
+        "example": "Update the firmware.",
+        "exampleTr": "Donanım yazılımını güncelle.",
+        "phonetic": "/ˈfɜːrmwer/"
+    },
+    {
+        "id": 78,
+        "word": "gigabyte",
+        "translation": "gigabayt",
+        "example": "The file is 5 gigabytes.",
+        "exampleTr": "Dosya 5 gigabayt.",
+        "phonetic": "/ˈɡɪɡəbaɪt/"
+    },
+    {
+        "id": 79,
+        "word": "glitch",
+        "translation": "aksaklık / arıza",
+        "example": "There's a glitch in the system.",
+        "exampleTr": "Sistemde bir aksaklık var.",
+        "phonetic": "/ɡlɪtʃ/"
+    },
+    {
+        "id": 80,
+        "word": "hardware",
+        "translation": "donanım",
+        "example": "We need new hardware.",
+        "exampleTr": "Yeni donanım lazım.",
+        "phonetic": "/ˈhɑːrdwer/"
+    },
+    {
+        "id": 81,
+        "word": "hologram",
+        "translation": "hologram",
+        "example": "Holograms are futuristic.",
+        "exampleTr": "Hologramlar fütüristik.",
+        "phonetic": "/ˈhɒləɡræm/"
+    },
+    {
+        "id": 82,
+        "word": "integrate",
+        "translation": "entegre etmek",
+        "example": "Integrate the systems.",
+        "exampleTr": "Sistemleri entegre et.",
+        "phonetic": "/ˈɪntɪɡreɪt/"
+    },
+    {
+        "id": 83,
+        "word": "interface",
+        "translation": "arayüz",
+        "example": "The user interface is clean.",
+        "exampleTr": "Kullanıcı arayüzü temiz.",
+        "phonetic": "/ˈɪntərfeɪs/"
+    },
+    {
+        "id": 84,
+        "word": "iterate",
+        "translation": "yinelemek",
+        "example": "Iterate the design.",
+        "exampleTr": "Tasarımı yinele.",
+        "phonetic": "/ˈɪtəreɪt/"
+    },
+    {
+        "id": 85,
+        "word": "latency",
+        "translation": "gecikme",
+        "example": "Low latency is important.",
+        "exampleTr": "Düşük gecikme önemli.",
+        "phonetic": "/ˈleɪtənsi/"
+    },
+    {
+        "id": 86,
+        "word": "malware",
+        "translation": "kötü amaçlı yazılım",
+        "example": "Protect against malware.",
+        "exampleTr": "Kötü yazılımlara karşı koru.",
+        "phonetic": "/ˈmælwer/"
+    },
+    {
+        "id": 87,
+        "word": "metadata",
+        "translation": "üstveri",
+        "example": "Metadata describes the data.",
+        "exampleTr": "Üstveri veriyi tanımlar.",
+        "phonetic": "/ˈmetədeɪtə/"
+    },
+    {
+        "id": 88,
+        "word": "neural",
+        "translation": "sinirsel",
+        "example": "Neural networks learn patterns.",
+        "exampleTr": "Sinir ağları kalıpları öğrenir.",
+        "phonetic": "/ˈnjʊrəl/"
+    },
+    {
+        "id": 89,
+        "word": "optimize",
+        "translation": "optimize etmek",
+        "example": "Optimize the website.",
+        "exampleTr": "Web sitesini optimize et.",
+        "phonetic": "/ˈɒptɪmaɪz/"
+    },
+    {
+        "id": 90,
+        "word": "peripheral",
+        "translation": "çevre birimi",
+        "example": "Connect the peripheral device.",
+        "exampleTr": "Çevre cihazını bağla.",
+        "phonetic": "/pəˈrɪfərəl/"
+    },
+    {
+        "id": 91,
+        "word": "pixel",
+        "translation": "piksel",
+        "example": "The image has many pixels.",
+        "exampleTr": "Görselin çok pikseli var.",
+        "phonetic": "/ˈpɪksl/"
+    },
+    {
+        "id": 92,
+        "word": "platform",
+        "translation": "platform",
+        "example": "Choose the right platform.",
+        "exampleTr": "Doğru platformu seç.",
+        "phonetic": "/ˈplætfɔːrm/"
+    },
+    {
+        "id": 93,
+        "word": "protocol",
+        "translation": "protokol",
+        "example": "Follow the network protocol.",
+        "exampleTr": "Ağ protokolüne uy.",
+        "phonetic": "/ˈproʊtəkɒl/"
+    },
+    {
+        "id": 94,
+        "word": "quantum",
+        "translation": "kuantum",
+        "example": "Quantum computing is the future.",
+        "exampleTr": "Kuantum bilişim gelecek.",
+        "phonetic": "/ˈkwɒntəm/"
+    },
+    {
+        "id": 95,
+        "word": "robotics",
+        "translation": "robotik",
+        "example": "Robotics is evolving fast.",
+        "exampleTr": "Robotik hızla gelişiyor.",
+        "phonetic": "/roʊˈbɒtɪks/"
+    },
+    {
+        "id": 96,
+        "word": "scalable",
+        "translation": "ölçeklenebilir",
+        "example": "The system is scalable.",
+        "exampleTr": "Sistem ölçeklenebilir.",
+        "phonetic": "/ˈskeɪləbl/"
+    },
+    {
+        "id": 97,
+        "word": "sensor",
+        "translation": "sensör",
+        "example": "The sensor detects motion.",
+        "exampleTr": "Sensör hareketi algılar.",
+        "phonetic": "/ˈsensər/"
+    },
+    {
+        "id": 98,
+        "word": "simulation",
+        "translation": "simülasyon",
+        "example": "Run a simulation first.",
+        "exampleTr": "Önce bir simülasyon yap.",
+        "phonetic": "/ˌsɪmjuˈleɪʃn/"
+    },
+    {
+        "id": 99,
+        "word": "synchronize",
+        "translation": "senkronize etmek",
+        "example": "Synchronize your devices.",
+        "exampleTr": "Cihazlarını senkronize et.",
+        "phonetic": "/ˈsɪŋkrənaɪz/"
+    },
+    {
+        "id": 100,
+        "word": "virtual",
+        "translation": "sanal",
+        "example": "Virtual reality is amazing.",
+        "exampleTr": "Sanal gerçeklik harika.",
+        "phonetic": "/ˈvɜːrtʃuəl/"
+    }
+]

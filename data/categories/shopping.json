@@ -1,0 +1,862 @@
+[
+    {
+        "id": 1,
+        "word": "buy",
+        "translation": "satın almak",
+        "example": "I want to buy a new phone.",
+        "exampleTr": "Yeni bir telefon almak istiyorum.",
+        "phonetic": "/baɪ/",
+        "level": "a1"
+    },
+    {
+        "id": 2,
+        "word": "sell",
+        "translation": "satmak",
+        "example": "I sell clothes online.",
+        "exampleTr": "Online kıyafet satıyorum.",
+        "phonetic": "/sel/",
+        "level": "a1"
+    },
+    {
+        "id": 3,
+        "word": "shop",
+        "translation": "alışveriş yapmak / dükkan",
+        "example": "I shop on weekends.",
+        "exampleTr": "Hafta sonları alışveriş yaparım.",
+        "phonetic": "/ʃɒp/",
+        "level": "a1"
+    },
+    {
+        "id": 4,
+        "word": "store",
+        "translation": "mağaza",
+        "example": "The store is closed.",
+        "exampleTr": "Mağaza kapalı.",
+        "phonetic": "/stɔːr/",
+        "level": "a1"
+    },
+    {
+        "id": 5,
+        "word": "supermarket",
+        "translation": "süpermarket",
+        "example": "I go to the supermarket.",
+        "exampleTr": "Süpermarkete gidiyorum.",
+        "phonetic": "/ˈsuːpərmɑːrkɪt/",
+        "level": "c1"
+    },
+    {
+        "id": 6,
+        "word": "mall",
+        "translation": "alışveriş merkezi",
+        "example": "Let's go to the mall.",
+        "exampleTr": "Alışveriş merkezine gidelim.",
+        "phonetic": "/mɔːl/",
+        "level": "a2"
+    },
+    {
+        "id": 7,
+        "word": "price",
+        "translation": "fiyat",
+        "example": "What's the price?",
+        "exampleTr": "Fiyatı ne?",
+        "phonetic": "/praɪs/",
+        "level": "a1"
+    },
+    {
+        "id": 8,
+        "word": "cost",
+        "translation": "maliyet / tutmak",
+        "example": "How much does it cost?",
+        "exampleTr": "Ne kadar tutar?",
+        "phonetic": "/kɒst/",
+        "level": "a2"
+    },
+    {
+        "id": 9,
+        "word": "expensive",
+        "translation": "pahalı",
+        "example": "This is too expensive.",
+        "exampleTr": "Bu çok pahalı.",
+        "phonetic": "/ɪkˈspensɪv/",
+        "level": "a2"
+    },
+    {
+        "id": 10,
+        "word": "cheap",
+        "translation": "ucuz",
+        "example": "It's very cheap.",
+        "exampleTr": "Çok ucuz.",
+        "phonetic": "/tʃiːp/",
+        "level": "a1"
+    },
+    {
+        "id": 11,
+        "word": "affordable",
+        "translation": "uygun fiyatlı",
+        "example": "The prices are affordable.",
+        "exampleTr": "Fiyatlar uygun.",
+        "phonetic": "/əˈfɔːrdəbl/",
+        "level": "c1"
+    },
+    {
+        "id": 12,
+        "word": "discount",
+        "translation": "indirim",
+        "example": "Is there a discount?",
+        "exampleTr": "İndirim var mı?",
+        "phonetic": "/ˈdɪskaʊnt/",
+        "level": "a2"
+    },
+    {
+        "id": 13,
+        "word": "sale",
+        "translation": "indirim / satış",
+        "example": "There's a big sale today.",
+        "exampleTr": "Bugün büyük indirim var.",
+        "phonetic": "/seɪl/",
+        "level": "a2"
+    },
+    {
+        "id": 14,
+        "word": "bargain",
+        "translation": "pazarlık / kelepir",
+        "example": "This is a good bargain.",
+        "exampleTr": "Bu iyi bir kelepir.",
+        "phonetic": "/ˈbɑːrɡɪn/",
+        "level": "b1"
+    },
+    {
+        "id": 15,
+        "word": "cash",
+        "translation": "nakit",
+        "example": "I pay cash.",
+        "exampleTr": "Nakit ödüyorum.",
+        "phonetic": "/kæʃ/",
+        "level": "a2"
+    },
+    {
+        "id": 16,
+        "word": "credit card",
+        "translation": "kredi kartı",
+        "example": "Do you accept credit cards?",
+        "exampleTr": "Kredi kartı kabul ediyor musunuz?",
+        "phonetic": "/ˈkredɪt kɑːrd/",
+        "level": "a2"
+    },
+    {
+        "id": 17,
+        "word": "receipt",
+        "translation": "fiş / makbuz",
+        "example": "Keep the receipt.",
+        "exampleTr": "Fişi sakla.",
+        "phonetic": "/rɪˈsiːt/",
+        "level": "a2"
+    },
+    {
+        "id": 18,
+        "word": "refund",
+        "translation": "iade",
+        "example": "Can I get a refund?",
+        "exampleTr": "İade alabilir miyim?",
+        "phonetic": "/ˈriːfʌnd/",
+        "level": "a2"
+    },
+    {
+        "id": 19,
+        "word": "exchange",
+        "translation": "değiştirmek",
+        "example": "Can I exchange this?",
+        "exampleTr": "Bunu değiştirebilir miyim?",
+        "phonetic": "/ɪksˈtʃeɪndʒ/",
+        "level": "b1"
+    },
+    {
+        "id": 20,
+        "word": "return",
+        "translation": "iade etmek",
+        "example": "I want to return this.",
+        "exampleTr": "Bunu iade etmek istiyorum.",
+        "phonetic": "/rɪˈtɜːrn/",
+        "level": "b1"
+    },
+    {
+        "id": 21,
+        "word": "money",
+        "translation": "para",
+        "example": "I don't have enough money.",
+        "exampleTr": "Yeterli param yok.",
+        "phonetic": "/ˈmʌni/",
+        "level": "a1"
+    },
+    {
+        "id": 22,
+        "word": "bank",
+        "translation": "banka",
+        "example": "I go to the bank.",
+        "exampleTr": "Bankaya gidiyorum.",
+        "phonetic": "/bæŋk/",
+        "level": "a2"
+    },
+    {
+        "id": 23,
+        "word": "account",
+        "translation": "hesap",
+        "example": "Open a bank account.",
+        "exampleTr": "Banka hesabı aç.",
+        "phonetic": "/əˈkaʊnt/",
+        "level": "a2"
+    },
+    {
+        "id": 24,
+        "word": "save",
+        "translation": "biriktirmek",
+        "example": "I save money every month.",
+        "exampleTr": "Her ay para biriktiririm.",
+        "phonetic": "/seɪv/",
+        "level": "a2"
+    },
+    {
+        "id": 25,
+        "word": "spend",
+        "translation": "harcamak",
+        "example": "Don't spend too much.",
+        "exampleTr": "Çok fazla harcama.",
+        "phonetic": "/spend/",
+        "level": "a2"
+    },
+    {
+        "id": 26,
+        "word": "borrow",
+        "translation": "ödünç almak",
+        "example": "Can I borrow some money?",
+        "exampleTr": "Biraz para ödünç alabilir miyim?",
+        "phonetic": "/ˈbɒroʊ/",
+        "level": "b1"
+    },
+    {
+        "id": 27,
+        "word": "lend",
+        "translation": "ödünç vermek",
+        "example": "I can lend you money.",
+        "exampleTr": "Sana para ödünç verebilirim.",
+        "phonetic": "/lend/",
+        "level": "a2"
+    },
+    {
+        "id": 28,
+        "word": "debt",
+        "translation": "borç",
+        "example": "I have no debt.",
+        "exampleTr": "Borcum yok.",
+        "phonetic": "/det/",
+        "level": "b1"
+    },
+    {
+        "id": 29,
+        "word": "pay",
+        "translation": "ödemek",
+        "example": "I'll pay the bill.",
+        "exampleTr": "Hesabı ödeyeceğim.",
+        "phonetic": "/peɪ/",
+        "level": "a1"
+    },
+    {
+        "id": 30,
+        "word": "payment",
+        "translation": "ödeme",
+        "example": "Make the payment online.",
+        "exampleTr": "Ödemeyi online yap.",
+        "phonetic": "/ˈpeɪmənt/",
+        "level": "b2"
+    },
+    {
+        "id": 31,
+        "word": "bill",
+        "translation": "fatura / hesap",
+        "example": "Pay the electricity bill.",
+        "exampleTr": "Elektrik faturasını öde.",
+        "phonetic": "/bɪl/",
+        "level": "a2"
+    },
+    {
+        "id": 32,
+        "word": "tax",
+        "translation": "vergi",
+        "example": "Prices include tax.",
+        "exampleTr": "Fiyatlar vergi dahil.",
+        "phonetic": "/tæks/",
+        "level": "a2"
+    },
+    {
+        "id": 33,
+        "word": "tip",
+        "translation": "bahşiş",
+        "example": "Leave a tip.",
+        "exampleTr": "Bahşiş bırak.",
+        "phonetic": "/tɪp/",
+        "level": "b1"
+    },
+    {
+        "id": 34,
+        "word": "wallet",
+        "translation": "cüzdan",
+        "example": "I lost my wallet.",
+        "exampleTr": "Cüzdanımı kaybettim.",
+        "phonetic": "/ˈwɒlɪt/",
+        "level": "b1"
+    },
+    {
+        "id": 35,
+        "word": "coin",
+        "translation": "bozuk para",
+        "example": "I have some coins.",
+        "exampleTr": "Biraz bozuk param var.",
+        "phonetic": "/kɔɪn/",
+        "level": "a2"
+    },
+    {
+        "id": 36,
+        "word": "customer",
+        "translation": "müşteri",
+        "example": "The customer is waiting.",
+        "exampleTr": "Müşteri bekliyor.",
+        "phonetic": "/ˈkʌstəmər/",
+        "level": "a2"
+    },
+    {
+        "id": 37,
+        "word": "seller",
+        "translation": "satıcı",
+        "example": "The seller was helpful.",
+        "exampleTr": "Satıcı yardımcı oldu.",
+        "phonetic": "/ˈselər/",
+        "level": "b1"
+    },
+    {
+        "id": 38,
+        "word": "cashier",
+        "translation": "kasiyer",
+        "example": "Pay at the cashier.",
+        "exampleTr": "Kasiyerde öde.",
+        "phonetic": "/kæˈʃɪr/",
+        "level": "b2"
+    },
+    {
+        "id": 39,
+        "word": "cart",
+        "translation": "sepet",
+        "example": "Put it in the cart.",
+        "exampleTr": "Sepete koy.",
+        "phonetic": "/kɑːrt/",
+        "level": "a2"
+    },
+    {
+        "id": 40,
+        "word": "basket",
+        "translation": "sepet",
+        "example": "Use a basket.",
+        "exampleTr": "Sepet kullan.",
+        "phonetic": "/ˈbæskɪt/",
+        "level": "b1"
+    },
+    {
+        "id": 41,
+        "word": "queue",
+        "translation": "sıra / kuyruk",
+        "example": "Wait in the queue.",
+        "exampleTr": "Sırada bekle.",
+        "phonetic": "/kjuː/",
+        "level": "b1"
+    },
+    {
+        "id": 42,
+        "word": "order",
+        "translation": "sipariş",
+        "example": "I placed an order.",
+        "exampleTr": "Sipariş verdim.",
+        "phonetic": "/ˈɔːrdər/",
+        "level": "a2"
+    },
+    {
+        "id": 43,
+        "word": "deliver",
+        "translation": "teslim etmek",
+        "example": "They deliver for free.",
+        "exampleTr": "Ücretsiz teslim ediyorlar.",
+        "phonetic": "/dɪˈlɪvər/",
+        "level": "b2"
+    },
+    {
+        "id": 44,
+        "word": "delivery",
+        "translation": "teslimat",
+        "example": "Fast delivery is available.",
+        "exampleTr": "Hızlı teslimat mevcut.",
+        "phonetic": "/dɪˈlɪvəri/",
+        "level": "b1"
+    },
+    {
+        "id": 45,
+        "word": "brand",
+        "translation": "marka",
+        "example": "This is a famous brand.",
+        "exampleTr": "Bu ünlü bir marka.",
+        "phonetic": "/brænd/",
+        "level": "a2"
+    },
+    {
+        "id": 46,
+        "word": "quality",
+        "translation": "kalite",
+        "example": "The quality is good.",
+        "exampleTr": "Kalitesi iyi.",
+        "phonetic": "/ˈkwɒləti/",
+        "level": "a2"
+    },
+    {
+        "id": 47,
+        "word": "size",
+        "translation": "beden / boyut",
+        "example": "What size do you need?",
+        "exampleTr": "Hangi bedene ihtiyacın var?",
+        "phonetic": "/saɪz/",
+        "level": "a2"
+    },
+    {
+        "id": 48,
+        "word": "color",
+        "translation": "renk",
+        "example": "What color do you want?",
+        "exampleTr": "Hangi renk istiyorsun?",
+        "phonetic": "/ˈkʌlər/",
+        "level": "a1"
+    },
+    {
+        "id": 49,
+        "word": "fit",
+        "translation": "uymak",
+        "example": "Does it fit?",
+        "exampleTr": "Uyuyor mu?",
+        "phonetic": "/fɪt/",
+        "level": "a2"
+    },
+    {
+        "id": 50,
+        "word": "try on",
+        "translation": "denemek (kıyafet)",
+        "example": "Can I try this on?",
+        "exampleTr": "Bunu deneyebilir miyim?",
+        "phonetic": "/traɪ ɒn/",
+        "level": "a2"
+    },
+    {
+        "id": 51,
+        "word": "wrap",
+        "translation": "paketlemek",
+        "example": "Can you wrap it?",
+        "exampleTr": "Paketleyebilir misiniz?",
+        "phonetic": "/ræp/",
+        "level": "a2"
+    },
+    {
+        "id": 52,
+        "word": "bag",
+        "translation": "çanta / poşet",
+        "example": "Do you need a bag?",
+        "exampleTr": "Poşet gerekiyor mu?",
+        "phonetic": "/bæɡ/",
+        "level": "a1"
+    },
+    {
+        "id": 53,
+        "word": "guarantee",
+        "translation": "garanti",
+        "example": "Is there a guarantee?",
+        "exampleTr": "Garanti var mı?",
+        "phonetic": "/ˌɡærənˈtiː/",
+        "level": "b2"
+    },
+    {
+        "id": 54,
+        "word": "warranty",
+        "translation": "garanti",
+        "example": "The warranty is two years.",
+        "exampleTr": "Garanti iki yıl.",
+        "phonetic": "/ˈwɒrənti/",
+        "level": "b1"
+    },
+    {
+        "id": 55,
+        "word": "free",
+        "translation": "ücretsiz / bedava",
+        "example": "Buy one, get one free.",
+        "exampleTr": "Bir alana bir bedava.",
+        "phonetic": "/friː/",
+        "level": "a2"
+    },
+    {
+        "id": 56,
+        "word": "offer",
+        "translation": "teklif",
+        "example": "This is a special offer.",
+        "exampleTr": "Bu özel bir teklif.",
+        "phonetic": "/ˈɒfər/",
+        "level": "b1"
+    },
+    {
+        "id": 57,
+        "word": "compare",
+        "translation": "karşılaştırmak",
+        "example": "Compare prices first.",
+        "exampleTr": "Önce fiyatları karşılaştır.",
+        "phonetic": "/kəmˈper/",
+        "level": "b2"
+    },
+    {
+        "id": 58,
+        "word": "choose",
+        "translation": "seçmek",
+        "example": "Choose what you want.",
+        "exampleTr": "İstediğini seç.",
+        "phonetic": "/tʃuːz/",
+        "level": "b1"
+    },
+    {
+        "id": 59,
+        "word": "purchase",
+        "translation": "satın almak",
+        "example": "Thank you for your purchase.",
+        "exampleTr": "Satın aldığınız için teşekkürler.",
+        "phonetic": "/ˈpɜːrtʃəs/",
+        "level": "b1"
+    },
+    {
+        "id": 60,
+        "word": "worth",
+        "translation": "değer",
+        "example": "It's worth the price.",
+        "exampleTr": "Fiyatına değer.",
+        "phonetic": "/wɜːrθ/",
+        "level": "b1"
+    },
+    {
+        "id": 61,
+        "word": "aisle",
+        "translation": "reyonlar arası koridor",
+        "example": "The bread is in aisle three.",
+        "exampleTr": "Ekmek üçüncü koridorda.",
+        "phonetic": "/aɪl/"
+    },
+    {
+        "id": 62,
+        "word": "bargain",
+        "translation": "pazarlık / uygun fiyat",
+        "example": "I found a great bargain.",
+        "exampleTr": "Harika bir fiyata buldum.",
+        "phonetic": "/ˈbɑːrɡən/"
+    },
+    {
+        "id": 63,
+        "word": "boutique",
+        "translation": "butik",
+        "example": "She shops at boutiques.",
+        "exampleTr": "Butiklerden alışveriş yapar.",
+        "phonetic": "/buːˈtiːk/"
+    },
+    {
+        "id": 64,
+        "word": "browse",
+        "translation": "göz gezdirmek",
+        "example": "I'm just browsing.",
+        "exampleTr": "Sadece göz gezdiriyorum.",
+        "phonetic": "/braʊz/"
+    },
+    {
+        "id": 65,
+        "word": "cashier",
+        "translation": "kasiyer",
+        "example": "Pay the cashier.",
+        "exampleTr": "Kasiyere öde.",
+        "phonetic": "/kæˈʃɪr/"
+    },
+    {
+        "id": 66,
+        "word": "clearance",
+        "translation": "indirim / temizlik",
+        "example": "Clearance sale starts today.",
+        "exampleTr": "İndirim satışı bugün başlıyor.",
+        "phonetic": "/ˈklɪərəns/"
+    },
+    {
+        "id": 67,
+        "word": "complimentary",
+        "translation": "ücretsiz / hediye",
+        "example": "The sample is complimentary.",
+        "exampleTr": "Numune ücretsiz.",
+        "phonetic": "/ˌkɒmplɪˈmentəri/"
+    },
+    {
+        "id": 68,
+        "word": "consumer",
+        "translation": "tüketici",
+        "example": "Consumer rights are important.",
+        "exampleTr": "Tüketici hakları önemli.",
+        "phonetic": "/kənˈsjuːmər/"
+    },
+    {
+        "id": 69,
+        "word": "coupon",
+        "translation": "kupon",
+        "example": "Use this coupon for 10% off.",
+        "exampleTr": "%10 indirim için bu kuponu kullan.",
+        "phonetic": "/ˈkuːpɒn/"
+    },
+    {
+        "id": 70,
+        "word": "defective",
+        "translation": "kusurlu / arızalı",
+        "example": "The product is defective.",
+        "exampleTr": "Ürün kusurlu.",
+        "phonetic": "/dɪˈfektɪv/"
+    },
+    {
+        "id": 71,
+        "word": "depot",
+        "translation": "depo / mağaza",
+        "example": "Buy it at the home depot.",
+        "exampleTr": "Yapı marketinden al.",
+        "phonetic": "/ˈdepoʊ/"
+    },
+    {
+        "id": 72,
+        "word": "exchange",
+        "translation": "değişim / takas",
+        "example": "Can I exchange this?",
+        "exampleTr": "Bunu değiştirebilir miyim?",
+        "phonetic": "/ɪksˈtʃeɪndʒ/"
+    },
+    {
+        "id": 73,
+        "word": "expire",
+        "translation": "sona ermek / tarihi geçmek",
+        "example": "The coupon has expired.",
+        "exampleTr": "Kuponun süresi dolmuş.",
+        "phonetic": "/ɪkˈspaɪər/"
+    },
+    {
+        "id": 74,
+        "word": "flea market",
+        "translation": "bit pazarı",
+        "example": "We went to the flea market.",
+        "exampleTr": "Bit pazarına gittik.",
+        "phonetic": "/fliː ˈmɑːrkɪt/"
+    },
+    {
+        "id": 75,
+        "word": "franchise",
+        "translation": "franchise / bayilik",
+        "example": "They opened a franchise.",
+        "exampleTr": "Bir bayilik açtılar.",
+        "phonetic": "/ˈfræntʃaɪz/"
+    },
+    {
+        "id": 76,
+        "word": "haggle",
+        "translation": "pazarlık yapmak",
+        "example": "She haggled over the price.",
+        "exampleTr": "Fiyat üzerinde pazarlık yaptı.",
+        "phonetic": "/ˈhæɡl/"
+    },
+    {
+        "id": 77,
+        "word": "inventory",
+        "translation": "envanter / stok",
+        "example": "Check the inventory.",
+        "exampleTr": "Envanteri kontrol et.",
+        "phonetic": "/ˈɪnvəntɔːri/"
+    },
+    {
+        "id": 78,
+        "word": "invoice",
+        "translation": "fatura",
+        "example": "Please send the invoice.",
+        "exampleTr": "Lütfen faturayı gönderin.",
+        "phonetic": "/ˈɪnvɔɪs/"
+    },
+    {
+        "id": 79,
+        "word": "label",
+        "translation": "etiket",
+        "example": "Read the label carefully.",
+        "exampleTr": "Etiketi dikkatle oku.",
+        "phonetic": "/ˈleɪbl/"
+    },
+    {
+        "id": 80,
+        "word": "loyalty",
+        "translation": "sadakat",
+        "example": "Join our loyalty program.",
+        "exampleTr": "Sadakat programımıza katılın.",
+        "phonetic": "/ˈlɔɪəlti/"
+    },
+    {
+        "id": 81,
+        "word": "markdown",
+        "translation": "indirim",
+        "example": "There's a 30% markdown.",
+        "exampleTr": "%30 indirim var.",
+        "phonetic": "/ˈmɑːrkdaʊn/"
+    },
+    {
+        "id": 82,
+        "word": "merchandise",
+        "translation": "ticari mal",
+        "example": "New merchandise arrived.",
+        "exampleTr": "Yeni ürünler geldi.",
+        "phonetic": "/ˈmɜːrtʃəndaɪz/"
+    },
+    {
+        "id": 83,
+        "word": "outlet",
+        "translation": "satış mağazası",
+        "example": "Shop at the outlet mall.",
+        "exampleTr": "Outlet mağazasından alışveriş yap.",
+        "phonetic": "/ˈaʊtlet/"
+    },
+    {
+        "id": 84,
+        "word": "overcharge",
+        "translation": "fazla fiyat almak",
+        "example": "They overcharged me.",
+        "exampleTr": "Fazla ücret aldılar.",
+        "phonetic": "/ˌoʊvərˈtʃɑːrdʒ/"
+    },
+    {
+        "id": 85,
+        "word": "purchase",
+        "translation": "satın alma",
+        "example": "Thank you for your purchase.",
+        "exampleTr": "Satın almanız için teşekkürler.",
+        "phonetic": "/ˈpɜːrtʃəs/"
+    },
+    {
+        "id": 86,
+        "word": "queue",
+        "translation": "sıra / kuyruk",
+        "example": "There's a long queue.",
+        "exampleTr": "Uzun bir sıra var.",
+        "phonetic": "/kjuː/"
+    },
+    {
+        "id": 87,
+        "word": "rebate",
+        "translation": "geri ödeme",
+        "example": "Get a $50 rebate.",
+        "exampleTr": "50 dolar geri ödeme al.",
+        "phonetic": "/ˈriːbeɪt/"
+    },
+    {
+        "id": 88,
+        "word": "receipt",
+        "translation": "fiş / makbuz",
+        "example": "Keep the receipt.",
+        "exampleTr": "Fişi sakla.",
+        "phonetic": "/rɪˈsiːt/"
+    },
+    {
+        "id": 89,
+        "word": "refund",
+        "translation": "iade / geri ödeme",
+        "example": "I want a refund.",
+        "exampleTr": "İade istiyorum.",
+        "phonetic": "/ˈriːfʌnd/"
+    },
+    {
+        "id": 90,
+        "word": "retail",
+        "translation": "perakende",
+        "example": "The retail price is $100.",
+        "exampleTr": "Perakende fiyatı 100 dolar.",
+        "phonetic": "/ˈriːteɪl/"
+    },
+    {
+        "id": 91,
+        "word": "sample",
+        "translation": "numune / örnek",
+        "example": "Try a free sample.",
+        "exampleTr": "Ücretsiz numune deneyin.",
+        "phonetic": "/ˈsæmpl/"
+    },
+    {
+        "id": 92,
+        "word": "shelf",
+        "translation": "raf",
+        "example": "Put it on the shelf.",
+        "exampleTr": "Rafa koy.",
+        "phonetic": "/ʃelf/"
+    },
+    {
+        "id": 93,
+        "word": "shortage",
+        "translation": "kıtlık / eksiklik",
+        "example": "There's a shortage of stock.",
+        "exampleTr": "Stok sıkıntısı var.",
+        "phonetic": "/ˈʃɔːrtɪdʒ/"
+    },
+    {
+        "id": 94,
+        "word": "splurge",
+        "translation": "savurganlık",
+        "example": "I splurged on a new bag.",
+        "exampleTr": "Yeni bir çantaya para harcadım.",
+        "phonetic": "/splɜːrdʒ/"
+    },
+    {
+        "id": 95,
+        "word": "stockroom",
+        "translation": "depo odası",
+        "example": "Check the stockroom.",
+        "exampleTr": "Depo odasını kontrol et.",
+        "phonetic": "/ˈstɒkruːm/"
+    },
+    {
+        "id": 96,
+        "word": "transaction",
+        "translation": "işlem",
+        "example": "Complete the transaction.",
+        "exampleTr": "İşlemi tamamla.",
+        "phonetic": "/trænˈzækʃn/"
+    },
+    {
+        "id": 97,
+        "word": "vendor",
+        "translation": "satıcı",
+        "example": "The vendor sells fruit.",
+        "exampleTr": "Satıcı meyve satıyor.",
+        "phonetic": "/ˈvendər/"
+    },
+    {
+        "id": 98,
+        "word": "voucher",
+        "translation": "kupon / çek",
+        "example": "Use the gift voucher.",
+        "exampleTr": "Hediye çekini kullan.",
+        "phonetic": "/ˈvaʊtʃər/"
+    },
+    {
+        "id": 99,
+        "word": "warranty",
+        "translation": "garanti",
+        "example": "The warranty lasts two years.",
+        "exampleTr": "Garanti iki yıl sürer.",
+        "phonetic": "/ˈwɒrənti/"
+    },
+    {
+        "id": 100,
+        "word": "wholesale",
+        "translation": "toptan",
+        "example": "We buy wholesale.",
+        "exampleTr": "Toptan alıyoruz.",
+        "phonetic": "/ˈhoʊlseɪl/"
+    }
+]

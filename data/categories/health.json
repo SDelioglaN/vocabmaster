@@ -1,0 +1,872 @@
+[
+    {
+        "id": 1,
+        "word": "health",
+        "translation": "sağlık",
+        "example": "Health is important.",
+        "exampleTr": "Sağlık önemlidir.",
+        "phonetic": "/helθ/",
+        "level": "b1"
+    },
+    {
+        "id": 2,
+        "word": "healthy",
+        "translation": "sağlıklı",
+        "example": "Eat healthy food.",
+        "exampleTr": "Sağlıklı yemek ye.",
+        "phonetic": "/ˈhelθi/",
+        "level": "a2"
+    },
+    {
+        "id": 3,
+        "word": "sick",
+        "translation": "hasta",
+        "example": "I feel sick.",
+        "exampleTr": "Hasta hissediyorum.",
+        "phonetic": "/sɪk/",
+        "level": "a2"
+    },
+    {
+        "id": 4,
+        "word": "ill",
+        "translation": "hasta",
+        "example": "She is ill.",
+        "exampleTr": "O hasta.",
+        "phonetic": "/ɪl/",
+        "level": "a2"
+    },
+    {
+        "id": 5,
+        "word": "disease",
+        "translation": "hastalık",
+        "example": "Prevent disease.",
+        "exampleTr": "Hastalığı önle.",
+        "phonetic": "/dɪˈziːz/",
+        "level": "b2"
+    },
+    {
+        "id": 6,
+        "word": "illness",
+        "translation": "hastalık",
+        "example": "He recovered from illness.",
+        "exampleTr": "Hastalıktan iyileşti.",
+        "phonetic": "/ˈɪlnəs/",
+        "level": "b2"
+    },
+    {
+        "id": 7,
+        "word": "doctor",
+        "translation": "doktor",
+        "example": "See a doctor.",
+        "exampleTr": "Doktora git.",
+        "phonetic": "/ˈdɒktər/",
+        "level": "a1"
+    },
+    {
+        "id": 8,
+        "word": "nurse",
+        "translation": "hemşire",
+        "example": "The nurse is helpful.",
+        "exampleTr": "Hemşire yardımcı.",
+        "phonetic": "/nɜːrs/",
+        "level": "b1"
+    },
+    {
+        "id": 9,
+        "word": "hospital",
+        "translation": "hastane",
+        "example": "Go to the hospital.",
+        "exampleTr": "Hastaneye git.",
+        "phonetic": "/ˈhɒspɪtl/",
+        "level": "a1"
+    },
+    {
+        "id": 10,
+        "word": "clinic",
+        "translation": "klinik",
+        "example": "Visit the clinic.",
+        "exampleTr": "Kliniği ziyaret et.",
+        "phonetic": "/ˈklɪnɪk/",
+        "level": "b1"
+    },
+    {
+        "id": 11,
+        "word": "pharmacy",
+        "translation": "eczane",
+        "example": "Buy medicine at the pharmacy.",
+        "exampleTr": "Eczaneden ilaç al.",
+        "phonetic": "/ˈfɑːrməsi/",
+        "level": "b1"
+    },
+    {
+        "id": 12,
+        "word": "medicine",
+        "translation": "ilaç",
+        "example": "Take your medicine.",
+        "exampleTr": "İlacını al.",
+        "phonetic": "/ˈmedɪsn/",
+        "level": "a2"
+    },
+    {
+        "id": 13,
+        "word": "pill",
+        "translation": "hap",
+        "example": "Take two pills.",
+        "exampleTr": "İki hap al.",
+        "phonetic": "/pɪl/",
+        "level": "a2"
+    },
+    {
+        "id": 14,
+        "word": "prescription",
+        "translation": "reçete",
+        "example": "I need a prescription.",
+        "exampleTr": "Reçeteye ihtiyacım var.",
+        "phonetic": "/prɪˈskrɪpʃn/",
+        "level": "b1"
+    },
+    {
+        "id": 15,
+        "word": "symptom",
+        "translation": "belirti",
+        "example": "What are the symptoms?",
+        "exampleTr": "Belirtiler neler?",
+        "phonetic": "/ˈsɪmptəm/",
+        "level": "b1"
+    },
+    {
+        "id": 16,
+        "word": "pain",
+        "translation": "ağrı",
+        "example": "I have pain in my back.",
+        "exampleTr": "Sırtımda ağrı var.",
+        "phonetic": "/peɪn/",
+        "level": "a2"
+    },
+    {
+        "id": 17,
+        "word": "headache",
+        "translation": "baş ağrısı",
+        "example": "I have a headache.",
+        "exampleTr": "Başım ağrıyor.",
+        "phonetic": "/ˈhedeɪk/",
+        "level": "a2"
+    },
+    {
+        "id": 18,
+        "word": "stomachache",
+        "translation": "karın ağrısı",
+        "example": "I have a stomachache.",
+        "exampleTr": "Karnım ağrıyor.",
+        "phonetic": "/ˈstʌməkeɪk/",
+        "level": "c1"
+    },
+    {
+        "id": 19,
+        "word": "toothache",
+        "translation": "diş ağrısı",
+        "example": "I have a toothache.",
+        "exampleTr": "Dişim ağrıyor.",
+        "phonetic": "/ˈtuːθeɪk/",
+        "level": "b2"
+    },
+    {
+        "id": 20,
+        "word": "fever",
+        "translation": "ateş",
+        "example": "He has a fever.",
+        "exampleTr": "Ateşi var.",
+        "phonetic": "/ˈfiːvər/",
+        "level": "a2"
+    },
+    {
+        "id": 21,
+        "word": "cold",
+        "translation": "soğuk algınlığı",
+        "example": "I caught a cold.",
+        "exampleTr": "Soğuk algınlığına yakalandım.",
+        "phonetic": "/koʊld/",
+        "level": "a1"
+    },
+    {
+        "id": 22,
+        "word": "flu",
+        "translation": "grip",
+        "example": "I have the flu.",
+        "exampleTr": "Gripim.",
+        "phonetic": "/fluː/",
+        "level": "a2"
+    },
+    {
+        "id": 23,
+        "word": "allergy",
+        "translation": "alerji",
+        "example": "I have a food allergy.",
+        "exampleTr": "Yemek alerjim var.",
+        "phonetic": "/ˈælərdʒi/",
+        "level": "b1"
+    },
+    {
+        "id": 24,
+        "word": "infection",
+        "translation": "enfeksiyon",
+        "example": "It's an infection.",
+        "exampleTr": "Bu bir enfeksiyon.",
+        "phonetic": "/ɪnˈfekʃn/",
+        "level": "b1"
+    },
+    {
+        "id": 25,
+        "word": "wound",
+        "translation": "yara",
+        "example": "Clean the wound.",
+        "exampleTr": "Yarayı temizle.",
+        "phonetic": "/wuːnd/",
+        "level": "b1"
+    },
+    {
+        "id": 26,
+        "word": "injury",
+        "translation": "yaralanma",
+        "example": "He has a serious injury.",
+        "exampleTr": "Ciddi bir yaralanması var.",
+        "phonetic": "/ˈɪndʒəri/",
+        "level": "b1"
+    },
+    {
+        "id": 27,
+        "word": "broken",
+        "translation": "kırık",
+        "example": "My arm is broken.",
+        "exampleTr": "Kolum kırık.",
+        "phonetic": "/ˈbroʊkən/",
+        "level": "b1"
+    },
+    {
+        "id": 28,
+        "word": "sprain",
+        "translation": "burkulma",
+        "example": "I sprained my ankle.",
+        "exampleTr": "Ayak bileğimi burkdum.",
+        "phonetic": "/spreɪn/",
+        "level": "b1"
+    },
+    {
+        "id": 29,
+        "word": "bandage",
+        "translation": "bandaj",
+        "example": "Put a bandage on it.",
+        "exampleTr": "Üzerine bandaj koy.",
+        "phonetic": "/ˈbændɪdʒ/",
+        "level": "b2"
+    },
+    {
+        "id": 30,
+        "word": "surgery",
+        "translation": "ameliyat",
+        "example": "He needs surgery.",
+        "exampleTr": "Ameliyata ihtiyacı var.",
+        "phonetic": "/ˈsɜːrdʒəri/",
+        "level": "b2"
+    },
+    {
+        "id": 31,
+        "word": "operation",
+        "translation": "operasyon",
+        "example": "The operation was successful.",
+        "exampleTr": "Operasyon başarılı geçti.",
+        "phonetic": "/ˌɒpəˈreɪʃn/",
+        "level": "b2"
+    },
+    {
+        "id": 32,
+        "word": "treatment",
+        "translation": "tedavi",
+        "example": "What's the treatment?",
+        "exampleTr": "Tedavi nedir?",
+        "phonetic": "/ˈtriːtmənt/",
+        "level": "b1"
+    },
+    {
+        "id": 33,
+        "word": "cure",
+        "translation": "tedavi / iyileştirmek",
+        "example": "There's no cure yet.",
+        "exampleTr": "Henüz tedavi yok.",
+        "phonetic": "/kjʊr/",
+        "level": "a2"
+    },
+    {
+        "id": 34,
+        "word": "recover",
+        "translation": "iyileşmek",
+        "example": "She recovered quickly.",
+        "exampleTr": "Çabuk iyileşti.",
+        "phonetic": "/rɪˈkʌvər/",
+        "level": "b1"
+    },
+    {
+        "id": 35,
+        "word": "heal",
+        "translation": "iyileşmek",
+        "example": "The wound is healing.",
+        "exampleTr": "Yara iyileşiyor.",
+        "phonetic": "/hiːl/",
+        "level": "a2"
+    },
+    {
+        "id": 36,
+        "word": "head",
+        "translation": "kafa",
+        "example": "My head hurts.",
+        "exampleTr": "Kafam ağrıyor.",
+        "phonetic": "/hed/",
+        "level": "a1"
+    },
+    {
+        "id": 37,
+        "word": "face",
+        "translation": "yüz",
+        "example": "Wash your face.",
+        "exampleTr": "Yüzünü yıka.",
+        "phonetic": "/feɪs/",
+        "level": "a1"
+    },
+    {
+        "id": 38,
+        "word": "eye",
+        "translation": "göz",
+        "example": "Close your eyes.",
+        "exampleTr": "Gözlerini kapat.",
+        "phonetic": "/aɪ/",
+        "level": "a1"
+    },
+    {
+        "id": 39,
+        "word": "ear",
+        "translation": "kulak",
+        "example": "I have an ear infection.",
+        "exampleTr": "Kulak enfeksiyonum var.",
+        "phonetic": "/ɪr/",
+        "level": "a1"
+    },
+    {
+        "id": 40,
+        "word": "nose",
+        "translation": "burun",
+        "example": "My nose is bleeding.",
+        "exampleTr": "Burnum kanıyor.",
+        "phonetic": "/noʊz/",
+        "level": "a1"
+    },
+    {
+        "id": 41,
+        "word": "mouth",
+        "translation": "ağız",
+        "example": "Open your mouth.",
+        "exampleTr": "Ağzını aç.",
+        "phonetic": "/maʊθ/",
+        "level": "a1"
+    },
+    {
+        "id": 42,
+        "word": "tooth",
+        "translation": "diş",
+        "example": "Brush your teeth.",
+        "exampleTr": "Dişlerini fırçala.",
+        "phonetic": "/tuːθ/",
+        "level": "a1"
+    },
+    {
+        "id": 43,
+        "word": "tongue",
+        "translation": "dil",
+        "example": "Show your tongue.",
+        "exampleTr": "Dilini göster.",
+        "phonetic": "/tʌŋ/",
+        "level": "b1"
+    },
+    {
+        "id": 44,
+        "word": "throat",
+        "translation": "boğaz",
+        "example": "My throat hurts.",
+        "exampleTr": "Boğazım ağrıyor.",
+        "phonetic": "/θroʊt/",
+        "level": "b1"
+    },
+    {
+        "id": 45,
+        "word": "neck",
+        "translation": "boyun",
+        "example": "I have a stiff neck.",
+        "exampleTr": "Boynum tutuldu.",
+        "phonetic": "/nek/",
+        "level": "a2"
+    },
+    {
+        "id": 46,
+        "word": "shoulder",
+        "translation": "omuz",
+        "example": "My shoulder hurts.",
+        "exampleTr": "Omuzum ağrıyor.",
+        "phonetic": "/ˈʃoʊldər/",
+        "level": "b2"
+    },
+    {
+        "id": 47,
+        "word": "arm",
+        "translation": "kol",
+        "example": "Raise your arm.",
+        "exampleTr": "Kolunu kaldır.",
+        "phonetic": "/ɑːrm/",
+        "level": "a1"
+    },
+    {
+        "id": 48,
+        "word": "elbow",
+        "translation": "dirsek",
+        "example": "I hit my elbow.",
+        "exampleTr": "Dirseğimi çarptım.",
+        "phonetic": "/ˈelboʊ/",
+        "level": "b1"
+    },
+    {
+        "id": 49,
+        "word": "wrist",
+        "translation": "bilek",
+        "example": "My wrist is swollen.",
+        "exampleTr": "Bileğim şişti.",
+        "phonetic": "/rɪst/",
+        "level": "b1"
+    },
+    {
+        "id": 50,
+        "word": "hand",
+        "translation": "el",
+        "example": "Wash your hands.",
+        "exampleTr": "Ellerini yıka.",
+        "phonetic": "/hænd/",
+        "level": "a1"
+    },
+    {
+        "id": 51,
+        "word": "finger",
+        "translation": "parmak",
+        "example": "I cut my finger.",
+        "exampleTr": "Parmağımı kestim.",
+        "phonetic": "/ˈfɪŋɡər/",
+        "level": "a1"
+    },
+    {
+        "id": 52,
+        "word": "chest",
+        "translation": "göğüs",
+        "example": "I have chest pain.",
+        "exampleTr": "Göğüs ağrım var.",
+        "phonetic": "/tʃest/",
+        "level": "b1"
+    },
+    {
+        "id": 53,
+        "word": "heart",
+        "translation": "kalp",
+        "example": "My heart beats fast.",
+        "exampleTr": "Kalbim hızlı atıyor.",
+        "phonetic": "/hɑːrt/",
+        "level": "a1"
+    },
+    {
+        "id": 54,
+        "word": "lung",
+        "translation": "akciğer",
+        "example": "Lungs need fresh air.",
+        "exampleTr": "Akciğerler temiz havaya ihtiyaç duyar.",
+        "phonetic": "/lʌŋ/",
+        "level": "a2"
+    },
+    {
+        "id": 55,
+        "word": "stomach",
+        "translation": "mide / karın",
+        "example": "My stomach hurts.",
+        "exampleTr": "Midem ağrıyor.",
+        "phonetic": "/ˈstʌmək/",
+        "level": "a2"
+    },
+    {
+        "id": 56,
+        "word": "back",
+        "translation": "sırt",
+        "example": "I have back pain.",
+        "exampleTr": "Sırt ağrım var.",
+        "phonetic": "/bæk/",
+        "level": "a1"
+    },
+    {
+        "id": 57,
+        "word": "leg",
+        "translation": "bacak",
+        "example": "My leg hurts.",
+        "exampleTr": "Bacağım ağrıyor.",
+        "phonetic": "/leɡ/",
+        "level": "a1"
+    },
+    {
+        "id": 58,
+        "word": "knee",
+        "translation": "diz",
+        "example": "Bend your knee.",
+        "exampleTr": "Dizini bük.",
+        "phonetic": "/niː/",
+        "level": "a2"
+    },
+    {
+        "id": 59,
+        "word": "ankle",
+        "translation": "ayak bileği",
+        "example": "I twisted my ankle.",
+        "exampleTr": "Ayak bileğimi burkdum.",
+        "phonetic": "/ˈæŋkl/",
+        "level": "b1"
+    },
+    {
+        "id": 60,
+        "word": "foot",
+        "translation": "ayak",
+        "example": "My foot is swollen.",
+        "exampleTr": "Ayağım şişti.",
+        "phonetic": "/fʊt/",
+        "level": "a1"
+    },
+    {
+        "id": 61,
+        "word": "blood",
+        "translation": "kan",
+        "example": "I need a blood test.",
+        "exampleTr": "Kan testine ihtiyacım var.",
+        "phonetic": "/blʌd/",
+        "level": "a2"
+    },
+    {
+        "id": 62,
+        "word": "bone",
+        "translation": "kemik",
+        "example": "The bone is broken.",
+        "exampleTr": "Kemik kırık.",
+        "phonetic": "/boʊn/",
+        "level": "a2"
+    },
+    {
+        "id": 63,
+        "word": "muscle",
+        "translation": "kas",
+        "example": "I pulled a muscle.",
+        "exampleTr": "Bir kasımı çektim.",
+        "phonetic": "/ˈmʌsl/",
+        "level": "b1"
+    },
+    {
+        "id": 64,
+        "word": "skin",
+        "translation": "cilt / deri",
+        "example": "My skin is dry.",
+        "exampleTr": "Cildim kuru.",
+        "phonetic": "/skɪn/",
+        "level": "a2"
+    },
+    {
+        "id": 65,
+        "word": "brain",
+        "translation": "beyin",
+        "example": "The brain is complex.",
+        "exampleTr": "Beyin karmaşıktır.",
+        "phonetic": "/breɪn/",
+        "level": "b1"
+    },
+    {
+        "id": 66,
+        "word": "diet",
+        "translation": "diyet",
+        "example": "I'm on a diet.",
+        "exampleTr": "Diyetteyim.",
+        "phonetic": "/ˈdaɪət/",
+        "level": "a2"
+    },
+    {
+        "id": 67,
+        "word": "exercise",
+        "translation": "egzersiz",
+        "example": "Exercise is good for you.",
+        "exampleTr": "Egzersiz senin için iyi.",
+        "phonetic": "/ˈeksərsaɪz/",
+        "level": "a2"
+    },
+    {
+        "id": 68,
+        "word": "fit",
+        "translation": "formda",
+        "example": "Stay fit and healthy.",
+        "exampleTr": "Formda ve sağlıklı kal.",
+        "phonetic": "/fɪt/",
+        "level": "a2"
+    },
+    {
+        "id": 69,
+        "word": "weight",
+        "translation": "kilo",
+        "example": "I lost weight.",
+        "exampleTr": "Kilo verdim.",
+        "phonetic": "/weɪt/",
+        "level": "b1"
+    },
+    {
+        "id": 70,
+        "word": "vaccine",
+        "translation": "aşı",
+        "example": "Get the vaccine.",
+        "exampleTr": "Aşıyı ol.",
+        "phonetic": "/vækˈsiːn/",
+        "level": "b1"
+    },
+    {
+        "id": 71,
+        "word": "ailment",
+        "translation": "rahatsızlık",
+        "example": "Minor ailments are common.",
+        "exampleTr": "Küçük rahatsızlıklar yaygın.",
+        "phonetic": "/ˈeɪlmənt/"
+    },
+    {
+        "id": 72,
+        "word": "antibiotic",
+        "translation": "antibiyotik",
+        "example": "Take the antibiotics.",
+        "exampleTr": "Antibiyotikleri al.",
+        "phonetic": "/ˌæntibaɪˈɒtɪk/"
+    },
+    {
+        "id": 73,
+        "word": "chronic",
+        "translation": "kronik",
+        "example": "He has chronic pain.",
+        "exampleTr": "Kronik ağrısı var.",
+        "phonetic": "/ˈkrɒnɪk/"
+    },
+    {
+        "id": 74,
+        "word": "contagious",
+        "translation": "bulaşıcı",
+        "example": "The disease is contagious.",
+        "exampleTr": "Hastalık bulaşıcı.",
+        "phonetic": "/kənˈteɪdʒəs/"
+    },
+    {
+        "id": 75,
+        "word": "dehydration",
+        "translation": "susuzluk / dehidrasyon",
+        "example": "Drink water to prevent dehydration.",
+        "exampleTr": "Dehidrasyonu önlemek için su iç.",
+        "phonetic": "/ˌdiːhaɪˈdreɪʃn/"
+    },
+    {
+        "id": 76,
+        "word": "diagnosis",
+        "translation": "teşhis",
+        "example": "The diagnosis was cancer.",
+        "exampleTr": "Teşhis kanserdi.",
+        "phonetic": "/ˌdaɪəɡˈnoʊsɪs/"
+    },
+    {
+        "id": 77,
+        "word": "dosage",
+        "translation": "dozaj",
+        "example": "Follow the recommended dosage.",
+        "exampleTr": "Önerilen dozajı uygula.",
+        "phonetic": "/ˈdoʊsɪdʒ/"
+    },
+    {
+        "id": 78,
+        "word": "epidemic",
+        "translation": "salgın",
+        "example": "An epidemic spread quickly.",
+        "exampleTr": "Salgın hızla yayıldı.",
+        "phonetic": "/ˌepɪˈdemɪk/"
+    },
+    {
+        "id": 79,
+        "word": "fatigue",
+        "translation": "yorgunluk / halsizlik",
+        "example": "Chronic fatigue is serious.",
+        "exampleTr": "Kronik yorgunluk ciddi.",
+        "phonetic": "/fəˈtiːɡ/"
+    },
+    {
+        "id": 80,
+        "word": "hygiene",
+        "translation": "hijyen",
+        "example": "Good hygiene prevents disease.",
+        "exampleTr": "İyi hijyen hastalığı önler.",
+        "phonetic": "/ˈhaɪdʒiːn/"
+    },
+    {
+        "id": 81,
+        "word": "immune",
+        "translation": "bağışıklık",
+        "example": "Build your immune system.",
+        "exampleTr": "Bağışıklık sistemini güçlendir.",
+        "phonetic": "/ɪˈmjuːn/"
+    },
+    {
+        "id": 82,
+        "word": "inflammation",
+        "translation": "iltihap / yangı",
+        "example": "Reduce inflammation with ice.",
+        "exampleTr": "Buzla iltihabı azalt.",
+        "phonetic": "/ˌɪnfləˈmeɪʃn/"
+    },
+    {
+        "id": 83,
+        "word": "insomnia",
+        "translation": "uykusuzluk",
+        "example": "She suffers from insomnia.",
+        "exampleTr": "Uykusuzluk çekiyor.",
+        "phonetic": "/ɪnˈsɒmniə/"
+    },
+    {
+        "id": 84,
+        "word": "metabolism",
+        "translation": "metabolizma",
+        "example": "Exercise boosts metabolism.",
+        "exampleTr": "Egzersiz metabolizmayı hızlandırır.",
+        "phonetic": "/məˈtæbəlɪzəm/"
+    },
+    {
+        "id": 85,
+        "word": "nausea",
+        "translation": "mide bulantısı",
+        "example": "She felt nausea.",
+        "exampleTr": "Mide bulantısı hissetti.",
+        "phonetic": "/ˈnɔːziə/"
+    },
+    {
+        "id": 86,
+        "word": "nutrition",
+        "translation": "beslenme",
+        "example": "Good nutrition is essential.",
+        "exampleTr": "İyi beslenme gerekli.",
+        "phonetic": "/njuːˈtrɪʃn/"
+    },
+    {
+        "id": 87,
+        "word": "obesity",
+        "translation": "obezite",
+        "example": "Obesity is a health risk.",
+        "exampleTr": "Obezite sağlık riski.",
+        "phonetic": "/oʊˈbiːsəti/"
+    },
+    {
+        "id": 88,
+        "word": "ointment",
+        "translation": "merhem",
+        "example": "Apply the ointment twice daily.",
+        "exampleTr": "Merhemi günde iki kez sür.",
+        "phonetic": "/ˈɔɪntmənt/"
+    },
+    {
+        "id": 89,
+        "word": "pandemic",
+        "translation": "pandemi",
+        "example": "The pandemic affected everyone.",
+        "exampleTr": "Pandemi herkesi etkiledi.",
+        "phonetic": "/pænˈdemɪk/"
+    },
+    {
+        "id": 90,
+        "word": "physiology",
+        "translation": "fizyoloji",
+        "example": "She studies human physiology.",
+        "exampleTr": "İnsan fizyolojisi çalışıyor.",
+        "phonetic": "/ˌfɪziˈɒlədʒi/"
+    },
+    {
+        "id": 91,
+        "word": "prescription",
+        "translation": "reçete",
+        "example": "Get a prescription from the doctor.",
+        "exampleTr": "Doktordan reçete al.",
+        "phonetic": "/prɪˈskrɪpʃn/"
+    },
+    {
+        "id": 92,
+        "word": "rehabilitation",
+        "translation": "rehabilitasyon",
+        "example": "He's in rehabilitation.",
+        "exampleTr": "Rehabilitasyonda.",
+        "phonetic": "/ˌriːəˌbɪlɪˈteɪʃn/"
+    },
+    {
+        "id": 93,
+        "word": "remedy",
+        "translation": "çare / ilaç",
+        "example": "A home remedy for colds.",
+        "exampleTr": "Soğuk algınlığı için ev ilacı.",
+        "phonetic": "/ˈremədi/"
+    },
+    {
+        "id": 94,
+        "word": "seizure",
+        "translation": "nöbet",
+        "example": "He had a seizure.",
+        "exampleTr": "Nöbet geçirdi.",
+        "phonetic": "/ˈsiːʒər/"
+    },
+    {
+        "id": 95,
+        "word": "specimen",
+        "translation": "numune / örnek",
+        "example": "Collect a blood specimen.",
+        "exampleTr": "Kan örneği al.",
+        "phonetic": "/ˈspesɪmən/"
+    },
+    {
+        "id": 96,
+        "word": "stamina",
+        "translation": "dayanıklılık",
+        "example": "Running builds stamina.",
+        "exampleTr": "Koşu dayanıklılık kazandırır.",
+        "phonetic": "/ˈstæmɪnə/"
+    },
+    {
+        "id": 97,
+        "word": "supplement",
+        "translation": "takviye",
+        "example": "Take vitamin supplements.",
+        "exampleTr": "Vitamin takviyesi al.",
+        "phonetic": "/ˈsʌplɪment/"
+    },
+    {
+        "id": 98,
+        "word": "therapy",
+        "translation": "terapi",
+        "example": "She goes to therapy weekly.",
+        "exampleTr": "Haftalık terapiye gidiyor.",
+        "phonetic": "/ˈθerəpi/"
+    },
+    {
+        "id": 99,
+        "word": "vaccine",
+        "translation": "aşı",
+        "example": "Get the flu vaccine.",
+        "exampleTr": "Grip aşısı ol.",
+        "phonetic": "/vækˈsiːn/"
+    },
+    {
+        "id": 100,
+        "word": "wellness",
+        "translation": "sağlık / iyilik hali",
+        "example": "Focus on wellness.",
+        "exampleTr": "Sağlığa odaklan.",
+        "phonetic": "/ˈwelnəs/"
+    }
+]

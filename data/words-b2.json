@@ -1,0 +1,1602 @@
+[
+    {
+        "id": 1,
+        "word": "abolish",
+        "translation": "kaldırmak",
+        "example": "The government abolished the old law.",
+        "exampleTr": "Hükümet eski yasayı kaldırdı.",
+        "phonetic": "/əˈbɒlɪʃ/"
+    },
+    {
+        "id": 2,
+        "word": "abstract",
+        "translation": "soyut",
+        "example": "The painting has an abstract style.",
+        "exampleTr": "Tablo soyut bir tarza sahip.",
+        "phonetic": "/ˈæbstrækt/"
+    },
+    {
+        "id": 3,
+        "word": "accumulate",
+        "translation": "biriktirmek",
+        "example": "Dust tends to accumulate in corners.",
+        "exampleTr": "Toz köşelerde birikir.",
+        "phonetic": "/əˈkjuːmjəleɪt/"
+    },
+    {
+        "id": 4,
+        "word": "adverse",
+        "translation": "olumsuz",
+        "example": "The drug may have adverse effects.",
+        "exampleTr": "İlacın olumsuz etkileri olabilir.",
+        "phonetic": "/ˈædvɜːrs/"
+    },
+    {
+        "id": 5,
+        "word": "allocate",
+        "translation": "tahsis etmek",
+        "example": "The budget allocates funds for education.",
+        "exampleTr": "Bütçe eğitim için fon tahsis ediyor.",
+        "phonetic": "/ˈæləkeɪt/"
+    },
+    {
+        "id": 6,
+        "word": "ambiguous",
+        "translation": "belirsiz",
+        "example": "The instructions were ambiguous.",
+        "exampleTr": "Talimatlar belirsizdi.",
+        "phonetic": "/æmˈbɪɡjuəs/"
+    },
+    {
+        "id": 7,
+        "word": "analogy",
+        "translation": "benzetme",
+        "example": "He drew an analogy between life and a journey.",
+        "exampleTr": "Hayat ile yolculuk arasında benzetme yaptı.",
+        "phonetic": "/əˈnælədʒi/"
+    },
+    {
+        "id": 8,
+        "word": "arbitrary",
+        "translation": "keyfi",
+        "example": "The decision seemed arbitrary.",
+        "exampleTr": "Karar keyfi görünüyordu.",
+        "phonetic": "/ˈɑːrbɪtreri/"
+    },
+    {
+        "id": 9,
+        "word": "autonomous",
+        "translation": "özerk",
+        "example": "The region became autonomous.",
+        "exampleTr": "Bölge özerk hale geldi.",
+        "phonetic": "/ɔːˈtɒnəməs/"
+    },
+    {
+        "id": 10,
+        "word": "bias",
+        "translation": "önyargı",
+        "example": "The report shows clear bias.",
+        "exampleTr": "Rapor açık bir önyargı gösteriyor.",
+        "phonetic": "/ˈbaɪəs/"
+    },
+    {
+        "id": 11,
+        "word": "breakthrough",
+        "translation": "çığır açma",
+        "example": "Scientists made a breakthrough in cancer research.",
+        "exampleTr": "Bilim insanları kanser araştırmalarında çığır açtı.",
+        "phonetic": "/ˈbreɪkθruː/"
+    },
+    {
+        "id": 12,
+        "word": "bureaucracy",
+        "translation": "bürokrasi",
+        "example": "Bureaucracy slows down the process.",
+        "exampleTr": "Bürokrasi süreci yavaşlatır.",
+        "phonetic": "/bjʊˈrɒkrəsi/"
+    },
+    {
+        "id": 13,
+        "word": "catastrophe",
+        "translation": "felaket",
+        "example": "The earthquake was a catastrophe.",
+        "exampleTr": "Deprem bir felaketti.",
+        "phonetic": "/kəˈtæstrəfi/"
+    },
+    {
+        "id": 14,
+        "word": "chronic",
+        "translation": "kronik",
+        "example": "He suffers from chronic pain.",
+        "exampleTr": "Kronik ağrı çekiyor.",
+        "phonetic": "/ˈkrɒnɪk/"
+    },
+    {
+        "id": 15,
+        "word": "coherent",
+        "translation": "tutarlı",
+        "example": "She gave a coherent explanation.",
+        "exampleTr": "Tutarlı bir açıklama yaptı.",
+        "phonetic": "/koʊˈhɪərənt/"
+    },
+    {
+        "id": 16,
+        "word": "coincide",
+        "translation": "çakışmak",
+        "example": "The events coincide with each other.",
+        "exampleTr": "Olaylar birbiriyle çakışıyor.",
+        "phonetic": "/ˌkoʊɪnˈsaɪd/"
+    },
+    {
+        "id": 17,
+        "word": "comprehensive",
+        "translation": "kapsamlı",
+        "example": "We need a comprehensive plan.",
+        "exampleTr": "Kapsamlı bir plan gerekiyor.",
+        "phonetic": "/ˌkɒmprɪˈhensɪv/"
+    },
+    {
+        "id": 18,
+        "word": "comprise",
+        "translation": "kapsamak",
+        "example": "The committee comprises five members.",
+        "exampleTr": "Komite beş üyeden oluşuyor.",
+        "phonetic": "/kəmˈpraɪz/"
+    },
+    {
+        "id": 19,
+        "word": "conceive",
+        "translation": "tasarlamak",
+        "example": "I can't conceive why he did that.",
+        "exampleTr": "Bunu neden yaptığını anlayamıyorum.",
+        "phonetic": "/kənˈsiːv/"
+    },
+    {
+        "id": 20,
+        "word": "consensus",
+        "translation": "uzlaşı",
+        "example": "We reached a consensus.",
+        "exampleTr": "Uzlaşıya vardık.",
+        "phonetic": "/kənˈsensəs/"
+    },
+    {
+        "id": 21,
+        "word": "consent",
+        "translation": "onay",
+        "example": "You need parental consent.",
+        "exampleTr": "Ebeveyn onayı gerekir.",
+        "phonetic": "/kənˈsent/"
+    },
+    {
+        "id": 22,
+        "word": "considerable",
+        "translation": "önemli",
+        "example": "There was considerable damage.",
+        "exampleTr": "Önemli hasar vardı.",
+        "phonetic": "/kənˈsɪdərəbl/"
+    },
+    {
+        "id": 23,
+        "word": "consistent",
+        "translation": "tutarlı",
+        "example": "Her performance has been consistent.",
+        "exampleTr": "Performansı tutarlı oldu.",
+        "phonetic": "/kənˈsɪstənt/"
+    },
+    {
+        "id": 24,
+        "word": "constitute",
+        "translation": "oluşturmak",
+        "example": "Women constitute 40% of the workforce.",
+        "exampleTr": "Kadınlar işgücünün %40'ını oluşturuyor.",
+        "phonetic": "/ˈkɒnstɪtuːt/"
+    },
+    {
+        "id": 25,
+        "word": "constraint",
+        "translation": "kısıtlama",
+        "example": "Budget constraints limit our options.",
+        "exampleTr": "Bütçe kısıtlamaları seçenekleri sınırlıyor.",
+        "phonetic": "/kənˈstreɪnt/"
+    },
+    {
+        "id": 26,
+        "word": "contemporary",
+        "translation": "çağdaş",
+        "example": "Contemporary art is interesting.",
+        "exampleTr": "Çağdaş sanat ilginç.",
+        "phonetic": "/kənˈtempəreri/"
+    },
+    {
+        "id": 27,
+        "word": "context",
+        "translation": "bağlam",
+        "example": "You need to understand the context.",
+        "exampleTr": "Bağlamı anlamalısın.",
+        "phonetic": "/ˈkɒntekst/"
+    },
+    {
+        "id": 28,
+        "word": "contradict",
+        "translation": "çelişmek",
+        "example": "His actions contradict his words.",
+        "exampleTr": "Eylemleri sözleriyle çelişiyor.",
+        "phonetic": "/ˌkɒntrəˈdɪkt/"
+    },
+    {
+        "id": 29,
+        "word": "controversy",
+        "translation": "tartışma",
+        "example": "The decision caused controversy.",
+        "exampleTr": "Karar tartışmaya yol açtı.",
+        "phonetic": "/ˈkɒntrəvɜːrsi/"
+    },
+    {
+        "id": 30,
+        "word": "conventional",
+        "translation": "geleneksel",
+        "example": "She prefers conventional methods.",
+        "exampleTr": "Geleneksel yöntemleri tercih ediyor.",
+        "phonetic": "/kənˈvenʃənl/"
+    },
+    {
+        "id": 31,
+        "word": "convey",
+        "translation": "iletmek",
+        "example": "I tried to convey my feelings.",
+        "exampleTr": "Duygularımı iletmeye çalıştım.",
+        "phonetic": "/kənˈveɪ/"
+    },
+    {
+        "id": 32,
+        "word": "criterion",
+        "translation": "kriter",
+        "example": "What's the criterion for selection?",
+        "exampleTr": "Seçim kriteri nedir?",
+        "phonetic": "/kraɪˈtɪəriən/"
+    },
+    {
+        "id": 33,
+        "word": "crucial",
+        "translation": "kritik",
+        "example": "This is a crucial moment.",
+        "exampleTr": "Bu kritik bir an.",
+        "phonetic": "/ˈkruːʃl/"
+    },
+    {
+        "id": 34,
+        "word": "decline",
+        "translation": "düşüş",
+        "example": "Sales have been in decline.",
+        "exampleTr": "Satışlar düşüşte.",
+        "phonetic": "/dɪˈklaɪn/"
+    },
+    {
+        "id": 35,
+        "word": "dedicate",
+        "translation": "adamak",
+        "example": "He dedicated his life to science.",
+        "exampleTr": "Hayatını bilime adadı.",
+        "phonetic": "/ˈdedɪkeɪt/"
+    },
+    {
+        "id": 36,
+        "word": "deficiency",
+        "translation": "eksiklik",
+        "example": "Vitamin D deficiency is common.",
+        "exampleTr": "D vitamini eksikliği yaygın.",
+        "phonetic": "/dɪˈfɪʃnsi/"
+    },
+    {
+        "id": 37,
+        "word": "deliberate",
+        "translation": "kasıtlı",
+        "example": "It was a deliberate decision.",
+        "exampleTr": "Kasıtlı bir karardı.",
+        "phonetic": "/dɪˈlɪbərət/"
+    },
+    {
+        "id": 38,
+        "word": "demonstrate",
+        "translation": "göstermek",
+        "example": "The results demonstrate effectiveness.",
+        "exampleTr": "Sonuçlar etkinliği gösteriyor.",
+        "phonetic": "/ˈdemənstreɪt/"
+    },
+    {
+        "id": 39,
+        "word": "derive",
+        "translation": "türemek",
+        "example": "The word derives from Latin.",
+        "exampleTr": "Kelime Latinceden türemiş.",
+        "phonetic": "/dɪˈraɪv/"
+    },
+    {
+        "id": 40,
+        "word": "despite",
+        "translation": "rağmen",
+        "example": "Despite the rain, we went out.",
+        "exampleTr": "Yağmura rağmen çıktık.",
+        "phonetic": "/dɪˈspaɪt/"
+    },
+    {
+        "id": 41,
+        "word": "deteriorate",
+        "translation": "kötüleşmek",
+        "example": "His health began to deteriorate.",
+        "exampleTr": "Sağlığı kötüleşmeye başladı.",
+        "phonetic": "/dɪˈtɪəriəreɪt/"
+    },
+    {
+        "id": 42,
+        "word": "determine",
+        "translation": "belirlemek",
+        "example": "We need to determine the cause.",
+        "exampleTr": "Sebebi belirlememiz gerekiyor.",
+        "phonetic": "/dɪˈtɜːrmɪn/"
+    },
+    {
+        "id": 43,
+        "word": "dimension",
+        "translation": "boyut",
+        "example": "Consider all dimensions of the problem.",
+        "exampleTr": "Sorunun tüm boyutlarını düşün.",
+        "phonetic": "/daɪˈmenʃn/"
+    },
+    {
+        "id": 44,
+        "word": "diminish",
+        "translation": "azalmak",
+        "example": "His influence has diminished.",
+        "exampleTr": "Etkisi azaldı.",
+        "phonetic": "/dɪˈmɪnɪʃ/"
+    },
+    {
+        "id": 45,
+        "word": "disclose",
+        "translation": "ifşa etmek",
+        "example": "He refused to disclose information.",
+        "exampleTr": "Bilgiyi ifşa etmeyi reddetti.",
+        "phonetic": "/dɪˈskloʊz/"
+    },
+    {
+        "id": 46,
+        "word": "discriminate",
+        "translation": "ayrımcılık yapmak",
+        "example": "It's illegal to discriminate.",
+        "exampleTr": "Ayrımcılık yapmak yasadışı.",
+        "phonetic": "/dɪˈskrɪmɪneɪt/"
+    },
+    {
+        "id": 47,
+        "word": "dispute",
+        "translation": "anlaşmazlık",
+        "example": "They are in a legal dispute.",
+        "exampleTr": "Hukuki anlaşmazlık içindeler.",
+        "phonetic": "/dɪˈspjuːt/"
+    },
+    {
+        "id": 48,
+        "word": "distinct",
+        "translation": "belirgin",
+        "example": "There's a distinct difference.",
+        "exampleTr": "Belirgin bir fark var.",
+        "phonetic": "/dɪˈstɪŋkt/"
+    },
+    {
+        "id": 49,
+        "word": "distribute",
+        "translation": "dağıtmak",
+        "example": "The company distributes goods worldwide.",
+        "exampleTr": "Şirket dünya çapında mal dağıtıyor.",
+        "phonetic": "/dɪˈstrɪbjuːt/"
+    },
+    {
+        "id": 50,
+        "word": "diverse",
+        "translation": "çeşitli",
+        "example": "We have a diverse team.",
+        "exampleTr": "Çeşitli bir ekibimiz var.",
+        "phonetic": "/daɪˈvɜːrs/"
+    },
+    {
+        "id": 51,
+        "word": "domestic",
+        "translation": "yerli",
+        "example": "Domestic flights are cheaper.",
+        "exampleTr": "Yurt içi uçuşlar daha ucuz.",
+        "phonetic": "/dəˈmestɪk/"
+    },
+    {
+        "id": 52,
+        "word": "dominant",
+        "translation": "baskın",
+        "example": "English is the dominant language.",
+        "exampleTr": "İngilizce baskın dil.",
+        "phonetic": "/ˈdɒmɪnənt/"
+    },
+    {
+        "id": 53,
+        "word": "dramatic",
+        "translation": "dramatik",
+        "example": "There was a dramatic increase.",
+        "exampleTr": "Dramatik bir artış oldu.",
+        "phonetic": "/drəˈmætɪk/"
+    },
+    {
+        "id": 54,
+        "word": "duration",
+        "translation": "süre",
+        "example": "The duration is six months.",
+        "exampleTr": "Süresi altı ay.",
+        "phonetic": "/djuˈreɪʃn/"
+    },
+    {
+        "id": 55,
+        "word": "dynamic",
+        "translation": "dinamik",
+        "example": "She has a dynamic personality.",
+        "exampleTr": "Dinamik bir kişiliği var.",
+        "phonetic": "/daɪˈnæmɪk/"
+    },
+    {
+        "id": 56,
+        "word": "elaborate",
+        "translation": "ayrıntılı",
+        "example": "Could you elaborate on that?",
+        "exampleTr": "Bunu detaylandırabilir misin?",
+        "phonetic": "/ɪˈlæbərət/"
+    },
+    {
+        "id": 57,
+        "word": "eliminate",
+        "translation": "elemek",
+        "example": "We need to eliminate waste.",
+        "exampleTr": "İsrafı ortadan kaldırmalıyız.",
+        "phonetic": "/ɪˈlɪmɪneɪt/"
+    },
+    {
+        "id": 58,
+        "word": "emerge",
+        "translation": "ortaya çıkmak",
+        "example": "New technologies are emerging.",
+        "exampleTr": "Yeni teknolojiler ortaya çıkıyor.",
+        "phonetic": "/ɪˈmɜːrdʒ/"
+    },
+    {
+        "id": 59,
+        "word": "emphasize",
+        "translation": "vurgulamak",
+        "example": "I want to emphasize this point.",
+        "exampleTr": "Bu noktayı vurgulamak istiyorum.",
+        "phonetic": "/ˈemfəsaɪz/"
+    },
+    {
+        "id": 60,
+        "word": "enable",
+        "translation": "mümkün kılmak",
+        "example": "Technology enables remote work.",
+        "exampleTr": "Teknoloji uzaktan çalışmayı mümkün kılıyor.",
+        "phonetic": "/ɪˈneɪbl/"
+    },
+    {
+        "id": 61,
+        "word": "encounter",
+        "translation": "karşılaşmak",
+        "example": "We encountered problems.",
+        "exampleTr": "Sorunlarla karşılaştık.",
+        "phonetic": "/ɪnˈkaʊntər/"
+    },
+    {
+        "id": 62,
+        "word": "endeavor",
+        "translation": "çaba / girişim",
+        "example": "It was a noble endeavor.",
+        "exampleTr": "Asil bir girişimdi.",
+        "phonetic": "/ɪnˈdevər/"
+    },
+    {
+        "id": 63,
+        "word": "endorse",
+        "translation": "onaylamak / desteklemek",
+        "example": "The senator endorsed the plan.",
+        "exampleTr": "Senatör planı onayladı.",
+        "phonetic": "/ɪnˈdɔːrs/"
+    },
+    {
+        "id": 64,
+        "word": "enhance",
+        "translation": "geliştirmek / artırmak",
+        "example": "Technology enhances productivity.",
+        "exampleTr": "Teknoloji verimliliği artırır.",
+        "phonetic": "/ɪnˈhæns/"
+    },
+    {
+        "id": 65,
+        "word": "enormous",
+        "translation": "devasa",
+        "example": "The project requires enormous effort.",
+        "exampleTr": "Proje devasa çaba gerektiriyor.",
+        "phonetic": "/ɪˈnɔːrməs/"
+    },
+    {
+        "id": 66,
+        "word": "entail",
+        "translation": "gerektirmek",
+        "example": "The job entails travel.",
+        "exampleTr": "İş seyahat gerektiriyor.",
+        "phonetic": "/ɪnˈteɪl/"
+    },
+    {
+        "id": 67,
+        "word": "entity",
+        "translation": "varlık / kuruluş",
+        "example": "Each branch is a separate entity.",
+        "exampleTr": "Her şube ayrı bir kuruluş.",
+        "phonetic": "/ˈentəti/"
+    },
+    {
+        "id": 68,
+        "word": "erode",
+        "translation": "aşınmak",
+        "example": "Trust can erode over time.",
+        "exampleTr": "Güven zamanla aşınabilir.",
+        "phonetic": "/ɪˈroʊd/"
+    },
+    {
+        "id": 69,
+        "word": "ethical",
+        "translation": "etik",
+        "example": "This raises ethical questions.",
+        "exampleTr": "Bu etik soruları gündeme getiriyor.",
+        "phonetic": "/ˈeθɪkl/"
+    },
+    {
+        "id": 70,
+        "word": "evoke",
+        "translation": "çağrıştırmak",
+        "example": "The music evoked memories.",
+        "exampleTr": "Müzik anıları çağrıştırdı.",
+        "phonetic": "/ɪˈvoʊk/"
+    },
+    {
+        "id": 71,
+        "word": "exacerbate",
+        "translation": "kötüleştirmek",
+        "example": "Stress exacerbates the problem.",
+        "exampleTr": "Stres sorunu kötüleştiriyor.",
+        "phonetic": "/ɪɡˈzæsərbeɪt/"
+    },
+    {
+        "id": 72,
+        "word": "excerpt",
+        "translation": "alıntı",
+        "example": "She read an excerpt from the book.",
+        "exampleTr": "Kitaptan bir alıntı okudu.",
+        "phonetic": "/ˈeksɜːrpt/"
+    },
+    {
+        "id": 73,
+        "word": "exemplify",
+        "translation": "örneklemek",
+        "example": "His work exemplifies excellence.",
+        "exampleTr": "Çalışması mükemmelliği örnekliyor.",
+        "phonetic": "/ɪɡˈzemplɪfaɪ/"
+    },
+    {
+        "id": 74,
+        "word": "exploit",
+        "translation": "sömürmek / kullanmak",
+        "example": "They exploited natural resources.",
+        "exampleTr": "Doğal kaynakları sömürdüler.",
+        "phonetic": "/ɪkˈsplɔɪt/"
+    },
+    {
+        "id": 75,
+        "word": "explicit",
+        "translation": "açık / belirgin",
+        "example": "The instructions are explicit.",
+        "exampleTr": "Talimatlar açık.",
+        "phonetic": "/ɪkˈsplɪsɪt/"
+    },
+    {
+        "id": 76,
+        "word": "facilitate",
+        "translation": "kolaylaştırmak",
+        "example": "Technology facilitates communication.",
+        "exampleTr": "Teknoloji iletişimi kolaylaştırır.",
+        "phonetic": "/fəˈsɪlɪteɪt/"
+    },
+    {
+        "id": 77,
+        "word": "feasible",
+        "translation": "uygulanabilir",
+        "example": "Is the plan feasible?",
+        "exampleTr": "Plan uygulanabilir mi?",
+        "phonetic": "/ˈfiːzəbl/"
+    },
+    {
+        "id": 78,
+        "word": "fluctuate",
+        "translation": "dalgalanmak",
+        "example": "Prices fluctuate daily.",
+        "exampleTr": "Fiyatlar günlük dalgalanıyor.",
+        "phonetic": "/ˈflʌktʃueɪt/"
+    },
+    {
+        "id": 79,
+        "word": "formulate",
+        "translation": "formüle etmek",
+        "example": "We formulated a new strategy.",
+        "exampleTr": "Yeni bir strateji formüle ettik.",
+        "phonetic": "/ˈfɔːrmjuleɪt/"
+    },
+    {
+        "id": 80,
+        "word": "forthcoming",
+        "translation": "yaklaşan",
+        "example": "The forthcoming elections are crucial.",
+        "exampleTr": "Yaklaşan seçimler kritik.",
+        "phonetic": "/ˌfɔːrθˈkʌmɪŋ/"
+    },
+    {
+        "id": 81,
+        "word": "foster",
+        "translation": "teşvik etmek",
+        "example": "We foster innovation.",
+        "exampleTr": "İnovasyonu teşvik ediyoruz.",
+        "phonetic": "/ˈfɒstər/"
+    },
+    {
+        "id": 82,
+        "word": "fragment",
+        "translation": "parça / kırılmak",
+        "example": "The vase broke into fragments.",
+        "exampleTr": "Vazo parçalara ayrıldı.",
+        "phonetic": "/ˈfræɡmənt/"
+    },
+    {
+        "id": 83,
+        "word": "fulfil",
+        "translation": "yerine getirmek",
+        "example": "She fulfilled her promise.",
+        "exampleTr": "Sözünü yerine getirdi.",
+        "phonetic": "/fʊlˈfɪl/"
+    },
+    {
+        "id": 84,
+        "word": "futile",
+        "translation": "boşuna / nafile",
+        "example": "Resistance is futile.",
+        "exampleTr": "Direnmek nafile.",
+        "phonetic": "/ˈfjuːtaɪl/"
+    },
+    {
+        "id": 85,
+        "word": "genuine",
+        "translation": "gerçek / samimi",
+        "example": "His concern was genuine.",
+        "exampleTr": "Endişesi samimiydi.",
+        "phonetic": "/ˈdʒenjuɪn/"
+    },
+    {
+        "id": 86,
+        "word": "grasp",
+        "translation": "kavramak",
+        "example": "She quickly grasped the concept.",
+        "exampleTr": "Kavramı çabucak kavradı.",
+        "phonetic": "/ɡræsp/"
+    },
+    {
+        "id": 87,
+        "word": "halt",
+        "translation": "durdurmak",
+        "example": "Production was halted.",
+        "exampleTr": "Üretim durduruldu.",
+        "phonetic": "/hɔːlt/"
+    },
+    {
+        "id": 88,
+        "word": "hamper",
+        "translation": "engellemek",
+        "example": "Bad weather hampered rescue efforts.",
+        "exampleTr": "Kötü hava kurtarma çalışmalarını engelledi.",
+        "phonetic": "/ˈhæmpər/"
+    },
+    {
+        "id": 89,
+        "word": "harness",
+        "translation": "yararlanmak",
+        "example": "We need to harness solar energy.",
+        "exampleTr": "Güneş enerjisinden yararlanmalıyız.",
+        "phonetic": "/ˈhɑːrnɪs/"
+    },
+    {
+        "id": 90,
+        "word": "hierarchy",
+        "translation": "hiyerarşi",
+        "example": "The company has a strict hierarchy.",
+        "exampleTr": "Şirketin katı bir hiyerarşisi var.",
+        "phonetic": "/ˈhaɪərɑːrki/"
+    },
+    {
+        "id": 91,
+        "word": "hinder",
+        "translation": "engellemek",
+        "example": "Lack of funds hindered progress.",
+        "exampleTr": "Fon eksikliği ilerlemeyi engelledi.",
+        "phonetic": "/ˈhɪndər/"
+    },
+    {
+        "id": 92,
+        "word": "hostile",
+        "translation": "düşmanca",
+        "example": "The audience was hostile.",
+        "exampleTr": "Seyirciler düşmancaydı.",
+        "phonetic": "/ˈhɒstaɪl/"
+    },
+    {
+        "id": 93,
+        "word": "hypothetical",
+        "translation": "varsayımsal",
+        "example": "This is a hypothetical scenario.",
+        "exampleTr": "Bu varsayımsal bir senaryo.",
+        "phonetic": "/ˌhaɪpəˈθetɪkl/"
+    },
+    {
+        "id": 94,
+        "word": "ideology",
+        "translation": "ideoloji",
+        "example": "Political ideology shapes policy.",
+        "exampleTr": "Siyasi ideoloji politikayı şekillendirir.",
+        "phonetic": "/ˌaɪdiˈɒlədʒi/"
+    },
+    {
+        "id": 95,
+        "word": "immense",
+        "translation": "muazzam",
+        "example": "The task requires immense effort.",
+        "exampleTr": "Görev muazzam çaba gerektiriyor.",
+        "phonetic": "/ɪˈmens/"
+    },
+    {
+        "id": 96,
+        "word": "implicit",
+        "translation": "örtük / ima edilen",
+        "example": "There was an implicit threat.",
+        "exampleTr": "Örtük bir tehdit vardı.",
+        "phonetic": "/ɪmˈplɪsɪt/"
+    },
+    {
+        "id": 97,
+        "word": "incentive",
+        "translation": "teşvik / özendirici",
+        "example": "Financial incentives motivate workers.",
+        "exampleTr": "Mali teşvikler işçileri motive eder.",
+        "phonetic": "/ɪnˈsentɪv/"
+    },
+    {
+        "id": 98,
+        "word": "incidence",
+        "translation": "oran / sıklık",
+        "example": "The incidence of disease is rising.",
+        "exampleTr": "Hastalık oranı artıyor.",
+        "phonetic": "/ˈɪnsɪdəns/"
+    },
+    {
+        "id": 99,
+        "word": "incorporate",
+        "translation": "dahil etmek",
+        "example": "We incorporated their suggestions.",
+        "exampleTr": "Önerilerini dahil ettik.",
+        "phonetic": "/ɪnˈkɔːrpəreɪt/"
+    },
+    {
+        "id": 100,
+        "word": "indication",
+        "translation": "işaret / gösterge",
+        "example": "There's no indication of improvement.",
+        "exampleTr": "İyileşme belirtisi yok.",
+        "phonetic": "/ˌɪndɪˈkeɪʃn/"
+    },
+    {
+        "id": 101,
+        "word": "inevitable",
+        "translation": "kaçınılmaz",
+        "example": "Change is inevitable.",
+        "exampleTr": "Değişim kaçınılmazdır.",
+        "phonetic": "/ɪnˈevɪtəbl/"
+    },
+    {
+        "id": 102,
+        "word": "inferior",
+        "translation": "alt / düşük kaliteli",
+        "example": "The product is inferior in quality.",
+        "exampleTr": "Ürün kalite bakımından düşük.",
+        "phonetic": "/ɪnˈfɪəriər/"
+    },
+    {
+        "id": 103,
+        "word": "infrastructure",
+        "translation": "altyapı",
+        "example": "We need better infrastructure.",
+        "exampleTr": "Daha iyi altyapıya ihtiyacımız var.",
+        "phonetic": "/ˈɪnfrəstrʌktʃər/"
+    },
+    {
+        "id": 104,
+        "word": "inherent",
+        "translation": "doğasında olan",
+        "example": "Risk is inherent in business.",
+        "exampleTr": "Risk iş dünyasının doğasında vardır.",
+        "phonetic": "/ɪnˈhɪərənt/"
+    },
+    {
+        "id": 105,
+        "word": "inhibit",
+        "translation": "engellemek",
+        "example": "Fear can inhibit creativity.",
+        "exampleTr": "Korku yaratıcılığı engelleyebilir.",
+        "phonetic": "/ɪnˈhɪbɪt/"
+    },
+    {
+        "id": 106,
+        "word": "initiative",
+        "translation": "girişim / inisiyatif",
+        "example": "Take the initiative to lead.",
+        "exampleTr": "Liderlik etmek için inisiyatif al.",
+        "phonetic": "/ɪˈnɪʃətɪv/"
+    },
+    {
+        "id": 107,
+        "word": "innovative",
+        "translation": "yenilikçi",
+        "example": "They introduced innovative products.",
+        "exampleTr": "Yenilikçi ürünler tanıttılar.",
+        "phonetic": "/ˈɪnəveɪtɪv/"
+    },
+    {
+        "id": 108,
+        "word": "insight",
+        "translation": "içgörü",
+        "example": "The report provides valuable insights.",
+        "exampleTr": "Rapor değerli içgörüler sağlıyor.",
+        "phonetic": "/ˈɪnsaɪt/"
+    },
+    {
+        "id": 109,
+        "word": "integral",
+        "translation": "ayrılmaz / bütünleyici",
+        "example": "Teamwork is integral to success.",
+        "exampleTr": "Takım çalışması başarının ayrılmaz parçasıdır.",
+        "phonetic": "/ˈɪntɪɡrəl/"
+    },
+    {
+        "id": 110,
+        "word": "integrity",
+        "translation": "dürüstlük / bütünlük",
+        "example": "She is a person of integrity.",
+        "exampleTr": "Dürüst bir insandır.",
+        "phonetic": "/ɪnˈteɡrəti/"
+    },
+    {
+        "id": 111,
+        "word": "intensify",
+        "translation": "yoğunlaştırmak",
+        "example": "The storm intensified overnight.",
+        "exampleTr": "Fırtına gece boyunca yoğunlaştı.",
+        "phonetic": "/ɪnˈtensɪfaɪ/"
+    },
+    {
+        "id": 112,
+        "word": "intervene",
+        "translation": "müdahale etmek",
+        "example": "The government intervened in the crisis.",
+        "exampleTr": "Hükümet krize müdahale etti.",
+        "phonetic": "/ˌɪntərˈviːn/"
+    },
+    {
+        "id": 113,
+        "word": "intrinsic",
+        "translation": "içsel / özsel",
+        "example": "Art has intrinsic value.",
+        "exampleTr": "Sanatın içsel bir değeri var.",
+        "phonetic": "/ɪnˈtrɪnzɪk/"
+    },
+    {
+        "id": 114,
+        "word": "invoke",
+        "translation": "başvurmak / çağırmak",
+        "example": "He invoked his right to silence.",
+        "exampleTr": "Susma hakkına başvurdu.",
+        "phonetic": "/ɪnˈvoʊk/"
+    },
+    {
+        "id": 115,
+        "word": "irony",
+        "translation": "ironi",
+        "example": "The irony was not lost on her.",
+        "exampleTr": "İroniyi fark etmeden edemedi.",
+        "phonetic": "/ˈaɪrəni/"
+    },
+    {
+        "id": 116,
+        "word": "isolate",
+        "translation": "izole etmek",
+        "example": "Scientists isolated the virus.",
+        "exampleTr": "Bilim insanları virüsü izole etti.",
+        "phonetic": "/ˈaɪsəleɪt/"
+    },
+    {
+        "id": 117,
+        "word": "justify",
+        "translation": "haklı göstermek",
+        "example": "Can you justify your decision?",
+        "exampleTr": "Kararını haklı gösterebilir misin?",
+        "phonetic": "/ˈdʒʌstɪfaɪ/"
+    },
+    {
+        "id": 118,
+        "word": "legitimate",
+        "translation": "meşru",
+        "example": "It's a legitimate concern.",
+        "exampleTr": "Meşru bir endişe.",
+        "phonetic": "/lɪˈdʒɪtɪmət/"
+    },
+    {
+        "id": 119,
+        "word": "levy",
+        "translation": "vergi koymak",
+        "example": "They levied a new tax.",
+        "exampleTr": "Yeni bir vergi koydular.",
+        "phonetic": "/ˈlevi/"
+    },
+    {
+        "id": 120,
+        "word": "liable",
+        "translation": "sorumlu / muhtemel",
+        "example": "The company is liable for damages.",
+        "exampleTr": "Şirket zararlardan sorumlu.",
+        "phonetic": "/ˈlaɪəbl/"
+    },
+    {
+        "id": 121,
+        "word": "magnitude",
+        "translation": "büyüklük",
+        "example": "They didn't grasp the magnitude.",
+        "exampleTr": "Büyüklüğünü kavrayamadılar.",
+        "phonetic": "/ˈmæɡnɪtjuːd/"
+    },
+    {
+        "id": 122,
+        "word": "mainstream",
+        "translation": "ana akım",
+        "example": "It became mainstream culture.",
+        "exampleTr": "Ana akım kültür haline geldi.",
+        "phonetic": "/ˈmeɪnstriːm/"
+    },
+    {
+        "id": 123,
+        "word": "mandate",
+        "translation": "yetki / zorunlu kılmak",
+        "example": "The law mandates safety checks.",
+        "exampleTr": "Yasa güvenlik kontrollerini zorunlu kılıyor.",
+        "phonetic": "/ˈmændeɪt/"
+    },
+    {
+        "id": 124,
+        "word": "manifest",
+        "translation": "açıkça göstermek",
+        "example": "Symptoms manifest differently.",
+        "exampleTr": "Belirtiler farklı şekilde ortaya çıkıyor.",
+        "phonetic": "/ˈmænɪfest/"
+    },
+    {
+        "id": 125,
+        "word": "manipulate",
+        "translation": "manipüle etmek",
+        "example": "He tried to manipulate the results.",
+        "exampleTr": "Sonuçları manipüle etmeye çalıştı.",
+        "phonetic": "/məˈnɪpjuleɪt/"
+    },
+    {
+        "id": 126,
+        "word": "marginal",
+        "translation": "marjinal / az",
+        "example": "The improvement was marginal.",
+        "exampleTr": "İyileşme çok azdı.",
+        "phonetic": "/ˈmɑːrdʒɪnl/"
+    },
+    {
+        "id": 127,
+        "word": "mechanism",
+        "translation": "mekanizma",
+        "example": "What's the mechanism behind it?",
+        "exampleTr": "Arkasındaki mekanizma ne?",
+        "phonetic": "/ˈmekənɪzəm/"
+    },
+    {
+        "id": 128,
+        "word": "mediate",
+        "translation": "arabuluculuk yapmak",
+        "example": "She mediated between the parties.",
+        "exampleTr": "Taraflar arasında arabuluculuk yaptı.",
+        "phonetic": "/ˈmiːdieɪt/"
+    },
+    {
+        "id": 129,
+        "word": "methodology",
+        "translation": "metodoloji",
+        "example": "Our research methodology is sound.",
+        "exampleTr": "Araştırma metodolojimiz sağlam.",
+        "phonetic": "/ˌmeθəˈdɒlədʒi/"
+    },
+    {
+        "id": 130,
+        "word": "migration",
+        "translation": "göç",
+        "example": "Migration patterns are changing.",
+        "exampleTr": "Göç kalıpları değişiyor.",
+        "phonetic": "/maɪˈɡreɪʃn/"
+    },
+    {
+        "id": 131,
+        "word": "minimize",
+        "translation": "minimize etmek",
+        "example": "We need to minimize risk.",
+        "exampleTr": "Riski minimize etmeliyiz.",
+        "phonetic": "/ˈmɪnɪmaɪz/"
+    },
+    {
+        "id": 132,
+        "word": "misconception",
+        "translation": "yanlış kanı",
+        "example": "That's a common misconception.",
+        "exampleTr": "Bu yaygın bir yanlış kanı.",
+        "phonetic": "/ˌmɪskənˈsepʃn/"
+    },
+    {
+        "id": 133,
+        "word": "modify",
+        "translation": "değiştirmek / modifiye etmek",
+        "example": "We modified the design.",
+        "exampleTr": "Tasarımı değiştirdik.",
+        "phonetic": "/ˈmɒdɪfaɪ/"
+    },
+    {
+        "id": 134,
+        "word": "monitor",
+        "translation": "izlemek / gözlemlemek",
+        "example": "We monitor air quality daily.",
+        "exampleTr": "Hava kalitesini günlük izliyoruz.",
+        "phonetic": "/ˈmɒnɪtər/"
+    },
+    {
+        "id": 135,
+        "word": "mortality",
+        "translation": "ölüm oranı",
+        "example": "Child mortality has decreased.",
+        "exampleTr": "Çocuk ölüm oranı azaldı.",
+        "phonetic": "/mɔːrˈtæləti/"
+    },
+    {
+        "id": 136,
+        "word": "mutual",
+        "translation": "karşılıklı",
+        "example": "Mutual respect is essential.",
+        "exampleTr": "Karşılıklı saygı gereklidir.",
+        "phonetic": "/ˈmjuːtʃuəl/"
+    },
+    {
+        "id": 137,
+        "word": "negotiate",
+        "translation": "müzakere etmek",
+        "example": "We need to negotiate a deal.",
+        "exampleTr": "Bir anlaşma müzakere etmeliyiz.",
+        "phonetic": "/nɪˈɡoʊʃieɪt/"
+    },
+    {
+        "id": 138,
+        "word": "norm",
+        "translation": "norm / standart",
+        "example": "Working from home is the new norm.",
+        "exampleTr": "Evden çalışma yeni norm.",
+        "phonetic": "/nɔːrm/"
+    },
+    {
+        "id": 139,
+        "word": "notable",
+        "translation": "kayda değer",
+        "example": "There was a notable improvement.",
+        "exampleTr": "Kayda değer bir gelişme oldu.",
+        "phonetic": "/ˈnoʊtəbl/"
+    },
+    {
+        "id": 140,
+        "word": "notion",
+        "translation": "kavram / fikir",
+        "example": "The notion sounded absurd.",
+        "exampleTr": "Fikir absürt geldi.",
+        "phonetic": "/ˈnoʊʃn/"
+    },
+    {
+        "id": 141,
+        "word": "objective",
+        "translation": "amaç / objektif",
+        "example": "Our main objective is growth.",
+        "exampleTr": "Temel amacımız büyüme.",
+        "phonetic": "/əbˈdʒektɪv/"
+    },
+    {
+        "id": 142,
+        "word": "oblige",
+        "translation": "mecbur bırakmak",
+        "example": "I feel obliged to help.",
+        "exampleTr": "Yardım etmek zorunda hissediyorum.",
+        "phonetic": "/əˈblaɪdʒ/"
+    },
+    {
+        "id": 143,
+        "word": "obstacle",
+        "translation": "engel",
+        "example": "We overcame many obstacles.",
+        "exampleTr": "Birçok engeli aştık.",
+        "phonetic": "/ˈɒbstəkl/"
+    },
+    {
+        "id": 144,
+        "word": "ongoing",
+        "translation": "devam eden",
+        "example": "Research is ongoing.",
+        "exampleTr": "Araştırma devam ediyor.",
+        "phonetic": "/ˈɒnɡoʊɪŋ/"
+    },
+    {
+        "id": 145,
+        "word": "optimal",
+        "translation": "en uygun / optimal",
+        "example": "We achieved optimal results.",
+        "exampleTr": "En uygun sonuçları elde ettik.",
+        "phonetic": "/ˈɒptɪml/"
+    },
+    {
+        "id": 146,
+        "word": "orientation",
+        "translation": "yönelim / oryantasyon",
+        "example": "The new employee attended orientation.",
+        "exampleTr": "Yeni çalışan oryantasyona katıldı.",
+        "phonetic": "/ˌɔːrienˈteɪʃn/"
+    },
+    {
+        "id": 147,
+        "word": "outcome",
+        "translation": "sonuç",
+        "example": "The outcome was positive.",
+        "exampleTr": "Sonuç olumluydu.",
+        "phonetic": "/ˈaʊtkʌm/"
+    },
+    {
+        "id": 148,
+        "word": "outlook",
+        "translation": "bakış açısı / görünüm",
+        "example": "The economic outlook is uncertain.",
+        "exampleTr": "Ekonomik görünüm belirsiz.",
+        "phonetic": "/ˈaʊtlʊk/"
+    },
+    {
+        "id": 149,
+        "word": "output",
+        "translation": "çıktı / üretim",
+        "example": "Factory output increased.",
+        "exampleTr": "Fabrika üretimi arttı.",
+        "phonetic": "/ˈaʊtpʊt/"
+    },
+    {
+        "id": 150,
+        "word": "overcome",
+        "translation": "üstesinden gelmek",
+        "example": "She overcame her fears.",
+        "exampleTr": "Korkularının üstesinden geldi.",
+        "phonetic": "/ˌoʊvərˈkʌm/"
+    },
+    {
+        "id": 151,
+        "word": "paradigm",
+        "translation": "paradigma",
+        "example": "This is a paradigm shift.",
+        "exampleTr": "Bu bir paradigma değişimi.",
+        "phonetic": "/ˈpærədaɪm/"
+    },
+    {
+        "id": 152,
+        "word": "paradox",
+        "translation": "paradoks",
+        "example": "It's a paradox of modern life.",
+        "exampleTr": "Modern hayatın bir paradoksu.",
+        "phonetic": "/ˈpærədɒks/"
+    },
+    {
+        "id": 153,
+        "word": "perceive",
+        "translation": "algılamak",
+        "example": "People perceive risk differently.",
+        "exampleTr": "İnsanlar riski farklı algılar.",
+        "phonetic": "/pərˈsiːv/"
+    },
+    {
+        "id": 154,
+        "word": "persist",
+        "translation": "ısrar etmek / sürmek",
+        "example": "Problems persist despite efforts.",
+        "exampleTr": "Çabalara rağmen sorunlar devam ediyor.",
+        "phonetic": "/pərˈsɪst/"
+    },
+    {
+        "id": 155,
+        "word": "perspective",
+        "translation": "bakış açısı",
+        "example": "Try to see it from my perspective.",
+        "exampleTr": "Benim bakış açımdan görmeye çalış.",
+        "phonetic": "/pərˈspektɪv/"
+    },
+    {
+        "id": 156,
+        "word": "phenomenon",
+        "translation": "fenomen / olgu",
+        "example": "It's a natural phenomenon.",
+        "exampleTr": "Doğal bir olgu.",
+        "phonetic": "/fɪˈnɒmɪnən/"
+    },
+    {
+        "id": 157,
+        "word": "plausible",
+        "translation": "mantıklı / olası",
+        "example": "His explanation was plausible.",
+        "exampleTr": "Açıklaması mantıklıydı.",
+        "phonetic": "/ˈplɔːzəbl/"
+    },
+    {
+        "id": 158,
+        "word": "pioneer",
+        "translation": "öncü",
+        "example": "She is a pioneer in her field.",
+        "exampleTr": "Alanında bir öncü.",
+        "phonetic": "/ˌpaɪəˈnɪr/"
+    },
+    {
+        "id": 159,
+        "word": "ponder",
+        "translation": "derin derin düşünmek",
+        "example": "He pondered the question.",
+        "exampleTr": "Soruyu derin derin düşündü.",
+        "phonetic": "/ˈpɒndər/"
+    },
+    {
+        "id": 160,
+        "word": "portion",
+        "translation": "porsiyon / pay",
+        "example": "A large portion goes to taxes.",
+        "exampleTr": "Büyük bir kısım vergilere gidiyor.",
+        "phonetic": "/ˈpɔːrʃn/"
+    },
+    {
+        "id": 161,
+        "word": "pose",
+        "translation": "oluşturmak / ortaya koymak",
+        "example": "This poses a serious threat.",
+        "exampleTr": "Bu ciddi bir tehdit oluşturuyor.",
+        "phonetic": "/poʊz/"
+    },
+    {
+        "id": 162,
+        "word": "precede",
+        "translation": "önce gelmek",
+        "example": "Thunder precedes lightning.",
+        "exampleTr": "Gök gürültüsü şimşekten önce gelir.",
+        "phonetic": "/prɪˈsiːd/"
+    },
+    {
+        "id": 163,
+        "word": "predominant",
+        "translation": "baskın / hakim",
+        "example": "Blue is the predominant color.",
+        "exampleTr": "Mavi baskın renk.",
+        "phonetic": "/prɪˈdɒmɪnənt/"
+    },
+    {
+        "id": 164,
+        "word": "preliminary",
+        "translation": "ön / hazırlık",
+        "example": "These are preliminary results.",
+        "exampleTr": "Bunlar ön sonuçlar.",
+        "phonetic": "/prɪˈlɪmɪneri/"
+    },
+    {
+        "id": 165,
+        "word": "premise",
+        "translation": "önerme / varsayım",
+        "example": "The premise is flawed.",
+        "exampleTr": "Varsayım hatalı.",
+        "phonetic": "/ˈpremɪs/"
+    },
+    {
+        "id": 166,
+        "word": "prevail",
+        "translation": "galip gelmek / hakim olmak",
+        "example": "Justice will prevail.",
+        "exampleTr": "Adalet galip gelecek.",
+        "phonetic": "/prɪˈveɪl/"
+    },
+    {
+        "id": 167,
+        "word": "prevalent",
+        "translation": "yaygın",
+        "example": "Obesity is prevalent in society.",
+        "exampleTr": "Obezite toplumda yaygın.",
+        "phonetic": "/ˈprevələnt/"
+    },
+    {
+        "id": 168,
+        "word": "prior",
+        "translation": "önceki / önce",
+        "example": "Prior approval is required.",
+        "exampleTr": "Ön onay gereklidir.",
+        "phonetic": "/ˈpraɪər/"
+    },
+    {
+        "id": 169,
+        "word": "priority",
+        "translation": "öncelik",
+        "example": "Safety is our top priority.",
+        "exampleTr": "Güvenlik en önemli önceliğimiz.",
+        "phonetic": "/praɪˈɒrəti/"
+    },
+    {
+        "id": 170,
+        "word": "profound",
+        "translation": "derin / köklü",
+        "example": "His words had a profound impact.",
+        "exampleTr": "Sözleri derin bir etki bıraktı.",
+        "phonetic": "/prəˈfaʊnd/"
+    },
+    {
+        "id": 171,
+        "word": "prohibit",
+        "translation": "yasaklamak",
+        "example": "Smoking is prohibited here.",
+        "exampleTr": "Burada sigara yasak.",
+        "phonetic": "/prəˈhɪbɪt/"
+    },
+    {
+        "id": 172,
+        "word": "prominent",
+        "translation": "önde gelen / göze çarpan",
+        "example": "She is a prominent scientist.",
+        "exampleTr": "Önde gelen bir bilim insanı.",
+        "phonetic": "/ˈprɒmɪnənt/"
+    },
+    {
+        "id": 173,
+        "word": "prospect",
+        "translation": "olasılık / ihtimal",
+        "example": "The prospects are promising.",
+        "exampleTr": "Beklentiler umut verici.",
+        "phonetic": "/ˈprɒspekt/"
+    },
+    {
+        "id": 174,
+        "word": "protocol",
+        "translation": "protokol",
+        "example": "Follow the safety protocol.",
+        "exampleTr": "Güvenlik protokolüne uy.",
+        "phonetic": "/ˈproʊtəkɒl/"
+    },
+    {
+        "id": 175,
+        "word": "provoke",
+        "translation": "kışkırtmak",
+        "example": "His words provoked anger.",
+        "exampleTr": "Sözleri öfke kışkırttı.",
+        "phonetic": "/prəˈvoʊk/"
+    },
+    {
+        "id": 176,
+        "word": "proximity",
+        "translation": "yakınlık",
+        "example": "Hotels in proximity to the airport.",
+        "exampleTr": "Havaalanına yakın oteller.",
+        "phonetic": "/prɒkˈsɪməti/"
+    },
+    {
+        "id": 177,
+        "word": "pursue",
+        "translation": "takip etmek / peşinden gitmek",
+        "example": "She decided to pursue a career in law.",
+        "exampleTr": "Hukuk kariyeri izlemeye karar verdi.",
+        "phonetic": "/pərˈsuː/"
+    },
+    {
+        "id": 178,
+        "word": "ratio",
+        "translation": "oran",
+        "example": "The ratio is 3 to 1.",
+        "exampleTr": "Oran 3'e 1.",
+        "phonetic": "/ˈreɪʃioʊ/"
+    },
+    {
+        "id": 179,
+        "word": "rational",
+        "translation": "rasyonel / akılcı",
+        "example": "We need a rational approach.",
+        "exampleTr": "Akılcı bir yaklaşıma ihtiyacımız var.",
+        "phonetic": "/ˈræʃənl/"
+    },
+    {
+        "id": 180,
+        "word": "regulate",
+        "translation": "düzenlemek",
+        "example": "The government regulates industries.",
+        "exampleTr": "Hükümet endüstrileri düzenliyor.",
+        "phonetic": "/ˈreɡjuleɪt/"
+    },
+    {
+        "id": 181,
+        "word": "reinforce",
+        "translation": "güçlendirmek / pekiştirmek",
+        "example": "Practice reinforces learning.",
+        "exampleTr": "Pratik öğrenmeyi pekiştirir.",
+        "phonetic": "/ˌriːɪnˈfɔːrs/"
+    },
+    {
+        "id": 182,
+        "word": "relevant",
+        "translation": "ilgili / geçerli",
+        "example": "Is this information relevant?",
+        "exampleTr": "Bu bilgi ilgili mi?",
+        "phonetic": "/ˈreləvənt/"
+    },
+    {
+        "id": 183,
+        "word": "reluctant",
+        "translation": "isteksiz",
+        "example": "He was reluctant to leave.",
+        "exampleTr": "Gitmekte isteksizdi.",
+        "phonetic": "/rɪˈlʌktənt/"
+    },
+    {
+        "id": 184,
+        "word": "render",
+        "translation": "kılmak / hale getirmek",
+        "example": "The storm rendered roads impassable.",
+        "exampleTr": "Fırtına yolları geçilmez hale getirdi.",
+        "phonetic": "/ˈrendər/"
+    },
+    {
+        "id": 185,
+        "word": "restore",
+        "translation": "geri yüklemek / restore etmek",
+        "example": "They restored the old building.",
+        "exampleTr": "Eski binayı restore ettiler.",
+        "phonetic": "/rɪˈstɔːr/"
+    },
+    {
+        "id": 186,
+        "word": "retain",
+        "translation": "elde tutmak",
+        "example": "We need to retain talented employees.",
+        "exampleTr": "Yetenekli çalışanları elde tutmalıyız.",
+        "phonetic": "/rɪˈteɪn/"
+    },
+    {
+        "id": 187,
+        "word": "reveal",
+        "translation": "ortaya çıkarmak",
+        "example": "Research revealed new findings.",
+        "exampleTr": "Araştırma yeni bulgular ortaya çıkardı.",
+        "phonetic": "/rɪˈviːl/"
+    },
+    {
+        "id": 188,
+        "word": "revenue",
+        "translation": "gelir",
+        "example": "Revenue increased this quarter.",
+        "exampleTr": "Bu çeyrekte gelir arttı.",
+        "phonetic": "/ˈrevənjuː/"
+    },
+    {
+        "id": 189,
+        "word": "rigid",
+        "translation": "katı / sert",
+        "example": "The rules are too rigid.",
+        "exampleTr": "Kurallar çok katı.",
+        "phonetic": "/ˈrɪdʒɪd/"
+    },
+    {
+        "id": 190,
+        "word": "robust",
+        "translation": "sağlam / güçlü",
+        "example": "The system is robust.",
+        "exampleTr": "Sistem sağlam.",
+        "phonetic": "/roʊˈbʌst/"
+    },
+    {
+        "id": 191,
+        "word": "scrutiny",
+        "translation": "inceleme / titizlik",
+        "example": "The plan came under scrutiny.",
+        "exampleTr": "Plan inceleme altına alındı.",
+        "phonetic": "/ˈskruːtəni/"
+    },
+    {
+        "id": 192,
+        "word": "simulate",
+        "translation": "simüle etmek",
+        "example": "The software simulates real conditions.",
+        "exampleTr": "Yazılım gerçek koşulları simüle ediyor.",
+        "phonetic": "/ˈsɪmjuleɪt/"
+    },
+    {
+        "id": 193,
+        "word": "solely",
+        "translation": "yalnızca",
+        "example": "I am solely responsible.",
+        "exampleTr": "Yalnızca ben sorumluyum.",
+        "phonetic": "/ˈsoʊlli/"
+    },
+    {
+        "id": 194,
+        "word": "speculate",
+        "translation": "spekülasyon yapmak",
+        "example": "It would be wrong to speculate.",
+        "exampleTr": "Spekülasyon yapmak yanlış olur.",
+        "phonetic": "/ˈspekjuleɪt/"
+    },
+    {
+        "id": 195,
+        "word": "stimulus",
+        "translation": "uyarıcı / teşvik",
+        "example": "Economic stimulus is needed.",
+        "exampleTr": "Ekonomik teşvik gerekli.",
+        "phonetic": "/ˈstɪmjələs/"
+    },
+    {
+        "id": 196,
+        "word": "subordinate",
+        "translation": "alt / astı",
+        "example": "He treats subordinates with respect.",
+        "exampleTr": "Astlarına saygıyla davranıyor.",
+        "phonetic": "/səˈbɔːrdɪnət/"
+    },
+    {
+        "id": 197,
+        "word": "subsequent",
+        "translation": "sonraki",
+        "example": "Subsequent events confirmed it.",
+        "exampleTr": "Sonraki olaylar bunu doğruladı.",
+        "phonetic": "/ˈsʌbsɪkwənt/"
+    },
+    {
+        "id": 198,
+        "word": "sustain",
+        "translation": "sürdürmek",
+        "example": "We must sustain economic growth.",
+        "exampleTr": "Ekonomik büyümeyi sürdürmeliyiz.",
+        "phonetic": "/səˈsteɪn/"
+    },
+    {
+        "id": 199,
+        "word": "thereby",
+        "translation": "böylece",
+        "example": "He resigned, thereby ending the dispute.",
+        "exampleTr": "İstifa etti, böylece anlaşmazlığı sona erdirdi.",
+        "phonetic": "/ˌðerˈbaɪ/"
+    },
+    {
+        "id": 200,
+        "word": "undermine",
+        "translation": "baltalamak",
+        "example": "This could undermine trust.",
+        "exampleTr": "Bu güveni baltalayabilir.",
+        "phonetic": "/ˌʌndərˈmaɪn/"
+    }
+]

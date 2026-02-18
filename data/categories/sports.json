@@ -1,0 +1,882 @@
+[
+    {
+        "id": 1,
+        "word": "sport",
+        "translation": "spor",
+        "example": "I love sport.",
+        "exampleTr": "Spor seviyorum.",
+        "phonetic": "/spɔːrt/",
+        "level": "a1"
+    },
+    {
+        "id": 2,
+        "word": "exercise",
+        "translation": "egzersiz",
+        "example": "Exercise is important.",
+        "exampleTr": "Egzersiz önemlidir.",
+        "phonetic": "/ˈeksərsaɪz/",
+        "level": "a2"
+    },
+    {
+        "id": 3,
+        "word": "athlete",
+        "translation": "sporcu",
+        "example": "She is a professional athlete.",
+        "exampleTr": "O profesyonel bir sporcu.",
+        "phonetic": "/ˈæθliːt/",
+        "level": "a2"
+    },
+    {
+        "id": 4,
+        "word": "coach",
+        "translation": "antrenör",
+        "example": "The coach trains the team.",
+        "exampleTr": "Antrenör takımı çalıştırır.",
+        "phonetic": "/koʊtʃ/",
+        "level": "a2"
+    },
+    {
+        "id": 5,
+        "word": "team",
+        "translation": "takım",
+        "example": "Our team won the match.",
+        "exampleTr": "Takımımız maçı kazandı.",
+        "phonetic": "/tiːm/",
+        "level": "a1"
+    },
+    {
+        "id": 6,
+        "word": "player",
+        "translation": "oyuncu",
+        "example": "He is a great player.",
+        "exampleTr": "O harika bir oyuncu.",
+        "phonetic": "/ˈpleɪər/",
+        "level": "b1"
+    },
+    {
+        "id": 7,
+        "word": "match",
+        "translation": "maç",
+        "example": "The match starts at seven.",
+        "exampleTr": "Maç yedide başlıyor.",
+        "phonetic": "/mætʃ/",
+        "level": "a2"
+    },
+    {
+        "id": 8,
+        "word": "score",
+        "translation": "skor / gol atmak",
+        "example": "What's the score?",
+        "exampleTr": "Skor ne?",
+        "phonetic": "/skɔːr/",
+        "level": "a2"
+    },
+    {
+        "id": 9,
+        "word": "goal",
+        "translation": "gol",
+        "example": "He scored a goal.",
+        "exampleTr": "Gol attı.",
+        "phonetic": "/ɡoʊl/",
+        "level": "a1"
+    },
+    {
+        "id": 10,
+        "word": "win",
+        "translation": "kazanmak",
+        "example": "We want to win.",
+        "exampleTr": "Kazanmak istiyoruz.",
+        "phonetic": "/wɪn/",
+        "level": "a1"
+    },
+    {
+        "id": 11,
+        "word": "lose",
+        "translation": "kaybetmek",
+        "example": "I don't want to lose.",
+        "exampleTr": "Kaybetmek istemiyorum.",
+        "phonetic": "/luːz/",
+        "level": "a1"
+    },
+    {
+        "id": 12,
+        "word": "draw",
+        "translation": "berabere kalmak",
+        "example": "The match ended in a draw.",
+        "exampleTr": "Maç berabere bitti.",
+        "phonetic": "/drɔː/",
+        "level": "a2"
+    },
+    {
+        "id": 13,
+        "word": "champion",
+        "translation": "şampiyon",
+        "example": "They became champions.",
+        "exampleTr": "Şampiyon oldular.",
+        "phonetic": "/ˈtʃæmpiən/",
+        "level": "a2"
+    },
+    {
+        "id": 14,
+        "word": "tournament",
+        "translation": "turnuva",
+        "example": "The tournament is next week.",
+        "exampleTr": "Turnuva gelecek hafta.",
+        "phonetic": "/ˈtʊrnəmənt/",
+        "level": "b1"
+    },
+    {
+        "id": 15,
+        "word": "stadium",
+        "translation": "stadyum",
+        "example": "The stadium is full.",
+        "exampleTr": "Stadyum dolu.",
+        "phonetic": "/ˈsteɪdiəm/",
+        "level": "b1"
+    },
+    {
+        "id": 16,
+        "word": "football",
+        "translation": "futbol",
+        "example": "I play football.",
+        "exampleTr": "Futbol oynuyorum.",
+        "phonetic": "/ˈfʊtbɔːl/",
+        "level": "a1"
+    },
+    {
+        "id": 17,
+        "word": "basketball",
+        "translation": "basketbol",
+        "example": "Basketball is exciting.",
+        "exampleTr": "Basketbol heyecanlı.",
+        "phonetic": "/ˈbæskɪtbɔːl/",
+        "level": "a1"
+    },
+    {
+        "id": 18,
+        "word": "tennis",
+        "translation": "tenis",
+        "example": "She plays tennis well.",
+        "exampleTr": "Tenisi iyi oynar.",
+        "phonetic": "/ˈtenɪs/",
+        "level": "a2"
+    },
+    {
+        "id": 19,
+        "word": "swimming",
+        "translation": "yüzme",
+        "example": "Swimming is relaxing.",
+        "exampleTr": "Yüzme rahatlatıcı.",
+        "phonetic": "/ˈswɪmɪŋ/",
+        "level": "a2"
+    },
+    {
+        "id": 20,
+        "word": "running",
+        "translation": "koşu",
+        "example": "I go running every morning.",
+        "exampleTr": "Her sabah koşuya giderim.",
+        "phonetic": "/ˈrʌnɪŋ/",
+        "level": "a2"
+    },
+    {
+        "id": 21,
+        "word": "cycling",
+        "translation": "bisiklet sürme",
+        "example": "Cycling is eco-friendly.",
+        "exampleTr": "Bisiklet sürmek çevre dostudur.",
+        "phonetic": "/ˈsaɪklɪŋ/",
+        "level": "a2"
+    },
+    {
+        "id": 22,
+        "word": "gym",
+        "translation": "spor salonu",
+        "example": "I go to the gym daily.",
+        "exampleTr": "Her gün spor salonuna giderim.",
+        "phonetic": "/dʒɪm/",
+        "level": "a2"
+    },
+    {
+        "id": 23,
+        "word": "fitness",
+        "translation": "fitness",
+        "example": "Fitness keeps you healthy.",
+        "exampleTr": "Fitness sizi sağlıklı tutar.",
+        "phonetic": "/ˈfɪtnəs/",
+        "level": "b2"
+    },
+    {
+        "id": 24,
+        "word": "stretch",
+        "translation": "esneme",
+        "example": "Stretch before exercising.",
+        "exampleTr": "Egzersizden önce esne.",
+        "phonetic": "/stretʃ/",
+        "level": "b1"
+    },
+    {
+        "id": 25,
+        "word": "warm up",
+        "translation": "ısınmak",
+        "example": "Always warm up first.",
+        "exampleTr": "Her zaman önce ısın.",
+        "phonetic": "/wɔːrm ʌp/",
+        "level": "b1"
+    },
+    {
+        "id": 26,
+        "word": "competition",
+        "translation": "yarışma",
+        "example": "The competition was tough.",
+        "exampleTr": "Yarışma zordu.",
+        "phonetic": "/ˌkɒmpəˈtɪʃn/",
+        "level": "b1"
+    },
+    {
+        "id": 27,
+        "word": "medal",
+        "translation": "madalya",
+        "example": "She won a gold medal.",
+        "exampleTr": "Altın madalya kazandı.",
+        "phonetic": "/ˈmedl/",
+        "level": "a2"
+    },
+    {
+        "id": 28,
+        "word": "trophy",
+        "translation": "kupa",
+        "example": "They lifted the trophy.",
+        "exampleTr": "Kupayı kaldırdılar.",
+        "phonetic": "/ˈtroʊfi/",
+        "level": "a2"
+    },
+    {
+        "id": 29,
+        "word": "referee",
+        "translation": "hakem",
+        "example": "The referee made a decision.",
+        "exampleTr": "Hakem bir karar verdi.",
+        "phonetic": "/ˌrefəˈriː/",
+        "level": "b1"
+    },
+    {
+        "id": 30,
+        "word": "foul",
+        "translation": "faul",
+        "example": "That was a foul.",
+        "exampleTr": "O bir fauldu.",
+        "phonetic": "/faʊl/",
+        "level": "b1"
+    },
+    {
+        "id": 31,
+        "word": "penalty",
+        "translation": "penaltı",
+        "example": "The referee gave a penalty.",
+        "exampleTr": "Hakem penaltı verdi.",
+        "phonetic": "/ˈpenəlti/",
+        "level": "b1"
+    },
+    {
+        "id": 32,
+        "word": "kick",
+        "translation": "tekme / vurmak",
+        "example": "Kick the ball hard.",
+        "exampleTr": "Topa sert vur.",
+        "phonetic": "/kɪk/",
+        "level": "a1"
+    },
+    {
+        "id": 33,
+        "word": "throw",
+        "translation": "fırlatmak",
+        "example": "Throw the ball to me.",
+        "exampleTr": "Topu bana fırlat.",
+        "phonetic": "/θroʊ/",
+        "level": "b1"
+    },
+    {
+        "id": 34,
+        "word": "catch",
+        "translation": "yakalamak",
+        "example": "Catch the ball!",
+        "exampleTr": "Topu yakala!",
+        "phonetic": "/kætʃ/",
+        "level": "b1"
+    },
+    {
+        "id": 35,
+        "word": "pass",
+        "translation": "pas vermek",
+        "example": "Pass the ball quickly.",
+        "exampleTr": "Topu hızlıca pas ver.",
+        "phonetic": "/pæs/",
+        "level": "a2"
+    },
+    {
+        "id": 36,
+        "word": "shoot",
+        "translation": "şut çekmek",
+        "example": "Shoot at the goal!",
+        "exampleTr": "Kaleye şut çek!",
+        "phonetic": "/ʃuːt/",
+        "level": "b1"
+    },
+    {
+        "id": 37,
+        "word": "dribble",
+        "translation": "top sürmek",
+        "example": "He can dribble very fast.",
+        "exampleTr": "Çok hızlı top sürebilir.",
+        "phonetic": "/ˈdrɪbl/",
+        "level": "b2"
+    },
+    {
+        "id": 38,
+        "word": "sprint",
+        "translation": "sürat koşusu",
+        "example": "He sprinted to the finish.",
+        "exampleTr": "Bitişe kadar sprint attı.",
+        "phonetic": "/sprɪnt/",
+        "level": "b1"
+    },
+    {
+        "id": 39,
+        "word": "marathon",
+        "translation": "maraton",
+        "example": "She ran a marathon.",
+        "exampleTr": "Maraton koştu.",
+        "phonetic": "/ˈmærəθɑːn/",
+        "level": "b1"
+    },
+    {
+        "id": 40,
+        "word": "yoga",
+        "translation": "yoga",
+        "example": "Yoga reduces stress.",
+        "exampleTr": "Yoga stresi azaltır.",
+        "phonetic": "/ˈjoʊɡə/",
+        "level": "a2"
+    },
+    {
+        "id": 41,
+        "word": "muscle",
+        "translation": "kas",
+        "example": "My muscles are sore.",
+        "exampleTr": "Kaslarım ağrıyor.",
+        "phonetic": "/ˈmʌsl/",
+        "level": "b1"
+    },
+    {
+        "id": 42,
+        "word": "strength",
+        "translation": "güç / kuvvet",
+        "example": "Build your strength.",
+        "exampleTr": "Gücünü geliştir.",
+        "phonetic": "/streŋkθ/",
+        "level": "b1"
+    },
+    {
+        "id": 43,
+        "word": "endurance",
+        "translation": "dayanıklılık",
+        "example": "Running builds endurance.",
+        "exampleTr": "Koşmak dayanıklılık geliştirir.",
+        "phonetic": "/ɪnˈdʊrəns/",
+        "level": "b1"
+    },
+    {
+        "id": 44,
+        "word": "stamina",
+        "translation": "dyanma gücü",
+        "example": "You need stamina for this.",
+        "exampleTr": "Bunun için dayanma gücüne ihtiyacın var.",
+        "phonetic": "/ˈstæmɪnə/",
+        "level": "b1"
+    },
+    {
+        "id": 45,
+        "word": "practice",
+        "translation": "pratik / antrenman",
+        "example": "Practice makes perfect.",
+        "exampleTr": "Pratik mükemmelleştirir.",
+        "phonetic": "/ˈpræktɪs/",
+        "level": "a2"
+    },
+    {
+        "id": 46,
+        "word": "train",
+        "translation": "antrenman yapmak",
+        "example": "I train every day.",
+        "exampleTr": "Her gün antrenman yaparım.",
+        "phonetic": "/treɪn/",
+        "level": "a1"
+    },
+    {
+        "id": 47,
+        "word": "performance",
+        "translation": "performans",
+        "example": "His performance was great.",
+        "exampleTr": "Performansı harikaydı.",
+        "phonetic": "/pərˈfɔːrməns/",
+        "level": "b2"
+    },
+    {
+        "id": 48,
+        "word": "record",
+        "translation": "rekor",
+        "example": "She broke the world record.",
+        "exampleTr": "Dünya rekorunu kırdı.",
+        "phonetic": "/ˈrekərd/",
+        "level": "b1"
+    },
+    {
+        "id": 49,
+        "word": "league",
+        "translation": "lig",
+        "example": "Which league does he play in?",
+        "exampleTr": "Hangi ligde oynuyor?",
+        "phonetic": "/liːɡ/",
+        "level": "b1"
+    },
+    {
+        "id": 50,
+        "word": "season",
+        "translation": "sezon",
+        "example": "The new season starts soon.",
+        "exampleTr": "Yeni sezon yakında başlıyor.",
+        "phonetic": "/ˈsiːzn/",
+        "level": "a2"
+    },
+    {
+        "id": 51,
+        "word": "halftime",
+        "translation": "devre arası",
+        "example": "It's halftime now.",
+        "exampleTr": "Şu an devre arası.",
+        "phonetic": "/ˈhæftaɪm/",
+        "level": "b2"
+    },
+    {
+        "id": 52,
+        "word": "opponent",
+        "translation": "rakip",
+        "example": "Our opponent is strong.",
+        "exampleTr": "Rakibimiz güçlü.",
+        "phonetic": "/əˈpoʊnənt/",
+        "level": "b1"
+    },
+    {
+        "id": 53,
+        "word": "defeat",
+        "translation": "yenilgi / yenmek",
+        "example": "They suffered a defeat.",
+        "exampleTr": "Yenilgi aldılar.",
+        "phonetic": "/dɪˈfiːt/",
+        "level": "b1"
+    },
+    {
+        "id": 54,
+        "word": "victory",
+        "translation": "zafer",
+        "example": "It was a great victory.",
+        "exampleTr": "Büyük bir zaferdi.",
+        "phonetic": "/ˈvɪktəri/",
+        "level": "b1"
+    },
+    {
+        "id": 55,
+        "word": "volleyball",
+        "translation": "voleybol",
+        "example": "We play volleyball at the beach.",
+        "exampleTr": "Sahilde voleybol oynarız.",
+        "phonetic": "/ˈvɑːlibɔːl/",
+        "level": "a2"
+    },
+    {
+        "id": 56,
+        "word": "boxing",
+        "translation": "boks",
+        "example": "Boxing requires discipline.",
+        "exampleTr": "Boks disiplin gerektirir.",
+        "phonetic": "/ˈbɒksɪŋ/",
+        "level": "b1"
+    },
+    {
+        "id": 57,
+        "word": "wrestling",
+        "translation": "güreş",
+        "example": "Wrestling is an ancient sport.",
+        "exampleTr": "Güreş eski bir spordur.",
+        "phonetic": "/ˈreslɪŋ/",
+        "level": "b1"
+    },
+    {
+        "id": 58,
+        "word": "skiing",
+        "translation": "kayak",
+        "example": "We go skiing in winter.",
+        "exampleTr": "Kışın kayak yaparız.",
+        "phonetic": "/ˈskiːɪŋ/",
+        "level": "b1"
+    },
+    {
+        "id": 59,
+        "word": "surfing",
+        "translation": "sörf",
+        "example": "Surfing is fun.",
+        "exampleTr": "Sörf eğlencelidir.",
+        "phonetic": "/ˈsɜːrfɪŋ/",
+        "level": "b1"
+    },
+    {
+        "id": 60,
+        "word": "climbing",
+        "translation": "tırmanma",
+        "example": "Rock climbing is challenging.",
+        "exampleTr": "Kaya tırmanışı zorludur.",
+        "phonetic": "/ˈklaɪmɪŋ/",
+        "level": "b1"
+    },
+    {
+        "id": 61,
+        "word": "hiking",
+        "translation": "doğa yürüyüşü",
+        "example": "Hiking is my hobby.",
+        "exampleTr": "Doğa yürüyüşü hobim.",
+        "phonetic": "/ˈhaɪkɪŋ/",
+        "level": "b1"
+    },
+    {
+        "id": 62,
+        "word": "injury",
+        "translation": "sakatlık",
+        "example": "He has a knee injury.",
+        "exampleTr": "Diz sakatlığı var.",
+        "phonetic": "/ˈɪndʒəri/",
+        "level": "b1"
+    },
+    {
+        "id": 63,
+        "word": "recover",
+        "translation": "iyileşmek",
+        "example": "He needs time to recover.",
+        "exampleTr": "İyileşmek için zamana ihtiyacı var.",
+        "phonetic": "/rɪˈkʌvər/",
+        "level": "b1"
+    },
+    {
+        "id": 64,
+        "word": "warm-down",
+        "translation": "soğuma",
+        "example": "Don't skip your warm-down.",
+        "exampleTr": "Soğuma hareketlerini atlama.",
+        "phonetic": "/wɔːrm daʊn/",
+        "level": "b2"
+    },
+    {
+        "id": 65,
+        "word": "pitch",
+        "translation": "saha",
+        "example": "The pitch is wet.",
+        "exampleTr": "Saha ıslak.",
+        "phonetic": "/pɪtʃ/",
+        "level": "b2"
+    },
+    {
+        "id": 66,
+        "word": "court",
+        "translation": "kort / saha",
+        "example": "The tennis court is booked.",
+        "exampleTr": "Tenis kortu rezerve edilmiş.",
+        "phonetic": "/kɔːrt/",
+        "level": "b1"
+    },
+    {
+        "id": 67,
+        "word": "pool",
+        "translation": "havuz",
+        "example": "The pool is heated.",
+        "exampleTr": "Havuz ısıtılmış.",
+        "phonetic": "/puːl/",
+        "level": "a2"
+    },
+    {
+        "id": 68,
+        "word": "track",
+        "translation": "pist / parkur",
+        "example": "Run around the track.",
+        "exampleTr": "Pistte koş.",
+        "phonetic": "/træk/",
+        "level": "a2"
+    },
+    {
+        "id": 69,
+        "word": "equipment",
+        "translation": "ekipman",
+        "example": "Bring your own equipment.",
+        "exampleTr": "Kendi ekipmanını getir.",
+        "phonetic": "/ɪˈkwɪpmənt/",
+        "level": "b1"
+    },
+    {
+        "id": 70,
+        "word": "uniform",
+        "translation": "üniforma",
+        "example": "Wear your team uniform.",
+        "exampleTr": "Takım uniformanı giy.",
+        "phonetic": "/ˈjuːnɪfɔːrm/",
+        "level": "a2"
+    },
+    {
+        "id": 71,
+        "word": "scoreboard",
+        "translation": "skor tabelası",
+        "example": "Check the scoreboard.",
+        "exampleTr": "Skor tabelasına bak.",
+        "phonetic": "/ˈskɔːrbɔːrd/",
+        "level": "b1"
+    },
+    {
+        "id": 72,
+        "word": "fan",
+        "translation": "taraftar",
+        "example": "The fans are cheering.",
+        "exampleTr": "Taraftarlar tezahürat yapıyor.",
+        "phonetic": "/fæn/",
+        "level": "a2"
+    },
+    {
+        "id": 73,
+        "word": "spectator",
+        "translation": "seyirci",
+        "example": "Thousands of spectators watched.",
+        "exampleTr": "Binlerce seyirci izledi.",
+        "phonetic": "/ˈspekteɪtər/",
+        "level": "b1"
+    },
+    {
+        "id": 74,
+        "word": "whistle",
+        "translation": "düdük",
+        "example": "The referee blew the whistle.",
+        "exampleTr": "Hakem düdüğü çaldı.",
+        "phonetic": "/ˈwɪsl/",
+        "level": "b1"
+    },
+    {
+        "id": 75,
+        "word": "substitute",
+        "translation": "yedek oyuncu",
+        "example": "The substitute came on.",
+        "exampleTr": "Yedek oyuncu girdi.",
+        "phonetic": "/ˈsʌbstɪtjuːt/",
+        "level": "b1"
+    },
+    {
+        "id": 76,
+        "word": "tactic",
+        "translation": "taktik",
+        "example": "The coach changed tactics.",
+        "exampleTr": "Antrenör taktik değiştirdi.",
+        "phonetic": "/ˈtæktɪk/",
+        "level": "b1"
+    },
+    {
+        "id": 77,
+        "word": "assist",
+        "translation": "asist",
+        "example": "He made a great assist.",
+        "exampleTr": "Harika bir asist yaptı.",
+        "phonetic": "/əˈsɪst/",
+        "level": "b1"
+    },
+    {
+        "id": 78,
+        "word": "dunk",
+        "translation": "smaç",
+        "example": "What an amazing dunk!",
+        "exampleTr": "Ne muhteşem bir smaç!",
+        "phonetic": "/dʌŋk/",
+        "level": "b2"
+    },
+    {
+        "id": 79,
+        "word": "serve",
+        "translation": "servis (tenis)",
+        "example": "She has a powerful serve.",
+        "exampleTr": "Güçlü bir servisi var.",
+        "phonetic": "/sɜːrv/",
+        "level": "b2"
+    },
+    {
+        "id": 80,
+        "word": "championship",
+        "translation": "şampiyonluk",
+        "example": "They won the championship.",
+        "exampleTr": "Şampiyonluğu kazandılar.",
+        "phonetic": "/ˈtʃæmpiənʃɪp/",
+        "level": "b2"
+    },
+    {
+        "id": 81,
+        "word": "aerobics",
+        "translation": "aerobik",
+        "example": "She does aerobics.",
+        "exampleTr": "Aerobik yapıyor.",
+        "phonetic": "/eˈroʊbɪks/"
+    },
+    {
+        "id": 82,
+        "word": "agility",
+        "translation": "çeviklik",
+        "example": "Agility is important in football.",
+        "exampleTr": "Futbolda çeviklik önemli.",
+        "phonetic": "/əˈdʒɪləti/"
+    },
+    {
+        "id": 83,
+        "word": "bout",
+        "translation": "maç / müsabaka",
+        "example": "The boxing bout lasted 10 rounds.",
+        "exampleTr": "Boks maçı 10 raunt sürdü.",
+        "phonetic": "/baʊt/"
+    },
+    {
+        "id": 84,
+        "word": "calisthenics",
+        "translation": "jimnastik hareketleri",
+        "example": "Calisthenics builds strength.",
+        "exampleTr": "Jimnastik hareketleri güç kazandırır.",
+        "phonetic": "/ˌkælɪsˈθenɪks/"
+    },
+    {
+        "id": 85,
+        "word": "cardiovascular",
+        "translation": "kardiyovasküler",
+        "example": "Cardiovascular exercise is healthy.",
+        "exampleTr": "Kardiyovasküler egzersiz sağlıklı.",
+        "phonetic": "/ˌkɑːrdioʊˈvæskjʊlər/"
+    },
+    {
+        "id": 86,
+        "word": "decathlon",
+        "translation": "dekathlon",
+        "example": "He competed in the decathlon.",
+        "exampleTr": "Dekatlonda yarıştı.",
+        "phonetic": "/dɪˈkæθlɒn/"
+    },
+    {
+        "id": 87,
+        "word": "endurance",
+        "translation": "dayanıklılık",
+        "example": "Marathon requires endurance.",
+        "exampleTr": "Maraton dayanıklılık gerektirir.",
+        "phonetic": "/ɪnˈdjʊrəns/"
+    },
+    {
+        "id": 88,
+        "word": "foul",
+        "translation": "faul",
+        "example": "The referee called a foul.",
+        "exampleTr": "Hakem faul verdi.",
+        "phonetic": "/faʊl/"
+    },
+    {
+        "id": 89,
+        "word": "hurdle",
+        "translation": "engel",
+        "example": "She cleared every hurdle.",
+        "exampleTr": "Her engeli aştı.",
+        "phonetic": "/ˈhɜːrdl/"
+    },
+    {
+        "id": 90,
+        "word": "inning",
+        "translation": "devre / vuruş sırası",
+        "example": "The team scored in the first inning.",
+        "exampleTr": "Takım ilk devrede sayı yaptı.",
+        "phonetic": "/ˈɪnɪŋ/"
+    },
+    {
+        "id": 91,
+        "word": "javelin",
+        "translation": "cirit",
+        "example": "She threw the javelin far.",
+        "exampleTr": "Ciriti uzağa fırlattı.",
+        "phonetic": "/ˈdʒævlɪn/"
+    },
+    {
+        "id": 92,
+        "word": "league",
+        "translation": "lig",
+        "example": "He plays in the premier league.",
+        "exampleTr": "Premier ligde oynuyor.",
+        "phonetic": "/liːɡ/"
+    },
+    {
+        "id": 93,
+        "word": "overtime",
+        "translation": "uzatma",
+        "example": "The game went to overtime.",
+        "exampleTr": "Maç uzatmaya gitti.",
+        "phonetic": "/ˈoʊvərtaɪm/"
+    },
+    {
+        "id": 94,
+        "word": "relay",
+        "translation": "bayrak yarışı",
+        "example": "They won the relay race.",
+        "exampleTr": "Bayrak yarışını kazandılar.",
+        "phonetic": "/ˈriːleɪ/"
+    },
+    {
+        "id": 95,
+        "word": "semifinal",
+        "translation": "yarı final",
+        "example": "They reached the semifinal.",
+        "exampleTr": "Yarı finale ulaştılar.",
+        "phonetic": "/ˌsemiˈfaɪnl/"
+    },
+    {
+        "id": 96,
+        "word": "sprint",
+        "translation": "sprint",
+        "example": "He sprinted to the finish.",
+        "exampleTr": "Bitiş çizgisine sprint attı.",
+        "phonetic": "/sprɪnt/"
+    },
+    {
+        "id": 97,
+        "word": "stamina",
+        "translation": "dayanıklılık / kondisyon",
+        "example": "Build your stamina.",
+        "exampleTr": "Kondisyonunu geliştir.",
+        "phonetic": "/ˈstæmɪnə/"
+    },
+    {
+        "id": 98,
+        "word": "tournament",
+        "translation": "turnuva",
+        "example": "The tennis tournament begins.",
+        "exampleTr": "Tenis turnuvası başlıyor.",
+        "phonetic": "/ˈtʊrnəmənt/"
+    },
+    {
+        "id": 99,
+        "word": "triathlon",
+        "translation": "triatlon",
+        "example": "She completed a triathlon.",
+        "exampleTr": "Bir triatlon tamamladı.",
+        "phonetic": "/traɪˈæθlɒn/"
+    },
+    {
+        "id": 100,
+        "word": "umpire",
+        "translation": "hakem",
+        "example": "The umpire made the call.",
+        "exampleTr": "Hakem kararı verdi.",
+        "phonetic": "/ˈʌmpaɪər/"
+    }
+]

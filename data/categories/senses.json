@@ -1,0 +1,862 @@
+[
+    {
+        "id": 1,
+        "word": "smell",
+        "translation": "koklamak / koku",
+        "example": "I can smell the flowers.",
+        "exampleTr": "Çiçekleri koklayabiliyorum.",
+        "phonetic": "/smel/",
+        "level": "a1"
+    },
+    {
+        "id": 2,
+        "word": "hear",
+        "translation": "duymak",
+        "example": "I can hear music.",
+        "exampleTr": "Müzik duyabiliyorum.",
+        "phonetic": "/hɪr/",
+        "level": "a1"
+    },
+    {
+        "id": 3,
+        "word": "taste",
+        "translation": "tatmak / tat",
+        "example": "This tastes delicious.",
+        "exampleTr": "Bu lezzetli tadı var.",
+        "phonetic": "/teɪst/",
+        "level": "a1"
+    },
+    {
+        "id": 4,
+        "word": "touch",
+        "translation": "dokunmak",
+        "example": "Don't touch the painting.",
+        "exampleTr": "Tabloya dokunma.",
+        "phonetic": "/tʌtʃ/",
+        "level": "a1"
+    },
+    {
+        "id": 5,
+        "word": "see",
+        "translation": "görmek",
+        "example": "I see a bird in the tree.",
+        "exampleTr": "Ağaçta bir kuş görüyorum.",
+        "phonetic": "/siː/",
+        "level": "a1"
+    },
+    {
+        "id": 6,
+        "word": "feel",
+        "translation": "hissetmek",
+        "example": "I feel happy today.",
+        "exampleTr": "Bugün mutlu hissediyorum.",
+        "phonetic": "/fiːl/",
+        "level": "a1"
+    },
+    {
+        "id": 7,
+        "word": "tired",
+        "translation": "yorgun",
+        "example": "I am very tired.",
+        "exampleTr": "Çok yorgunum.",
+        "phonetic": "/ˈtaɪərd/",
+        "level": "a1"
+    },
+    {
+        "id": 8,
+        "word": "hungry",
+        "translation": "aç",
+        "example": "I'm hungry. Let's eat.",
+        "exampleTr": "Açım. Hadi yiyelim.",
+        "phonetic": "/ˈhʌŋɡri/",
+        "level": "a1"
+    },
+    {
+        "id": 9,
+        "word": "thirsty",
+        "translation": "susuz / susamış",
+        "example": "I'm thirsty. Can I have water?",
+        "exampleTr": "Susadım. Su alabilir miyim?",
+        "phonetic": "/ˈθɜːrsti/",
+        "level": "a1"
+    },
+    {
+        "id": 10,
+        "word": "sleepy",
+        "translation": "uykulu",
+        "example": "I feel sleepy after lunch.",
+        "exampleTr": "Öğle yemeğinden sonra uykulu hissediyorum.",
+        "phonetic": "/ˈsliːpi/",
+        "level": "b1"
+    },
+    {
+        "id": 11,
+        "word": "awake",
+        "translation": "uyanık",
+        "example": "Are you still awake?",
+        "exampleTr": "Hala uyanık mısın?",
+        "phonetic": "/əˈweɪk/",
+        "level": "b1"
+    },
+    {
+        "id": 12,
+        "word": "alive",
+        "translation": "canlı / hayatta",
+        "example": "The plant is still alive.",
+        "exampleTr": "Bitki hala canlı.",
+        "phonetic": "/əˈlaɪv/",
+        "level": "b1"
+    },
+    {
+        "id": 13,
+        "word": "breathe",
+        "translation": "nefes almak",
+        "example": "Take a deep breath.",
+        "exampleTr": "Derin bir nefes al.",
+        "phonetic": "/briːð/",
+        "level": "b2"
+    },
+    {
+        "id": 14,
+        "word": "whisper",
+        "translation": "fısıldamak",
+        "example": "She whispered a secret.",
+        "exampleTr": "Bir sır fısıldadı.",
+        "phonetic": "/ˈwɪspər/",
+        "level": "b2"
+    },
+    {
+        "id": 15,
+        "word": "shout",
+        "translation": "bağırmak",
+        "example": "Don't shout at me!",
+        "exampleTr": "Bana bağırma!",
+        "phonetic": "/ʃaʊt/",
+        "level": "b1"
+    },
+    {
+        "id": 16,
+        "word": "scream",
+        "translation": "çığlık atmak",
+        "example": "She screamed in fear.",
+        "exampleTr": "Korkuyla çığlık attı.",
+        "phonetic": "/skriːm/",
+        "level": "b1"
+    },
+    {
+        "id": 17,
+        "word": "cry",
+        "translation": "ağlamak",
+        "example": "The baby started to cry.",
+        "exampleTr": "Bebek ağlamaya başladı.",
+        "phonetic": "/kraɪ/",
+        "level": "a1"
+    },
+    {
+        "id": 18,
+        "word": "laugh",
+        "translation": "gülmek",
+        "example": "We laughed at the joke.",
+        "exampleTr": "Şakaya güldük.",
+        "phonetic": "/læf/",
+        "level": "a1"
+    },
+    {
+        "id": 19,
+        "word": "smile",
+        "translation": "gülümsemek",
+        "example": "She smiled at me.",
+        "exampleTr": "Bana gülümsedi.",
+        "phonetic": "/smaɪl/",
+        "level": "b1"
+    },
+    {
+        "id": 20,
+        "word": "yawn",
+        "translation": "esnemek",
+        "example": "I yawned because I was tired.",
+        "exampleTr": "Yorgun olduğum için esndim.",
+        "phonetic": "/jɔːn/",
+        "level": "a2"
+    },
+    {
+        "id": 21,
+        "word": "sneeze",
+        "translation": "hapşırmak",
+        "example": "I always sneeze in spring.",
+        "exampleTr": "Baharda hep hapşırırım.",
+        "phonetic": "/sniːz/",
+        "level": "b1"
+    },
+    {
+        "id": 22,
+        "word": "cough",
+        "translation": "öksürmek",
+        "example": "She has a bad cough.",
+        "exampleTr": "Kötü bir öksürüğü var.",
+        "phonetic": "/kɒf/",
+        "level": "a2"
+    },
+    {
+        "id": 23,
+        "word": "blink",
+        "translation": "göz kırpmak",
+        "example": "He blinked in surprise.",
+        "exampleTr": "Şaşkınlıkla göz kırptı.",
+        "phonetic": "/blɪŋk/",
+        "level": "b1"
+    },
+    {
+        "id": 24,
+        "word": "stare",
+        "translation": "dik dik bakmak",
+        "example": "Don't stare at strangers.",
+        "exampleTr": "Yabancılara dik dik bakma.",
+        "phonetic": "/ster/",
+        "level": "b1"
+    },
+    {
+        "id": 25,
+        "word": "blind",
+        "translation": "kör",
+        "example": "He is blind from birth.",
+        "exampleTr": "Doğuştan kör.",
+        "phonetic": "/blaɪnd/",
+        "level": "a2"
+    },
+    {
+        "id": 26,
+        "word": "deaf",
+        "translation": "sağır",
+        "example": "She uses sign language because she is deaf.",
+        "exampleTr": "Sağır olduğu için işaret dili kullanıyor.",
+        "phonetic": "/def/",
+        "level": "a2"
+    },
+    {
+        "id": 27,
+        "word": "mute",
+        "translation": "dilsiz",
+        "example": "He was born mute.",
+        "exampleTr": "Dilsiz doğdu.",
+        "phonetic": "/mjuːt/",
+        "level": "a2"
+    },
+    {
+        "id": 28,
+        "word": "numb",
+        "translation": "uyuşuk",
+        "example": "My fingers are numb from the cold.",
+        "exampleTr": "Parmaklarım soğuktan uyuşuk.",
+        "phonetic": "/nʌm/",
+        "level": "a2"
+    },
+    {
+        "id": 29,
+        "word": "itch",
+        "translation": "kaşınmak",
+        "example": "My arm itches.",
+        "exampleTr": "Kolum kaşınıyor.",
+        "phonetic": "/ɪtʃ/",
+        "level": "a2"
+    },
+    {
+        "id": 30,
+        "word": "sweat",
+        "translation": "terlemek / ter",
+        "example": "I'm sweating because it's hot.",
+        "exampleTr": "Sıcak olduğu için terliyorum.",
+        "phonetic": "/swet/",
+        "level": "b1"
+    },
+    {
+        "id": 31,
+        "word": "shiver",
+        "translation": "titremek",
+        "example": "She shivered in the cold.",
+        "exampleTr": "Soğukta titredi.",
+        "phonetic": "/ˈʃɪvər/",
+        "level": "b1"
+    },
+    {
+        "id": 32,
+        "word": "stretch",
+        "translation": "gerinmek / esneme",
+        "example": "I stretch every morning.",
+        "exampleTr": "Her sabah gerinirim.",
+        "phonetic": "/stretʃ/",
+        "level": "b1"
+    },
+    {
+        "id": 33,
+        "word": "relax",
+        "translation": "rahatlamak",
+        "example": "I like to relax on weekends.",
+        "exampleTr": "Hafta sonları rahatlamayı severim.",
+        "phonetic": "/rɪˈlæks/",
+        "level": "b1"
+    },
+    {
+        "id": 34,
+        "word": "dizzy",
+        "translation": "baş dönmesi",
+        "example": "I feel dizzy after spinning.",
+        "exampleTr": "Döndükten sonra başım dönüyor.",
+        "phonetic": "/ˈdɪzi/",
+        "level": "b1"
+    },
+    {
+        "id": 35,
+        "word": "faint",
+        "translation": "bayılmak",
+        "example": "She fainted from the heat.",
+        "exampleTr": "Sıcaktan bayıldı.",
+        "phonetic": "/feɪnt/",
+        "level": "b1"
+    },
+    {
+        "id": 36,
+        "word": "conscious",
+        "translation": "bilinçli",
+        "example": "He remained conscious during the surgery.",
+        "exampleTr": "Ameliyat sırasında bilinçli kaldı.",
+        "phonetic": "/ˈkɒnʃəs/",
+        "level": "b2"
+    },
+    {
+        "id": 37,
+        "word": "unconscious",
+        "translation": "bilinçsiz / baygın",
+        "example": "He was unconscious for an hour.",
+        "exampleTr": "Bir saat bilinçsiz kaldı.",
+        "phonetic": "/ʌnˈkɒnʃəs/",
+        "level": "c1"
+    },
+    {
+        "id": 38,
+        "word": "pain",
+        "translation": "ağrı / acı",
+        "example": "I feel pain in my back.",
+        "exampleTr": "Sırtımda ağrı hissediyorum.",
+        "phonetic": "/peɪn/",
+        "level": "a2"
+    },
+    {
+        "id": 39,
+        "word": "pleasure",
+        "translation": "zevk / keyif",
+        "example": "It's a pleasure to meet you.",
+        "exampleTr": "Tanıştığımıza memnun oldum.",
+        "phonetic": "/ˈpleʒər/",
+        "level": "b2"
+    },
+    {
+        "id": 40,
+        "word": "comfort",
+        "translation": "konfor / rahatlık",
+        "example": "This chair provides great comfort.",
+        "exampleTr": "Bu sandalye büyük konfor sağlıyor.",
+        "phonetic": "/ˈkʌmfərt/",
+        "level": "b2"
+    },
+    {
+        "id": 41,
+        "word": "discomfort",
+        "translation": "rahatsızlık",
+        "example": "I felt some discomfort after eating.",
+        "exampleTr": "Yemekten sonra biraz rahatsızlık hissettim.",
+        "phonetic": "/dɪsˈkʌmfərt/",
+        "level": "c1"
+    },
+    {
+        "id": 42,
+        "word": "sense",
+        "translation": "duyu / his",
+        "example": "Humans have five senses.",
+        "exampleTr": "İnsanların beş duyusu var.",
+        "phonetic": "/sens/",
+        "level": "b1"
+    },
+    {
+        "id": 43,
+        "word": "perception",
+        "translation": "algı",
+        "example": "Our perception of reality varies.",
+        "exampleTr": "Gerçeklik algımız değişir.",
+        "phonetic": "/pərˈsepʃn/",
+        "level": "b2"
+    },
+    {
+        "id": 44,
+        "word": "awareness",
+        "translation": "farkındalık",
+        "example": "Raise awareness about health.",
+        "exampleTr": "Sağlık hakkında farkındalık yaratın.",
+        "phonetic": "/əˈwernəs/",
+        "level": "b2"
+    },
+    {
+        "id": 45,
+        "word": "sensation",
+        "translation": "his / duyum",
+        "example": "I felt a burning sensation.",
+        "exampleTr": "Yanma hissi duydum.",
+        "phonetic": "/senˈseɪʃn/",
+        "level": "b1"
+    },
+    {
+        "id": 46,
+        "word": "instinct",
+        "translation": "içgüdü",
+        "example": "Trust your instincts.",
+        "exampleTr": "İçgüdülerine güven.",
+        "phonetic": "/ˈɪnstɪŋkt/",
+        "level": "b2"
+    },
+    {
+        "id": 47,
+        "word": "reflex",
+        "translation": "refleks",
+        "example": "Blinking is a reflex.",
+        "exampleTr": "Göz kırpmak bir reflekstir.",
+        "phonetic": "/ˈriːfleks/",
+        "level": "b1"
+    },
+    {
+        "id": 48,
+        "word": "reaction",
+        "translation": "tepki",
+        "example": "What was his reaction?",
+        "exampleTr": "Tepkisi ne oldu?",
+        "phonetic": "/riˈækʃn/",
+        "level": "b2"
+    },
+    {
+        "id": 49,
+        "word": "response",
+        "translation": "yanıt / tepki",
+        "example": "I'm waiting for your response.",
+        "exampleTr": "Yanıtını bekliyorum.",
+        "phonetic": "/rɪˈspɒns/",
+        "level": "b2"
+    },
+    {
+        "id": 50,
+        "word": "alert",
+        "translation": "uyanık / tetikte",
+        "example": "Stay alert while driving.",
+        "exampleTr": "Araba kullanırken tetikte ol.",
+        "phonetic": "/əˈlɜːrt/",
+        "level": "b1"
+    },
+    {
+        "id": 51,
+        "word": "notice",
+        "translation": "fark etmek",
+        "example": "Did you notice anything strange?",
+        "exampleTr": "Tuhaf bir şey fark ettin mi?",
+        "phonetic": "/ˈnoʊtɪs/",
+        "level": "b1"
+    },
+    {
+        "id": 52,
+        "word": "recognize",
+        "translation": "tanımak",
+        "example": "I didn't recognize him.",
+        "exampleTr": "Onu tanımadım.",
+        "phonetic": "/ˈrekəɡnaɪz/",
+        "level": "b2"
+    },
+    {
+        "id": 53,
+        "word": "ignore",
+        "translation": "görmezden gelmek",
+        "example": "Don't ignore the warning signs.",
+        "exampleTr": "Uyarı işaretlerini görmezden gelme.",
+        "phonetic": "/ɪɡˈnɔːr/",
+        "level": "b1"
+    },
+    {
+        "id": 54,
+        "word": "observe",
+        "translation": "gözlemlemek",
+        "example": "Scientists observe animal behavior.",
+        "exampleTr": "Bilim insanları hayvan davranışlarını gözlemler.",
+        "phonetic": "/əbˈzɜːrv/",
+        "level": "b1"
+    },
+    {
+        "id": 55,
+        "word": "detect",
+        "translation": "algılamak / tespit etmek",
+        "example": "Dogs can detect drugs.",
+        "exampleTr": "Köpekler uyuşturucu tespit edebilir.",
+        "phonetic": "/dɪˈtekt/",
+        "level": "b1"
+    },
+    {
+        "id": 56,
+        "word": "experience",
+        "translation": "deneyimlemek",
+        "example": "I experienced fear.",
+        "exampleTr": "Korku deneyimledim.",
+        "phonetic": "/ɪkˈspɪriəns/",
+        "level": "c1"
+    },
+    {
+        "id": 57,
+        "word": "suffer",
+        "translation": "acı çekmek",
+        "example": "He suffers from headaches.",
+        "exampleTr": "Baş ağrısı çekiyor.",
+        "phonetic": "/ˈsʌfər/",
+        "level": "b1"
+    },
+    {
+        "id": 58,
+        "word": "endure",
+        "translation": "dayanmak / katlanmak",
+        "example": "She endured the pain.",
+        "exampleTr": "Acıya dayandı.",
+        "phonetic": "/ɪnˈdjʊr/",
+        "level": "b1"
+    },
+    {
+        "id": 59,
+        "word": "resist",
+        "translation": "direnmek",
+        "example": "I can't resist chocolate.",
+        "exampleTr": "Çikolataya direnemiyorum.",
+        "phonetic": "/rɪˈzɪst/",
+        "level": "b1"
+    },
+    {
+        "id": 60,
+        "word": "overcome",
+        "translation": "üstesinden gelmek",
+        "example": "She overcame her fear.",
+        "exampleTr": "Korkusunun üstesinden geldi.",
+        "phonetic": "/ˌoʊvərˈkʌm/",
+        "level": "b2"
+    },
+    {
+        "id": 61,
+        "word": "aroma",
+        "translation": "aroma / koku",
+        "example": "The aroma of coffee filled the room.",
+        "exampleTr": "Kahve aroması odayı doldurdu.",
+        "phonetic": "/əˈroʊmə/"
+    },
+    {
+        "id": 62,
+        "word": "bland",
+        "translation": "tatsız / yavan",
+        "example": "The food was bland.",
+        "exampleTr": "Yemek tatsızdı.",
+        "phonetic": "/blænd/"
+    },
+    {
+        "id": 63,
+        "word": "blur",
+        "translation": "bulanık",
+        "example": "My vision was blurred.",
+        "exampleTr": "Görüşüm bulanıktı.",
+        "phonetic": "/blɜːr/"
+    },
+    {
+        "id": 64,
+        "word": "briny",
+        "translation": "tuzlu",
+        "example": "The sea water was briny.",
+        "exampleTr": "Deniz suyu tuzluydu.",
+        "phonetic": "/ˈbraɪni/"
+    },
+    {
+        "id": 65,
+        "word": "caress",
+        "translation": "okşamak",
+        "example": "She caressed the cat.",
+        "exampleTr": "Kediyi okşadı.",
+        "phonetic": "/kəˈres/"
+    },
+    {
+        "id": 66,
+        "word": "chilly",
+        "translation": "serin / soğuk",
+        "example": "It feels chilly outside.",
+        "exampleTr": "Dışarısı serin.",
+        "phonetic": "/ˈtʃɪli/"
+    },
+    {
+        "id": 67,
+        "word": "crispy",
+        "translation": "çıtır",
+        "example": "The fries are crispy.",
+        "exampleTr": "Patates kızartmaları çıtır.",
+        "phonetic": "/ˈkrɪspi/"
+    },
+    {
+        "id": 68,
+        "word": "dazzle",
+        "translation": "göz kamaştırmak",
+        "example": "The light dazzled me.",
+        "exampleTr": "Işık gözlerimi kamaştırdı.",
+        "phonetic": "/ˈdæzl/"
+    },
+    {
+        "id": 69,
+        "word": "deafen",
+        "translation": "sağır etmek",
+        "example": "The noise was deafening.",
+        "exampleTr": "Gürültü sağır ediciydi.",
+        "phonetic": "/ˈdefn/"
+    },
+    {
+        "id": 70,
+        "word": "dim",
+        "translation": "loş / kısık",
+        "example": "The room was dim.",
+        "exampleTr": "Oda loştu.",
+        "phonetic": "/dɪm/"
+    },
+    {
+        "id": 71,
+        "word": "faint",
+        "translation": "hafif / belirsiz",
+        "example": "A faint smell of smoke.",
+        "exampleTr": "Hafif bir duman kokusu.",
+        "phonetic": "/feɪnt/"
+    },
+    {
+        "id": 72,
+        "word": "fragrant",
+        "translation": "mis kokulu",
+        "example": "The flowers are fragrant.",
+        "exampleTr": "Çiçekler mis kokulu.",
+        "phonetic": "/ˈfreɪɡrənt/"
+    },
+    {
+        "id": 73,
+        "word": "glare",
+        "translation": "göz kamaştırma",
+        "example": "The glare from the sun was strong.",
+        "exampleTr": "Güneşin parlaması güçlüydü.",
+        "phonetic": "/ɡler/"
+    },
+    {
+        "id": 74,
+        "word": "glow",
+        "translation": "parıltı / ışıma",
+        "example": "The fire gave a warm glow.",
+        "exampleTr": "Ateş sıcak bir parıltı verdi.",
+        "phonetic": "/ɡloʊ/"
+    },
+    {
+        "id": 75,
+        "word": "grainy",
+        "translation": "grenli / taneli",
+        "example": "The photo looks grainy.",
+        "exampleTr": "Fotoğraf grenli görünüyor.",
+        "phonetic": "/ˈɡreɪni/"
+    },
+    {
+        "id": 76,
+        "word": "glimpse",
+        "translation": "kısa bakış",
+        "example": "I caught a glimpse of her.",
+        "exampleTr": "Onu bir an gördüm.",
+        "phonetic": "/ɡlɪmps/"
+    },
+    {
+        "id": 77,
+        "word": "murmur",
+        "translation": "mırıltı",
+        "example": "She spoke in a murmur.",
+        "exampleTr": "Mırıltıyla konuştu.",
+        "phonetic": "/ˈmɜːrmər/"
+    },
+    {
+        "id": 78,
+        "word": "numb",
+        "translation": "uyuşmuş",
+        "example": "My fingers were numb.",
+        "exampleTr": "Parmaklarım uyuşmuştu.",
+        "phonetic": "/nʌm/"
+    },
+    {
+        "id": 79,
+        "word": "peppery",
+        "translation": "biberli / acı",
+        "example": "The sauce was peppery.",
+        "exampleTr": "Sos biberliydi.",
+        "phonetic": "/ˈpepəri/"
+    },
+    {
+        "id": 80,
+        "word": "pierce",
+        "translation": "delmek",
+        "example": "The sound pierced my ears.",
+        "exampleTr": "Ses kulaklarımı deldi.",
+        "phonetic": "/pɪrs/"
+    },
+    {
+        "id": 81,
+        "word": "prickly",
+        "translation": "dikenli / batıcı",
+        "example": "The cactus is prickly.",
+        "exampleTr": "Kaktüs dikenli.",
+        "phonetic": "/ˈprɪkli/"
+    },
+    {
+        "id": 82,
+        "word": "pungent",
+        "translation": "keskin kokulu",
+        "example": "A pungent smell of garlic.",
+        "exampleTr": "Keskin bir sarımsak kokusu.",
+        "phonetic": "/ˈpʌndʒənt/"
+    },
+    {
+        "id": 83,
+        "word": "rancid",
+        "translation": "bayat / acımış",
+        "example": "The butter has gone rancid.",
+        "exampleTr": "Tereyağı bayatlamış.",
+        "phonetic": "/ˈrænsɪd/"
+    },
+    {
+        "id": 84,
+        "word": "rustle",
+        "translation": "hışırtı",
+        "example": "I heard a rustle in the leaves.",
+        "exampleTr": "Yapraklarda hışırtı duydum.",
+        "phonetic": "/ˈrʌsl/"
+    },
+    {
+        "id": 85,
+        "word": "savory",
+        "translation": "tuzlu / lezzetli",
+        "example": "I prefer savory to sweet.",
+        "exampleTr": "Tatlıya tuzluyu tercih ederim.",
+        "phonetic": "/ˈseɪvəri/"
+    },
+    {
+        "id": 86,
+        "word": "scent",
+        "translation": "koku / parfüm",
+        "example": "The scent of roses.",
+        "exampleTr": "Gül kokusu.",
+        "phonetic": "/sent/"
+    },
+    {
+        "id": 87,
+        "word": "shimmer",
+        "translation": "parıldamak",
+        "example": "The water shimmered.",
+        "exampleTr": "Su parıldıyordu.",
+        "phonetic": "/ˈʃɪmər/"
+    },
+    {
+        "id": 88,
+        "word": "silky",
+        "translation": "ipeksi",
+        "example": "Her hair is silky.",
+        "exampleTr": "Saçları ipeksi.",
+        "phonetic": "/ˈsɪlki/"
+    },
+    {
+        "id": 89,
+        "word": "sizzle",
+        "translation": "cızırdamak",
+        "example": "The steak sizzled.",
+        "exampleTr": "Biftek cızırdıyordu.",
+        "phonetic": "/ˈsɪzl/"
+    },
+    {
+        "id": 90,
+        "word": "slimy",
+        "translation": "yapışkan / kaygan",
+        "example": "The fish was slimy.",
+        "exampleTr": "Balık yapışkandı.",
+        "phonetic": "/ˈslaɪmi/"
+    },
+    {
+        "id": 91,
+        "word": "smoky",
+        "translation": "dumanlı",
+        "example": "The room was smoky.",
+        "exampleTr": "Oda dumanlıydı.",
+        "phonetic": "/ˈsmoʊki/"
+    },
+    {
+        "id": 92,
+        "word": "sparkle",
+        "translation": "parlamak / ışıldamak",
+        "example": "The diamond sparkled.",
+        "exampleTr": "Elmas ışıldıyordu.",
+        "phonetic": "/ˈspɑːrkl/"
+    },
+    {
+        "id": 93,
+        "word": "stale",
+        "translation": "bayat",
+        "example": "The bread is stale.",
+        "exampleTr": "Ekmek bayat.",
+        "phonetic": "/steɪl/"
+    },
+    {
+        "id": 94,
+        "word": "sting",
+        "translation": "sokmak / acıtmak",
+        "example": "The bee stung me.",
+        "exampleTr": "Arı beni soktu.",
+        "phonetic": "/stɪŋ/"
+    },
+    {
+        "id": 95,
+        "word": "stink",
+        "translation": "kötü kokmak",
+        "example": "The garbage stinks.",
+        "exampleTr": "Çöp kötü kokuyor.",
+        "phonetic": "/stɪŋk/"
+    },
+    {
+        "id": 96,
+        "word": "tangy",
+        "translation": "ekşimsi",
+        "example": "The sauce has a tangy flavor.",
+        "exampleTr": "Sosun ekşimsi tadı var.",
+        "phonetic": "/ˈtæŋi/"
+    },
+    {
+        "id": 97,
+        "word": "tingle",
+        "translation": "karıncalanmak",
+        "example": "My skin tingled.",
+        "exampleTr": "Cildim karıncalandı.",
+        "phonetic": "/ˈtɪŋɡl/"
+    },
+    {
+        "id": 98,
+        "word": "translucent",
+        "translation": "yarı saydam",
+        "example": "The glass is translucent.",
+        "exampleTr": "Cam yarı saydam.",
+        "phonetic": "/trænsˈluːsnt/"
+    },
+    {
+        "id": 99,
+        "word": "velvety",
+        "translation": "kadifemsi",
+        "example": "The chocolate had a velvety texture.",
+        "exampleTr": "Çikolatanın kadifemsi dokusu vardı.",
+        "phonetic": "/ˈvelvɪti/"
+    },
+    {
+        "id": 100,
+        "word": "whiff",
+        "translation": "esinti / hafif koku",
+        "example": "I caught a whiff of perfume.",
+        "exampleTr": "Hafif bir parfüm kokusu aldım.",
+        "phonetic": "/wɪf/"
+    }
+]

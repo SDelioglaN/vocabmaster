@@ -1,0 +1,862 @@
+[
+    {
+        "id": 1,
+        "word": "friend",
+        "translation": "arkadaş",
+        "example": "She is my best friend.",
+        "exampleTr": "O benim en iyi arkadaşım.",
+        "phonetic": "/frend/",
+        "level": "a1"
+    },
+    {
+        "id": 2,
+        "word": "friendship",
+        "translation": "arkadaşlık",
+        "example": "Friendship is important.",
+        "exampleTr": "Arkadaşlık önemlidir.",
+        "phonetic": "/ˈfrendʃɪp/",
+        "level": "a2"
+    },
+    {
+        "id": 3,
+        "word": "relationship",
+        "translation": "ilişki",
+        "example": "They have a good relationship.",
+        "exampleTr": "İyi bir ilişkileri var.",
+        "phonetic": "/rɪˈleɪʃnʃɪp/",
+        "level": "b1"
+    },
+    {
+        "id": 4,
+        "word": "partner",
+        "translation": "eş / partner",
+        "example": "He is my partner.",
+        "exampleTr": "O benim eşim.",
+        "phonetic": "/ˈpɑːrtnər/",
+        "level": "a2"
+    },
+    {
+        "id": 5,
+        "word": "couple",
+        "translation": "çift",
+        "example": "They are a nice couple.",
+        "exampleTr": "Hoş bir çiftler.",
+        "phonetic": "/ˈkʌpl/",
+        "level": "a2"
+    },
+    {
+        "id": 6,
+        "word": "date",
+        "translation": "buluşma / randevu",
+        "example": "We went on a date.",
+        "exampleTr": "Bir buluşmaya gittik.",
+        "phonetic": "/deɪt/",
+        "level": "a2"
+    },
+    {
+        "id": 7,
+        "word": "marry",
+        "translation": "evlenmek",
+        "example": "They got married last summer.",
+        "exampleTr": "Geçen yaz evlendiler.",
+        "phonetic": "/ˈmæri/",
+        "level": "a2"
+    },
+    {
+        "id": 8,
+        "word": "wedding",
+        "translation": "düğün",
+        "example": "The wedding was beautiful.",
+        "exampleTr": "Düğün güzeldi.",
+        "phonetic": "/ˈwedɪŋ/",
+        "level": "a2"
+    },
+    {
+        "id": 9,
+        "word": "divorce",
+        "translation": "boşanma",
+        "example": "They got a divorce.",
+        "exampleTr": "Boşandılar.",
+        "phonetic": "/dɪˈvɔːrs/",
+        "level": "a2"
+    },
+    {
+        "id": 10,
+        "word": "love",
+        "translation": "aşk / sevgi",
+        "example": "Love conquers all.",
+        "exampleTr": "Aşk her şeyi yener.",
+        "phonetic": "/lʌv/",
+        "level": "a1"
+    },
+    {
+        "id": 11,
+        "word": "trust",
+        "translation": "güven",
+        "example": "Trust is essential.",
+        "exampleTr": "Güven çok önemli.",
+        "phonetic": "/trʌst/",
+        "level": "b1"
+    },
+    {
+        "id": 12,
+        "word": "respect",
+        "translation": "saygı",
+        "example": "Show respect to others.",
+        "exampleTr": "Başkalarına saygı göster.",
+        "phonetic": "/rɪˈspekt/",
+        "level": "b2"
+    },
+    {
+        "id": 13,
+        "word": "care",
+        "translation": "ilgi / önemsemek",
+        "example": "I care about you.",
+        "exampleTr": "Seni önemsiyorum.",
+        "phonetic": "/ker/",
+        "level": "a2"
+    },
+    {
+        "id": 14,
+        "word": "support",
+        "translation": "destek",
+        "example": "I appreciate your support.",
+        "exampleTr": "Desteğini takdir ediyorum.",
+        "phonetic": "/səˈpɔːrt/",
+        "level": "a2"
+    },
+    {
+        "id": 15,
+        "word": "apologize",
+        "translation": "özür dilemek",
+        "example": "I want to apologize.",
+        "exampleTr": "Özür dilemek istiyorum.",
+        "phonetic": "/əˈpɒlədʒaɪz/",
+        "level": "a2"
+    },
+    {
+        "id": 16,
+        "word": "forgive",
+        "translation": "affetmek",
+        "example": "Please forgive me.",
+        "exampleTr": "Lütfen beni affet.",
+        "phonetic": "/fərˈɡɪv/",
+        "level": "a2"
+    },
+    {
+        "id": 17,
+        "word": "argue",
+        "translation": "tartışmak",
+        "example": "They argue a lot.",
+        "exampleTr": "Çok tartışıyorlar.",
+        "phonetic": "/ˈɑːrɡjuː/",
+        "level": "a2"
+    },
+    {
+        "id": 18,
+        "word": "conflict",
+        "translation": "çatışma",
+        "example": "Avoid unnecessary conflict.",
+        "exampleTr": "Gereksiz çatışmadan kaçın.",
+        "phonetic": "/ˈkɒnflɪkt/",
+        "level": "b2"
+    },
+    {
+        "id": 19,
+        "word": "compromise",
+        "translation": "uzlaşma",
+        "example": "We need to compromise.",
+        "exampleTr": "Uzlaşmamız gerekiyor.",
+        "phonetic": "/ˈkɒmprəmaɪz/",
+        "level": "b1"
+    },
+    {
+        "id": 20,
+        "word": "communicate",
+        "translation": "iletişim kurmak",
+        "example": "We communicate well.",
+        "exampleTr": "İyi iletişim kuruyoruz.",
+        "phonetic": "/kəˈmjuːnɪkeɪt/",
+        "level": "b1"
+    },
+    {
+        "id": 21,
+        "word": "conversation",
+        "translation": "konuşma / sohbet",
+        "example": "We had a long conversation.",
+        "exampleTr": "Uzun bir sohbet ettik.",
+        "phonetic": "/ˌkɒnvərˈseɪʃn/",
+        "level": "b1"
+    },
+    {
+        "id": 22,
+        "word": "gossip",
+        "translation": "dedikodu",
+        "example": "Don't gossip about others.",
+        "exampleTr": "Başkaları hakkında dedikodu yapma.",
+        "phonetic": "/ˈɡɒsɪp/",
+        "level": "b1"
+    },
+    {
+        "id": 23,
+        "word": "compliment",
+        "translation": "iltifat",
+        "example": "She gave me a compliment.",
+        "exampleTr": "Bana iltifat etti.",
+        "phonetic": "/ˈkɒmplɪmənt/",
+        "level": "b1"
+    },
+    {
+        "id": 24,
+        "word": "invite",
+        "translation": "davet etmek",
+        "example": "I'll invite you to the party.",
+        "exampleTr": "Seni partiye davet edeceğim.",
+        "phonetic": "/ɪnˈvaɪt/",
+        "level": "a2"
+    },
+    {
+        "id": 25,
+        "word": "greeting",
+        "translation": "selamlama",
+        "example": "Exchange greetings politely.",
+        "exampleTr": "Kibarca selamlaş.",
+        "phonetic": "/ˈɡriːtɪŋ/",
+        "level": "a2"
+    },
+    {
+        "id": 26,
+        "word": "introduction",
+        "translation": "tanıştırma / tanışma",
+        "example": "Let me make an introduction.",
+        "exampleTr": "Tanıştırmama izin ver.",
+        "phonetic": "/ˌɪntrəˈdʌkʃn/",
+        "level": "b2"
+    },
+    {
+        "id": 27,
+        "word": "stranger",
+        "translation": "yabancı",
+        "example": "Don't talk to strangers.",
+        "exampleTr": "Yabancılarla konuşma.",
+        "phonetic": "/ˈstreɪndʒər/",
+        "level": "a2"
+    },
+    {
+        "id": 28,
+        "word": "neighbor",
+        "translation": "komşu",
+        "example": "My neighbor is friendly.",
+        "exampleTr": "Komşum dost canlısı.",
+        "phonetic": "/ˈneɪbər/",
+        "level": "a2"
+    },
+    {
+        "id": 29,
+        "word": "colleague",
+        "translation": "iş arkadaşı",
+        "example": "He is a good colleague.",
+        "exampleTr": "İyi bir iş arkadaşı.",
+        "phonetic": "/ˈkɒliːɡ/",
+        "level": "a2"
+    },
+    {
+        "id": 30,
+        "word": "acquaintance",
+        "translation": "tanıdık",
+        "example": "He is just an acquaintance.",
+        "exampleTr": "O sadece bir tanıdık.",
+        "phonetic": "/əˈkweɪntəns/",
+        "level": "b1"
+    },
+    {
+        "id": 31,
+        "word": "loyalty",
+        "translation": "sadakat",
+        "example": "Loyalty is rare.",
+        "exampleTr": "Sadakat nadirdir.",
+        "phonetic": "/ˈlɔɪəlti/",
+        "level": "b1"
+    },
+    {
+        "id": 32,
+        "word": "jealous",
+        "translation": "kıskanç",
+        "example": "Don't be jealous.",
+        "exampleTr": "Kıskanç olma.",
+        "phonetic": "/ˈdʒeləs/",
+        "level": "a2"
+    },
+    {
+        "id": 33,
+        "word": "grateful",
+        "translation": "minnettar",
+        "example": "I'm grateful for your help.",
+        "exampleTr": "Yardımın için minnettarım.",
+        "phonetic": "/ˈɡreɪtfl/",
+        "level": "a2"
+    },
+    {
+        "id": 34,
+        "word": "generous",
+        "translation": "cömert",
+        "example": "She is very generous.",
+        "exampleTr": "O çok cömert.",
+        "phonetic": "/ˈdʒenərəs/",
+        "level": "b1"
+    },
+    {
+        "id": 35,
+        "word": "selfish",
+        "translation": "bencil",
+        "example": "Don't be selfish.",
+        "exampleTr": "Bencil olma.",
+        "phonetic": "/ˈselfɪʃ/",
+        "level": "b1"
+    },
+    {
+        "id": 36,
+        "word": "honest",
+        "translation": "dürüst",
+        "example": "Be honest with me.",
+        "exampleTr": "Bana karşı dürüst ol.",
+        "phonetic": "/ˈɒnɪst/",
+        "level": "a2"
+    },
+    {
+        "id": 37,
+        "word": "kind",
+        "translation": "nazik / kibar",
+        "example": "She has a kind heart.",
+        "exampleTr": "Nazik bir kalbi var.",
+        "phonetic": "/kaɪnd/",
+        "level": "a2"
+    },
+    {
+        "id": 38,
+        "word": "polite",
+        "translation": "kibar / nazik",
+        "example": "Always be polite.",
+        "exampleTr": "Her zaman kibar ol.",
+        "phonetic": "/pəˈlaɪt/",
+        "level": "a2"
+    },
+    {
+        "id": 39,
+        "word": "rude",
+        "translation": "kaba",
+        "example": "That was rude.",
+        "exampleTr": "Bu kabaydı.",
+        "phonetic": "/ruːd/",
+        "level": "a2"
+    },
+    {
+        "id": 40,
+        "word": "shy",
+        "translation": "utangaç",
+        "example": "She is shy.",
+        "exampleTr": "O utangaç.",
+        "phonetic": "/ʃaɪ/",
+        "level": "a2"
+    },
+    {
+        "id": 41,
+        "word": "confident",
+        "translation": "özgüvenli",
+        "example": "Be more confident.",
+        "exampleTr": "Daha özgüvenli ol.",
+        "phonetic": "/ˈkɒnfɪdənt/",
+        "level": "a2"
+    },
+    {
+        "id": 42,
+        "word": "empathy",
+        "translation": "empati",
+        "example": "Show empathy to others.",
+        "exampleTr": "Başkalarına empati göster.",
+        "phonetic": "/ˈempəθi/",
+        "level": "b1"
+    },
+    {
+        "id": 43,
+        "word": "sympathy",
+        "translation": "sempati / merhamet",
+        "example": "I feel sympathy for them.",
+        "exampleTr": "Onlara karşı merhamet duyuyorum.",
+        "phonetic": "/ˈsɪmpəθi/",
+        "level": "b1"
+    },
+    {
+        "id": 44,
+        "word": "gossip",
+        "translation": "dedikodu yapmak",
+        "example": "People love to gossip.",
+        "exampleTr": "İnsanlar dedikodu yapmayı sever.",
+        "phonetic": "/ˈɡɒsɪp/",
+        "level": "b1"
+    },
+    {
+        "id": 45,
+        "word": "promise",
+        "translation": "söz vermek",
+        "example": "I promise to be there.",
+        "exampleTr": "Orada olacağıma söz veriyorum.",
+        "phonetic": "/ˈprɒmɪs/",
+        "level": "a2"
+    },
+    {
+        "id": 46,
+        "word": "betray",
+        "translation": "ihanet etmek",
+        "example": "He betrayed my trust.",
+        "exampleTr": "Güvenime ihanet etti.",
+        "phonetic": "/bɪˈtreɪ/",
+        "level": "b1"
+    },
+    {
+        "id": 47,
+        "word": "reunion",
+        "translation": "buluşma / kavuşma",
+        "example": "We had a family reunion.",
+        "exampleTr": "Aile buluşması yaptık.",
+        "phonetic": "/ˌriːˈjuːnjən/",
+        "level": "b2"
+    },
+    {
+        "id": 48,
+        "word": "celebrate",
+        "translation": "kutlamak",
+        "example": "Let's celebrate together.",
+        "exampleTr": "Birlikte kutlayalım.",
+        "phonetic": "/ˈseləbreɪt/",
+        "level": "a2"
+    },
+    {
+        "id": 49,
+        "word": "hug",
+        "translation": "sarılmak",
+        "example": "Give me a hug.",
+        "exampleTr": "Bana sarıl.",
+        "phonetic": "/hʌɡ/",
+        "level": "a2"
+    },
+    {
+        "id": 50,
+        "word": "handshake",
+        "translation": "el sıkışma",
+        "example": "A firm handshake is important.",
+        "exampleTr": "Sıkı bir el sıkışma önemlidir.",
+        "phonetic": "/ˈhændʃeɪk/",
+        "level": "b2"
+    },
+    {
+        "id": 51,
+        "word": "volunteer",
+        "translation": "gönüllü",
+        "example": "I volunteer at a charity.",
+        "exampleTr": "Bir hayır kurumunda gönüllüyüm.",
+        "phonetic": "/ˌvɒlənˈtɪr/",
+        "level": "b1"
+    },
+    {
+        "id": 52,
+        "word": "community",
+        "translation": "topluluk",
+        "example": "Our community is strong.",
+        "exampleTr": "Topluluğumuz güçlü.",
+        "phonetic": "/kəˈmjuːnəti/",
+        "level": "a2"
+    },
+    {
+        "id": 53,
+        "word": "society",
+        "translation": "toplum",
+        "example": "We live in a diverse society.",
+        "exampleTr": "Çeşitli bir toplumda yaşıyoruz.",
+        "phonetic": "/səˈsaɪəti/",
+        "level": "b1"
+    },
+    {
+        "id": 54,
+        "word": "culture",
+        "translation": "kültür",
+        "example": "Learn about different cultures.",
+        "exampleTr": "Farklı kültürler hakkında öğren.",
+        "phonetic": "/ˈkʌltʃər/",
+        "level": "a2"
+    },
+    {
+        "id": 55,
+        "word": "tradition",
+        "translation": "gelenek",
+        "example": "It's a family tradition.",
+        "exampleTr": "Bu bir aile geleneği.",
+        "phonetic": "/trəˈdɪʃn/",
+        "level": "a2"
+    },
+    {
+        "id": 56,
+        "word": "custom",
+        "translation": "adet / örf",
+        "example": "This is a local custom.",
+        "exampleTr": "Bu yerel bir adet.",
+        "phonetic": "/ˈkʌstəm/",
+        "level": "b1"
+    },
+    {
+        "id": 57,
+        "word": "manner",
+        "translation": "tavır / görgü",
+        "example": "Mind your manners.",
+        "exampleTr": "Görgüne dikkat et.",
+        "phonetic": "/ˈmænər/",
+        "level": "b1"
+    },
+    {
+        "id": 58,
+        "word": "charity",
+        "translation": "hayır / hayırseverlik",
+        "example": "Donate to charity.",
+        "exampleTr": "Hayır kurumuna bağış yap.",
+        "phonetic": "/ˈtʃærəti/",
+        "level": "b1"
+    },
+    {
+        "id": 59,
+        "word": "cooperation",
+        "translation": "işbirliği",
+        "example": "Cooperation makes us stronger.",
+        "exampleTr": "İşbirliği bizi güçlü kılar.",
+        "phonetic": "/koʊˌɒpəˈreɪʃn/",
+        "level": "b1"
+    },
+    {
+        "id": 60,
+        "word": "teamwork",
+        "translation": "takım çalışması",
+        "example": "Teamwork makes the dream work.",
+        "exampleTr": "Takım çalışması hayalleri gerçek yapar.",
+        "phonetic": "/ˈtiːmwɜːrk/",
+        "level": "b1"
+    },
+    {
+        "id": 61,
+        "word": "acquaintance",
+        "translation": "tanıdık",
+        "example": "He is just an acquaintance.",
+        "exampleTr": "O sadece bir tanıdık.",
+        "phonetic": "/əˈkweɪntəns/"
+    },
+    {
+        "id": 62,
+        "word": "affection",
+        "translation": "sevgi / şefkat",
+        "example": "She showed great affection.",
+        "exampleTr": "Büyük sevgi gösterdi.",
+        "phonetic": "/əˈfekʃn/"
+    },
+    {
+        "id": 63,
+        "word": "ally",
+        "translation": "müttefik",
+        "example": "They are our allies.",
+        "exampleTr": "Onlar bizim müttefikimiz.",
+        "phonetic": "/ˈælaɪ/"
+    },
+    {
+        "id": 64,
+        "word": "betrayal",
+        "translation": "ihanet",
+        "example": "The betrayal was painful.",
+        "exampleTr": "İhanet acı vericiydi.",
+        "phonetic": "/bɪˈtreɪəl/"
+    },
+    {
+        "id": 65,
+        "word": "boundary",
+        "translation": "sınır",
+        "example": "Set healthy boundaries.",
+        "exampleTr": "Sağlıklı sınırlar koy.",
+        "phonetic": "/ˈbaʊndri/"
+    },
+    {
+        "id": 66,
+        "word": "commitment",
+        "translation": "bağlılık / taahhüt",
+        "example": "Marriage requires commitment.",
+        "exampleTr": "Evlilik bağlılık gerektirir.",
+        "phonetic": "/kəˈmɪtmənt/"
+    },
+    {
+        "id": 67,
+        "word": "confide",
+        "translation": "sır vermek",
+        "example": "She confided in her friend.",
+        "exampleTr": "Arkadaşına sır verdi.",
+        "phonetic": "/kənˈfaɪd/"
+    },
+    {
+        "id": 68,
+        "word": "confrontation",
+        "translation": "yüzleşme / çatışma",
+        "example": "Avoid confrontation.",
+        "exampleTr": "Çatışmadan kaçın.",
+        "phonetic": "/ˌkɒnfrʌnˈteɪʃn/"
+    },
+    {
+        "id": 69,
+        "word": "consent",
+        "translation": "rıza / onay",
+        "example": "You need their consent.",
+        "exampleTr": "Onların rızasına ihtiyacın var.",
+        "phonetic": "/kənˈsent/"
+    },
+    {
+        "id": 70,
+        "word": "courtship",
+        "translation": "kur yapma",
+        "example": "Courtship traditions vary.",
+        "exampleTr": "Kur yapma gelenekleri çeşitlidir.",
+        "phonetic": "/ˈkɔːrtʃɪp/"
+    },
+    {
+        "id": 71,
+        "word": "devotion",
+        "translation": "bağlılık / adanmışlık",
+        "example": "His devotion to his family.",
+        "exampleTr": "Ailesine bağlılığı.",
+        "phonetic": "/dɪˈvoʊʃn/"
+    },
+    {
+        "id": 72,
+        "word": "estranged",
+        "translation": "uzaklaşmış",
+        "example": "They became estranged.",
+        "exampleTr": "Birbirlerinden uzaklaştılar.",
+        "phonetic": "/ɪˈstreɪndʒd/"
+    },
+    {
+        "id": 73,
+        "word": "faithful",
+        "translation": "sadık / vefalı",
+        "example": "She is a faithful friend.",
+        "exampleTr": "Sadık bir arkadaş.",
+        "phonetic": "/ˈfeɪθfl/"
+    },
+    {
+        "id": 74,
+        "word": "foe",
+        "translation": "düşman",
+        "example": "He turned friend into foe.",
+        "exampleTr": "Dostu düşmana çevirdi.",
+        "phonetic": "/foʊ/"
+    },
+    {
+        "id": 75,
+        "word": "forgive",
+        "translation": "affetmek",
+        "example": "I forgive you.",
+        "exampleTr": "Seni affediyorum.",
+        "phonetic": "/fərˈɡɪv/"
+    },
+    {
+        "id": 76,
+        "word": "gossip",
+        "translation": "dedikodu",
+        "example": "Don't gossip about others.",
+        "exampleTr": "Başkaları hakkında dedikodu yapma.",
+        "phonetic": "/ˈɡɒsɪp/"
+    },
+    {
+        "id": 77,
+        "word": "hospitality",
+        "translation": "misafirperverlik",
+        "example": "Turkish hospitality is famous.",
+        "exampleTr": "Türk misafirperverliği meşhur.",
+        "phonetic": "/ˌhɒspɪˈtæləti/"
+    },
+    {
+        "id": 78,
+        "word": "intimacy",
+        "translation": "yakınlık / samimiyet",
+        "example": "Intimacy builds trust.",
+        "exampleTr": "Yakınlık güven oluşturur.",
+        "phonetic": "/ˈɪntɪməsi/"
+    },
+    {
+        "id": 79,
+        "word": "jealousy",
+        "translation": "kıskançlık",
+        "example": "Jealousy destroys relationships.",
+        "exampleTr": "Kıskançlık ilişkileri yıkar.",
+        "phonetic": "/ˈdʒeləsi/"
+    },
+    {
+        "id": 80,
+        "word": "kinship",
+        "translation": "akrabalık",
+        "example": "There is a kinship between them.",
+        "exampleTr": "Aralarında akrabalık var.",
+        "phonetic": "/ˈkɪnʃɪp/"
+    },
+    {
+        "id": 81,
+        "word": "mediator",
+        "translation": "arabulucu",
+        "example": "A mediator resolved the dispute.",
+        "exampleTr": "Arabulucu anlaşmazlığı çözdü.",
+        "phonetic": "/ˈmiːdieɪtər/"
+    },
+    {
+        "id": 82,
+        "word": "mentor",
+        "translation": "akıl hocası",
+        "example": "She is my mentor.",
+        "exampleTr": "O benim akıl hocam.",
+        "phonetic": "/ˈmentɔːr/"
+    },
+    {
+        "id": 83,
+        "word": "mutual",
+        "translation": "karşılıklı",
+        "example": "We have mutual respect.",
+        "exampleTr": "Karşılıklı saygımız var.",
+        "phonetic": "/ˈmjuːtʃuəl/"
+    },
+    {
+        "id": 84,
+        "word": "neglect",
+        "translation": "ihmal etmek",
+        "example": "Don't neglect your friends.",
+        "exampleTr": "Arkadaşlarını ihmal etme.",
+        "phonetic": "/nɪˈɡlekt/"
+    },
+    {
+        "id": 85,
+        "word": "nurture",
+        "translation": "beslemek / geliştirmek",
+        "example": "Nurture your relationships.",
+        "exampleTr": "İlişkilerine özen göster.",
+        "phonetic": "/ˈnɜːrtʃər/"
+    },
+    {
+        "id": 86,
+        "word": "peer",
+        "translation": "akran / eş",
+        "example": "Peer pressure is real.",
+        "exampleTr": "Akran baskısı gerçek.",
+        "phonetic": "/pɪr/"
+    },
+    {
+        "id": 87,
+        "word": "platonic",
+        "translation": "platonik",
+        "example": "They have a platonic friendship.",
+        "exampleTr": "Platonik bir arkadaşlıkları var.",
+        "phonetic": "/pləˈtɒnɪk/"
+    },
+    {
+        "id": 88,
+        "word": "reconcile",
+        "translation": "barışmak",
+        "example": "They reconciled after the fight.",
+        "exampleTr": "Kavgadan sonra barıştılar.",
+        "phonetic": "/ˈrekənsaɪl/"
+    },
+    {
+        "id": 89,
+        "word": "resent",
+        "translation": "gücenmek",
+        "example": "She resented his attitude.",
+        "exampleTr": "Tavrına gücendi.",
+        "phonetic": "/rɪˈzent/"
+    },
+    {
+        "id": 90,
+        "word": "rival",
+        "translation": "rakip",
+        "example": "They are business rivals.",
+        "exampleTr": "İş rakipleri.",
+        "phonetic": "/ˈraɪvl/"
+    },
+    {
+        "id": 91,
+        "word": "solidarity",
+        "translation": "dayanışma",
+        "example": "Show solidarity with others.",
+        "exampleTr": "Başkalarıyla dayanışma göster.",
+        "phonetic": "/ˌsɒlɪˈdærəti/"
+    },
+    {
+        "id": 92,
+        "word": "soulmate",
+        "translation": "ruh eşi",
+        "example": "She found her soulmate.",
+        "exampleTr": "Ruh eşini buldu.",
+        "phonetic": "/ˈsoʊlmeɪt/"
+    },
+    {
+        "id": 93,
+        "word": "supportive",
+        "translation": "destekleyici",
+        "example": "Be supportive of your friends.",
+        "exampleTr": "Arkadaşlarına destek ol.",
+        "phonetic": "/səˈpɔːrtɪv/"
+    },
+    {
+        "id": 94,
+        "word": "sympathize",
+        "translation": "sempati duymak",
+        "example": "I sympathize with you.",
+        "exampleTr": "Sana sempati duyuyorum.",
+        "phonetic": "/ˈsɪmpəθaɪz/"
+    },
+    {
+        "id": 95,
+        "word": "tolerance",
+        "translation": "hoşgörü",
+        "example": "Practice tolerance.",
+        "exampleTr": "Hoşgörü göster.",
+        "phonetic": "/ˈtɒlərəns/"
+    },
+    {
+        "id": 96,
+        "word": "trustworthy",
+        "translation": "güvenilir",
+        "example": "She is trustworthy.",
+        "exampleTr": "Güvenilir biri.",
+        "phonetic": "/ˈtrʌstwɜːrði/"
+    },
+    {
+        "id": 97,
+        "word": "unconditional",
+        "translation": "koşulsuz",
+        "example": "Unconditional love.",
+        "exampleTr": "Koşulsuz sevgi.",
+        "phonetic": "/ˌʌnkənˈdɪʃənl/"
+    },
+    {
+        "id": 98,
+        "word": "vulnerable",
+        "translation": "kırılgan / savunmasız",
+        "example": "Being vulnerable takes courage.",
+        "exampleTr": "Kırılgan olmak cesaret ister.",
+        "phonetic": "/ˈvʌlnərəbl/"
+    },
+    {
+        "id": 99,
+        "word": "warmth",
+        "translation": "sıcaklık / samimiyet",
+        "example": "I felt warmth from the family.",
+        "exampleTr": "Aileden sıcaklık hissettim.",
+        "phonetic": "/wɔːrmθ/"
+    },
+    {
+        "id": 100,
+        "word": "wholesome",
+        "translation": "sağlıklı / yapıcı",
+        "example": "A wholesome relationship.",
+        "exampleTr": "Sağlıklı bir ilişki.",
+        "phonetic": "/ˈhoʊlsəm/"
+    }
+]

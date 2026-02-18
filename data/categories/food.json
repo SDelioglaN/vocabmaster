@@ -1,0 +1,882 @@
+[
+    {
+        "id": 1,
+        "word": "food",
+        "translation": "yiyecek",
+        "example": "The food is delicious.",
+        "exampleTr": "Yemek lezzetli.",
+        "phonetic": "/fuːd/",
+        "level": "a1"
+    },
+    {
+        "id": 2,
+        "word": "drink",
+        "translation": "içecek",
+        "example": "What would you like to drink?",
+        "exampleTr": "Ne içmek istersiniz?",
+        "phonetic": "/drɪŋk/",
+        "level": "a1"
+    },
+    {
+        "id": 3,
+        "word": "breakfast",
+        "translation": "kahvaltı",
+        "example": "I had breakfast early.",
+        "exampleTr": "Erken kahvaltı yaptım.",
+        "phonetic": "/ˈbrekfəst/",
+        "level": "a1"
+    },
+    {
+        "id": 4,
+        "word": "lunch",
+        "translation": "öğle yemeği",
+        "example": "Let's have lunch together.",
+        "exampleTr": "Birlikte öğle yemeği yiyelim.",
+        "phonetic": "/lʌntʃ/",
+        "level": "a1"
+    },
+    {
+        "id": 5,
+        "word": "dinner",
+        "translation": "akşam yemeği",
+        "example": "Dinner is ready.",
+        "exampleTr": "Akşam yemeği hazır.",
+        "phonetic": "/ˈdɪnər/",
+        "level": "a1"
+    },
+    {
+        "id": 6,
+        "word": "snack",
+        "translation": "atıştırmalık",
+        "example": "I need a snack.",
+        "exampleTr": "Atıştırmalığa ihtiyacım var.",
+        "phonetic": "/snæk/",
+        "level": "a2"
+    },
+    {
+        "id": 7,
+        "word": "recipe",
+        "translation": "tarif",
+        "example": "Follow the recipe carefully.",
+        "exampleTr": "Tarifi dikkatli takip et.",
+        "phonetic": "/ˈresəpi/",
+        "level": "a2"
+    },
+    {
+        "id": 8,
+        "word": "ingredient",
+        "translation": "malzeme",
+        "example": "We need fresh ingredients.",
+        "exampleTr": "Taze malzemelere ihtiyacımız var.",
+        "phonetic": "/ɪnˈɡriːdiənt/",
+        "level": "b1"
+    },
+    {
+        "id": 9,
+        "word": "taste",
+        "translation": "tat / tatmak",
+        "example": "Taste the soup.",
+        "exampleTr": "Çorbayı tat.",
+        "phonetic": "/teɪst/",
+        "level": "a1"
+    },
+    {
+        "id": 10,
+        "word": "flavor",
+        "translation": "lezzet",
+        "example": "This has a great flavor.",
+        "exampleTr": "Bunun lezzeti harika.",
+        "phonetic": "/ˈfleɪvər/",
+        "level": "b1"
+    },
+    {
+        "id": 11,
+        "word": "spicy",
+        "translation": "baharatlı / acı",
+        "example": "I like spicy food.",
+        "exampleTr": "Acılı yemek severim.",
+        "phonetic": "/ˈspaɪsi/",
+        "level": "b1"
+    },
+    {
+        "id": 12,
+        "word": "sweet",
+        "translation": "tatlı",
+        "example": "The cake is sweet.",
+        "exampleTr": "Pasta tatlı.",
+        "phonetic": "/swiːt/",
+        "level": "a2"
+    },
+    {
+        "id": 13,
+        "word": "sour",
+        "translation": "ekşi",
+        "example": "Lemons are sour.",
+        "exampleTr": "Limonlar ekşidir.",
+        "phonetic": "/ˈsaʊər/",
+        "level": "a2"
+    },
+    {
+        "id": 14,
+        "word": "bitter",
+        "translation": "acı",
+        "example": "The coffee is bitter.",
+        "exampleTr": "Kahve acı.",
+        "phonetic": "/ˈbɪtər/",
+        "level": "a2"
+    },
+    {
+        "id": 15,
+        "word": "salty",
+        "translation": "tuzlu",
+        "example": "The soup is too salty.",
+        "exampleTr": "Çorba çok tuzlu.",
+        "phonetic": "/ˈsɔːlti/",
+        "level": "a2"
+    },
+    {
+        "id": 16,
+        "word": "fresh",
+        "translation": "taze",
+        "example": "Buy fresh vegetables.",
+        "exampleTr": "Taze sebze al.",
+        "phonetic": "/freʃ/",
+        "level": "b1"
+    },
+    {
+        "id": 17,
+        "word": "frozen",
+        "translation": "dondurulmuş",
+        "example": "Use frozen peas.",
+        "exampleTr": "Dondurulmuş bezelye kullan.",
+        "phonetic": "/ˈfroʊzn/",
+        "level": "b1"
+    },
+    {
+        "id": 18,
+        "word": "organic",
+        "translation": "organik",
+        "example": "I prefer organic food.",
+        "exampleTr": "Organik yiyecek tercih ederim.",
+        "phonetic": "/ɔːrˈɡænɪk/",
+        "level": "b1"
+    },
+    {
+        "id": 19,
+        "word": "vegetarian",
+        "translation": "vejetaryen",
+        "example": "She is vegetarian.",
+        "exampleTr": "O vejetaryen.",
+        "phonetic": "/ˌvedʒəˈteriən/",
+        "level": "b1"
+    },
+    {
+        "id": 20,
+        "word": "vegan",
+        "translation": "vegan",
+        "example": "He follows a vegan diet.",
+        "exampleTr": "Vegan diyet uyguluyor.",
+        "phonetic": "/ˈviːɡən/",
+        "level": "b1"
+    },
+    {
+        "id": 21,
+        "word": "meat",
+        "translation": "et",
+        "example": "I eat meat.",
+        "exampleTr": "Et yerim.",
+        "phonetic": "/miːt/",
+        "level": "a1"
+    },
+    {
+        "id": 22,
+        "word": "chicken",
+        "translation": "tavuk",
+        "example": "I'll have the chicken.",
+        "exampleTr": "Tavuk alayım.",
+        "phonetic": "/ˈtʃɪkɪn/",
+        "level": "a1"
+    },
+    {
+        "id": 23,
+        "word": "beef",
+        "translation": "sığır eti",
+        "example": "Beef steak is my favorite.",
+        "exampleTr": "Biftek en sevdiğim.",
+        "phonetic": "/biːf/",
+        "level": "a2"
+    },
+    {
+        "id": 24,
+        "word": "lamb",
+        "translation": "kuzu eti",
+        "example": "Lamb is tender.",
+        "exampleTr": "Kuzu eti yumuşak.",
+        "phonetic": "/læm/",
+        "level": "a2"
+    },
+    {
+        "id": 25,
+        "word": "pork",
+        "translation": "domuz eti",
+        "example": "Pork is popular in Europe.",
+        "exampleTr": "Domuz eti Avrupa'da popüler.",
+        "phonetic": "/pɔːrk/",
+        "level": "a2"
+    },
+    {
+        "id": 26,
+        "word": "seafood",
+        "translation": "deniz ürünleri",
+        "example": "I love seafood.",
+        "exampleTr": "Deniz ürünlerini seviyorum.",
+        "phonetic": "/ˈsiːfuːd/",
+        "level": "b1"
+    },
+    {
+        "id": 27,
+        "word": "shrimp",
+        "translation": "karides",
+        "example": "Grilled shrimp is delicious.",
+        "exampleTr": "Izgara karides lezzetli.",
+        "phonetic": "/ʃrɪmp/",
+        "level": "a2"
+    },
+    {
+        "id": 28,
+        "word": "salmon",
+        "translation": "somon",
+        "example": "Salmon is healthy.",
+        "exampleTr": "Somon sağlıklıdır.",
+        "phonetic": "/ˈsæmən/",
+        "level": "a2"
+    },
+    {
+        "id": 29,
+        "word": "rice",
+        "translation": "pirinç / pilav",
+        "example": "Cook the rice.",
+        "exampleTr": "Pilavı pişir.",
+        "phonetic": "/raɪs/",
+        "level": "a1"
+    },
+    {
+        "id": 30,
+        "word": "pasta",
+        "translation": "makarna",
+        "example": "I made pasta for dinner.",
+        "exampleTr": "Akşam yemeği için makarna yaptım.",
+        "phonetic": "/ˈpæstə/",
+        "level": "a2"
+    },
+    {
+        "id": 31,
+        "word": "bread",
+        "translation": "ekmek",
+        "example": "Buy some bread.",
+        "exampleTr": "Biraz ekmek al.",
+        "phonetic": "/bred/",
+        "level": "a1"
+    },
+    {
+        "id": 32,
+        "word": "cheese",
+        "translation": "peynir",
+        "example": "I like cheese.",
+        "exampleTr": "Peynir severim.",
+        "phonetic": "/tʃiːz/",
+        "level": "a1"
+    },
+    {
+        "id": 33,
+        "word": "butter",
+        "translation": "tereyağı",
+        "example": "Spread the butter on bread.",
+        "exampleTr": "Tereyağını ekmeğe sür.",
+        "phonetic": "/ˈbʌtər/",
+        "level": "a2"
+    },
+    {
+        "id": 34,
+        "word": "egg",
+        "translation": "yumurta",
+        "example": "Boil an egg.",
+        "exampleTr": "Bir yumurta haşla.",
+        "phonetic": "/eɡ/",
+        "level": "a1"
+    },
+    {
+        "id": 35,
+        "word": "milk",
+        "translation": "süt",
+        "example": "Drink your milk.",
+        "exampleTr": "Sütünü iç.",
+        "phonetic": "/mɪlk/",
+        "level": "a1"
+    },
+    {
+        "id": 36,
+        "word": "yogurt",
+        "translation": "yoğurt",
+        "example": "I eat yogurt every day.",
+        "exampleTr": "Her gün yoğurt yerim.",
+        "phonetic": "/ˈjoʊɡərt/",
+        "level": "a2"
+    },
+    {
+        "id": 37,
+        "word": "fruit",
+        "translation": "meyve",
+        "example": "Eat more fruit.",
+        "exampleTr": "Daha fazla meyve ye.",
+        "phonetic": "/fruːt/",
+        "level": "a1"
+    },
+    {
+        "id": 38,
+        "word": "apple",
+        "translation": "elma",
+        "example": "An apple a day keeps the doctor away.",
+        "exampleTr": "Günde bir elma doktoru uzak tutar.",
+        "phonetic": "/ˈæpl/",
+        "level": "a1"
+    },
+    {
+        "id": 39,
+        "word": "banana",
+        "translation": "muz",
+        "example": "I eat a banana after exercise.",
+        "exampleTr": "Egzersizden sonra muz yerim.",
+        "phonetic": "/bəˈnænə/",
+        "level": "a1"
+    },
+    {
+        "id": 40,
+        "word": "orange",
+        "translation": "portakal",
+        "example": "Orange juice is refreshing.",
+        "exampleTr": "Portakal suyu ferahlatıcı.",
+        "phonetic": "/ˈɒrɪndʒ/",
+        "level": "a1"
+    },
+    {
+        "id": 41,
+        "word": "strawberry",
+        "translation": "çilek",
+        "example": "I love strawberries.",
+        "exampleTr": "Çileği seviyorum.",
+        "phonetic": "/ˈstrɔːbəri/",
+        "level": "a2"
+    },
+    {
+        "id": 42,
+        "word": "grape",
+        "translation": "üzüm",
+        "example": "Grapes grow on vines.",
+        "exampleTr": "Üzümler asmalarda yetişir.",
+        "phonetic": "/ɡreɪp/",
+        "level": "a2"
+    },
+    {
+        "id": 43,
+        "word": "watermelon",
+        "translation": "karpuz",
+        "example": "Watermelon is refreshing in summer.",
+        "exampleTr": "Karpuz yazın ferahlatıcıdır.",
+        "phonetic": "/ˈwɔːtərmelən/",
+        "level": "a2"
+    },
+    {
+        "id": 44,
+        "word": "vegetable",
+        "translation": "sebze",
+        "example": "Eat your vegetables.",
+        "exampleTr": "Sebzelerini ye.",
+        "phonetic": "/ˈvedʒtəbl/",
+        "level": "a2"
+    },
+    {
+        "id": 45,
+        "word": "tomato",
+        "translation": "domates",
+        "example": "Add some tomatoes.",
+        "exampleTr": "Biraz domates ekle.",
+        "phonetic": "/təˈmeɪtoʊ/",
+        "level": "a2"
+    },
+    {
+        "id": 46,
+        "word": "potato",
+        "translation": "patates",
+        "example": "Bake the potatoes.",
+        "exampleTr": "Patatesleri pişir.",
+        "phonetic": "/pəˈteɪtoʊ/",
+        "level": "a2"
+    },
+    {
+        "id": 47,
+        "word": "onion",
+        "translation": "soğan",
+        "example": "Chop the onions.",
+        "exampleTr": "Soğanları doğra.",
+        "phonetic": "/ˈʌnjən/",
+        "level": "a2"
+    },
+    {
+        "id": 48,
+        "word": "garlic",
+        "translation": "sarımsak",
+        "example": "Add some garlic.",
+        "exampleTr": "Biraz sarımsak ekle.",
+        "phonetic": "/ˈɡɑːrlɪk/",
+        "level": "a2"
+    },
+    {
+        "id": 49,
+        "word": "pepper",
+        "translation": "biber",
+        "example": "Add salt and pepper.",
+        "exampleTr": "Tuz ve biber ekle.",
+        "phonetic": "/ˈpepər/",
+        "level": "a2"
+    },
+    {
+        "id": 50,
+        "word": "salad",
+        "translation": "salata",
+        "example": "Make a fresh salad.",
+        "exampleTr": "Taze salata yap.",
+        "phonetic": "/ˈsæləd/",
+        "level": "a2"
+    },
+    {
+        "id": 51,
+        "word": "soup",
+        "translation": "çorba",
+        "example": "The soup is hot.",
+        "exampleTr": "Çorba sıcak.",
+        "phonetic": "/suːp/",
+        "level": "a2"
+    },
+    {
+        "id": 52,
+        "word": "dessert",
+        "translation": "tatlı",
+        "example": "What's for dessert?",
+        "exampleTr": "Tatlı olarak ne var?",
+        "phonetic": "/dɪˈzɜːrt/",
+        "level": "a2"
+    },
+    {
+        "id": 53,
+        "word": "cake",
+        "translation": "kek / pasta",
+        "example": "She baked a cake.",
+        "exampleTr": "Bir kek pişirdi.",
+        "phonetic": "/keɪk/",
+        "level": "a1"
+    },
+    {
+        "id": 54,
+        "word": "chocolate",
+        "translation": "çikolata",
+        "example": "I love chocolate.",
+        "exampleTr": "Çikolata seviyorum.",
+        "phonetic": "/ˈtʃɒklət/",
+        "level": "a2"
+    },
+    {
+        "id": 55,
+        "word": "ice cream",
+        "translation": "dondurma",
+        "example": "Let's get ice cream.",
+        "exampleTr": "Dondurma alalım.",
+        "phonetic": "/aɪs kriːm/",
+        "level": "a2"
+    },
+    {
+        "id": 56,
+        "word": "coffee",
+        "translation": "kahve",
+        "example": "I need a coffee.",
+        "exampleTr": "Kahveye ihtiyacım var.",
+        "phonetic": "/ˈkɒfi/",
+        "level": "a1"
+    },
+    {
+        "id": 57,
+        "word": "tea",
+        "translation": "çay",
+        "example": "Would you like some tea?",
+        "exampleTr": "Biraz çay ister misiniz?",
+        "phonetic": "/tiː/",
+        "level": "a1"
+    },
+    {
+        "id": 58,
+        "word": "juice",
+        "translation": "meyve suyu",
+        "example": "I'll have orange juice.",
+        "exampleTr": "Portakal suyu alayım.",
+        "phonetic": "/dʒuːs/",
+        "level": "a1"
+    },
+    {
+        "id": 59,
+        "word": "water",
+        "translation": "su",
+        "example": "Drink more water.",
+        "exampleTr": "Daha fazla su iç.",
+        "phonetic": "/ˈwɔːtər/",
+        "level": "a1"
+    },
+    {
+        "id": 60,
+        "word": "wine",
+        "translation": "şarap",
+        "example": "Red wine goes well with steak.",
+        "exampleTr": "Kırmızı şarap biftek ile gider.",
+        "phonetic": "/waɪn/",
+        "level": "a2"
+    },
+    {
+        "id": 61,
+        "word": "beer",
+        "translation": "bira",
+        "example": "Would you like a beer?",
+        "exampleTr": "Bira ister misin?",
+        "phonetic": "/bɪr/",
+        "level": "a2"
+    },
+    {
+        "id": 62,
+        "word": "roast",
+        "translation": "kızartma / kavurma",
+        "example": "Roast the chicken.",
+        "exampleTr": "Tavuğu kızart.",
+        "phonetic": "/roʊst/",
+        "level": "b1"
+    },
+    {
+        "id": 63,
+        "word": "grill",
+        "translation": "ızgara",
+        "example": "Let's grill some meat.",
+        "exampleTr": "Biraz et ızgara yapalım.",
+        "phonetic": "/ɡrɪl/",
+        "level": "b1"
+    },
+    {
+        "id": 64,
+        "word": "bake",
+        "translation": "fırında pişirmek",
+        "example": "Bake for 30 minutes.",
+        "exampleTr": "30 dakika fırında pişir.",
+        "phonetic": "/beɪk/",
+        "level": "b1"
+    },
+    {
+        "id": 65,
+        "word": "boil",
+        "translation": "kaynatmak",
+        "example": "Boil the water first.",
+        "exampleTr": "Önce suyu kaynat.",
+        "phonetic": "/bɔɪl/",
+        "level": "b1"
+    },
+    {
+        "id": 66,
+        "word": "fry",
+        "translation": "kızartmak",
+        "example": "Fry the eggs.",
+        "exampleTr": "Yumurtaları kızart.",
+        "phonetic": "/fraɪ/",
+        "level": "b1"
+    },
+    {
+        "id": 67,
+        "word": "stir",
+        "translation": "karıştırmak",
+        "example": "Stir the sauce.",
+        "exampleTr": "Sosu karıştır.",
+        "phonetic": "/stɜːr/",
+        "level": "b1"
+    },
+    {
+        "id": 68,
+        "word": "chop",
+        "translation": "doğramak",
+        "example": "Chop the vegetables.",
+        "exampleTr": "Sebzeleri doğra.",
+        "phonetic": "/tʃɒp/",
+        "level": "b1"
+    },
+    {
+        "id": 69,
+        "word": "slice",
+        "translation": "dilimlemek",
+        "example": "Slice the bread.",
+        "exampleTr": "Ekmeği dilimle.",
+        "phonetic": "/slaɪs/",
+        "level": "b1"
+    },
+    {
+        "id": 70,
+        "word": "peel",
+        "translation": "soymak",
+        "example": "Peel the potatoes.",
+        "exampleTr": "Patatesleri soy.",
+        "phonetic": "/piːl/",
+        "level": "b1"
+    },
+    {
+        "id": 71,
+        "word": "appetite",
+        "translation": "iştah",
+        "example": "I have a big appetite.",
+        "exampleTr": "İştahım çok açık.",
+        "phonetic": "/ˈæpɪtaɪt/",
+        "level": "b1"
+    },
+    {
+        "id": 72,
+        "word": "hungry",
+        "translation": "aç",
+        "example": "I'm very hungry.",
+        "exampleTr": "Çok açım.",
+        "phonetic": "/ˈhʌŋɡri/",
+        "level": "a1"
+    },
+    {
+        "id": 73,
+        "word": "thirsty",
+        "translation": "susuz",
+        "example": "I'm thirsty.",
+        "exampleTr": "Susadım.",
+        "phonetic": "/ˈθɜːrsti/",
+        "level": "a1"
+    },
+    {
+        "id": 74,
+        "word": "delicious",
+        "translation": "lezzetli",
+        "example": "This is delicious!",
+        "exampleTr": "Bu çok lezzetli!",
+        "phonetic": "/dɪˈlɪʃəs/",
+        "level": "a2"
+    },
+    {
+        "id": 75,
+        "word": "portion",
+        "translation": "porsiyon",
+        "example": "The portions are generous.",
+        "exampleTr": "Porsiyonlar bol.",
+        "phonetic": "/ˈpɔːrʃn/",
+        "level": "b1"
+    },
+    {
+        "id": 76,
+        "word": "menu",
+        "translation": "menü",
+        "example": "Can I see the menu?",
+        "exampleTr": "Menüyü görebilir miyim?",
+        "phonetic": "/ˈmenjuː/",
+        "level": "a2"
+    },
+    {
+        "id": 77,
+        "word": "order",
+        "translation": "sipariş",
+        "example": "Are you ready to order?",
+        "exampleTr": "Sipariş vermeye hazır mısınız?",
+        "phonetic": "/ˈɔːrdər/",
+        "level": "a2"
+    },
+    {
+        "id": 78,
+        "word": "tip",
+        "translation": "bahşiş",
+        "example": "Leave a tip for the waiter.",
+        "exampleTr": "Garsona bahşiş bırak.",
+        "phonetic": "/tɪp/",
+        "level": "b1"
+    },
+    {
+        "id": 79,
+        "word": "reservation",
+        "translation": "rezervasyon",
+        "example": "I made a reservation.",
+        "exampleTr": "Rezervasyon yaptım.",
+        "phonetic": "/ˌrezərˈveɪʃn/",
+        "level": "b1"
+    },
+    {
+        "id": 80,
+        "word": "nutrition",
+        "translation": "beslenme",
+        "example": "Good nutrition is essential.",
+        "exampleTr": "İyi beslenme önemlidir.",
+        "phonetic": "/njuˈtrɪʃn/",
+        "level": "b1"
+    },
+    {
+        "id": 81,
+        "word": "appetizer",
+        "translation": "meze / başlangıç",
+        "example": "We ordered appetizers.",
+        "exampleTr": "Meze sipariş ettik.",
+        "phonetic": "/ˈæpɪtaɪzər/"
+    },
+    {
+        "id": 82,
+        "word": "broth",
+        "translation": "et suyu",
+        "example": "Chicken broth is soothing.",
+        "exampleTr": "Tavuk suyu rahatlatıcı.",
+        "phonetic": "/brɒθ/"
+    },
+    {
+        "id": 83,
+        "word": "cuisine",
+        "translation": "mutfak / yemek kültürü",
+        "example": "Turkish cuisine is delicious.",
+        "exampleTr": "Türk mutfağı lezzetli.",
+        "phonetic": "/kwɪˈziːn/"
+    },
+    {
+        "id": 84,
+        "word": "dough",
+        "translation": "hamur",
+        "example": "Knead the dough.",
+        "exampleTr": "Hamuru yoğur.",
+        "phonetic": "/doʊ/"
+    },
+    {
+        "id": 85,
+        "word": "garnish",
+        "translation": "süslemek / garnitür",
+        "example": "Garnish with parsley.",
+        "exampleTr": "Maydanozla süsle.",
+        "phonetic": "/ˈɡɑːrnɪʃ/"
+    },
+    {
+        "id": 86,
+        "word": "gluten",
+        "translation": "gluten",
+        "example": "This bread is gluten-free.",
+        "exampleTr": "Bu ekmek glutensiz.",
+        "phonetic": "/ˈɡluːtn/"
+    },
+    {
+        "id": 87,
+        "word": "gourmet",
+        "translation": "gurme",
+        "example": "A gourmet restaurant.",
+        "exampleTr": "Gurme bir restoran.",
+        "phonetic": "/ɡʊrˈmeɪ/"
+    },
+    {
+        "id": 88,
+        "word": "marinade",
+        "translation": "marine sos",
+        "example": "Let the meat marinade overnight.",
+        "exampleTr": "Eti gece boyunca marine et.",
+        "phonetic": "/ˌmærɪˈneɪd/"
+    },
+    {
+        "id": 89,
+        "word": "nectar",
+        "translation": "nektar",
+        "example": "Bees collect nectar.",
+        "exampleTr": "Arılar nektar toplar.",
+        "phonetic": "/ˈnektər/"
+    },
+    {
+        "id": 90,
+        "word": "organic",
+        "translation": "organik",
+        "example": "Buy organic vegetables.",
+        "exampleTr": "Organik sebze al.",
+        "phonetic": "/ɔːrˈɡænɪk/"
+    },
+    {
+        "id": 91,
+        "word": "pastry",
+        "translation": "hamur işi",
+        "example": "Danish pastries are delicious.",
+        "exampleTr": "Danimarka hamur işleri lezzetli.",
+        "phonetic": "/ˈpeɪstri/"
+    },
+    {
+        "id": 92,
+        "word": "portion",
+        "translation": "porsiyon",
+        "example": "The portions are generous.",
+        "exampleTr": "Porsiyonlar cömert.",
+        "phonetic": "/ˈpɔːrʃn/"
+    },
+    {
+        "id": 93,
+        "word": "preserve",
+        "translation": "konserve / reçel",
+        "example": "Homemade preserves taste great.",
+        "exampleTr": "Ev yapımı reçeller harika.",
+        "phonetic": "/prɪˈzɜːrv/"
+    },
+    {
+        "id": 94,
+        "word": "protein",
+        "translation": "protein",
+        "example": "Eggs are rich in protein.",
+        "exampleTr": "Yumurtalar protein açısından zengin.",
+        "phonetic": "/ˈproʊtiːn/"
+    },
+    {
+        "id": 95,
+        "word": "savor",
+        "translation": "tat almak / lezzet",
+        "example": "Savor every bite.",
+        "exampleTr": "Her lokmanın tadını çıkar.",
+        "phonetic": "/ˈseɪvər/"
+    },
+    {
+        "id": 96,
+        "word": "seasoning",
+        "translation": "baharat / çeşni",
+        "example": "Add seasoning to taste.",
+        "exampleTr": "Tadına göre baharat ekle.",
+        "phonetic": "/ˈsiːznɪŋ/"
+    },
+    {
+        "id": 97,
+        "word": "simmer",
+        "translation": "hafif kaynatmak",
+        "example": "Simmer for 20 minutes.",
+        "exampleTr": "20 dakika kısık ateşte pişir.",
+        "phonetic": "/ˈsɪmər/"
+    },
+    {
+        "id": 98,
+        "word": "stew",
+        "translation": "güveç / yahni",
+        "example": "Beef stew is hearty.",
+        "exampleTr": "Sığır yahnisi doyurucu.",
+        "phonetic": "/stjuː/"
+    },
+    {
+        "id": 99,
+        "word": "vegan",
+        "translation": "vegan",
+        "example": "She follows a vegan diet.",
+        "exampleTr": "Vegan beslenme uyguluyor.",
+        "phonetic": "/ˈviːɡən/"
+    },
+    {
+        "id": 100,
+        "word": "whisk",
+        "translation": "çırpmak / çırpıcı",
+        "example": "Whisk the eggs.",
+        "exampleTr": "Yumurtaları çırp.",
+        "phonetic": "/wɪsk/"
+    }
+]

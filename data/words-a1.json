@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "word": "hello",
+    "translation": "merhaba",
+    "example": "Hello, how are you?",
+    "exampleTr": "Merhaba, nasılsın?",
+    "phonetic": "/həˈloʊ/"
+  },
+  {
+    "id": 2,
+    "word": "goodbye",
+    "translation": "hoşça kal",
+    "example": "Goodbye, see you tomorrow!",
+    "exampleTr": "Hoşça kal, yarın görüşürüz!",
+    "phonetic": "/ɡʊdˈbaɪ/"
+  },
+  {
+    "id": 3,
+    "word": "thank you",
+    "translation": "teşekkür ederim",
+    "example": "Thank you for your help.",
+    "exampleTr": "Yardımın için teşekkür ederim.",
+    "phonetic": "/θæŋk juː/"
+  },
+  {
+    "id": 4,
+    "word": "please",
+    "translation": "lütfen",
+    "example": "Please open the door.",
+    "exampleTr": "Lütfen kapıyı aç.",
+    "phonetic": "/pliːz/"
+  },
+  {
+    "id": 5,
+    "word": "yes",
+    "translation": "evet",
+    "example": "Yes, I understand.",
+    "exampleTr": "Evet, anlıyorum.",
+    "phonetic": "/jes/"
+  },
+  {
+    "id": 6,
+    "word": "no",
+    "translation": "hayır",
+    "example": "No, thank you.",
+    "exampleTr": "Hayır, teşekkürler.",
+    "phonetic": "/noʊ/"
+  },
+  {
+    "id": 7,
+    "word": "water",
+    "translation": "su",
+    "example": "I drink water every day.",
+    "exampleTr": "Her gün su içerim.",
+    "phonetic": "/ˈwɔːtər/"
+  },
+  {
+    "id": 8,
+    "word": "food",
+    "translation": "yemek",
+    "example": "The food is delicious.",
+    "exampleTr": "Yemek lezzetli.",
+    "phonetic": "/fuːd/"
+  },
+  {
+    "id": 9,
+    "word": "house",
+    "translation": "ev",
+    "example": "This is my house.",
+    "exampleTr": "Bu benim evim.",
+    "phonetic": "/haʊs/"
+  },
+  {
+    "id": 10,
+    "word": "family",
+    "translation": "aile",
+    "example": "I love my family.",
+    "exampleTr": "Ailemi seviyorum.",
+    "phonetic": "/ˈfæməli/"
+  },
+  {
+    "id": 11,
+    "word": "friend",
+    "translation": "arkadaş",
+    "example": "She is my best friend.",
+    "exampleTr": "O benim en iyi arkadaşım.",
+    "phonetic": "/frend/"
+  },
+  {
+    "id": 12,
+    "word": "book",
+    "translation": "kitap",
+    "example": "I read a book every week.",
+    "exampleTr": "Her hafta bir kitap okurum.",
+    "phonetic": "/bʊk/"
+  },
+  {
+    "id": 13,
+    "word": "school",
+    "translation": "okul",
+    "example": "The children go to school.",
+    "exampleTr": "Çocuklar okula gider.",
+    "phonetic": "/skuːl/"
+  },
+  {
+    "id": 14,
+    "word": "work",
+    "translation": "iş / çalışmak",
+    "example": "I work in an office.",
+    "exampleTr": "Bir ofiste çalışıyorum.",
+    "phonetic": "/wɜːrk/"
+  },
+  {
+    "id": 15,
+    "word": "time",
+    "translation": "zaman",
+    "example": "What time is it?",
+    "exampleTr": "Saat kaç?",
+    "phonetic": "/taɪm/"
+  },
+  {
+    "id": 16,
+    "word": "day",
+    "translation": "gün",
+    "example": "Have a nice day!",
+    "exampleTr": "İyi günler!",
+    "phonetic": "/deɪ/"
+  },
+  {
+    "id": 17,
+    "word": "night",
+    "translation": "gece",
+    "example": "Good night, sleep well.",
+    "exampleTr": "İyi geceler, iyi uykular.",
+    "phonetic": "/naɪt/"
+  },
+  {
+    "id": 18,
+    "word": "morning",
+    "translation": "sabah",
+    "example": "I wake up early in the morning.",
+    "exampleTr": "Sabah erken uyanırım.",
+    "phonetic": "/ˈmɔːrnɪŋ/"
+  },
+  {
+    "id": 19,
+    "word": "evening",
+    "translation": "akşam",
+    "example": "We eat dinner in the evening.",
+    "exampleTr": "Akşam yemeği yeriz.",
+    "phonetic": "/ˈiːvnɪŋ/"
+  },
+  {
+    "id": 20,
+    "word": "today",
+    "translation": "bugün",
+    "example": "Today is a beautiful day.",
+    "exampleTr": "Bugün güzel bir gün.",
+    "phonetic": "/təˈdeɪ/"
+  },
+  {
+    "id": 21,
+    "word": "tomorrow",
+    "translation": "yarın",
+    "example": "I will call you tomorrow.",
+    "exampleTr": "Yarın seni arayacağım.",
+    "phonetic": "/təˈmɒroʊ/"
+  },
+  {
+    "id": 22,
+    "word": "yesterday",
+    "translation": "dün",
+    "example": "I saw him yesterday.",
+    "exampleTr": "Onu dün gördüm.",
+    "phonetic": "/ˈjestərdeɪ/"
+  },
+  {
+    "id": 23,
+    "word": "big",
+    "translation": "büyük",
+    "example": "This is a big city.",
+    "exampleTr": "Bu büyük bir şehir.",
+    "phonetic": "/bɪɡ/"
+  },
+  {
+    "id": 24,
+    "word": "small",
+    "translation": "küçük",
+    "example": "I have a small cat.",
+    "exampleTr": "Küçük bir kedim var.",
+    "phonetic": "/smɔːl/"
+  },
+  {
+    "id": 25,
+    "word": "good",
+    "translation": "iyi",
+    "example": "This is a good idea.",
+    "exampleTr": "Bu iyi bir fikir.",
+    "phonetic": "/ɡʊd/"
+  },
+  {
+    "id": 26,
+    "word": "bad",
+    "translation": "kötü",
+    "example": "The weather is bad today.",
+    "exampleTr": "Bugün hava kötü.",
+    "phonetic": "/bæd/"
+  },
+  {
+    "id": 27,
+    "word": "new",
+    "translation": "yeni",
+    "example": "I bought a new phone.",
+    "exampleTr": "Yeni bir telefon aldım.",
+    "phonetic": "/njuː/"
+  },
+  {
+    "id": 28,
+    "word": "old",
+    "translation": "eski / yaşlı",
+    "example": "This building is very old.",
+    "exampleTr": "Bu bina çok eski.",
+    "phonetic": "/oʊld/"
+  },
+  {
+    "id": 29,
+    "word": "happy",
+    "translation": "mutlu",
+    "example": "I am happy to see you.",
+    "exampleTr": "Seni gördüğüme mutluyum.",
+    "phonetic": "/ˈhæpi/"
+  },
+  {
+    "id": 30,
+    "word": "sad",
+    "translation": "üzgün",
+    "example": "She looks sad today.",
+    "exampleTr": "Bugün üzgün görünüyor.",
+    "phonetic": "/sæd/"
+  },
+  {
+    "id": 31,
+    "word": "eat",
+    "translation": "yemek (fiil)",
+    "example": "I eat breakfast at 8 AM.",
+    "exampleTr": "Sabah 8'de kahvaltı yaparım.",
+    "phonetic": "/iːt/"
+  },
+  {
+    "id": 32,
+    "word": "drink",
+    "translation": "içmek",
+    "example": "Do you want to drink coffee?",
+    "exampleTr": "Kahve içmek ister misin?",
+    "phonetic": "/drɪŋk/"
+  },
+  {
+    "id": 33,
+    "word": "sleep",
+    "translation": "uyumak",
+    "example": "I sleep eight hours a day.",
+    "exampleTr": "Günde sekiz saat uyurum.",
+    "phonetic": "/sliːp/"
+  },
+  {
+    "id": 34,
+    "word": "walk",
+    "translation": "yürümek",
+    "example": "I walk to work every day.",
+    "exampleTr": "Her gün işe yürüyerek giderim.",
+    "phonetic": "/wɔːk/"
+  },
+  {
+    "id": 35,
+    "word": "run",
+    "translation": "koşmak",
+    "example": "He likes to run in the park.",
+    "exampleTr": "Parkta koşmayı sever.",
+    "phonetic": "/rʌn/"
+  },
+  {
+    "id": 36,
+    "word": "speak",
+    "translation": "konuşmak",
+    "example": "Do you speak English?",
+    "exampleTr": "İngilizce konuşuyor musun?",
+    "phonetic": "/spiːk/"
+  },
+  {
+    "id": 37,
+    "word": "listen",
+    "translation": "dinlemek",
+    "example": "I listen to music every day.",
+    "exampleTr": "Her gün müzik dinlerim.",
+    "phonetic": "/ˈlɪsən/"
+  },
+  {
+    "id": 38,
+    "word": "write",
+    "translation": "yazmak",
+    "example": "She writes in her diary.",
+    "exampleTr": "Günlüğüne yazar.",
+    "phonetic": "/raɪt/"
+  },
+  {
+    "id": 39,
+    "word": "read",
+    "translation": "okumak",
+    "example": "I read the newspaper every morning.",
+    "exampleTr": "Her sabah gazete okurum.",
+    "phonetic": "/riːd/"
+  },
+  {
+    "id": 40,
+    "word": "learn",
+    "translation": "öğrenmek",
+    "example": "I want to learn English.",
+    "exampleTr": "İngilizce öğrenmek istiyorum.",
+    "phonetic": "/lɜːrn/"
+  },
+  {
+    "id": 41,
+    "word": "understand",
+    "translation": "anlamak",
+    "example": "I understand the question.",
+    "exampleTr": "Soruyu anlıyorum.",
+    "phonetic": "/ˌʌndərˈstænd/"
+  },
+  {
+    "id": 42,
+    "word": "help",
+    "translation": "yardım etmek",
+    "example": "Can you help me, please?",
+    "exampleTr": "Bana yardım edebilir misin?",
+    "phonetic": "/help/"
+  },
+  {
+    "id": 43,
+    "word": "love",
+    "translation": "sevmek / aşk",
+    "example": "I love my parents.",
+    "exampleTr": "Anne babamı seviyorum.",
+    "phonetic": "/lʌv/"
+  },
+  {
+    "id": 44,
+    "word": "like",
+    "translation": "beğenmek / hoşlanmak",
+    "example": "I like chocolate.",
+    "exampleTr": "Çikolatayı severim.",
+    "phonetic": "/laɪk/"
+  },
+  {
+    "id": 45,
+    "word": "want",
+    "translation": "istemek",
+    "example": "I want to go home.",
+    "exampleTr": "Eve gitmek istiyorum.",
+    "phonetic": "/wɒnt/"
+  },
+  {
+    "id": 46,
+    "word": "need",
+    "translation": "ihtiyaç duymak",
+    "example": "I need your help.",
+    "exampleTr": "Yardımına ihtiyacım var.",
+    "phonetic": "/niːd/"
+  },
+  {
+    "id": 47,
+    "word": "have",
+    "translation": "sahip olmak",
+    "example": "I have two brothers.",
+    "exampleTr": "İki erkek kardeşim var.",
+    "phonetic": "/hæv/"
+  },
+  {
+    "id": 48,
+    "word": "go",
+    "translation": "gitmek",
+    "example": "Let's go to the cinema.",
+    "exampleTr": "Hadi sinemaya gidelim.",
+    "phonetic": "/ɡoʊ/"
+  },
+  {
+    "id": 49,
+    "word": "come",
+    "translation": "gelmek",
+    "example": "Please come to my party.",
+    "exampleTr": "Lütfen partiye gel.",
+    "phonetic": "/kʌm/"
+  },
+  {
+    "id": 50,
+    "word": "see",
+    "translation": "görmek",
+    "example": "I can see the mountains.",
+    "exampleTr": "Dağları görebiliyorum.",
+    "phonetic": "/siː/"
+  },
+  {
+    "id": 51,
+    "word": "name",
+    "translation": "isim / ad",
+    "example": "What is your name?",
+    "exampleTr": "İsmin ne?",
+    "phonetic": "/neɪm/"
+  },
+  {
+    "id": 52,
+    "word": "man",
+    "translation": "adam / erkek",
+    "example": "The man is tall.",
+    "exampleTr": "Adam uzun boylu.",
+    "phonetic": "/mæn/"
+  },
+  {
+    "id": 53,
+    "word": "woman",
+    "translation": "kadın",
+    "example": "The woman is a doctor.",
+    "exampleTr": "Kadın bir doktor.",
+    "phonetic": "/ˈwʊmən/"
+  },
+  {
+    "id": 54,
+    "word": "child",
+    "translation": "çocuk",
+    "example": "The child is playing.",
+    "exampleTr": "Çocuk oynuyor.",
+    "phonetic": "/tʃaɪld/"
+  },
+  {
+    "id": 55,
+    "word": "boy",
+    "translation": "erkek çocuk",
+    "example": "The boy is in the garden.",
+    "exampleTr": "Erkek çocuk bahçede.",
+    "phonetic": "/bɔɪ/"
+  },
+  {
+    "id": 56,
+    "word": "girl",
+    "translation": "kız çocuk",
+    "example": "The girl likes drawing.",
+    "exampleTr": "Kız çocuk resim çizmeyi seviyor.",
+    "phonetic": "/ɡɜːrl/"
+  },
+  {
+    "id": 57,
+    "word": "mother",
+    "translation": "anne",
+    "example": "My mother cooks well.",
+    "exampleTr": "Annem iyi yemek yapar.",
+    "phonetic": "/ˈmʌðər/"
+  },
+  {
+    "id": 58,
+    "word": "father",
+    "translation": "baba",
+    "example": "My father works in a bank.",
+    "exampleTr": "Babam bir bankada çalışıyor.",
+    "phonetic": "/ˈfɑːðər/"
+  },
+  {
+    "id": 59,
+    "word": "brother",
+    "translation": "erkek kardeş / abi",
+    "example": "I have one brother.",
+    "exampleTr": "Bir erkek kardeşim var.",
+    "phonetic": "/ˈbrʌðər/"
+  },
+  {
+    "id": 60,
+    "word": "sister",
+    "translation": "kız kardeş / abla",
+    "example": "My sister is older than me.",
+    "exampleTr": "Kız kardeşim benden büyük.",
+    "phonetic": "/ˈsɪstər/"
+  },
+  {
+    "id": 61,
+    "word": "baby",
+    "translation": "bebek",
+    "example": "The baby is sleeping.",
+    "exampleTr": "Bebek uyuyor.",
+    "phonetic": "/ˈbeɪbi/"
+  },
+  {
+    "id": 62,
+    "word": "dog",
+    "translation": "köpek",
+    "example": "I have a big dog.",
+    "exampleTr": "Büyük bir köpeğim var.",
+    "phonetic": "/dɒɡ/"
+  },
+  {
+    "id": 63,
+    "word": "cat",
+    "translation": "kedi",
+    "example": "The cat is on the chair.",
+    "exampleTr": "Kedi sandalyede.",
+    "phonetic": "/kæt/"
+  },
+  {
+    "id": 64,
+    "word": "car",
+    "translation": "araba",
+    "example": "He drives a red car.",
+    "exampleTr": "Kırmızı bir araba kullanıyor.",
+    "phonetic": "/kɑːr/"
+  },
+  {
+    "id": 65,
+    "word": "bus",
+    "translation": "otobüs",
+    "example": "I take the bus to work.",
+    "exampleTr": "İşe otobüsle gidiyorum.",
+    "phonetic": "/bʌs/"
+  },
+  {
+    "id": 66,
+    "word": "door",
+    "translation": "kapı",
+    "example": "Please close the door.",
+    "exampleTr": "Lütfen kapıyı kapat.",
+    "phonetic": "/dɔːr/"
+  },
+  {
+    "id": 67,
+    "word": "window",
+    "translation": "pencere",
+    "example": "Open the window, please.",
+    "exampleTr": "Pencereyi aç lütfen.",
+    "phonetic": "/ˈwɪndoʊ/"
+  },
+  {
+    "id": 68,
+    "word": "table",
+    "translation": "masa",
+    "example": "The book is on the table.",
+    "exampleTr": "Kitap masanın üstünde.",
+    "phonetic": "/ˈteɪbl/"
+  },
+  {
+    "id": 69,
+    "word": "chair",
+    "translation": "sandalye",
+    "example": "Sit on the chair.",
+    "exampleTr": "Sandalyeye otur.",
+    "phonetic": "/tʃer/"
+  },
+  {
+    "id": 70,
+    "word": "bed",
+    "translation": "yatak",
+    "example": "I go to bed at 10 PM.",
+    "exampleTr": "Gece 10'da yatağa giderim.",
+    "phonetic": "/bed/"
+  },
+  {
+    "id": 71,
+    "word": "room",
+    "translation": "oda",
+    "example": "My room is very clean.",
+    "exampleTr": "Odam çok temiz.",
+    "phonetic": "/ruːm/"
+  },
+  {
+    "id": 72,
+    "word": "city",
+    "translation": "şehir",
+    "example": "Istanbul is a big city.",
+    "exampleTr": "İstanbul büyük bir şehir.",
+    "phonetic": "/ˈsɪti/"
+  },
+  {
+    "id": 73,
+    "word": "country",
+    "translation": "ülke",
+    "example": "Turkey is a beautiful country.",
+    "exampleTr": "Türkiye güzel bir ülke.",
+    "phonetic": "/ˈkʌntri/"
+  },
+  {
+    "id": 74,
+    "word": "street",
+    "translation": "sokak",
+    "example": "I live on this street.",
+    "exampleTr": "Bu sokakta yaşıyorum.",
+    "phonetic": "/striːt/"
+  },
+  {
+    "id": 75,
+    "word": "money",
+    "translation": "para",
+    "example": "I don't have enough money.",
+    "exampleTr": "Yeterli param yok.",
+    "phonetic": "/ˈmʌni/"
+  },
+  {
+    "id": 76,
+    "word": "phone",
+    "translation": "telefon",
+    "example": "My phone is ringing.",
+    "exampleTr": "Telefonum çalıyor.",
+    "phonetic": "/foʊn/"
+  },
+  {
+    "id": 77,
+    "word": "color",
+    "translation": "renk",
+    "example": "What color is your car?",
+    "exampleTr": "Araban ne renk?",
+    "phonetic": "/ˈkʌlər/"
+  },
+  {
+    "id": 78,
+    "word": "red",
+    "translation": "kırmızı",
+    "example": "She wears a red dress.",
+    "exampleTr": "Kırmızı bir elbise giyiyor.",
+    "phonetic": "/red/"
+  },
+  {
+    "id": 79,
+    "word": "blue",
+    "translation": "mavi",
+    "example": "The sky is blue.",
+    "exampleTr": "Gökyüzü mavi.",
+    "phonetic": "/bluː/"
+  },
+  {
+    "id": 80,
+    "word": "green",
+    "translation": "yeşil",
+    "example": "The grass is green.",
+    "exampleTr": "Çimen yeşil.",
+    "phonetic": "/ɡriːn/"
+  },
+  {
+    "id": 81,
+    "word": "white",
+    "translation": "beyaz",
+    "example": "Snow is white.",
+    "exampleTr": "Kar beyazdır.",
+    "phonetic": "/waɪt/"
+  },
+  {
+    "id": 82,
+    "word": "black",
+    "translation": "siyah",
+    "example": "He has a black cat.",
+    "exampleTr": "Siyah bir kedisi var.",
+    "phonetic": "/blæk/"
+  },
+  {
+    "id": 83,
+    "word": "yellow",
+    "translation": "sarı",
+    "example": "The sun is yellow.",
+    "exampleTr": "Güneş sarıdır.",
+    "phonetic": "/ˈjeloʊ/"
+  },
+  {
+    "id": 84,
+    "word": "hot",
+    "translation": "sıcak",
+    "example": "The weather is very hot.",
+    "exampleTr": "Hava çok sıcak.",
+    "phonetic": "/hɒt/"
+  },
+  {
+    "id": 85,
+    "word": "cold",
+    "translation": "soğuk",
+    "example": "It is cold outside.",
+    "exampleTr": "Dışarısı soğuk.",
+    "phonetic": "/koʊld/"
+  },
+  {
+    "id": 86,
+    "word": "beautiful",
+    "translation": "güzel",
+    "example": "She is a beautiful girl.",
+    "exampleTr": "O güzel bir kız.",
+    "phonetic": "/ˈbjuːtɪfl/"
+  },
+  {
+    "id": 87,
+    "word": "nice",
+    "translation": "hoş / güzel",
+    "example": "That is a very nice place.",
+    "exampleTr": "Orası çok hoş bir yer.",
+    "phonetic": "/naɪs/"
+  },
+  {
+    "id": 88,
+    "word": "fast",
+    "translation": "hızlı",
+    "example": "The car is very fast.",
+    "exampleTr": "Araba çok hızlı.",
+    "phonetic": "/fæst/"
+  },
+  {
+    "id": 89,
+    "word": "slow",
+    "translation": "yavaş",
+    "example": "Please speak slowly.",
+    "exampleTr": "Lütfen yavaş konuş.",
+    "phonetic": "/sloʊ/"
+  },
+  {
+    "id": 90,
+    "word": "young",
+    "translation": "genç",
+    "example": "She is a young teacher.",
+    "exampleTr": "O genç bir öğretmen.",
+    "phonetic": "/jʌŋ/"
+  },
+  {
+    "id": 91,
+    "word": "long",
+    "translation": "uzun",
+    "example": "She has long hair.",
+    "exampleTr": "Uzun saçları var.",
+    "phonetic": "/lɒŋ/"
+  },
+  {
+    "id": 92,
+    "word": "short",
+    "translation": "kısa",
+    "example": "He is short and thin.",
+    "exampleTr": "O kısa boylu ve zayıf.",
+    "phonetic": "/ʃɔːrt/"
+  },
+  {
+    "id": 93,
+    "word": "clean",
+    "translation": "temiz",
+    "example": "The house is very clean.",
+    "exampleTr": "Ev çok temiz.",
+    "phonetic": "/kliːn/"
+  },
+  {
+    "id": 94,
+    "word": "open",
+    "translation": "açmak / açık",
+    "example": "Open the book.",
+    "exampleTr": "Kitabı aç.",
+    "phonetic": "/ˈoʊpən/"
+  },
+  {
+    "id": 95,
+    "word": "close",
+    "translation": "kapatmak / yakın",
+    "example": "Close your eyes.",
+    "exampleTr": "Gözlerini kapat.",
+    "phonetic": "/kloʊz/"
+  },
+  {
+    "id": 96,
+    "word": "give",
+    "translation": "vermek",
+    "example": "Give me the pen, please.",
+    "exampleTr": "Kalemi ver lütfen.",
+    "phonetic": "/ɡɪv/"
+  },
+  {
+    "id": 97,
+    "word": "take",
+    "translation": "almak",
+    "example": "Take your bag.",
+    "exampleTr": "Çantanı al.",
+    "phonetic": "/teɪk/"
+  },
+  {
+    "id": 98,
+    "word": "make",
+    "translation": "yapmak",
+    "example": "I make breakfast every day.",
+    "exampleTr": "Her gün kahvaltı yaparım.",
+    "phonetic": "/meɪk/"
+  },
+  {
+    "id": 99,
+    "word": "put",
+    "translation": "koymak",
+    "example": "Put the glass on the table.",
+    "exampleTr": "Bardağı masaya koy.",
+    "phonetic": "/pʊt/"
+  },
+  {
+    "id": 100,
+    "word": "buy",
+    "translation": "satın almak",
+    "example": "I want to buy a gift.",
+    "exampleTr": "Bir hediye almak istiyorum.",
+    "phonetic": "/baɪ/"
+  },
+  {
+    "id": 101,
+    "word": "play",
+    "translation": "oynamak",
+    "example": "The children play in the park.",
+    "exampleTr": "Çocuklar parkta oynuyor.",
+    "phonetic": "/pleɪ/"
+  },
+  {
+    "id": 102,
+    "word": "live",
+    "translation": "yaşamak",
+    "example": "I live in Istanbul.",
+    "exampleTr": "İstanbul'da yaşıyorum.",
+    "phonetic": "/lɪv/"
+  },
+  {
+    "id": 103,
+    "word": "know",
+    "translation": "bilmek",
+    "example": "I know the answer.",
+    "exampleTr": "Cevabı biliyorum.",
+    "phonetic": "/noʊ/"
+  },
+  {
+    "id": 104,
+    "word": "think",
+    "translation": "düşünmek",
+    "example": "I think it is a good idea.",
+    "exampleTr": "Bence iyi bir fikir.",
+    "phonetic": "/θɪŋk/"
+  },
+  {
+    "id": 105,
+    "word": "say",
+    "translation": "söylemek",
+    "example": "What did you say?",
+    "exampleTr": "Ne söyledin?",
+    "phonetic": "/seɪ/"
+  },
+  {
+    "id": 106,
+    "word": "tell",
+    "translation": "anlatmak / söylemek",
+    "example": "Tell me a story.",
+    "exampleTr": "Bana bir hikaye anlat.",
+    "phonetic": "/tel/"
+  },
+  {
+    "id": 107,
+    "word": "ask",
+    "translation": "sormak",
+    "example": "Can I ask a question?",
+    "exampleTr": "Bir soru sorabilir miyim?",
+    "phonetic": "/æsk/"
+  },
+  {
+    "id": 108,
+    "word": "answer",
+    "translation": "cevap / cevaplamak",
+    "example": "Please answer the question.",
+    "exampleTr": "Lütfen soruyu cevapla.",
+    "phonetic": "/ˈænsər/"
+  },
+  {
+    "id": 109,
+    "word": "sit",
+    "translation": "oturmak",
+    "example": "Sit down, please.",
+    "exampleTr": "Otur lütfen.",
+    "phonetic": "/sɪt/"
+  },
+  {
+    "id": 110,
+    "word": "stand",
+    "translation": "ayakta durmak",
+    "example": "Stand up, please.",
+    "exampleTr": "Ayağa kalk lütfen.",
+    "phonetic": "/stænd/"
+  },
+  {
+    "id": 111,
+    "word": "wait",
+    "translation": "beklemek",
+    "example": "Wait for me, please.",
+    "exampleTr": "Beni bekle lütfen.",
+    "phonetic": "/weɪt/"
+  },
+  {
+    "id": 112,
+    "word": "stop",
+    "translation": "durmak",
+    "example": "Stop the car.",
+    "exampleTr": "Arabayı durdur.",
+    "phonetic": "/stɒp/"
+  },
+  {
+    "id": 113,
+    "word": "start",
+    "translation": "başlamak",
+    "example": "Let's start the lesson.",
+    "exampleTr": "Derse başlayalım.",
+    "phonetic": "/stɑːrt/"
+  },
+  {
+    "id": 114,
+    "word": "try",
+    "translation": "denemek",
+    "example": "Try this food.",
+    "exampleTr": "Bu yemeği dene.",
+    "phonetic": "/traɪ/"
+  },
+  {
+    "id": 115,
+    "word": "use",
+    "translation": "kullanmak",
+    "example": "Can I use your pen?",
+    "exampleTr": "Kalemini kullanabilir miyim?",
+    "phonetic": "/juːz/"
+  },
+  {
+    "id": 116,
+    "word": "look",
+    "translation": "bakmak",
+    "example": "Look at this picture.",
+    "exampleTr": "Bu resme bak.",
+    "phonetic": "/lʊk/"
+  },
+  {
+    "id": 117,
+    "word": "find",
+    "translation": "bulmak",
+    "example": "I can't find my keys.",
+    "exampleTr": "Anahtarlarımı bulamıyorum.",
+    "phonetic": "/faɪnd/"
+  },
+  {
+    "id": 118,
+    "word": "watch",
+    "translation": "izlemek / saat",
+    "example": "I watch TV every evening.",
+    "exampleTr": "Her akşam TV izlerim.",
+    "phonetic": "/wɒtʃ/"
+  },
+  {
+    "id": 119,
+    "word": "show",
+    "translation": "göstermek",
+    "example": "Show me your ticket.",
+    "exampleTr": "Biletini göster.",
+    "phonetic": "/ʃoʊ/"
+  },
+  {
+    "id": 120,
+    "word": "call",
+    "translation": "aramak / çağırmak",
+    "example": "Call me tomorrow.",
+    "exampleTr": "Yarın beni ara.",
+    "phonetic": "/kɔːl/"
+  },
+  {
+    "id": 121,
+    "word": "pay",
+    "translation": "ödemek",
+    "example": "I need to pay the bill.",
+    "exampleTr": "Hesabı ödemem gerekiyor.",
+    "phonetic": "/peɪ/"
+  },
+  {
+    "id": 122,
+    "word": "turn",
+    "translation": "dönmek / çevirmek",
+    "example": "Turn left at the corner.",
+    "exampleTr": "Köşeden sola dön.",
+    "phonetic": "/tɜːrn/"
+  },
+  {
+    "id": 123,
+    "word": "head",
+    "translation": "baş / kafa",
+    "example": "My head hurts.",
+    "exampleTr": "Başım ağrıyor.",
+    "phonetic": "/hed/"
+  },
+  {
+    "id": 124,
+    "word": "eye",
+    "translation": "göz",
+    "example": "She has blue eyes.",
+    "exampleTr": "Mavi gözleri var.",
+    "phonetic": "/aɪ/"
+  },
+  {
+    "id": 125,
+    "word": "hand",
+    "translation": "el",
+    "example": "Wash your hands.",
+    "exampleTr": "Ellerini yıka.",
+    "phonetic": "/hænd/"
+  },
+  {
+    "id": 126,
+    "word": "face",
+    "translation": "yüz",
+    "example": "Wash your face.",
+    "exampleTr": "Yüzünü yıka.",
+    "phonetic": "/feɪs/"
+  },
+  {
+    "id": 127,
+    "word": "heart",
+    "translation": "kalp",
+    "example": "I love you with all my heart.",
+    "exampleTr": "Seni bütün kalbimle seviyorum.",
+    "phonetic": "/hɑːrt/"
+  },
+  {
+    "id": 128,
+    "word": "teacher",
+    "translation": "öğretmen",
+    "example": "My teacher is very kind.",
+    "exampleTr": "Öğretmenim çok nazik.",
+    "phonetic": "/ˈtiːtʃər/"
+  },
+  {
+    "id": 129,
+    "word": "student",
+    "translation": "öğrenci",
+    "example": "I am a student.",
+    "exampleTr": "Ben bir öğrenciyim.",
+    "phonetic": "/ˈstuːdnt/"
+  },
+  {
+    "id": 130,
+    "word": "doctor",
+    "translation": "doktor",
+    "example": "I need to see a doctor.",
+    "exampleTr": "Doktora görünmem gerekiyor.",
+    "phonetic": "/ˈdɒktər/"
+  },
+  {
+    "id": 131,
+    "word": "year",
+    "translation": "yıl",
+    "example": "I am 25 years old.",
+    "exampleTr": "25 yaşındayım.",
+    "phonetic": "/jɪr/"
+  },
+  {
+    "id": 132,
+    "word": "month",
+    "translation": "ay",
+    "example": "There are 12 months in a year.",
+    "exampleTr": "Bir yılda 12 ay var.",
+    "phonetic": "/mʌnθ/"
+  },
+  {
+    "id": 133,
+    "word": "week",
+    "translation": "hafta",
+    "example": "See you next week.",
+    "exampleTr": "Gelecek hafta görüşürüz.",
+    "phonetic": "/wiːk/"
+  },
+  {
+    "id": 134,
+    "word": "hour",
+    "translation": "saat (süre)",
+    "example": "The lesson is one hour.",
+    "exampleTr": "Ders bir saat.",
+    "phonetic": "/aʊər/"
+  },
+  {
+    "id": 135,
+    "word": "minute",
+    "translation": "dakika",
+    "example": "Wait five minutes.",
+    "exampleTr": "Beş dakika bekle.",
+    "phonetic": "/ˈmɪnɪt/"
+  },
+  {
+    "id": 136,
+    "word": "rain",
+    "translation": "yağmur",
+    "example": "It will rain tomorrow.",
+    "exampleTr": "Yarın yağmur yağacak.",
+    "phonetic": "/reɪn/"
+  },
+  {
+    "id": 137,
+    "word": "sun",
+    "translation": "güneş",
+    "example": "The sun is shining.",
+    "exampleTr": "Güneş parlıyor.",
+    "phonetic": "/sʌn/"
+  },
+  {
+    "id": 138,
+    "word": "tree",
+    "translation": "ağaç",
+    "example": "There is a big tree in the garden.",
+    "exampleTr": "Bahçede büyük bir ağaç var.",
+    "phonetic": "/triː/"
+  },
+  {
+    "id": 139,
+    "word": "flower",
+    "translation": "çiçek",
+    "example": "She likes flowers.",
+    "exampleTr": "Çiçekleri sever.",
+    "phonetic": "/ˈflaʊər/"
+  },
+  {
+    "id": 140,
+    "word": "picture",
+    "translation": "resim / fotoğraf",
+    "example": "Take a picture of me.",
+    "exampleTr": "Benim bir fotoğrafımı çek.",
+    "phonetic": "/ˈpɪktʃər/"
+  },
+  {
+    "id": 141,
+    "word": "song",
+    "translation": "şarkı",
+    "example": "I like this song.",
+    "exampleTr": "Bu şarkıyı seviyorum.",
+    "phonetic": "/sɒŋ/"
+  },
+  {
+    "id": 142,
+    "word": "thing",
+    "translation": "şey",
+    "example": "What is this thing?",
+    "exampleTr": "Bu şey ne?",
+    "phonetic": "/θɪŋ/"
+  },
+  {
+    "id": 143,
+    "word": "place",
+    "translation": "yer / mekan",
+    "example": "This is a nice place.",
+    "exampleTr": "Burası güzel bir yer.",
+    "phonetic": "/pleɪs/"
+  },
+  {
+    "id": 144,
+    "word": "world",
+    "translation": "dünya",
+    "example": "The world is very big.",
+    "exampleTr": "Dünya çok büyük.",
+    "phonetic": "/wɜːrld/"
+  },
+  {
+    "id": 145,
+    "word": "idea",
+    "translation": "fikir",
+    "example": "That is a great idea!",
+    "exampleTr": "Bu harika bir fikir!",
+    "phonetic": "/aɪˈdɪə/"
+  },
+  {
+    "id": 146,
+    "word": "life",
+    "translation": "hayat",
+    "example": "Life is beautiful.",
+    "exampleTr": "Hayat güzeldir.",
+    "phonetic": "/laɪf/"
+  },
+  {
+    "id": 147,
+    "word": "right",
+    "translation": "doğru / sağ",
+    "example": "You are right.",
+    "exampleTr": "Haklısın.",
+    "phonetic": "/raɪt/"
+  },
+  {
+    "id": 148,
+    "word": "wrong",
+    "translation": "yanlış",
+    "example": "This answer is wrong.",
+    "exampleTr": "Bu cevap yanlış.",
+    "phonetic": "/rɒŋ/"
+  },
+  {
+    "id": 149,
+    "word": "same",
+    "translation": "aynı",
+    "example": "We have the same bag.",
+    "exampleTr": "Aynı çantaya sahibiz.",
+    "phonetic": "/seɪm/"
+  },
+  {
+    "id": 150,
+    "word": "different",
+    "translation": "farklı",
+    "example": "These two shirts are different.",
+    "exampleTr": "Bu iki gömlek farklı.",
+    "phonetic": "/ˈdɪfrənt/"
+  }
+]

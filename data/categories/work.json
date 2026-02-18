@@ -1,0 +1,872 @@
+[
+    {
+        "id": 1,
+        "word": "job",
+        "translation": "iş",
+        "example": "I have a new job.",
+        "exampleTr": "Yeni bir işim var.",
+        "phonetic": "/dʒɒb/",
+        "level": "a1"
+    },
+    {
+        "id": 2,
+        "word": "work",
+        "translation": "çalışmak / iş",
+        "example": "I work at a company.",
+        "exampleTr": "Bir şirkette çalışıyorum.",
+        "phonetic": "/wɜːrk/",
+        "level": "a1"
+    },
+    {
+        "id": 3,
+        "word": "office",
+        "translation": "ofis",
+        "example": "I go to the office every day.",
+        "exampleTr": "Her gün ofise gidiyorum.",
+        "phonetic": "/ˈɒfɪs/",
+        "level": "a1"
+    },
+    {
+        "id": 4,
+        "word": "company",
+        "translation": "şirket",
+        "example": "This company is growing fast.",
+        "exampleTr": "Bu şirket hızla büyüyor.",
+        "phonetic": "/ˈkʌmpəni/",
+        "level": "a2"
+    },
+    {
+        "id": 5,
+        "word": "boss",
+        "translation": "patron",
+        "example": "My boss is strict.",
+        "exampleTr": "Patronum katı.",
+        "phonetic": "/bɒs/",
+        "level": "a1"
+    },
+    {
+        "id": 6,
+        "word": "manager",
+        "translation": "müdür",
+        "example": "She is the manager.",
+        "exampleTr": "O müdür.",
+        "phonetic": "/ˈmænɪdʒər/",
+        "level": "a2"
+    },
+    {
+        "id": 7,
+        "word": "employee",
+        "translation": "çalışan",
+        "example": "We have 50 employees.",
+        "exampleTr": "50 çalışanımız var.",
+        "phonetic": "/ɪmˈplɔɪiː/",
+        "level": "a2"
+    },
+    {
+        "id": 8,
+        "word": "colleague",
+        "translation": "iş arkadaşı",
+        "example": "My colleague helps me.",
+        "exampleTr": "İş arkadaşım bana yardım ediyor.",
+        "phonetic": "/ˈkɒliːɡ/",
+        "level": "a2"
+    },
+    {
+        "id": 9,
+        "word": "salary",
+        "translation": "maaş",
+        "example": "I get my salary monthly.",
+        "exampleTr": "Maaşımı aylık alıyorum.",
+        "phonetic": "/ˈsæləri/",
+        "level": "a2"
+    },
+    {
+        "id": 10,
+        "word": "wage",
+        "translation": "ücret",
+        "example": "The minimum wage is increasing.",
+        "exampleTr": "Asgari ücret artıyor.",
+        "phonetic": "/weɪdʒ/",
+        "level": "a2"
+    },
+    {
+        "id": 11,
+        "word": "income",
+        "translation": "gelir",
+        "example": "What's your monthly income?",
+        "exampleTr": "Aylık gelirin ne kadar?",
+        "phonetic": "/ˈɪnkʌm/",
+        "level": "a2"
+    },
+    {
+        "id": 12,
+        "word": "bonus",
+        "translation": "prim / bonus",
+        "example": "I got a bonus this year.",
+        "exampleTr": "Bu yıl prim aldım.",
+        "phonetic": "/ˈboʊnəs/",
+        "level": "b1"
+    },
+    {
+        "id": 13,
+        "word": "promotion",
+        "translation": "terfi",
+        "example": "She got a promotion.",
+        "exampleTr": "Terfi aldı.",
+        "phonetic": "/prəˈmoʊʃn/",
+        "level": "b1"
+    },
+    {
+        "id": 14,
+        "word": "hire",
+        "translation": "işe almak",
+        "example": "They hired me.",
+        "exampleTr": "Beni işe aldılar.",
+        "phonetic": "/ˈhaɪər/",
+        "level": "b1"
+    },
+    {
+        "id": 15,
+        "word": "fire",
+        "translation": "kovmak",
+        "example": "He was fired.",
+        "exampleTr": "Kovuldu.",
+        "phonetic": "/ˈfaɪər/",
+        "level": "a2"
+    },
+    {
+        "id": 16,
+        "word": "resign",
+        "translation": "istifa etmek",
+        "example": "She resigned from her job.",
+        "exampleTr": "İşinden istifa etti.",
+        "phonetic": "/rɪˈzaɪn/",
+        "level": "b1"
+    },
+    {
+        "id": 17,
+        "word": "retire",
+        "translation": "emekli olmak",
+        "example": "He retired last year.",
+        "exampleTr": "Geçen yıl emekli oldu.",
+        "phonetic": "/rɪˈtaɪər/",
+        "level": "b1"
+    },
+    {
+        "id": 18,
+        "word": "unemployed",
+        "translation": "işsiz",
+        "example": "He is unemployed.",
+        "exampleTr": "İşsiz.",
+        "phonetic": "/ˌʌnɪmˈplɔɪd/",
+        "level": "c1"
+    },
+    {
+        "id": 19,
+        "word": "interview",
+        "translation": "mülakat",
+        "example": "I have a job interview.",
+        "exampleTr": "İş mülakatım var.",
+        "phonetic": "/ˈɪntərvjuː/",
+        "level": "a2"
+    },
+    {
+        "id": 20,
+        "word": "resume",
+        "translation": "özgeçmiş",
+        "example": "Send your resume.",
+        "exampleTr": "Özgeçmişini gönder.",
+        "phonetic": "/ˈrezəmeɪ/",
+        "level": "b1"
+    },
+    {
+        "id": 21,
+        "word": "apply",
+        "translation": "başvurmak",
+        "example": "I applied for the job.",
+        "exampleTr": "İşe başvurdum.",
+        "phonetic": "/əˈplaɪ/",
+        "level": "b1"
+    },
+    {
+        "id": 22,
+        "word": "application",
+        "translation": "başvuru",
+        "example": "Fill out the application.",
+        "exampleTr": "Başvuru formunu doldur.",
+        "phonetic": "/ˌæplɪˈkeɪʃn/",
+        "level": "c1"
+    },
+    {
+        "id": 23,
+        "word": "contract",
+        "translation": "sözleşme",
+        "example": "Sign the contract.",
+        "exampleTr": "Sözleşmeyi imzala.",
+        "phonetic": "/ˈkɒntrækt/",
+        "level": "b1"
+    },
+    {
+        "id": 24,
+        "word": "shift",
+        "translation": "vardiya",
+        "example": "I work the night shift.",
+        "exampleTr": "Gece vardiyasında çalışıyorum.",
+        "phonetic": "/ʃɪft/",
+        "level": "b1"
+    },
+    {
+        "id": 25,
+        "word": "overtime",
+        "translation": "fazla mesai",
+        "example": "I worked overtime yesterday.",
+        "exampleTr": "Dün fazla mesai yaptım.",
+        "phonetic": "/ˈoʊvərtaɪm/",
+        "level": "b1"
+    },
+    {
+        "id": 26,
+        "word": "deadline",
+        "translation": "son teslim tarihi",
+        "example": "The deadline is Friday.",
+        "exampleTr": "Son teslim tarihi Cuma.",
+        "phonetic": "/ˈdedlaɪn/",
+        "level": "b1"
+    },
+    {
+        "id": 27,
+        "word": "meeting",
+        "translation": "toplantı",
+        "example": "We have a meeting at 10.",
+        "exampleTr": "Saat 10'da toplantımız var.",
+        "phonetic": "/ˈmiːtɪŋ/",
+        "level": "a2"
+    },
+    {
+        "id": 28,
+        "word": "presentation",
+        "translation": "sunum",
+        "example": "I'm giving a presentation.",
+        "exampleTr": "Sunum yapıyorum.",
+        "phonetic": "/ˌprezənˈteɪʃn/",
+        "level": "c1"
+    },
+    {
+        "id": 29,
+        "word": "project",
+        "translation": "proje",
+        "example": "This project is important.",
+        "exampleTr": "Bu proje önemli.",
+        "phonetic": "/ˈprɒdʒekt/",
+        "level": "b2"
+    },
+    {
+        "id": 30,
+        "word": "task",
+        "translation": "görev",
+        "example": "Complete this task.",
+        "exampleTr": "Bu görevi tamamla.",
+        "phonetic": "/tæsk/",
+        "level": "a2"
+    },
+    {
+        "id": 31,
+        "word": "responsibility",
+        "translation": "sorumluluk",
+        "example": "It's my responsibility.",
+        "exampleTr": "Bu benim sorumluluğum.",
+        "phonetic": "/rɪˌspɒnsəˈbɪləti/",
+        "level": "c1"
+    },
+    {
+        "id": 32,
+        "word": "experience",
+        "translation": "deneyim",
+        "example": "I have 5 years of experience.",
+        "exampleTr": "5 yıllık deneyimim var.",
+        "phonetic": "/ɪkˈspɪriəns/",
+        "level": "c1"
+    },
+    {
+        "id": 33,
+        "word": "skill",
+        "translation": "beceri",
+        "example": "Communication is an important skill.",
+        "exampleTr": "İletişim önemli bir beceri.",
+        "phonetic": "/skɪl/",
+        "level": "b1"
+    },
+    {
+        "id": 34,
+        "word": "qualification",
+        "translation": "yeterlilik",
+        "example": "What are your qualifications?",
+        "exampleTr": "Yeterliliklerin neler?",
+        "phonetic": "/ˌkwɒlɪfɪˈkeɪʃn/",
+        "level": "c1"
+    },
+    {
+        "id": 35,
+        "word": "training",
+        "translation": "eğitim",
+        "example": "We have training next week.",
+        "exampleTr": "Gelecek hafta eğitimimiz var.",
+        "phonetic": "/ˈtreɪnɪŋ/",
+        "level": "b2"
+    },
+    {
+        "id": 36,
+        "word": "career",
+        "translation": "kariyer",
+        "example": "Think about your career.",
+        "exampleTr": "Kariyerini düşün.",
+        "phonetic": "/kəˈrɪr/",
+        "level": "a2"
+    },
+    {
+        "id": 37,
+        "word": "profession",
+        "translation": "meslek",
+        "example": "What's your profession?",
+        "exampleTr": "Mesleğin ne?",
+        "phonetic": "/prəˈfeʃn/",
+        "level": "a2"
+    },
+    {
+        "id": 38,
+        "word": "occupation",
+        "translation": "meslek / iş",
+        "example": "State your occupation.",
+        "exampleTr": "Mesleğinizi belirtin.",
+        "phonetic": "/ˌɒkjuˈpeɪʃn/",
+        "level": "c1"
+    },
+    {
+        "id": 39,
+        "word": "entrepreneur",
+        "translation": "girişimci",
+        "example": "He is a successful entrepreneur.",
+        "exampleTr": "Başarılı bir girişimci.",
+        "phonetic": "/ˌɒntrəprəˈnɜːr/",
+        "level": "b1"
+    },
+    {
+        "id": 40,
+        "word": "business",
+        "translation": "iş / ticaret",
+        "example": "She runs a business.",
+        "exampleTr": "Bir iş yönetiyor.",
+        "phonetic": "/ˈbɪznəs/",
+        "level": "a2"
+    },
+    {
+        "id": 41,
+        "word": "success",
+        "translation": "başarı",
+        "example": "Success requires effort.",
+        "exampleTr": "Başarı çaba gerektirir.",
+        "phonetic": "/səkˈses/",
+        "level": "b2"
+    },
+    {
+        "id": 42,
+        "word": "failure",
+        "translation": "başarısızlık",
+        "example": "Learn from failure.",
+        "exampleTr": "Başarısızlıktan öğren.",
+        "phonetic": "/ˈfeɪljər/",
+        "level": "b2"
+    },
+    {
+        "id": 43,
+        "word": "goal",
+        "translation": "hedef",
+        "example": "Set clear goals.",
+        "exampleTr": "Net hedefler koy.",
+        "phonetic": "/ɡoʊl/",
+        "level": "a1"
+    },
+    {
+        "id": 44,
+        "word": "achieve",
+        "translation": "başarmak",
+        "example": "I achieved my goal.",
+        "exampleTr": "Hedefime ulaştım.",
+        "phonetic": "/əˈtʃiːv/",
+        "level": "b2"
+    },
+    {
+        "id": 45,
+        "word": "teamwork",
+        "translation": "takım çalışması",
+        "example": "Teamwork is essential.",
+        "exampleTr": "Takım çalışması esastır.",
+        "phonetic": "/ˈtiːmwɜːrk/",
+        "level": "b1"
+    },
+    {
+        "id": 46,
+        "word": "leadership",
+        "translation": "liderlik",
+        "example": "Leadership skills are important.",
+        "exampleTr": "Liderlik becerileri önemli.",
+        "phonetic": "/ˈliːdərʃɪp/",
+        "level": "c1"
+    },
+    {
+        "id": 47,
+        "word": "client",
+        "translation": "müşteri",
+        "example": "The client is happy.",
+        "exampleTr": "Müşteri memnun.",
+        "phonetic": "/ˈklaɪənt/",
+        "level": "b1"
+    },
+    {
+        "id": 48,
+        "word": "customer",
+        "translation": "müşteri",
+        "example": "The customer is always right.",
+        "exampleTr": "Müşteri her zaman haklıdır.",
+        "phonetic": "/ˈkʌstəmər/",
+        "level": "a2"
+    },
+    {
+        "id": 49,
+        "word": "deal",
+        "translation": "anlaşma",
+        "example": "We made a deal.",
+        "exampleTr": "Anlaşma yaptık.",
+        "phonetic": "/diːl/",
+        "level": "a2"
+    },
+    {
+        "id": 50,
+        "word": "negotiate",
+        "translation": "pazarlık yapmak",
+        "example": "We need to negotiate the price.",
+        "exampleTr": "Fiyatı pazarlık etmemiz gerekiyor.",
+        "phonetic": "/nɪˈɡoʊʃieɪt/",
+        "level": "b1"
+    },
+    {
+        "id": 51,
+        "word": "profit",
+        "translation": "kar",
+        "example": "The company made a profit.",
+        "exampleTr": "Şirket kar etti.",
+        "phonetic": "/ˈprɒfɪt/",
+        "level": "b1"
+    },
+    {
+        "id": 52,
+        "word": "loss",
+        "translation": "zarar",
+        "example": "They reported a loss.",
+        "exampleTr": "Zarar bildirdiler.",
+        "phonetic": "/lɒs/",
+        "level": "b1"
+    },
+    {
+        "id": 53,
+        "word": "invest",
+        "translation": "yatırım yapmak",
+        "example": "Invest in education.",
+        "exampleTr": "Eğitime yatırım yap.",
+        "phonetic": "/ɪnˈvest/",
+        "level": "b1"
+    },
+    {
+        "id": 54,
+        "word": "budget",
+        "translation": "bütçe",
+        "example": "We have a limited budget.",
+        "exampleTr": "Sınırlı bir bütçemiz var.",
+        "phonetic": "/ˈbʌdʒɪt/",
+        "level": "a2"
+    },
+    {
+        "id": 55,
+        "word": "report",
+        "translation": "rapor",
+        "example": "Write a report.",
+        "exampleTr": "Bir rapor yaz.",
+        "phonetic": "/rɪˈpɔːrt/",
+        "level": "b1"
+    },
+    {
+        "id": 56,
+        "word": "email",
+        "translation": "e-posta",
+        "example": "Send me an email.",
+        "exampleTr": "Bana bir e-posta gönder.",
+        "phonetic": "/ˈiːmeɪl/",
+        "level": "a1"
+    },
+    {
+        "id": 57,
+        "word": "schedule",
+        "translation": "program",
+        "example": "Check your schedule.",
+        "exampleTr": "Programını kontrol et.",
+        "phonetic": "/ˈskedʒuːl/",
+        "level": "b2"
+    },
+    {
+        "id": 58,
+        "word": "department",
+        "translation": "departman / bölüm",
+        "example": "I work in the sales department.",
+        "exampleTr": "Satış departmanında çalışıyorum.",
+        "phonetic": "/dɪˈpɑːrtmənt/",
+        "level": "c1"
+    },
+    {
+        "id": 59,
+        "word": "industry",
+        "translation": "sektör / endüstri",
+        "example": "The tech industry is growing.",
+        "exampleTr": "Teknoloji sektörü büyüyor.",
+        "phonetic": "/ˈɪndəstri/",
+        "level": "b2"
+    },
+    {
+        "id": 60,
+        "word": "competition",
+        "translation": "rekabet",
+        "example": "Competition is tough.",
+        "exampleTr": "Rekabet sert.",
+        "phonetic": "/ˌkɒmpəˈtɪʃn/",
+        "level": "b1"
+    },
+    {
+        "id": 61,
+        "word": "opportunity",
+        "translation": "fırsat",
+        "example": "This is a great opportunity.",
+        "exampleTr": "Bu büyük bir fırsat.",
+        "phonetic": "/ˌɒpərˈtjuːnəti/",
+        "level": "c1"
+    },
+    {
+        "id": 62,
+        "word": "challenge",
+        "translation": "zorluk",
+        "example": "Every job has challenges.",
+        "exampleTr": "Her işin zorlukları var.",
+        "phonetic": "/ˈtʃælɪndʒ/",
+        "level": "b2"
+    },
+    {
+        "id": 63,
+        "word": "efficient",
+        "translation": "verimli",
+        "example": "Be more efficient.",
+        "exampleTr": "Daha verimli ol.",
+        "phonetic": "/ɪˈfɪʃnt/",
+        "level": "b2"
+    },
+    {
+        "id": 64,
+        "word": "productive",
+        "translation": "üretken",
+        "example": "I had a productive day.",
+        "exampleTr": "Verimli bir gün geçirdim.",
+        "phonetic": "/prəˈdʌktɪv/",
+        "level": "c1"
+    },
+    {
+        "id": 65,
+        "word": "stress",
+        "translation": "stres",
+        "example": "Work stress is common.",
+        "exampleTr": "İş stresi yaygındır.",
+        "phonetic": "/stres/",
+        "level": "b1"
+    },
+    {
+        "id": 66,
+        "word": "vacation",
+        "translation": "tatil",
+        "example": "I need a vacation.",
+        "exampleTr": "Tatile ihtiyacım var.",
+        "phonetic": "/veɪˈkeɪʃn/",
+        "level": "b2"
+    },
+    {
+        "id": 67,
+        "word": "leave",
+        "translation": "izin",
+        "example": "I'm on sick leave.",
+        "exampleTr": "Hastalık iznindeyim.",
+        "phonetic": "/liːv/",
+        "level": "b1"
+    },
+    {
+        "id": 68,
+        "word": "break",
+        "translation": "mola",
+        "example": "Take a break.",
+        "exampleTr": "Mola ver.",
+        "phonetic": "/breɪk/",
+        "level": "b1"
+    },
+    {
+        "id": 69,
+        "word": "commute",
+        "translation": "işe gidip gelmek",
+        "example": "I commute by train.",
+        "exampleTr": "Trenle işe gidip geliyorum.",
+        "phonetic": "/kəˈmjuːt/",
+        "level": "b2"
+    },
+    {
+        "id": 70,
+        "word": "remote",
+        "translation": "uzaktan",
+        "example": "I work remote.",
+        "exampleTr": "Uzaktan çalışıyorum.",
+        "phonetic": "/rɪˈmoʊt/",
+        "level": "b1"
+    },
+    {
+        "id": 71,
+        "word": "apprentice",
+        "translation": "çırak",
+        "example": "He started as an apprentice.",
+        "exampleTr": "Çırak olarak başladı.",
+        "phonetic": "/əˈprentɪs/"
+    },
+    {
+        "id": 72,
+        "word": "bureaucracy",
+        "translation": "bürokrasi",
+        "example": "Bureaucracy slows things down.",
+        "exampleTr": "Bürokrasi işleri yavaşlatır.",
+        "phonetic": "/bjʊˈrɒkrəsi/"
+    },
+    {
+        "id": 73,
+        "word": "compensation",
+        "translation": "tazminat / ücret",
+        "example": "Fair compensation is expected.",
+        "exampleTr": "Adil tazminat bekleniyor.",
+        "phonetic": "/ˌkɒmpenˈseɪʃn/"
+    },
+    {
+        "id": 74,
+        "word": "delegate",
+        "translation": "devretmek / delege",
+        "example": "Delegate tasks to your team.",
+        "exampleTr": "Görevleri ekibine devret.",
+        "phonetic": "/ˈdelɪɡeɪt/"
+    },
+    {
+        "id": 75,
+        "word": "dismissal",
+        "translation": "işten çıkarma",
+        "example": "Unfair dismissal is illegal.",
+        "exampleTr": "Haksız işten çıkarma yasadışı.",
+        "phonetic": "/dɪsˈmɪsl/"
+    },
+    {
+        "id": 76,
+        "word": "entrepreneur",
+        "translation": "girişimci",
+        "example": "She is a successful entrepreneur.",
+        "exampleTr": "Başarılı bir girişimci.",
+        "phonetic": "/ˌɒntrəprəˈnɜːr/"
+    },
+    {
+        "id": 77,
+        "word": "freelance",
+        "translation": "serbest çalışan",
+        "example": "He works freelance.",
+        "exampleTr": "Serbest çalışıyor.",
+        "phonetic": "/ˈfriːlæns/"
+    },
+    {
+        "id": 78,
+        "word": "hierarchy",
+        "translation": "hiyerarşi",
+        "example": "The company has a clear hierarchy.",
+        "exampleTr": "Şirketin net bir hiyerarşisi var.",
+        "phonetic": "/ˈhaɪərɑːrki/"
+    },
+    {
+        "id": 79,
+        "word": "incentive",
+        "translation": "teşvik",
+        "example": "Performance incentives motivate.",
+        "exampleTr": "Performans teşvikleri motive eder.",
+        "phonetic": "/ɪnˈsentɪv/"
+    },
+    {
+        "id": 80,
+        "word": "intern",
+        "translation": "stajyer",
+        "example": "She works as an intern.",
+        "exampleTr": "Stajyer olarak çalışıyor.",
+        "phonetic": "/ˈɪntɜːrn/"
+    },
+    {
+        "id": 81,
+        "word": "layoff",
+        "translation": "işten çıkarma",
+        "example": "Mass layoffs were announced.",
+        "exampleTr": "Toplu işten çıkarmalar duyuruldu.",
+        "phonetic": "/ˈleɪɒf/"
+    },
+    {
+        "id": 82,
+        "word": "mentor",
+        "translation": "akıl hocası",
+        "example": "Find a good mentor.",
+        "exampleTr": "İyi bir akıl hocası bul.",
+        "phonetic": "/ˈmentɔːr/"
+    },
+    {
+        "id": 83,
+        "word": "morale",
+        "translation": "moral",
+        "example": "Team morale is high.",
+        "exampleTr": "Takım morali yüksek.",
+        "phonetic": "/məˈræl/"
+    },
+    {
+        "id": 84,
+        "word": "negotiate",
+        "translation": "müzakere etmek",
+        "example": "Negotiate your salary.",
+        "exampleTr": "Maaşını müzakere et.",
+        "phonetic": "/nɪˈɡoʊʃieɪt/"
+    },
+    {
+        "id": 85,
+        "word": "overtime",
+        "translation": "fazla mesai",
+        "example": "I worked overtime.",
+        "exampleTr": "Fazla mesai yaptım.",
+        "phonetic": "/ˈoʊvərtaɪm/"
+    },
+    {
+        "id": 86,
+        "word": "payroll",
+        "translation": "bordro",
+        "example": "She manages the payroll.",
+        "exampleTr": "Bordroyu yönetiyor.",
+        "phonetic": "/ˈpeɪroʊl/"
+    },
+    {
+        "id": 87,
+        "word": "pension",
+        "translation": "emekli maaşı",
+        "example": "He receives a pension.",
+        "exampleTr": "Emekli maaşı alıyor.",
+        "phonetic": "/ˈpenʃn/"
+    },
+    {
+        "id": 88,
+        "word": "probation",
+        "translation": "deneme süresi",
+        "example": "She is on probation.",
+        "exampleTr": "Deneme süresinde.",
+        "phonetic": "/prəˈbeɪʃn/"
+    },
+    {
+        "id": 89,
+        "word": "procurement",
+        "translation": "tedarik",
+        "example": "Procurement of materials.",
+        "exampleTr": "Malzeme tedariki.",
+        "phonetic": "/prəˈkjʊrmənt/"
+    },
+    {
+        "id": 90,
+        "word": "productivity",
+        "translation": "verimlilik",
+        "example": "Increase productivity.",
+        "exampleTr": "Verimliliği artır.",
+        "phonetic": "/ˌprɒdʌkˈtɪvəti/"
+    },
+    {
+        "id": 91,
+        "word": "qualification",
+        "translation": "yeterlilik / nitelik",
+        "example": "List your qualifications.",
+        "exampleTr": "Niteliklerini listele.",
+        "phonetic": "/ˌkwɒlɪfɪˈkeɪʃn/"
+    },
+    {
+        "id": 92,
+        "word": "redundancy",
+        "translation": "fazlalık / işten çıkarılma",
+        "example": "He faced redundancy.",
+        "exampleTr": "İşten çıkarılmayla karşılaştı.",
+        "phonetic": "/rɪˈdʌndənsi/"
+    },
+    {
+        "id": 93,
+        "word": "restructure",
+        "translation": "yeniden yapılandırmak",
+        "example": "The company restructured.",
+        "exampleTr": "Şirket yeniden yapılandırıldı.",
+        "phonetic": "/riːˈstrʌktʃər/"
+    },
+    {
+        "id": 94,
+        "word": "resume",
+        "translation": "özgeçmiş",
+        "example": "Update your resume.",
+        "exampleTr": "Özgeçmişini güncelle.",
+        "phonetic": "/ˈrezjumeɪ/"
+    },
+    {
+        "id": 95,
+        "word": "severance",
+        "translation": "kıdem tazminatı",
+        "example": "He received severance pay.",
+        "exampleTr": "Kıdem tazminatı aldı.",
+        "phonetic": "/ˈsevərəns/"
+    },
+    {
+        "id": 96,
+        "word": "stakeholder",
+        "translation": "paydaş",
+        "example": "Inform all stakeholders.",
+        "exampleTr": "Tüm paydaşları bilgilendir.",
+        "phonetic": "/ˈsteɪkhoʊldər/"
+    },
+    {
+        "id": 97,
+        "word": "subordinate",
+        "translation": "ast",
+        "example": "Treat subordinates fairly.",
+        "exampleTr": "Astlarına adil davran.",
+        "phonetic": "/səˈbɔːrdɪnət/"
+    },
+    {
+        "id": 98,
+        "word": "telecommute",
+        "translation": "uzaktan çalışmak",
+        "example": "I telecommute three days a week.",
+        "exampleTr": "Haftada üç gün uzaktan çalışıyorum.",
+        "phonetic": "/ˌtelɪkəˈmjuːt/"
+    },
+    {
+        "id": 99,
+        "word": "turnover",
+        "translation": "personel devir oranı",
+        "example": "Employee turnover is high.",
+        "exampleTr": "Personel devir oranı yüksek.",
+        "phonetic": "/ˈtɜːrnoʊvər/"
+    },
+    {
+        "id": 100,
+        "word": "vacancy",
+        "translation": "açık pozisyon",
+        "example": "There is a vacancy in IT.",
+        "exampleTr": "IT'de açık pozisyon var.",
+        "phonetic": "/ˈveɪkənsi/"
+    }
+]

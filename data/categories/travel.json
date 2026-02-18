@@ -1,0 +1,872 @@
+[
+    {
+        "id": 1,
+        "word": "travel",
+        "translation": "seyahat etmek",
+        "example": "I love to travel.",
+        "exampleTr": "Seyahat etmeyi seviyorum.",
+        "phonetic": "/ˈtrævl/",
+        "level": "b1"
+    },
+    {
+        "id": 2,
+        "word": "trip",
+        "translation": "gezi",
+        "example": "Have a nice trip!",
+        "exampleTr": "İyi yolculuklar!",
+        "phonetic": "/trɪp/",
+        "level": "a2"
+    },
+    {
+        "id": 3,
+        "word": "journey",
+        "translation": "yolculuk",
+        "example": "The journey took 5 hours.",
+        "exampleTr": "Yolculuk 5 saat sürdü.",
+        "phonetic": "/ˈdʒɜːrni/",
+        "level": "b2"
+    },
+    {
+        "id": 4,
+        "word": "vacation",
+        "translation": "tatil",
+        "example": "I'm on vacation.",
+        "exampleTr": "Tatildeyim.",
+        "phonetic": "/veɪˈkeɪʃn/",
+        "level": "b2"
+    },
+    {
+        "id": 5,
+        "word": "tour",
+        "translation": "tur",
+        "example": "We took a city tour.",
+        "exampleTr": "Şehir turu yaptık.",
+        "phonetic": "/tʊr/",
+        "level": "a2"
+    },
+    {
+        "id": 6,
+        "word": "tourist",
+        "translation": "turist",
+        "example": "Many tourists visit here.",
+        "exampleTr": "Birçok turist burayı ziyaret eder.",
+        "phonetic": "/ˈtʊrɪst/",
+        "level": "b2"
+    },
+    {
+        "id": 7,
+        "word": "passport",
+        "translation": "pasaport",
+        "example": "Don't forget your passport.",
+        "exampleTr": "Pasaportunu unutma.",
+        "phonetic": "/ˈpæspɔːrt/",
+        "level": "a2"
+    },
+    {
+        "id": 8,
+        "word": "visa",
+        "translation": "vize",
+        "example": "I need a visa.",
+        "exampleTr": "Vizeye ihtiyacım var.",
+        "phonetic": "/ˈviːzə/",
+        "level": "a2"
+    },
+    {
+        "id": 9,
+        "word": "ticket",
+        "translation": "bilet",
+        "example": "Buy a ticket.",
+        "exampleTr": "Bir bilet al.",
+        "phonetic": "/ˈtɪkɪt/",
+        "level": "a2"
+    },
+    {
+        "id": 10,
+        "word": "reservation",
+        "translation": "rezervasyon",
+        "example": "I have a reservation.",
+        "exampleTr": "Rezervasyonum var.",
+        "phonetic": "/ˌrezərˈveɪʃn/",
+        "level": "b1"
+    },
+    {
+        "id": 11,
+        "word": "book",
+        "translation": "rezervasyon yapmak",
+        "example": "I booked a hotel.",
+        "exampleTr": "Bir otel rezervasyonu yaptım.",
+        "phonetic": "/bʊk/",
+        "level": "a1"
+    },
+    {
+        "id": 12,
+        "word": "airport",
+        "translation": "havalimanı",
+        "example": "Go to the airport.",
+        "exampleTr": "Havalimanına git.",
+        "phonetic": "/ˈerpɔːrt/",
+        "level": "a2"
+    },
+    {
+        "id": 13,
+        "word": "flight",
+        "translation": "uçuş",
+        "example": "The flight is delayed.",
+        "exampleTr": "Uçuş gecikti.",
+        "phonetic": "/flaɪt/",
+        "level": "b1"
+    },
+    {
+        "id": 14,
+        "word": "airplane",
+        "translation": "uçak",
+        "example": "The airplane is landing.",
+        "exampleTr": "Uçak iniyor.",
+        "phonetic": "/ˈerpleɪn/",
+        "level": "b2"
+    },
+    {
+        "id": 15,
+        "word": "pilot",
+        "translation": "pilot",
+        "example": "The pilot is experienced.",
+        "exampleTr": "Pilot deneyimli.",
+        "phonetic": "/ˈpaɪlət/",
+        "level": "b1"
+    },
+    {
+        "id": 16,
+        "word": "take off",
+        "translation": "kalkmak (uçak)",
+        "example": "The plane will take off soon.",
+        "exampleTr": "Uçak yakında kalkacak.",
+        "phonetic": "/teɪk ɒf/",
+        "level": "b2"
+    },
+    {
+        "id": 17,
+        "word": "land",
+        "translation": "inmek",
+        "example": "The plane landed safely.",
+        "exampleTr": "Uçak güvenle indi.",
+        "phonetic": "/lænd/",
+        "level": "a2"
+    },
+    {
+        "id": 18,
+        "word": "luggage",
+        "translation": "bagaj",
+        "example": "Where's my luggage?",
+        "exampleTr": "Bagajım nerede?",
+        "phonetic": "/ˈlʌɡɪdʒ/",
+        "level": "b2"
+    },
+    {
+        "id": 19,
+        "word": "suitcase",
+        "translation": "bavul",
+        "example": "Pack your suitcase.",
+        "exampleTr": "Bavulunu hazırla.",
+        "phonetic": "/ˈsuːtkeɪs/",
+        "level": "b2"
+    },
+    {
+        "id": 20,
+        "word": "check in",
+        "translation": "giriş yapmak",
+        "example": "Check in at the counter.",
+        "exampleTr": "Tezgahta giriş yap.",
+        "phonetic": "/tʃek ɪn/",
+        "level": "b2"
+    },
+    {
+        "id": 21,
+        "word": "boarding pass",
+        "translation": "biniş kartı",
+        "example": "Show your boarding pass.",
+        "exampleTr": "Biniş kartını göster.",
+        "phonetic": "/ˈbɔːrdɪŋ pæs/",
+        "level": "c1"
+    },
+    {
+        "id": 22,
+        "word": "gate",
+        "translation": "kapı (havalimanı)",
+        "example": "Go to gate 12.",
+        "exampleTr": "12 numaralı kapıya git.",
+        "phonetic": "/ɡeɪt/",
+        "level": "a2"
+    },
+    {
+        "id": 23,
+        "word": "delay",
+        "translation": "gecikme",
+        "example": "There's a delay.",
+        "exampleTr": "Gecikme var.",
+        "phonetic": "/dɪˈleɪ/",
+        "level": "b1"
+    },
+    {
+        "id": 24,
+        "word": "cancel",
+        "translation": "iptal etmek",
+        "example": "The flight was cancelled.",
+        "exampleTr": "Uçuş iptal edildi.",
+        "phonetic": "/ˈkænsl/",
+        "level": "b1"
+    },
+    {
+        "id": 25,
+        "word": "depart",
+        "translation": "hareket etmek",
+        "example": "The train departs at 9.",
+        "exampleTr": "Tren 9'da hareket eder.",
+        "phonetic": "/dɪˈpɑːrt/",
+        "level": "b1"
+    },
+    {
+        "id": 26,
+        "word": "arrive",
+        "translation": "varmak",
+        "example": "We arrive at 6 PM.",
+        "exampleTr": "Akşam 6'da varıyoruz.",
+        "phonetic": "/əˈraɪv/",
+        "level": "b1"
+    },
+    {
+        "id": 27,
+        "word": "departure",
+        "translation": "kalkış",
+        "example": "Check the departure time.",
+        "exampleTr": "Kalkış saatini kontrol et.",
+        "phonetic": "/dɪˈpɑːrtʃər/",
+        "level": "b2"
+    },
+    {
+        "id": 28,
+        "word": "arrival",
+        "translation": "varış",
+        "example": "What's the arrival time?",
+        "exampleTr": "Varış saati ne?",
+        "phonetic": "/əˈraɪvl/",
+        "level": "b2"
+    },
+    {
+        "id": 29,
+        "word": "train",
+        "translation": "tren",
+        "example": "Take the train.",
+        "exampleTr": "Trene bin.",
+        "phonetic": "/treɪn/",
+        "level": "a1"
+    },
+    {
+        "id": 30,
+        "word": "bus",
+        "translation": "otobüs",
+        "example": "The bus is late.",
+        "exampleTr": "Otobüs geç kaldı.",
+        "phonetic": "/bʌs/",
+        "level": "a1"
+    },
+    {
+        "id": 31,
+        "word": "taxi",
+        "translation": "taksi",
+        "example": "Call a taxi.",
+        "exampleTr": "Taksi çağır.",
+        "phonetic": "/ˈtæksi/",
+        "level": "a2"
+    },
+    {
+        "id": 32,
+        "word": "car",
+        "translation": "araba",
+        "example": "I rent a car.",
+        "exampleTr": "Araba kiralıyorum.",
+        "phonetic": "/kɑːr/",
+        "level": "a1"
+    },
+    {
+        "id": 33,
+        "word": "drive",
+        "translation": "sürmek",
+        "example": "I can drive.",
+        "exampleTr": "Araba kullanabiliyorum.",
+        "phonetic": "/draɪv/",
+        "level": "b1"
+    },
+    {
+        "id": 34,
+        "word": "license",
+        "translation": "ehliyet",
+        "example": "I have a driver's license.",
+        "exampleTr": "Ehliyetim var.",
+        "phonetic": "/ˈlaɪsns/",
+        "level": "a2"
+    },
+    {
+        "id": 35,
+        "word": "ship",
+        "translation": "gemi",
+        "example": "The ship is big.",
+        "exampleTr": "Gemi büyük.",
+        "phonetic": "/ʃɪp/",
+        "level": "a2"
+    },
+    {
+        "id": 36,
+        "word": "ferry",
+        "translation": "feribot",
+        "example": "Take the ferry.",
+        "exampleTr": "Feribota bin.",
+        "phonetic": "/ˈferi/",
+        "level": "b1"
+    },
+    {
+        "id": 37,
+        "word": "subway",
+        "translation": "metro",
+        "example": "Use the subway.",
+        "exampleTr": "Metroyu kullan.",
+        "phonetic": "/ˈsʌbweɪ/",
+        "level": "b1"
+    },
+    {
+        "id": 38,
+        "word": "station",
+        "translation": "istasyon",
+        "example": "Go to the train station.",
+        "exampleTr": "Tren istasyonuna git.",
+        "phonetic": "/ˈsteɪʃn/",
+        "level": "a2"
+    },
+    {
+        "id": 39,
+        "word": "platform",
+        "translation": "peron",
+        "example": "Wait on platform 3.",
+        "exampleTr": "3. peronda bekle.",
+        "phonetic": "/ˈplætfɔːrm/",
+        "level": "b2"
+    },
+    {
+        "id": 40,
+        "word": "hotel",
+        "translation": "otel",
+        "example": "The hotel is nice.",
+        "exampleTr": "Otel güzel.",
+        "phonetic": "/hoʊˈtel/",
+        "level": "a2"
+    },
+    {
+        "id": 41,
+        "word": "hostel",
+        "translation": "hostel",
+        "example": "I stayed at a hostel.",
+        "exampleTr": "Bir hostelde kaldım.",
+        "phonetic": "/ˈhɒstl/",
+        "level": "b1"
+    },
+    {
+        "id": 42,
+        "word": "room",
+        "translation": "oda",
+        "example": "I booked a room.",
+        "exampleTr": "Bir oda ayırttım.",
+        "phonetic": "/ruːm/",
+        "level": "a1"
+    },
+    {
+        "id": 43,
+        "word": "single room",
+        "translation": "tek kişilik oda",
+        "example": "I want a single room.",
+        "exampleTr": "Tek kişilik oda istiyorum.",
+        "phonetic": "/ˈsɪŋɡl ruːm/",
+        "level": "c1"
+    },
+    {
+        "id": 44,
+        "word": "double room",
+        "translation": "çift kişilik oda",
+        "example": "Book a double room.",
+        "exampleTr": "Çift kişilik oda ayırt.",
+        "phonetic": "/ˈdʌbl ruːm/",
+        "level": "c1"
+    },
+    {
+        "id": 45,
+        "word": "check out",
+        "translation": "çıkış yapmak",
+        "example": "I'll check out tomorrow.",
+        "exampleTr": "Yarın çıkış yapacağım.",
+        "phonetic": "/tʃek aʊt/",
+        "level": "b2"
+    },
+    {
+        "id": 46,
+        "word": "reception",
+        "translation": "resepsiyon",
+        "example": "Ask at the reception.",
+        "exampleTr": "Resepsiyona sor.",
+        "phonetic": "/rɪˈsepʃn/",
+        "level": "b2"
+    },
+    {
+        "id": 47,
+        "word": "map",
+        "translation": "harita",
+        "example": "I need a map.",
+        "exampleTr": "Bir haritaya ihtiyacım var.",
+        "phonetic": "/mæp/",
+        "level": "a2"
+    },
+    {
+        "id": 48,
+        "word": "guide",
+        "translation": "rehber",
+        "example": "We hired a guide.",
+        "exampleTr": "Bir rehber tuttuk.",
+        "phonetic": "/ɡaɪd/",
+        "level": "b1"
+    },
+    {
+        "id": 49,
+        "word": "souvenir",
+        "translation": "hatıra eşyası",
+        "example": "I bought souvenirs.",
+        "exampleTr": "Hatıra eşyaları aldım.",
+        "phonetic": "/ˌsuːvəˈnɪr/",
+        "level": "b2"
+    },
+    {
+        "id": 50,
+        "word": "destination",
+        "translation": "varış noktası",
+        "example": "What's your destination?",
+        "exampleTr": "Varış noktanız neresi?",
+        "phonetic": "/ˌdestɪˈneɪʃn/",
+        "level": "c1"
+    },
+    {
+        "id": 51,
+        "word": "direction",
+        "translation": "yön",
+        "example": "What direction is it?",
+        "exampleTr": "Hangi yönde?",
+        "phonetic": "/dəˈrekʃn/",
+        "level": "b2"
+    },
+    {
+        "id": 52,
+        "word": "left",
+        "translation": "sol",
+        "example": "Turn left.",
+        "exampleTr": "Sola dön.",
+        "phonetic": "/left/",
+        "level": "a2"
+    },
+    {
+        "id": 53,
+        "word": "right",
+        "translation": "sağ",
+        "example": "Turn right.",
+        "exampleTr": "Sağa dön.",
+        "phonetic": "/raɪt/",
+        "level": "b1"
+    },
+    {
+        "id": 54,
+        "word": "straight",
+        "translation": "düz",
+        "example": "Go straight.",
+        "exampleTr": "Düz git.",
+        "phonetic": "/streɪt/",
+        "level": "b2"
+    },
+    {
+        "id": 55,
+        "word": "corner",
+        "translation": "köşe",
+        "example": "It's on the corner.",
+        "exampleTr": "Köşede.",
+        "phonetic": "/ˈkɔːrnər/",
+        "level": "a2"
+    },
+    {
+        "id": 56,
+        "word": "abroad",
+        "translation": "yurt dışı",
+        "example": "I lived abroad.",
+        "exampleTr": "Yurt dışında yaşadım.",
+        "phonetic": "/əˈbrɔːd/",
+        "level": "b1"
+    },
+    {
+        "id": 57,
+        "word": "foreign",
+        "translation": "yabancı",
+        "example": "I speak foreign languages.",
+        "exampleTr": "Yabancı diller konuşurum.",
+        "phonetic": "/ˈfɒrən/",
+        "level": "b2"
+    },
+    {
+        "id": 58,
+        "word": "customs",
+        "translation": "gümrük",
+        "example": "Go through customs.",
+        "exampleTr": "Gümrükten geç.",
+        "phonetic": "/ˈkʌstəmz/",
+        "level": "b2"
+    },
+    {
+        "id": 59,
+        "word": "border",
+        "translation": "sınır",
+        "example": "We crossed the border.",
+        "exampleTr": "Sınırı geçtik.",
+        "phonetic": "/ˈbɔːrdər/",
+        "level": "b1"
+    },
+    {
+        "id": 60,
+        "word": "currency",
+        "translation": "para birimi",
+        "example": "What's the local currency?",
+        "exampleTr": "Yerel para birimi ne?",
+        "phonetic": "/ˈkɜːrənsi/",
+        "level": "b1"
+    },
+    {
+        "id": 61,
+        "word": "exchange rate",
+        "translation": "döviz kuru",
+        "example": "Check the exchange rate.",
+        "exampleTr": "Döviz kurunu kontrol et.",
+        "phonetic": "/ɪksˈtʃeɪndʒ reɪt/",
+        "level": "b1"
+    },
+    {
+        "id": 62,
+        "word": "pack",
+        "translation": "bavul hazırlamak",
+        "example": "Pack your bags.",
+        "exampleTr": "Çantalarını hazırla.",
+        "phonetic": "/pæk/",
+        "level": "a2"
+    },
+    {
+        "id": 63,
+        "word": "unpack",
+        "translation": "bavuldan çıkarmak",
+        "example": "I need to unpack.",
+        "exampleTr": "Bavulumu boşaltmam lazım.",
+        "phonetic": "/ʌnˈpæk/",
+        "level": "b1"
+    },
+    {
+        "id": 64,
+        "word": "explore",
+        "translation": "keşfetmek",
+        "example": "Let's explore the city.",
+        "exampleTr": "Şehri keşfedelim.",
+        "phonetic": "/ɪkˈsplɔːr/",
+        "level": "b2"
+    },
+    {
+        "id": 65,
+        "word": "adventure",
+        "translation": "macera",
+        "example": "I love adventure.",
+        "exampleTr": "Macerayı seviyorum.",
+        "phonetic": "/ədˈventʃər/",
+        "level": "b2"
+    },
+    {
+        "id": 66,
+        "word": "scenery",
+        "translation": "manzara",
+        "example": "The scenery is beautiful.",
+        "exampleTr": "Manzara güzel.",
+        "phonetic": "/ˈsiːnəri/",
+        "level": "b2"
+    },
+    {
+        "id": 67,
+        "word": "beach",
+        "translation": "plaj",
+        "example": "Let's go to the beach.",
+        "exampleTr": "Plaja gidelim.",
+        "phonetic": "/biːtʃ/",
+        "level": "a2"
+    },
+    {
+        "id": 68,
+        "word": "mountain",
+        "translation": "dağ",
+        "example": "We climbed the mountain.",
+        "exampleTr": "Dağa tırmandık.",
+        "phonetic": "/ˈmaʊntən/",
+        "level": "a1"
+    },
+    {
+        "id": 69,
+        "word": "sightseeing",
+        "translation": "gezi / tur",
+        "example": "We went sightseeing.",
+        "exampleTr": "Geziye çıktık.",
+        "phonetic": "/ˈsaɪtsiːɪŋ/",
+        "level": "c1"
+    },
+    {
+        "id": 70,
+        "word": "itinerary",
+        "translation": "seyahat planı",
+        "example": "Check the itinerary.",
+        "exampleTr": "Seyahat planını kontrol et.",
+        "phonetic": "/aɪˈtɪnəreri/",
+        "level": "b2"
+    },
+    {
+        "id": 71,
+        "word": "accommodation",
+        "translation": "konaklama",
+        "example": "Book accommodation in advance.",
+        "exampleTr": "Konaklamayı önceden rezerve et.",
+        "phonetic": "/əˌkɒməˈdeɪʃn/"
+    },
+    {
+        "id": 72,
+        "word": "backpacker",
+        "translation": "sırt çantalı gezgin",
+        "example": "Backpackers travel cheaply.",
+        "exampleTr": "Sırt çantalı gezginler ucuza seyahat eder.",
+        "phonetic": "/ˈbækpækər/"
+    },
+    {
+        "id": 73,
+        "word": "boarding pass",
+        "translation": "biniş kartı",
+        "example": "Show your boarding pass.",
+        "exampleTr": "Biniş kartınızı gösterin.",
+        "phonetic": "/ˈbɔːrdɪŋ pæs/"
+    },
+    {
+        "id": 74,
+        "word": "charter",
+        "translation": "charter / kiralık",
+        "example": "We took a charter flight.",
+        "exampleTr": "Charter uçuşu aldık.",
+        "phonetic": "/ˈtʃɑːrtər/"
+    },
+    {
+        "id": 75,
+        "word": "customs",
+        "translation": "gümrük",
+        "example": "Go through customs.",
+        "exampleTr": "Gümrükten geç.",
+        "phonetic": "/ˈkʌstəmz/"
+    },
+    {
+        "id": 76,
+        "word": "destination",
+        "translation": "varış noktası",
+        "example": "Our destination is Paris.",
+        "exampleTr": "Varış noktamız Paris.",
+        "phonetic": "/ˌdestɪˈneɪʃn/"
+    },
+    {
+        "id": 77,
+        "word": "embassy",
+        "translation": "büyükelçilik",
+        "example": "Visit the embassy for a visa.",
+        "exampleTr": "Vize için büyükelçiliği ziyaret et.",
+        "phonetic": "/ˈembəsi/"
+    },
+    {
+        "id": 78,
+        "word": "excursion",
+        "translation": "gezi / tur",
+        "example": "We went on an excursion.",
+        "exampleTr": "Geziye çıktık.",
+        "phonetic": "/ɪkˈskɜːrʃn/"
+    },
+    {
+        "id": 79,
+        "word": "expedition",
+        "translation": "keşif gezisi",
+        "example": "They planned an expedition.",
+        "exampleTr": "Keşif gezisi planladılar.",
+        "phonetic": "/ˌekspəˈdɪʃn/"
+    },
+    {
+        "id": 80,
+        "word": "hostel",
+        "translation": "hostel",
+        "example": "Stay at a youth hostel.",
+        "exampleTr": "Gençlik hostelinde kal.",
+        "phonetic": "/ˈhɒstl/"
+    },
+    {
+        "id": 81,
+        "word": "immigration",
+        "translation": "göçmenlik",
+        "example": "Go through immigration control.",
+        "exampleTr": "Göçmenlik kontrolünden geç.",
+        "phonetic": "/ˌɪmɪˈɡreɪʃn/"
+    },
+    {
+        "id": 82,
+        "word": "itinerary",
+        "translation": "güzergah / program",
+        "example": "Check the itinerary.",
+        "exampleTr": "Güzergahı kontrol et.",
+        "phonetic": "/aɪˈtɪnəreri/"
+    },
+    {
+        "id": 83,
+        "word": "jet lag",
+        "translation": "jet lag / zaman farkı yorgunluğu",
+        "example": "I have jet lag.",
+        "exampleTr": "Jet lagım var.",
+        "phonetic": "/ˈdʒet læɡ/"
+    },
+    {
+        "id": 84,
+        "word": "layover",
+        "translation": "aktarma / bekleme",
+        "example": "We had a 3-hour layover.",
+        "exampleTr": "3 saatlik aktarma beklememiz oldu.",
+        "phonetic": "/ˈleɪoʊvər/"
+    },
+    {
+        "id": 85,
+        "word": "monument",
+        "translation": "anıt",
+        "example": "Visit the historical monument.",
+        "exampleTr": "Tarihi anıtı ziyaret et.",
+        "phonetic": "/ˈmɒnjumənt/"
+    },
+    {
+        "id": 86,
+        "word": "navigate",
+        "translation": "yön bulmak",
+        "example": "Navigate using a GPS.",
+        "exampleTr": "GPS kullanarak yön bul.",
+        "phonetic": "/ˈnævɪɡeɪt/"
+    },
+    {
+        "id": 87,
+        "word": "passport",
+        "translation": "pasaport",
+        "example": "Don't forget your passport.",
+        "exampleTr": "Pasaportunu unutma.",
+        "phonetic": "/ˈpæspɔːrt/"
+    },
+    {
+        "id": 88,
+        "word": "pilgrimage",
+        "translation": "hac / ziyaret",
+        "example": "They went on a pilgrimage.",
+        "exampleTr": "Hacca gittiler.",
+        "phonetic": "/ˈpɪlɡrɪmɪdʒ/"
+    },
+    {
+        "id": 89,
+        "word": "quarantine",
+        "translation": "karantina",
+        "example": "Quarantine lasts 14 days.",
+        "exampleTr": "Karantina 14 gün sürer.",
+        "phonetic": "/ˈkwɒrəntiːn/"
+    },
+    {
+        "id": 90,
+        "word": "resort",
+        "translation": "tatil yeri / otel",
+        "example": "We stayed at a beach resort.",
+        "exampleTr": "Sahil otelinde kaldık.",
+        "phonetic": "/rɪˈzɔːrt/"
+    },
+    {
+        "id": 91,
+        "word": "roundtrip",
+        "translation": "gidiş-dönüş",
+        "example": "Book a roundtrip ticket.",
+        "exampleTr": "Gidiş-dönüş bilet al.",
+        "phonetic": "/ˈraʊndtrɪp/"
+    },
+    {
+        "id": 92,
+        "word": "safari",
+        "translation": "safari",
+        "example": "We went on a safari.",
+        "exampleTr": "Safariye gittik.",
+        "phonetic": "/səˈfɑːri/"
+    },
+    {
+        "id": 93,
+        "word": "scenic",
+        "translation": "manzaralı",
+        "example": "Take the scenic route.",
+        "exampleTr": "Manzaralı rotayı kullan.",
+        "phonetic": "/ˈsiːnɪk/"
+    },
+    {
+        "id": 94,
+        "word": "souvenir",
+        "translation": "hediyelik eşya",
+        "example": "Buy souvenirs for friends.",
+        "exampleTr": "Arkadaşlara hediyelik al.",
+        "phonetic": "/ˌsuːvəˈnɪr/"
+    },
+    {
+        "id": 95,
+        "word": "suitcase",
+        "translation": "bavul",
+        "example": "Pack your suitcase.",
+        "exampleTr": "Bavulunu hazırla.",
+        "phonetic": "/ˈsuːtkeɪs/"
+    },
+    {
+        "id": 96,
+        "word": "terminal",
+        "translation": "terminal",
+        "example": "Go to terminal 2.",
+        "exampleTr": "Terminal 2'ye git.",
+        "phonetic": "/ˈtɜːrmɪnl/"
+    },
+    {
+        "id": 97,
+        "word": "tourism",
+        "translation": "turizm",
+        "example": "Tourism boosts the economy.",
+        "exampleTr": "Turizm ekonomiyi canlandırır.",
+        "phonetic": "/ˈtʊrɪzəm/"
+    },
+    {
+        "id": 98,
+        "word": "transit",
+        "translation": "transit / aktarma",
+        "example": "We're in transit.",
+        "exampleTr": "Transitteyiz.",
+        "phonetic": "/ˈtrænzɪt/"
+    },
+    {
+        "id": 99,
+        "word": "vaccination",
+        "translation": "aşılama",
+        "example": "Get vaccinations before traveling.",
+        "exampleTr": "Seyahatten önce aşı ol.",
+        "phonetic": "/ˌvæksɪˈneɪʃn/"
+    },
+    {
+        "id": 100,
+        "word": "voyage",
+        "translation": "yolculuk",
+        "example": "A voyage across the ocean.",
+        "exampleTr": "Okyanus ötesi yolculuk.",
+        "phonetic": "/ˈvɔɪɪdʒ/"
+    }
+]
