@@ -1,0 +1,1802 @@
+[
+    {
+        "id": "pat_001",
+        "category": "starters",
+        "level": "a1",
+        "pattern": "I wanna + [verb]",
+        "pattern_tr": "... yapmak istiyorum",
+        "usage_note": "'Want to' ifadesinin samimi ve günlük konuşmadaki halidir.",
+        "examples": [
+            {
+                "en": "I wanna go home.",
+                "tr": "Eve gitmek istiyorum."
+            },
+            {
+                "en": "I wanna eat pizza.",
+                "tr": "Pizza yemek istiyorum."
+            }
+        ]
+    },
+    {
+        "id": "pat_002",
+        "category": "starters",
+        "level": "a1",
+        "pattern": "I gotta + [verb]",
+        "pattern_tr": "... yapmam lazım",
+        "usage_note": "'Have got to' ifadesinin kısaltmasıdır. Zorunluluk bildirir.",
+        "examples": [
+            {
+                "en": "I gotta go now.",
+                "tr": "Şimdi gitmem lazım."
+            },
+            {
+                "en": "I gotta tell you something.",
+                "tr": "Sana bir şey söylemem lazım."
+            }
+        ]
+    },
+    {
+        "id": "pat_003",
+        "category": "starters",
+        "level": "a1",
+        "pattern": "I'm gonna + [verb]",
+        "pattern_tr": "... yapacağım",
+        "usage_note": "'Going to' ifadesinin kısaltmasıdır. Gelecek zaman bildirir.",
+        "examples": [
+            {
+                "en": "I'm gonna call you later.",
+                "tr": "Seni sonra arayacağım."
+            },
+            {
+                "en": "It's gonna be fun.",
+                "tr": "Eğlenceli olacak."
+            }
+        ]
+    },
+    {
+        "id": "pat_004",
+        "category": "politeness",
+        "level": "a2",
+        "pattern": "Let me + [verb]",
+        "pattern_tr": "İzin ver ... yapayım",
+        "usage_note": "Bir konuda yardım teklif ederken veya izin isterken kullanılır.",
+        "examples": [
+            {
+                "en": "Let me help you.",
+                "tr": "Sana yardım etmeme izin ver."
+            },
+            {
+                "en": "Let me check my calendar.",
+                "tr": "Takvimimi kontrol etmeme izin ver."
+            }
+        ]
+    },
+    {
+        "id": "pat_005",
+        "category": "questions",
+        "level": "a2",
+        "pattern": "Are you sure + [sentence]?",
+        "pattern_tr": "... olduğundan emin misin?",
+        "usage_note": "Bir durumun kesinliğini teyit etmek için kullanılır.",
+        "examples": [
+            {
+                "en": "Are you sure you want to do this?",
+                "tr": "Bunu yapmak istediğine emin misin?"
+            },
+            {
+                "en": "Are you sure it's okay?",
+                "tr": "Bunun uygun olduğuna emin misin?"
+            }
+        ]
+    },
+    {
+        "id": "pat_006",
+        "category": "questions",
+        "level": "a2",
+        "pattern": "Do you think + [sentence]?",
+        "pattern_tr": "Sence ... mi?",
+        "usage_note": "Karşıdakinin fikrini sormak için kullanılır.",
+        "examples": [
+            {
+                "en": "Do you think it will rain?",
+                "tr": "Sence yağmur yağacak mı?"
+            },
+            {
+                "en": "Do you think she likes me?",
+                "tr": "Sence o benden hoşlanıyor mu?"
+            }
+        ]
+    },
+    {
+        "id": "pat_007",
+        "category": "opinion",
+        "level": "b1",
+        "pattern": "I think I should + [verb]",
+        "pattern_tr": "Sanırım ... yapmalıyım",
+        "usage_note": "Kendi kendinize tavsiye verirken veya niyet belirtirken kullanılır.",
+        "examples": [
+            {
+                "en": "I think I should apologize.",
+                "tr": "Sanırım özür dilemeliyim."
+            },
+            {
+                "en": "I think I should go home.",
+                "tr": "Sanırım eve gitmeliyim."
+            }
+        ]
+    },
+    {
+        "id": "pat_008",
+        "category": "questions",
+        "level": "a2",
+        "pattern": "How often do you + [verb]?",
+        "pattern_tr": "Ne sıklıkla ... yaparsın?",
+        "usage_note": "Bir eylemin yapılma sıklığını sormak için kullanılır.",
+        "examples": [
+            {
+                "en": "How often do you exercise?",
+                "tr": "Ne sıklıkla egzersiz yaparsın?"
+            },
+            {
+                "en": "How often do you see him?",
+                "tr": "Onu ne sıklıkla görürsün?"
+            }
+        ]
+    },
+    {
+        "id": "pat_009",
+        "category": "questions",
+        "level": "b1",
+        "pattern": "What do you mean by + [noun]?",
+        "pattern_tr": "... ile neyi kastediyorsun?",
+        "usage_note": "Birinin sözünü açıklamasını isterken kullanılır.",
+        "examples": [
+            {
+                "en": "What do you mean by that?",
+                "tr": "Bununla neyi kastediyorsun?"
+            },
+            {
+                "en": "What do you mean by 'soon'?",
+                "tr": "'Yakında' derken neyi kastediyorsun?"
+            }
+        ]
+    },
+    {
+        "id": "pat_010",
+        "category": "opinion",
+        "level": "b1",
+        "pattern": "It looks like + [sentence]",
+        "pattern_tr": "Görünüşe göre ...",
+        "usage_note": "Bir durum hakkındaki tahmininizi veya gözleminizi belirtir.",
+        "examples": [
+            {
+                "en": "It looks like it's going to rain.",
+                "tr": "Görünüşe göre yağmur yağacak."
+            },
+            {
+                "en": "It looks like we are lost.",
+                "tr": "Görünüşe göre kaybolduk."
+            }
+        ]
+    },
+    {
+        "id": "pat_011",
+        "category": "starters",
+        "level": "a2",
+        "pattern": "I'm here to + [verb]",
+        "pattern_tr": "... yapmak için buradayım",
+        "usage_note": "Bulunduğunuz yerdeki amacınızı belirtir.",
+        "examples": [
+            {
+                "en": "I'm here to see the doctor.",
+                "tr": "Doktoru görmek için buradayım."
+            },
+            {
+                "en": "I'm here to help you.",
+                "tr": "Sana yardım etmek için buradayım."
+            }
+        ]
+    },
+    {
+        "id": "pat_012",
+        "category": "connectors",
+        "level": "b1",
+        "pattern": "That's why + [sentence]",
+        "pattern_tr": "İşte bu yüzden ...",
+        "usage_note": "Bir durumun sebebini açıklarken kullanılır.",
+        "examples": [
+            {
+                "en": "I was sick. That's why I didn't come.",
+                "tr": "Hastaydım. İşte bu yüzden gelmedim."
+            },
+            {
+                "en": "He lied to me. That's why I'm angry.",
+                "tr": "Bana yalan söyledi. İşte bu yüzden kızgınım."
+            }
+        ]
+    },
+    {
+        "id": "pat_013",
+        "category": "starters",
+        "level": "a2",
+        "pattern": "It's my turn to + [verb]",
+        "pattern_tr": "... yapma sırası bende",
+        "usage_note": "Sıranın sizde olduğunu belirtir.",
+        "examples": [
+            {
+                "en": "It's my turn to drive.",
+                "tr": "Araba sürme sırası bende."
+            },
+            {
+                "en": "It's my turn to pay.",
+                "tr": "Ödeme sırası bende."
+            }
+        ]
+    },
+    {
+        "id": "pat_014",
+        "category": "opinion",
+        "level": "b1",
+        "pattern": "I have no idea + [wh]",
+        "pattern_tr": "... konusunda hiçbir fikrim yok",
+        "usage_note": "Bir şeyi kesinlikle bilmediğinizi vurgular.",
+        "examples": [
+            {
+                "en": "I have no idea where he is.",
+                "tr": "Onun nerede olduğu konusunda hiçbir fikrim yok."
+            },
+            {
+                "en": "I have no idea what to do.",
+                "tr": "Ne yapacağım konusunda hiçbir fikrim yok."
+            }
+        ]
+    },
+    {
+        "id": "pat_015",
+        "category": "politeness",
+        "level": "a2",
+        "pattern": "Don't worry about + [noun]",
+        "pattern_tr": "... hakkında endişelenme",
+        "usage_note": "Karşıdakini rahatlatmak için kullanılır.",
+        "examples": [
+            {
+                "en": "Don't worry about the money.",
+                "tr": "Para hakkında endişelenme."
+            },
+            {
+                "en": "Don't worry about it.",
+                "tr": "Bunun hakkında endişelenme (Önemli değil)."
+            }
+        ]
+    },
+    {
+        "id": "pat_016",
+        "category": "starters",
+        "level": "b1",
+        "pattern": "I'm busy + [verb]-ing",
+        "pattern_tr": "... yapmakla meşgulüm",
+        "usage_note": "O sırada ne işle uğraştığınızı belirtir.",
+        "examples": [
+            {
+                "en": "I'm busy working.",
+                "tr": "Çalışmakla meşgulüm."
+            },
+            {
+                "en": "I'm busy cleaning the house.",
+                "tr": "Evi temizlemekle meşgulüm."
+            }
+        ]
+    },
+    {
+        "id": "pat_017",
+        "category": "politeness",
+        "level": "b1",
+        "pattern": "Feel free to + [verb]",
+        "pattern_tr": "... yapmakta özgürsün (Çekinme)",
+        "usage_note": "Karşıdakine izin verirken veya rahat hissettirirken kullanılır.",
+        "examples": [
+            {
+                "en": "Feel free to call me anytime.",
+                "tr": "Beni istediğin zaman aramakta özgürsün (çekinme)."
+            },
+            {
+                "en": "Feel free to ask questions.",
+                "tr": "Soru sormakta özgürsün."
+            }
+        ]
+    },
+    {
+        "id": "pat_018",
+        "category": "politeness",
+        "level": "a2",
+        "pattern": "I promise not to + [verb]",
+        "pattern_tr": "... yapmayacağıma söz veriyorum",
+        "usage_note": "Bir şeyi yapmamak üzerine söz verirken kullanılır.",
+        "examples": [
+            {
+                "en": "I promise not to tell anyone.",
+                "tr": "Kimseye söylemeyeceğime söz veriyorum."
+            },
+            {
+                "en": "I promise not to be late.",
+                "tr": "Gecikmeyeceğime söz veriyorum."
+            }
+        ]
+    },
+    {
+        "id": "pat_019",
+        "category": "politeness",
+        "level": "a2",
+        "pattern": "Would you like to + [verb]?",
+        "pattern_tr": "... yapmak ister misin?",
+        "usage_note": "Nazikçe bir şey teklif ederken veya davet ederken kullanılır.",
+        "examples": [
+            {
+                "en": "Would you like to come with us?",
+                "tr": "Bizimle gelmek ister misin?"
+            },
+            {
+                "en": "Would you like to drink coffee?",
+                "tr": "Kahve içmek ister misin?"
+            }
+        ]
+    },
+    {
+        "id": "pat_020",
+        "category": "connectors",
+        "level": "b2",
+        "pattern": "No matter what + [sentence]",
+        "pattern_tr": "Ne olursa olsun ...",
+        "usage_note": "Şartlar ne olursa olsun sonucun değişmeyeceğini belirtir.",
+        "examples": [
+            {
+                "en": "No matter what happens, I will always love you.",
+                "tr": "Ne olursa olsun, seni her zaman seveceğim."
+            },
+            {
+                "en": "No matter what he says, don't believe him.",
+                "tr": "Ne söylerse söylesin, ona inanma."
+            }
+        ]
+    },
+    {
+        "id": "pat_021",
+        "category": "starters",
+        "level": "a2",
+        "pattern": "I used to + [verb]",
+        "pattern_tr": "Eskiden ... yapardım",
+        "usage_note": "Geçmişte yapılan ama artık yapılmayan eylemleri anlatır.",
+        "examples": [
+            {
+                "en": "I used to play tennis.",
+                "tr": "Eskiden tenis oynardım."
+            },
+            {
+                "en": "I used to live here.",
+                "tr": "Eskiden burada yaşardım."
+            }
+        ]
+    },
+    {
+        "id": "pat_022",
+        "category": "starters",
+        "level": "b1",
+        "pattern": "I'm looking forward to + [verb]-ing",
+        "pattern_tr": "... yapmayı dört gözle bekliyorum",
+        "usage_note": "Gelecekteki bir şeyi heyecanla beklediğinizi belirtir.",
+        "examples": [
+            {
+                "en": "I'm looking forward to meeting you.",
+                "tr": "Seninle tanışmayı dört gözle bekliyorum."
+            },
+            {
+                "en": "I'm looking forward to the weekend.",
+                "tr": "Hafta sonunu dört gözle bekliyorum."
+            }
+        ]
+    },
+    {
+        "id": "pat_023",
+        "category": "starters",
+        "level": "b1",
+        "pattern": "It's time to + [verb]",
+        "pattern_tr": "... yapma vakti geldi",
+        "usage_note": "Bir eylemin zamanının geldiğini belirtir.",
+        "examples": [
+            {
+                "en": "It's time to say goodbye.",
+                "tr": "Veda etme vakti geldi."
+            },
+            {
+                "en": "It's time to go to bed.",
+                "tr": "Yatma vakti geldi."
+            }
+        ]
+    },
+    {
+        "id": "pat_024",
+        "category": "questions",
+        "level": "a2",
+        "pattern": "How about + [verb]-ing?",
+        "pattern_tr": "... yapmaya ne dersin?",
+        "usage_note": "Öneri sunarken kullanılır.",
+        "examples": [
+            {
+                "en": "How about going to the cinema?",
+                "tr": "Sinemaya gitmeye ne dersin?"
+            },
+            {
+                "en": "How about having some pizza?",
+                "tr": "Biraz pizza yemeye ne dersin?"
+            }
+        ]
+    },
+    {
+        "id": "pat_025",
+        "category": "questions",
+        "level": "a2",
+        "pattern": "Why don't we + [verb]?",
+        "pattern_tr": "Neden ... yapmıyoruz?",
+        "usage_note": "Öneri sunarken kullanılır.",
+        "examples": [
+            {
+                "en": "Why don't we take a break?",
+                "tr": "Neden bir mola vermiyoruz?"
+            },
+            {
+                "en": "Why don't we go out tonight?",
+                "tr": "Neden bu gece dışarı çıkmıyoruz?"
+            }
+        ]
+    },
+    {
+        "id": "pat_026",
+        "category": "emotions",
+        "level": "b2",
+        "pattern": "I'm sick of + [verb]-ing",
+        "pattern_tr": "... yapmaktan bıktım",
+        "usage_note": "Bir durumdan duyulan bıkkınlığı ifade eder.",
+        "examples": [
+            {
+                "en": "I'm sick of waiting for the bus.",
+                "tr": "Otobüs beklemekten bıktım."
+            },
+            {
+                "en": "I'm sick of eating the same food.",
+                "tr": "Aynı yemeği yemekten bıktım."
+            }
+        ]
+    },
+    {
+        "id": "pat_027",
+        "category": "emotions",
+        "level": "c1",
+        "pattern": "I'm fed up with + [noun]",
+        "pattern_tr": "... dan gına geldi",
+        "usage_note": "Aşırı derecede bıkkınlık ifade eder.",
+        "examples": [
+            {
+                "en": "I'm fed up with his lies.",
+                "tr": "Onun yalanlarından gına geldi."
+            },
+            {
+                "en": "I'm fed up with this traffic.",
+                "tr": "Bu trafikten gına geldi."
+            }
+        ]
+    },
+    {
+        "id": "pat_028",
+        "category": "opinion",
+        "level": "b1",
+        "pattern": "As far as I'm concerned, + [sentence]",
+        "pattern_tr": "Bana kalırsa, ...",
+        "usage_note": "Kişisel görüş belirtirken kullanılır.",
+        "examples": [
+            {
+                "en": "As far as I'm concerned, it's a mistake.",
+                "tr": "Bana kalırsa, bu bir hata."
+            },
+            {
+                "en": "As far as I'm concerned, everything is fine.",
+                "tr": "Bana kalırsa, her şey yolunda."
+            }
+        ]
+    },
+    {
+        "id": "pat_029",
+        "category": "opinion",
+        "level": "b2",
+        "pattern": "From my point of view, + [sentence]",
+        "pattern_tr": "Benim bakış açımdan, ...",
+        "usage_note": "Olaylara kendi pencerenizden baktığınızı belirtir.",
+        "examples": [
+            {
+                "en": "From my point of view, this is unfair.",
+                "tr": "Benim bakış açımdan, bu haksızlık."
+            },
+            {
+                "en": "From my point of view, we should wait.",
+                "tr": "Benim bakış açımdan, beklemeliyiz."
+            }
+        ]
+    },
+    {
+        "id": "pat_030",
+        "category": "probability",
+        "level": "b1",
+        "pattern": "It's likely that + [sentence]",
+        "pattern_tr": "Muhtemelen ...",
+        "usage_note": "Bir olayın gerçekleşme olasılığının yüksek olduğunu belirtir.",
+        "examples": [
+            {
+                "en": "It's likely that he will be late.",
+                "tr": "Muhtemelen o gecikecek."
+            },
+            {
+                "en": "It's likely that it will snow.",
+                "tr": "Muhtemelen kar yağacak."
+            }
+        ]
+    },
+    {
+        "id": "pat_031",
+        "category": "probability",
+        "level": "c1",
+        "pattern": "There is no doubt that + [sentence]",
+        "pattern_tr": "Hiç şüphe yok ki ...",
+        "usage_note": "Kesinlik belirtir.",
+        "examples": [
+            {
+                "en": "There is no doubt that she is talented.",
+                "tr": "Hiç şüphe yok ki o yetenekli."
+            },
+            {
+                "en": "There is no doubt that technology is changing rapidly.",
+                "tr": "Hiç şüphe yok ki teknoloji hızla değişiyor."
+            }
+        ]
+    },
+    {
+        "id": "pat_032",
+        "category": "politeness",
+        "level": "b1",
+        "pattern": "Do you mind if I + [verb]?",
+        "pattern_tr": "... yapmamın sakıncası var mı?",
+        "usage_note": "İzin isterken kullanılan nazik bir yapıdır.",
+        "examples": [
+            {
+                "en": "Do you mind if I sit here?",
+                "tr": "Buraya oturmamın sakıncası var mı?"
+            },
+            {
+                "en": "Do you mind if I open the window?",
+                "tr": "Pencereyi açmamın sakıncası var mı?"
+            }
+        ]
+    },
+    {
+        "id": "pat_033",
+        "category": "politeness",
+        "level": "b2",
+        "pattern": "I was wondering if + [sentence]",
+        "pattern_tr": "Acaba ... mı diye merak ediyordum",
+        "usage_note": "Çok nazik bir şekilde bir şey sormak veya istemek için kullanılır.",
+        "examples": [
+            {
+                "en": "I was wondering if you could help me.",
+                "tr": "Acaba bana yardım edebilir misin diye merak ediyordum."
+            },
+            {
+                "en": "I was wondering if you are free tonight.",
+                "tr": "Acaba bu gece müsait misin diye merak ediyordum."
+            }
+        ]
+    },
+    {
+        "id": "pat_034",
+        "category": "connectors",
+        "level": "b1",
+        "pattern": "On the other hand, + [sentence]",
+        "pattern_tr": "Öte yandan, ...",
+        "usage_note": "Zıt bir görüş veya durumu belirtirken kullanılır.",
+        "examples": [
+            {
+                "en": "I want to go. On the other hand, I'm tired.",
+                "tr": "Gitmek istiyorum. Öte yandan, yorgunum."
+            },
+            {
+                "en": "He is smart. On the other hand, he is lazy.",
+                "tr": "O zeki. Öte yandan, tembel."
+            }
+        ]
+    },
+    {
+        "id": "pat_035",
+        "category": "connectors",
+        "level": "b2",
+        "pattern": "As a result, + [sentence]",
+        "pattern_tr": "Sonuç olarak, ...",
+        "usage_note": "Bir durumun sonucunu belirtirken kullanılır.",
+        "examples": [
+            {
+                "en": "It rained heavily. As a result, the match was cancelled.",
+                "tr": "Şiddetli yağmur yağdı. Sonuç olarak, maç iptal edildi."
+            },
+            {
+                "en": "He studied hard. As a result, he passed the exam.",
+                "tr": "Çok çalıştı. Sonuç olarak, sınavı geçti."
+            }
+        ]
+    },
+    {
+        "id": "pat_036",
+        "category": "starters",
+        "level": "a2",
+        "pattern": "There is/are + [noun] + [location]",
+        "pattern_tr": "...'da ... var",
+        "usage_note": "Varlık veya mevcudiyet belirtir.",
+        "examples": [
+            {
+                "en": "There is a book on the table.",
+                "tr": "Masada bir kitap var."
+            },
+            {
+                "en": "There are many people in the park.",
+                "tr": "Parkta çok insan var."
+            }
+        ]
+    },
+    {
+        "id": "pat_037",
+        "category": "starters",
+        "level": "a1",
+        "pattern": "Here is + [noun]",
+        "pattern_tr": "İşte ... (burada)",
+        "usage_note": "Bir şeyi verirken veya gösterirken kullanılır.",
+        "examples": [
+            {
+                "en": "Here is your key.",
+                "tr": "İşte anahtarın."
+            },
+            {
+                "en": "Here is the money.",
+                "tr": "İşte para."
+            }
+        ]
+    },
+    {
+        "id": "pat_038",
+        "category": "starters",
+        "level": "b1",
+        "pattern": "It takes + [time] + to + [verb]",
+        "pattern_tr": "... yapmak ... zaman alır",
+        "usage_note": "Bir eylemin ne kadar sürdüğünü belirtir.",
+        "examples": [
+            {
+                "en": "It takes 20 minutes to get there.",
+                "tr": "Oraya gitmek 20 dakika sürer."
+            },
+            {
+                "en": "It takes time to learn a language.",
+                "tr": "Bir dil öğrenmek zaman alır."
+            }
+        ]
+    },
+    {
+        "id": "pat_039",
+        "category": "questions",
+        "level": "b1",
+        "pattern": "Have you ever + [verb v3]?",
+        "pattern_tr": "Hiç ... yaptın mı?",
+        "usage_note": "Hayatta en az bir kere tecrübe edip etmediğini sorar.",
+        "examples": [
+            {
+                "en": "Have you ever been to Paris?",
+                "tr": "Hiç Paris'te bulundun mu?"
+            },
+            {
+                "en": "Have you ever eaten sushi?",
+                "tr": "Hiç suşi yedin mi?"
+            }
+        ]
+    },
+    {
+        "id": "pat_040",
+        "category": "opinion",
+        "level": "b2",
+        "pattern": "To be honest, + [sentence]",
+        "pattern_tr": "Dürüst olmak gerekirse, ...",
+        "usage_note": "Samimi bir düşünceyi açıklarken kullanılır.",
+        "examples": [
+            {
+                "en": "To be honest, I don't like it.",
+                "tr": "Dürüst olmak gerekirse, onu sevmedim."
+            },
+            {
+                "en": "To be honest, I forgot.",
+                "tr": "Dürüst olmak gerekirse, unuttum."
+            }
+        ]
+    },
+    {
+        "id": "pat_041",
+        "category": "starters",
+        "level": "a2",
+        "pattern": "Let's + [verb]",
+        "pattern_tr": "Hadi ... yapalım",
+        "usage_note": "Bir öneride bulunurken veya bir eyleme davet ederken kullanılır.",
+        "examples": [
+            {
+                "en": "Let's go for a walk.",
+                "tr": "Hadi yürüyüşe çıkalım."
+            },
+            {
+                "en": "Let's eat something.",
+                "tr": "Hadi bir şeyler yiyelim."
+            }
+        ]
+    },
+    {
+        "id": "pat_042",
+        "category": "emotions",
+        "level": "b1",
+        "pattern": "I'm afraid of + [noun/verb-ing]",
+        "pattern_tr": "...'den korkuyorum",
+        "usage_note": "Korku belirtirken kullanılır.",
+        "examples": [
+            {
+                "en": "I'm afraid of spiders.",
+                "tr": "Örümceklerden korkuyorum."
+            },
+            {
+                "en": "I'm afraid of losing you.",
+                "tr": "Seni kaybetmekten korkuyorum."
+            }
+        ]
+    },
+    {
+        "id": "pat_043",
+        "category": "emotions",
+        "level": "a2",
+        "pattern": "I'm interested in + [noun/verb-ing]",
+        "pattern_tr": "... ile ilgileniyorum",
+        "usage_note": "İlgi alanlarınızı belirtirken kullanılır.",
+        "examples": [
+            {
+                "en": "I'm interested in art.",
+                "tr": "Sanatla ilgileniyorum."
+            },
+            {
+                "en": "I'm interested in learning Spanish.",
+                "tr": "İspanyolca öğrenmekle ilgileniyorum."
+            }
+        ]
+    },
+    {
+        "id": "pat_044",
+        "category": "politeness",
+        "level": "a1",
+        "pattern": "Excuse me, can you + [verb]?",
+        "pattern_tr": "Affedersiniz, ... yapabilir misiniz?",
+        "usage_note": "Tanımadığınız birinden bir şey isterken kullanılır.",
+        "examples": [
+            {
+                "en": "Excuse me, can you help me?",
+                "tr": "Affedersiniz, bana yardım edebilir misiniz?"
+            },
+            {
+                "en": "Excuse me, can you tell me the time?",
+                "tr": "Affedersiniz, saati söyleyebilir misiniz?"
+            }
+        ]
+    },
+    {
+        "id": "pat_045",
+        "category": "probability",
+        "level": "b1",
+        "pattern": "Maybe I should + [verb]",
+        "pattern_tr": "Belki de ... yapmalıyım",
+        "usage_note": "Belirsizlik veya hafif bir öneri belirtir.",
+        "examples": [
+            {
+                "en": "Maybe I should calm down.",
+                "tr": "Belki de sakinleşmeliyim."
+            },
+            {
+                "en": "Maybe I should call her.",
+                "tr": "Belki de onu aramalıyım."
+            }
+        ]
+    },
+    {
+        "id": "pat_046",
+        "category": "starters",
+        "level": "b2",
+        "pattern": "It's no use + [verb]-ing",
+        "pattern_tr": "... yapmanın bir faydası yok",
+        "usage_note": "Bir eylemin gereksiz veya sonuçsuz olduğunu belirtir.",
+        "examples": [
+            {
+                "en": "It's no use crying.",
+                "tr": "Ağlamanın bir faydası yok."
+            },
+            {
+                "en": "It's no use arguing with him.",
+                "tr": "Onunla tartışmanın bir faydası yok."
+            }
+        ]
+    },
+    {
+        "id": "pat_047",
+        "category": "starters",
+        "level": "b2",
+        "pattern": "I'd rather + [verb]",
+        "pattern_tr": "... yapmayı tercih ederim",
+        "usage_note": "Tercih belirtirken kullanılır.",
+        "examples": [
+            {
+                "en": "I'd rather stay home.",
+                "tr": "Evde kalmayı tercih ederim."
+            },
+            {
+                "en": "I'd rather not talk about it.",
+                "tr": "Bunun hakkında konuşmamayı tercih ederim."
+            }
+        ]
+    },
+    {
+        "id": "pat_048",
+        "category": "questions",
+        "level": "b1",
+        "pattern": "What if + [sentence]?",
+        "pattern_tr": "Ya ... olursa?",
+        "usage_note": "Olası kötü senaryoları veya alternatifleri sormak için kullanılır.",
+        "examples": [
+            {
+                "en": "What if it rains?",
+                "tr": "Ya yağmur yağarsa?"
+            },
+            {
+                "en": "What if he doesn't come?",
+                "tr": "Ya o gelmezse?"
+            }
+        ]
+    },
+    {
+        "id": "pat_049",
+        "category": "starters",
+        "level": "b1",
+        "pattern": "I can't help + [verb]-ing",
+        "pattern_tr": "... yapmaktan kendimi alamıyorum",
+        "usage_note": "Bir şeyi yapmaktan kaçınamadığınızı belirtir.",
+        "examples": [
+            {
+                "en": "I can't help laughing.",
+                "tr": "Gülmekten kendimi alamıyorum."
+            },
+            {
+                "en": "I can't help thinking about you.",
+                "tr": "Seni düşünmekten kendimi alamıyorum."
+            }
+        ]
+    },
+    {
+        "id": "pat_050",
+        "category": "starters",
+        "level": "b2",
+        "pattern": "It's worth + [verb]-ing",
+        "pattern_tr": "... yapmaya değer",
+        "usage_note": "Bir eylemin sonuca değeceğini belirtir.",
+        "examples": [
+            {
+                "en": "It's worth trying.",
+                "tr": "Denemeye değer."
+            },
+            {
+                "en": "It's worth visiting that museum.",
+                "tr": "O müzeyi ziyaret etmeye değer."
+            }
+        ]
+    },
+    {
+        "id": "pat_051",
+        "category": "connectors",
+        "level": "b1",
+        "pattern": "In order to + [verb]",
+        "pattern_tr": "... yapmak için (amacıyla)",
+        "usage_note": "Amaç belirtirken kullanılır.",
+        "examples": [
+            {
+                "en": "I study hard in order to pass the exam.",
+                "tr": "Sınavı geçmek için çok çalışıyorum."
+            },
+            {
+                "en": "He woke up early in order to catch the bus.",
+                "tr": "Otobüsü yakalamak için erken kalktı."
+            }
+        ]
+    },
+    {
+        "id": "pat_052",
+        "category": "emotions",
+        "level": "b2",
+        "pattern": "I'm disappointed with + [noun]",
+        "pattern_tr": "... konusunda hayal kırıklığına uğradım",
+        "usage_note": "Hayal kırıklığı ifade eder.",
+        "examples": [
+            {
+                "en": "I'm disappointed with the service.",
+                "tr": "Hizmet konusunda hayal kırıklığına uğradım."
+            },
+            {
+                "en": "I'm disappointed with you.",
+                "tr": "Senin konusunda hayal kırıklığına uğradım."
+            }
+        ]
+    },
+    {
+        "id": "pat_053",
+        "category": "politeness",
+        "level": "b2",
+        "pattern": "Would you be so kind as to + [verb]",
+        "pattern_tr": "... yapma nezaketini gösterir misiniz?",
+        "usage_note": "Çok resmi ve nazik bir rica kalıbıdır.",
+        "examples": [
+            {
+                "en": "Would you be so kind as to close the door?",
+                "tr": "Kapıyı kapatma nezaketini gösterir misiniz?"
+            },
+            {
+                "en": "Would you be so kind as to help me?",
+                "tr": "Bana yardım etme nezaketini gösterir misiniz?"
+            }
+        ]
+    },
+    {
+        "id": "pat_054",
+        "category": "starters",
+        "level": "b1",
+        "pattern": "Are you ready to + [verb]?",
+        "pattern_tr": "... yapmaya hazır mısın?",
+        "usage_note": "Hazırlık durumunu sormak için kullanılır.",
+        "examples": [
+            {
+                "en": "Are you ready to order?",
+                "tr": "Sipariş vermeye hazır mısın?"
+            },
+            {
+                "en": "Are you ready to go?",
+                "tr": "Gitmeye hazır mısın?"
+            }
+        ]
+    },
+    {
+        "id": "pat_055",
+        "category": "opinion",
+        "level": "b1",
+        "pattern": "It seems to me that + [sentence]",
+        "pattern_tr": "Bana öyle geliyor ki ...",
+        "usage_note": "Kişisel izlenim belirtir.",
+        "examples": [
+            {
+                "en": "It seems to me that he is lying.",
+                "tr": "Bana öyle geliyor ki o yalan söylüyor."
+            },
+            {
+                "en": "It seems to me that we are lost.",
+                "tr": "Bana öyle geliyor ki kaybolduk."
+            }
+        ]
+    },
+    {
+        "id": "pat_056",
+        "category": "connectors",
+        "level": "b2",
+        "pattern": "Due to + [noun]",
+        "pattern_tr": "... nedeniyle / yüzünden",
+        "usage_note": "Sebep belirtirken kullanılır, genellikle olumsuz durumlar için.",
+        "examples": [
+            {
+                "en": "Due to the rain, the game was cancelled.",
+                "tr": "Yağmur nedeniyle maç iptal edildi."
+            },
+            {
+                "en": "He was late due to traffic.",
+                "tr": "Trafik yüzünden geç kaldı."
+            }
+        ]
+    },
+    {
+        "id": "pat_057",
+        "category": "starters",
+        "level": "b1",
+        "pattern": "I'm better at + [verb]-ing",
+        "pattern_tr": "... yapmada daha iyiyim",
+        "usage_note": "Yeteneklerinizi karşılaştırırken kullanılır.",
+        "examples": [
+            {
+                "en": "I'm better at writing than speaking.",
+                "tr": "Yazmada konuşmaktan daha iyiyim."
+            },
+            {
+                "en": "I'm better at cooking now.",
+                "tr": "Yemek yapmada şimdi daha iyiyim."
+            }
+        ]
+    },
+    {
+        "id": "pat_058",
+        "category": "questions",
+        "level": "a2",
+        "pattern": "How long does it take to + [verb]?",
+        "pattern_tr": "... yapmak ne kadar sürer?",
+        "usage_note": "Süre sormak için kullanılır.",
+        "examples": [
+            {
+                "en": "How long does it take to get there?",
+                "tr": "Oraya gitmek ne kadar sürer?"
+            },
+            {
+                "en": "How long does it take to cook this?",
+                "tr": "Bunu pişirmek ne kadar sürer?"
+            }
+        ]
+    },
+    {
+        "id": "pat_059",
+        "category": "starters",
+        "level": "b2",
+        "pattern": "The point is + [sentence]",
+        "pattern_tr": "Mesele şu ki ...",
+        "usage_note": "Konunun özünü veya en önemli kısmını belirtir.",
+        "examples": [
+            {
+                "en": "The point is, we don't have enough money.",
+                "tr": "Mesele şu ki, yeterli paramız yok."
+            },
+            {
+                "en": "The point is, I love her.",
+                "tr": "Mesele şu ki, onu seviyorum."
+            }
+        ]
+    },
+    {
+        "id": "pat_060",
+        "category": "starters",
+        "level": "c1",
+        "pattern": "It is said that + [sentence]",
+        "pattern_tr": "Denilir ki ... / Söylendiğine göre ...",
+        "usage_note": "Genel kanı veya söylenti aktarırken kullanılır.",
+        "examples": [
+            {
+                "en": "It is said that love is blind.",
+                "tr": "Aşkın kör olduğu söylenir."
+            },
+            {
+                "en": "It is said that he is very rich.",
+                "tr": "Onun çok zengin olduğu söylenir."
+            }
+        ]
+    },
+    {
+        "id": "pat_061",
+        "category": "connectors",
+        "level": "b2",
+        "pattern": "In addition, + [sentence]",
+        "pattern_tr": "Ek olarak, ...",
+        "usage_note": "Söylediklerinize yeni bir bilgi eklerken kullanılır.",
+        "examples": [
+            {
+                "en": "The house is beautiful. In addition, it's cheap.",
+                "tr": "Ev güzel. Ek olarak, ucuz."
+            },
+            {
+                "en": "She is smart. In addition, she is funny.",
+                "tr": "O zeki. Ek olarak, komik."
+            }
+        ]
+    },
+    {
+        "id": "pat_062",
+        "category": "connectors",
+        "level": "c1",
+        "pattern": "Furthermore, + [sentence]",
+        "pattern_tr": "Dahası / Ayrıca, ...",
+        "usage_note": "Resmi bir şekilde ek bilgi verirken kullanılır.",
+        "examples": [
+            {
+                "en": "The plan is risky. Furthermore, it's expensive.",
+                "tr": "Plan riskli. Dahası, pahalı."
+            },
+            {
+                "en": "He is a great leader. Furthermore, he is honest.",
+                "tr": "O harika bir lider. Dahası, dürüst."
+            }
+        ]
+    },
+    {
+        "id": "pat_063",
+        "category": "starters",
+        "level": "b1",
+        "pattern": "It happens that + [sentence]",
+        "pattern_tr": "Tesadüfe bak ki ... / Öyle oldu ki ...",
+        "usage_note": "Tesadüf eseri meydana gelen olayları anlatır.",
+        "examples": [
+            {
+                "en": "It happens that I know him.",
+                "tr": "Tesadüfe bak ki onu tanıyorum."
+            },
+            {
+                "en": "It happens that we are neighbors.",
+                "tr": "Tesadüfe bak ki komşuyuz."
+            }
+        ]
+    },
+    {
+        "id": "pat_064",
+        "category": "advice",
+        "level": "b1",
+        "pattern": "You'd better + [verb]",
+        "pattern_tr": "... yapsan iyi olur",
+        "usage_note": "Güçlü bir tavsiye veya uyarı belirtir.",
+        "examples": [
+            {
+                "en": "You'd better hurry.",
+                "tr": "Acele etsen iyi olur."
+            },
+            {
+                "en": "You'd better tell the truth.",
+                "tr": "Doğruyu söylesen iyi olur."
+            }
+        ]
+    },
+    {
+        "id": "pat_065",
+        "category": "advice",
+        "level": "b2",
+        "pattern": "If I were you, I would + [verb]",
+        "pattern_tr": "Senin yerinde olsam, ... yapardım",
+        "usage_note": "Empati kurarak tavsiye verirken kullanılır.",
+        "examples": [
+            {
+                "en": "If I were you, I would accept the offer.",
+                "tr": "Senin yerinde olsam, teklifi kabul ederdim."
+            },
+            {
+                "en": "If I were you, I would go.",
+                "tr": "Senin yerinde olsam, giderdim."
+            }
+        ]
+    },
+    {
+        "id": "pat_066",
+        "category": "emotions",
+        "level": "b2",
+        "pattern": "I'm crazy about + [noun/verb-ing]",
+        "pattern_tr": "...'e bayılıyorum / delisi oluyorum",
+        "usage_note": "Bir şeyi çok sevdiğinizi belirtir.",
+        "examples": [
+            {
+                "en": "I'm crazy about football.",
+                "tr": "Futbola bayılıyorum."
+            },
+            {
+                "en": "I'm crazy about you.",
+                "tr": "Sana bayılıyorum (delin divanenim)."
+            }
+        ]
+    },
+    {
+        "id": "pat_067",
+        "category": "starters",
+        "level": "b2",
+        "pattern": "I'm used to + [noun/verb-ing]",
+        "pattern_tr": "...'e alışkınım",
+        "usage_note": "Bir duruma alışık olduğunuzu belirtir.",
+        "examples": [
+            {
+                "en": "I'm used to getting up early.",
+                "tr": "Erken kalkmaya alışkınım."
+            },
+            {
+                "en": "I'm used to the cold weather.",
+                "tr": "Soğuk havaya alışkınım."
+            }
+        ]
+    },
+    {
+        "id": "pat_068",
+        "category": "starters",
+        "level": "b2",
+        "pattern": "I'm getting used to + [noun/verb-ing]",
+        "pattern_tr": "...'e alışıyorum",
+        "usage_note": "Alışma sürecinde olduğunuzu belirtir.",
+        "examples": [
+            {
+                "en": "I'm getting used to my new job.",
+                "tr": "Yeni işime alışıyorum."
+            },
+            {
+                "en": "I'm getting used to living alone.",
+                "tr": "Yalnız yaşamaya alışıyorum."
+            }
+        ]
+    },
+    {
+        "id": "pat_069",
+        "category": "starters",
+        "level": "c1",
+        "pattern": "It's high time + [sentence]",
+        "pattern_tr": "... yapmanın zamanı geldi de geçiyor",
+        "usage_note": "Bir eylemin çoktan yapılması gerektiğini vurgular.",
+        "examples": [
+            {
+                "en": "It's high time we left.",
+                "tr": "Gitme vaktimiz geldi de geçiyor."
+            },
+            {
+                "en": "It's high time you learned to drive.",
+                "tr": "Araba sürmeyi öğrenme vaktin geldi de geçiyor."
+            }
+        ]
+    },
+    {
+        "id": "pat_070",
+        "category": "starters",
+        "level": "b1",
+        "pattern": "Make sure to + [verb]",
+        "pattern_tr": "Mutlaka ... yap",
+        "usage_note": "Bir eylemin yapıldığından emin olunmasını ister.",
+        "examples": [
+            {
+                "en": "Make sure to lock the door.",
+                "tr": "Kapıyı kilitlediğinden emin ol (mutlaka kilitle)."
+            },
+            {
+                "en": "Make sure to call me.",
+                "tr": "Beni mutlaka ara."
+            }
+        ]
+    },
+    {
+        "id": "pat_071",
+        "category": "connectors",
+        "level": "b2",
+        "pattern": "Even though + [sentence]",
+        "pattern_tr": "... olmasına rağmen",
+        "usage_note": "Zıtlık belirtir.",
+        "examples": [
+            {
+                "en": "Even though it was raining, we went out.",
+                "tr": "Yağmur yağmasına rağmen dışarı çıktık."
+            },
+            {
+                "en": "Even though he is rich, he is unhappy.",
+                "tr": "Zengin olmasına rağmen mutsuz."
+            }
+        ]
+    },
+    {
+        "id": "pat_072",
+        "category": "opinion",
+        "level": "b2",
+        "pattern": "I strongly believe that + [sentence]",
+        "pattern_tr": "Güçlü bir şekilde inanıyorum ki ...",
+        "usage_note": "Bir düşünceye olan inancı vurgular.",
+        "examples": [
+            {
+                "en": "I strongly believe that we can win.",
+                "tr": "Kazanabileceğimize güçlü bir şekilde inanıyorum."
+            },
+            {
+                "en": "I strongly believe that education is important.",
+                "tr": "Eğitimin önemli olduğuna güçlü bir şekilde inanıyorum."
+            }
+        ]
+    },
+    {
+        "id": "pat_073",
+        "category": "opinion",
+        "level": "a2",
+        "pattern": "I guess + [sentence]",
+        "pattern_tr": "Sanırım ... / Tahminimce ...",
+        "usage_note": "Kesin olmayan bir düşünceyi belirtir.",
+        "examples": [
+            {
+                "en": "I guess you are right.",
+                "tr": "Sanırım haklısın."
+            },
+            {
+                "en": "I guess it's going to rain.",
+                "tr": "Sanırım yağmur yağacak."
+            }
+        ]
+    },
+    {
+        "id": "pat_074",
+        "category": "reaction",
+        "level": "a1",
+        "pattern": "That sounds + [adjective]",
+        "pattern_tr": "Kulağa ... geliyor",
+        "usage_note": "Duyduğunuz bir şeye tepki verirken kullanılır.",
+        "examples": [
+            {
+                "en": "That sounds great!",
+                "tr": "Kulağa harika geliyor!"
+            },
+            {
+                "en": "That sounds interesting.",
+                "tr": "Kulağa ilginç geliyor."
+            }
+        ]
+    },
+    {
+        "id": "pat_075",
+        "category": "reaction",
+        "level": "a1",
+        "pattern": "That looks + [adjective]",
+        "pattern_tr": "Görünüşe göre ... / ... görünüyor",
+        "usage_note": "Gördüğünüz bir şeye tepki verirken kullanılır.",
+        "examples": [
+            {
+                "en": "That looks delicious.",
+                "tr": "Lezzetli görünüyor."
+            },
+            {
+                "en": "That looks dangerous.",
+                "tr": "Tehlikeli görünüyor."
+            }
+        ]
+    },
+    {
+        "id": "pat_076",
+        "category": "starters",
+        "level": "b1",
+        "pattern": "It's hard to + [verb]",
+        "pattern_tr": "... yapmak zor",
+        "usage_note": "Bir eylemin zorluğunu belirtir.",
+        "examples": [
+            {
+                "en": "It's hard to explain.",
+                "tr": "Açıklamak zor."
+            },
+            {
+                "en": "It's hard to believe.",
+                "tr": "İnanmak zor."
+            }
+        ]
+    },
+    {
+        "id": "pat_077",
+        "category": "starters",
+        "level": "b1",
+        "pattern": "It's easy to + [verb]",
+        "pattern_tr": "... yapmak kolay",
+        "usage_note": "Bir eylemin kolaylığını belirtir.",
+        "examples": [
+            {
+                "en": "It's easy to criticize.",
+                "tr": "Eleştirmek kolay."
+            },
+            {
+                "en": "It's easy to get lost here.",
+                "tr": "Burada kaybolmak kolay."
+            }
+        ]
+    },
+    {
+        "id": "pat_078",
+        "category": "starters",
+        "level": "c1",
+        "pattern": "Had I known + [sentence]",
+        "pattern_tr": "Bilseydim ...",
+        "usage_note": "Geçmişe yönelik pişmanlık belirtir (If I had known'un devrik hali).",
+        "examples": [
+            {
+                "en": "Had I known, I would have helped.",
+                "tr": "Bilseydim, yardım ederdim."
+            },
+            {
+                "en": "Had I known you were coming, I would have baked a cake.",
+                "tr": "Geleceğini bilseydim, kek yapardım."
+            }
+        ]
+    },
+    {
+        "id": "pat_079",
+        "category": "connectors",
+        "level": "b2",
+        "pattern": "Unless + [sentence]",
+        "pattern_tr": "... olmadıkça / ... masa",
+        "usage_note": "Şart belirtir (if not).",
+        "examples": [
+            {
+                "en": "Unless you hurry, you will be late.",
+                "tr": "Acele etmezsen, geç kalacaksın."
+            },
+            {
+                "en": "I won't go unless you go.",
+                "tr": "Sen gitmezsen ben gitmem."
+            }
+        ]
+    },
+    {
+        "id": "pat_080",
+        "category": "starters",
+        "level": "b1",
+        "pattern": "I prefer + [noun/verb-ing] + to + [noun/verb-ing]",
+        "pattern_tr": "...'yı ...'ya tercih ederim",
+        "usage_note": "Tercih belirtir.",
+        "examples": [
+            {
+                "en": "I prefer tea to coffee.",
+                "tr": "Çayı kahveye tercih ederim."
+            },
+            {
+                "en": "I prefer walking to driving.",
+                "tr": "Yürümeyi araba sürmeye tercih ederim."
+            }
+        ]
+    },
+    {
+        "id": "pat_081",
+        "category": "probability",
+        "level": "b2",
+        "pattern": "It's possible that + [sentence]",
+        "pattern_tr": "Mümkündür ki ...",
+        "usage_note": "Olasılık belirtir.",
+        "examples": [
+            {
+                "en": "It's possible that he missed the bus.",
+                "tr": "Otobüsü kaçırmış olması mümkün."
+            },
+            {
+                "en": "It's possible that we made a mistake.",
+                "tr": "Bir hata yapmış olmamız mümkün."
+            }
+        ]
+    },
+    {
+        "id": "pat_082",
+        "category": "questions",
+        "level": "b1",
+        "pattern": "What makes you + [verb]?",
+        "pattern_tr": "Seni ... yapan nedir?",
+        "usage_note": "Sebep sormak için kullanılır.",
+        "examples": [
+            {
+                "en": "What makes you think so?",
+                "tr": "Böyle düşünmene sebep olan nedir?"
+            },
+            {
+                "en": "What makes you happy?",
+                "tr": "Seni mutlu eden nedir?"
+            }
+        ]
+    },
+    {
+        "id": "pat_083",
+        "category": "emotions",
+        "level": "c1",
+        "pattern": "I'm thrilled to + [verb]",
+        "pattern_tr": "... için çok heyecanlıyım",
+        "usage_note": "Aşırı sevinç ve heyecan belirtir.",
+        "examples": [
+            {
+                "en": "I'm thrilled to announce the news.",
+                "tr": "Haberleri duyurmak için çok heyecanlıyım."
+            },
+            {
+                "en": "I'm thrilled to be here.",
+                "tr": "Burada olduğum için çok heyecanlıyım."
+            }
+        ]
+    },
+    {
+        "id": "pat_084",
+        "category": "emotions",
+        "level": "b1",
+        "pattern": "It's a pity that + [sentence]",
+        "pattern_tr": "Ne yazık ki ... / ... olması çok yazık",
+        "usage_note": "Üzüntü veya hayal kırıklığı belirtir.",
+        "examples": [
+            {
+                "en": "It's a pity that you can't come.",
+                "tr": "Gelememen çok yazık."
+            },
+            {
+                "en": "It's a pity that it's raining.",
+                "tr": "Yağmur yağması çok yazık."
+            }
+        ]
+    },
+    {
+        "id": "pat_085",
+        "category": "connectors",
+        "level": "b2",
+        "pattern": "Provided that + [sentence]",
+        "pattern_tr": "... şartıyla",
+        "usage_note": "Şart belirtir.",
+        "examples": [
+            {
+                "en": "I will go provided that you go.",
+                "tr": "Senin gitmen şartıyla ben de giderim."
+            },
+            {
+                "en": "You can borrow it provided that you return it.",
+                "tr": "Geri getirmen şartıyla ödünç alabilirsin."
+            }
+        ]
+    },
+    {
+        "id": "pat_086",
+        "category": "starters",
+        "level": "b1",
+        "pattern": "There is no point in + [verb]-ing",
+        "pattern_tr": "... yapmanın bir anlamı yok",
+        "usage_note": "Bir eylemin anlamsız olduğunu belirtir.",
+        "examples": [
+            {
+                "en": "There is no point in waiting.",
+                "tr": "Beklemenin bir anlamı yok."
+            },
+            {
+                "en": "There is no point in worrying.",
+                "tr": "Endişelenmenin bir anlamı yok."
+            }
+        ]
+    },
+    {
+        "id": "pat_087",
+        "category": "starters",
+        "level": "b2",
+        "pattern": "It's about time + [sentence]",
+        "pattern_tr": "Nihayet ... vakti geldi",
+        "usage_note": "Bir şeyin geç de olsa gerçekleştiğini belirtir (sabırsızlık içerebilir).",
+        "examples": [
+            {
+                "en": "It's about time you arrived.",
+                "tr": "Nihayet gelebildin."
+            },
+            {
+                "en": "It's about time we started.",
+                "tr": "Nihayet başlama vaktimiz geldi."
+            }
+        ]
+    },
+    {
+        "id": "pat_088",
+        "category": "opinion",
+        "level": "b1",
+        "pattern": "If you ask me, + [sentence]",
+        "pattern_tr": "Bana sorarsan, ...",
+        "usage_note": "Kişisel görüş belirtirken kullanılır.",
+        "examples": [
+            {
+                "en": "If you ask me, it's a bad idea.",
+                "tr": "Bana sorarsan, bu kötü bir fikir."
+            },
+            {
+                "en": "If you ask me, she is right.",
+                "tr": "Bana sorarsan, o haklı."
+            }
+        ]
+    },
+    {
+        "id": "pat_089",
+        "category": "starters",
+        "level": "b2",
+        "pattern": "I'm thinking of + [verb]-ing",
+        "pattern_tr": "... yapmayı düşünüyorum",
+        "usage_note": "Niyet veya plan belirtir.",
+        "examples": [
+            {
+                "en": "I'm thinking of buying a car.",
+                "tr": "Bir araba almayı düşünüyorum."
+            },
+            {
+                "en": "I'm thinking of moving to London.",
+                "tr": "Londra'ya taşınmayı düşünüyorum."
+            }
+        ]
+    },
+    {
+        "id": "pat_090",
+        "category": "connectors",
+        "level": "c1",
+        "pattern": "Whereas + [sentence]",
+        "pattern_tr": "Oysa ki / Halbuki ...",
+        "usage_note": "İki durumu karşılaştırırken veya zıtlık belirtirken kullanılır.",
+        "examples": [
+            {
+                "en": "He likes football, whereas I prefer basketball.",
+                "tr": "O futbolu sever, oysa ki ben basketbolu tercih ederim."
+            },
+            {
+                "en": "She is rich, whereas he is poor.",
+                "tr": "O zengin, halbuki o fakir."
+            }
+        ]
+    },
+    {
+        "id": "pat_091",
+        "category": "starters",
+        "level": "b2",
+        "pattern": "I can't afford to + [verb]",
+        "pattern_tr": "... yapmaya gücüm yetmez / lüksüm yok",
+        "usage_note": "Maddi veya manevi olarak bir şeyi karşılayamayacağını belirtir.",
+        "examples": [
+            {
+                "en": "I can't afford to lose my job.",
+                "tr": "İşimi kaybetme lüksüm yok."
+            },
+            {
+                "en": "I can't afford to buy that car.",
+                "tr": "O arabayı almaya gücüm yetmez."
+            }
+        ]
+    },
+    {
+        "id": "pat_092",
+        "category": "questions",
+        "level": "b1",
+        "pattern": "How come + [sentence]?",
+        "pattern_tr": "Nasıl olur da ...?",
+        "usage_note": "Şaşkınlık ve nedenini sorma ifadesidir.",
+        "examples": [
+            {
+                "en": "How come you are here?",
+                "tr": "Nasıl olur da buradasın?"
+            },
+            {
+                "en": "How come he knows the answer?",
+                "tr": "Nasıl olur da o cevabı biliyor?"
+            }
+        ]
+    },
+    {
+        "id": "pat_093",
+        "category": "starters",
+        "level": "c1",
+        "pattern": "It goes without saying that + [sentence]",
+        "pattern_tr": "... söylemeye gerek yok ki",
+        "usage_note": "Bir şeyin çok açık olduğunu belirtir.",
+        "examples": [
+            {
+                "en": "It goes without saying that health is important.",
+                "tr": "Sağlığın önemli olduğunu söylemeye gerek yok."
+            },
+            {
+                "en": "It goes without saying that I support you.",
+                "tr": "Seni desteklediğimi söylemeye gerek yok."
+            }
+        ]
+    },
+    {
+        "id": "pat_094",
+        "category": "emotions",
+        "level": "a2",
+        "pattern": "I'm sorry for + [verb]-ing",
+        "pattern_tr": "... yaptığım için üzgünüm (özür dilerim)",
+        "usage_note": "Özür dilerken kullanılır.",
+        "examples": [
+            {
+                "en": "I'm sorry for being late.",
+                "tr": "Geç kaldığım için üzgünüm."
+            },
+            {
+                "en": "I'm sorry for hurting you.",
+                "tr": "Seni kırdığım için üzgünüm."
+            }
+        ]
+    },
+    {
+        "id": "pat_095",
+        "category": "starters",
+        "level": "b1",
+        "pattern": "I'm dying to + [verb]",
+        "pattern_tr": "... yapmak için can atıyorum / ölüyorum",
+        "usage_note": "Çok güçlü bir istek belirtir.",
+        "examples": [
+            {
+                "en": "I'm dying to see you.",
+                "tr": "Seni görmek için can atıyorum."
+            },
+            {
+                "en": "I'm dying to know the truth.",
+                "tr": "Gerçeği bilmek için ölüyorum."
+            }
+        ]
+    },
+    {
+        "id": "pat_096",
+        "category": "connectors",
+        "level": "b2",
+        "pattern": "In case + [sentence]",
+        "pattern_tr": "... ihtimaline karşı / ... olursa diye",
+        "usage_note": "Tedbir belirtir.",
+        "examples": [
+            {
+                "en": "Take an umbrella in case it rains.",
+                "tr": "Yağmur yağar diye şemsiye al."
+            },
+            {
+                "en": "I'll call you in case I'm late.",
+                "tr": "Gecikme ihtimlime karşı seni ararım."
+            }
+        ]
+    },
+    {
+        "id": "pat_097",
+        "category": "starters",
+        "level": "b1",
+        "pattern": "It's forbidden to + [verb]",
+        "pattern_tr": "... yapmak yasaktır",
+        "usage_note": "Yasak belirtir.",
+        "examples": [
+            {
+                "en": "It's forbidden to smoke here.",
+                "tr": "Burada sigara içmek yasaktır."
+            },
+            {
+                "en": "It's forbidden to take photos.",
+                "tr": "Fotoğraf çekmek yasaktır."
+            }
+        ]
+    },
+    {
+        "id": "pat_098",
+        "category": "questions",
+        "level": "b1",
+        "pattern": "What kind of + [noun]?",
+        "pattern_tr": "Ne tür ...?",
+        "usage_note": "Tür veya çeşit sorarken kullanılır.",
+        "examples": [
+            {
+                "en": "What kind of music do you like?",
+                "tr": "Ne tür müzik seversin?"
+            },
+            {
+                "en": "What kind of books do you read?",
+                "tr": "Ne tür kitaplar okursun?"
+            }
+        ]
+    },
+    {
+        "id": "pat_099",
+        "category": "starters",
+        "level": "a2",
+        "pattern": "I'm not sure if + [sentence]",
+        "pattern_tr": "... olup olmadığından emin değilim",
+        "usage_note": "Belirsizlik ifadelerinde kullanılır.",
+        "examples": [
+            {
+                "en": "I'm not sure if he is coming.",
+                "tr": "Gelip gelmeyeceğinden emin değilim."
+            },
+            {
+                "en": "I'm not sure if this is correct.",
+                "tr": "Bunun doğru olup olmadığından emin değilim."
+            }
+        ]
+    },
+    {
+        "id": "pat_100",
+        "category": "starters",
+        "level": "b2",
+        "pattern": "It seems as if + [sentence]",
+        "pattern_tr": "Sanki ... gibi görünüyor",
+        "usage_note": "Benzetme veya izlenim belirtir.",
+        "examples": [
+            {
+                "en": "It seems as if he knows everything.",
+                "tr": "Sanki her şeyi biliyormuş gibi görünüyor."
+            },
+            {
+                "en": "It seems as if it's going to snow.",
+                "tr": "Sanki kar yağacakmış gibi görünüyor."
+            }
+        ]
+    }
+]
