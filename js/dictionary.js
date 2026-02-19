@@ -684,6 +684,15 @@ const TabNavigation = {
         document.querySelectorAll('.main-tab').forEach(tab => {
             tab.addEventListener('click', () => this.switchTab(tab.dataset.tab));
         });
+
+        // Check hash for direct navigation
+        const hash = window.location.hash.slice(1);
+        if (hash) {
+            const validTabs = ['learn', 'patterns', 'wordlist', 'dictionary', 'stats'];
+            if (validTabs.includes(hash)) {
+                this.switchTab(hash);
+            }
+        }
     },
 
     switchTab(tabName) {
