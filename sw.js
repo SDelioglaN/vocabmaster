@@ -1,5 +1,5 @@
 // Service Worker for VocabMaster PWA
-const CACHE_NAME = 'vocabmaster-v9';
+const CACHE_NAME = 'vocabmaster-v10';
 
 // Files to cache for offline use
 const STATIC_ASSETS = [
@@ -12,9 +12,11 @@ const STATIC_ASSETS = [
     '/js/speech.js',
     '/js/wordlist.js',
     '/js/dictionary.js',
+    '/js/patterns.js',
     '/js/matching.js',
     '/js/stats.js',
     '/js/chatbot.js',
+    '/data/patterns.json',
     '/data/categories/senses.json',
     '/data/categories/kitchen.json',
     '/data/categories/home.json',

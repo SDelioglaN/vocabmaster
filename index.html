@@ -34,7 +34,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
     <!-- Styles -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style.css?v=3">
 
     <!-- Favicon -->
     <link rel="icon"
@@ -80,9 +80,13 @@
                 <i class="fas fa-graduation-cap"></i>
                 <span>Öğren</span>
             </button>
+            <button class="main-tab" data-tab="patterns">
+                <i class="fas fa-layer-group"></i>
+                <span>Kalıplar</span>
+            </button>
             <button class="main-tab" data-tab="wordlist">
                 <i class="fas fa-list"></i>
-                <span>Kelime Listesi</span>
+                <span>Kelimeler</span>
             </button>
             <button class="main-tab" data-tab="dictionary">
                 <i class="fas fa-book"></i>
@@ -90,7 +94,7 @@
             </button>
             <button class="main-tab" data-tab="stats">
                 <i class="fas fa-chart-bar"></i>
-                <span>İstatistikler</span>
+                <span>İstatistik</span>
             </button>
         </nav>
 
@@ -297,6 +301,34 @@
                 </div>
             </section>
 
+            <!-- ==================== PATTERNS TAB ==================== -->
+            <section class="tab-panel" id="patternsTab">
+                <div class="patterns-header">
+                    <h2><i class="fas fa-layer-group"></i> İngilizce Kalıplar</h2>
+                    <p class="patterns-subtitle">Günlük konuşma için en önemli kalıplar</p>
+                </div>
+
+                <!-- Daily Pattern -->
+                <div class="daily-pattern-container" id="dailyPatternContainer">
+                    <!-- Daily pattern will be injected here -->
+                </div>
+
+                <!-- Category Filters -->
+                <div class="pattern-filters">
+                    <button class="pattern-filter-btn active" data-category="all">Tümü</button>
+                    <button class="pattern-filter-btn" data-category="starters">🚀 Başlatıcılar</button>
+                    <button class="pattern-filter-btn" data-category="opinion">🗣️ Fikir</button>
+                    <button class="pattern-filter-btn" data-category="connectors">🔗 Bağlaçlar</button>
+                    <button class="pattern-filter-btn" data-category="questions">❓ Soru</button>
+                    <button class="pattern-filter-btn" data-category="politeness">🙏 Nezaket</button>
+                </div>
+
+                <!-- Patterns List -->
+                <div class="patterns-list" id="patternsList">
+                    <!-- Patterns will be rendered here -->
+                </div>
+            </section>
+
             <!-- ==================== WORD LIST TAB ==================== -->
             <section class="tab-panel" id="wordlistTab">
                 <div class="wordlist-header">
@@ -450,15 +482,17 @@
     </div>
 
     <!-- Scripts -->
-    <script src="js/storage.js"></script>
-    <script src="js/srs.js"></script>
-    <script src="js/speech.js"></script>
-    <script src="js/app.js"></script>
-    <script src="js/stats.js"></script>
-    <script src="js/matching.js"></script>
-    <script src="js/wordlist.js"></script>
-    <script src="js/dictionary.js"></script>
-    <script src="js/chatbot.js"></script>
+    <!-- Scripts -->
+    <script src="js/storage.js?v=3"></script>
+    <script src="js/srs.js?v=3"></script>
+    <script src="js/speech.js?v=3"></script>
+    <script src="js/app.js?v=3"></script>
+    <script src="js/stats.js?v=3"></script>
+    <script src="js/matching.js?v=3"></script>
+    <script src="js/wordlist.js?v=3"></script>
+    <script src="js/dictionary.js?v=3"></script>
+    <script src="js/patterns.js?v=3"></script>
+    <script src="js/chatbot.js?v=3"></script>
 
     <!-- Service Worker Registration (with force cache clear) -->
     <script>
