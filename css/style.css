@@ -232,6 +232,7 @@ body::before {
    ======================================== */
 .main-tabs {
     display: flex;
+    flex-wrap: wrap;
     gap: var(--spacing-xs);
     background: var(--bg-secondary);
     padding: var(--spacing-xs);
@@ -3719,4 +3720,304 @@ body::before {
         height: 52px;
         font-size: 1.3rem;
     }
+}
+
+/* ==================== PATTERNS TAB STYLES ==================== */
+
+/* Header */
+.patterns-header {
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.patterns-subtitle {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+}
+
+/* Daily Pattern Card */
+.daily-pattern-container {
+    margin-bottom: 2rem;
+}
+
+.daily-pattern-card {
+    background: linear-gradient(135deg, #6366f1, #8b5cf6);
+    border-radius: 16px;
+    padding: 1.5rem;
+    color: white;
+    text-align: center;
+    box-shadow: 0 10px 25px -5px rgba(99, 102, 241, 0.4);
+    position: relative;
+    overflow: hidden;
+}
+
+.daily-pattern-card::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.1) 0%, transparent 60%);
+    pointer-events: none;
+}
+
+.daily-label {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    opacity: 0.9;
+    margin-bottom: 0.5rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: rgba(255, 255, 255, 0.2);
+    padding: 0.2rem 0.8rem;
+    border-radius: 20px;
+}
+
+.daily-pattern-text {
+    font-size: 1.8rem;
+    font-weight: 700;
+    margin: 0.5rem 0;
+    color: white;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.daily-pattern-tr {
+    font-size: 1.1rem;
+    opacity: 0.9;
+    margin-bottom: 1.5rem;
+}
+
+.daily-pattern-example {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    text-align: left;
+}
+
+.daily-pattern-example p {
+    margin: 0;
+    font-size: 1rem;
+}
+
+.daily-pattern-example .ex-tr {
+    font-size: 0.9rem;
+    opacity: 0.8;
+    margin-top: 0.3rem;
+    font-style: italic;
+}
+
+.daily-listen-btn {
+    background: white;
+    color: #6366f1;
+    border: none;
+    padding: 0.6rem 1.2rem;
+    border-radius: 50px;
+    font-weight: 600;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    transition: transform 0.2s;
+}
+
+.daily-listen-btn:hover {
+    transform: scale(1.05);
+}
+
+/* Pattern Filters */
+.pattern-filters {
+    display: flex;
+    overflow-x: auto;
+    gap: 0.8rem;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    scrollbar-width: none;
+}
+
+.pattern-filters::-webkit-scrollbar {
+    display: none;
+}
+
+.pattern-filter-btn {
+    background: var(--bg-secondary);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 0.6rem 1rem;
+    border-radius: 50px;
+    white-space: nowrap;
+    cursor: pointer;
+    transition: all 0.2s;
+    color: var(--text-primary);
+    font-size: 0.9rem;
+}
+
+.pattern-filter-btn.active {
+    background: var(--accent-primary);
+    color: white;
+    border-color: var(--accent-primary);
+}
+
+/* Patterns List (Accordion) */
+.patterns-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding-bottom: 5rem;
+}
+
+.pattern-item {
+    background: var(--bg-card);
+    border-radius: 12px;
+    overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    transition: border-color 0.2s;
+}
+
+.pattern-item:hover {
+    border-color: var(--accent-primary);
+}
+
+.pattern-header {
+    padding: 1rem 1.2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+.pattern-title {
+    display: flex;
+    flex-direction: column;
+}
+
+.pattern-text {
+    font-weight: 600;
+    font-size: 1.1rem;
+    color: var(--accent-primary);
+}
+
+.pattern-tr-preview {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+}
+
+.pattern-toggle-icon {
+    color: var(--text-secondary);
+    transition: transform 0.3s;
+}
+
+.pattern-toggle-icon.rotate {
+    transform: rotate(180deg);
+}
+
+/* Accordion Details */
+.pattern-details {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+    background: var(--bg-secondary);
+}
+
+.pattern-details.show {
+    max-height: 500px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.pattern-info-block {
+    padding: 1rem 1.2rem;
+    border-bottom: 1px dashed rgba(255, 255, 255, 0.1);
+}
+
+.pattern-badge {
+    font-size: 0.7rem;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+    font-weight: 700;
+    margin-right: 0.5rem;
+}
+
+.pattern-badge.a1 {
+    background: #d1fae5;
+    color: #065f46;
+}
+
+.pattern-badge.a2 {
+    background: #fef3c7;
+    color: #92400e;
+}
+
+.pattern-badge.b1 {
+    background: #ffedd5;
+    color: #9a3412;
+}
+
+.pattern-badge.b2 {
+    background: #fee2e2;
+    color: #991b1b;
+}
+
+.pattern-usage {
+    display: inline;
+    font-size: 0.9rem;
+    color: var(--text-primary);
+}
+
+.pattern-examples {
+    padding: 1rem 1.2rem;
+}
+
+.pattern-examples h4 {
+    font-size: 0.9rem;
+    margin-bottom: 0.8rem;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+}
+
+.pattern-ex-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 1rem;
+    background: var(--bg-primary);
+    padding: 0.8rem;
+    border-radius: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.pattern-ex-item:last-child {
+    margin-bottom: 0;
+}
+
+.ex-content p {
+    margin: 0;
+}
+
+.ex-en {
+    font-weight: 500;
+    margin-bottom: 0.2rem !important;
+}
+
+.ex-tr {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    font-style: italic;
+}
+
+.ex-play-btn {
+    background: none;
+    border: none;
+    color: var(--accent-primary);
+    cursor: pointer;
+    font-size: 1rem;
+    padding: 0.5rem;
+    opacity: 0.7;
+    transition: opacity 0.2s;
+}
+
+.ex-play-btn:hover {
+    opacity: 1;
+    transform: scale(1.1);
 }
