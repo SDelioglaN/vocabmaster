@@ -173,10 +173,72 @@ const WordList = {
             'c1': '#4338ca'
         };
 
+        // Level ordering and labels
+        const levelOrder = ['a1', 'a2', 'b1', 'b2', 'c1'];
+        const levelLabels = {
+            'a1': 'A1 - Başlangıç',
+            'a2': 'A2 - Temel',
+            'b1': 'B1 - Orta',
+            'b2': 'B2 - Orta Üstü',
+            'c1': 'C1 - İleri'
+        };
+
+        // Check if level filter is set to a specific level
+        const activeLevel = document.getElementById('wlLevelSelect')?.value || 'all';
+        const showLevelDividers = activeLevel === 'all';
+
         let html = '';
 
         for (const [cat, words] of Object.entries(grouped)) {
             const catColor = categoryColors[cat] || '#0ea5e9';
+
+            // Sort words by level order
+            words.sort((a, b) => levelOrder.indexOf(a.level) - levelOrder.indexOf(b.level));
+
+            // Group words by level within this category
+            const levelGroups = {};
+            words.forEach(w => {
+                if (!levelGroups[w.level]) levelGroups[w.level] = [];
+                levelGroups[w.level].push(w);
+            });
+
+            // Build word cards HTML with level dividers
+            let cardsHtml = '';
+            for (const level of levelOrder) {
+                if (!levelGroups[level]) continue;
+                const lvlColor = levelColors[level] || '#0ea5e9';
+
+                // Add level divider (only when showing all levels)
+                if (showLevelDividers) {
+                    cardsHtml += `
+                        <div class="wl-level-divider" style="--divider-color: ${lvlColor};">
+                            <div class="wl-level-divider-line"></div>
+                            <span class="wl-level-divider-badge" style="background: ${lvlColor};">
+                                ${levelLabels[level] || level.toUpperCase()}
+                            </span>
+                            <span class="wl-level-divider-count">${levelGroups[level].length} kelime</span>
+                            <div class="wl-level-divider-line"></div>
+                        </div>
+                    `;
+                }
+
+                cardsHtml += levelGroups[level].map(w => `
+                    <div class="wl-word-card" style="--card-accent: ${catColor};" onclick="WordList.speakWord('${w.word.replace(/'/g, "\\'")}')">
+                        <div class="wl-card-content">
+                            <div class="wl-word-top">
+                                <span class="wl-word-en">${w.word}</span>
+                                <span class="wl-word-level" style="background: ${levelColors[w.level]}">${w.level.toUpperCase()}</span>
+                            </div>
+                            <span class="wl-word-tr">${w.translation}</span>
+                            <span class="wl-word-phonetic">${w.phonetic || ''}</span>
+                        </div>
+                        <button class="wl-speak-btn" onclick="event.stopPropagation(); WordList.speakWord('${w.word.replace(/'/g, "\\'")}')" title="Dinle">
+                            <i class="fas fa-volume-up"></i>
+                        </button>
+                    </div>
+                `).join('');
+            }
+
             html += `
                 <div class="wl-category">
                     <div class="wl-category-header" style="border-left-color: ${catColor}; background: ${catColor}12;">
@@ -184,21 +246,7 @@ const WordList = {
                         <span class="wl-category-count">${words.length} kelime</span>
                     </div>
                     <div class="wl-words-grid">
-                        ${words.map(w => `
-                            <div class="wl-word-card" style="--card-accent: ${catColor};" onclick="WordList.speakWord('${w.word.replace(/'/g, "\\'")}')">
-                                <div class="wl-card-content">
-                                    <div class="wl-word-top">
-                                        <span class="wl-word-en">${w.word}</span>
-                                        <span class="wl-word-level" style="background: ${levelColors[w.level]}">${w.level.toUpperCase()}</span>
-                                    </div>
-                                    <span class="wl-word-tr">${w.translation}</span>
-                                    <span class="wl-word-phonetic">${w.phonetic || ''}</span>
-                                </div>
-                                <button class="wl-speak-btn" onclick="event.stopPropagation(); WordList.speakWord('${w.word.replace(/'/g, "\\'")}')" title="Dinle">
-                                    <i class="fas fa-volume-up"></i>
-                                </button>
-                            </div>
-                        `).join('')}
+                        ${cardsHtml}
                     </div>
                 </div>
             `;

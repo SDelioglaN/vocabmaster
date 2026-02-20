@@ -568,6 +568,57 @@ body::before {
     box-shadow: 0 4px 12px rgba(14, 165, 233, 0.4);
 }
 
+/* Level Dividers */
+.wl-level-divider {
+    grid-column: 1 / -1;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 18px 0 10px;
+    margin-top: 8px;
+}
+
+.wl-level-divider:first-child {
+    padding-top: 4px;
+    margin-top: 0;
+}
+
+.wl-level-divider-line {
+    flex: 1;
+    height: 2px;
+    background: linear-gradient(90deg,
+            var(--divider-color, #0ea5e9) 0%,
+            transparent 100%);
+    border-radius: 1px;
+    opacity: 0.5;
+}
+
+.wl-level-divider-line:last-child {
+    background: linear-gradient(270deg,
+            var(--divider-color, #0ea5e9) 0%,
+            transparent 100%);
+}
+
+.wl-level-divider-badge {
+    padding: 4px 14px;
+    border-radius: 20px;
+    color: white;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    white-space: nowrap;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.wl-level-divider-count {
+    color: var(--text-secondary, #94a3b8);
+    font-size: 0.75rem;
+    font-weight: 500;
+    white-space: nowrap;
+    opacity: 0.7;
+}
+
 /* Custom Scrollbar */
 .wordlist-container::-webkit-scrollbar {
     width: 6px;
