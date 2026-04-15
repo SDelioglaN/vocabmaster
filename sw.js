@@ -1,5 +1,5 @@
 // Service Worker for VocabMaster PWA
-const CACHE_NAME = 'vocabmaster-v11';
+const CACHE_NAME = 'vocabmaster-v12';
 
 // Files to cache for offline use
 const STATIC_ASSETS = [
@@ -17,35 +17,21 @@ const STATIC_ASSETS = [
     '/js/stats.js',
     '/js/chatbot.js',
     '/data/patterns.json',
-    '/data/categories/senses.json',
-    '/data/categories/kitchen.json',
-    '/data/categories/home.json',
+    '/data/categories/daily.json',
     '/data/categories/family.json',
-    '/data/categories/work.json',
+    '/data/categories/home.json',
+    '/data/categories/food.json',
     '/data/categories/shopping.json',
     '/data/categories/travel.json',
     '/data/categories/health.json',
+    '/data/categories/work.json',
     '/data/categories/education.json',
+    '/data/categories/technology.json',
+    '/data/categories/nature.json',
     '/data/categories/emotions.json',
     '/data/categories/weather.json',
     '/data/categories/hobbies.json',
-    '/data/categories/technology.json',
-    '/data/categories/clothing.json',
     '/data/categories/city.json',
-    '/data/categories/sports.json',
-    '/data/categories/music.json',
-    '/data/categories/nature.json',
-    '/data/categories/food.json',
-    '/data/categories/finance.json',
-    '/data/categories/law.json',
-    '/data/categories/science.json',
-    '/data/categories/relationships.json',
-    '/data/categories/business.json',
-    '/data/categories/computer.json',
-    '/data/categories/daily.json',
-    '/data/categories/academic.json',
-    '/data/categories/animals.json',
-    '/data/categories/arts.json',
     '/data/categories/index.json',
     '/manifest.json'
 ];

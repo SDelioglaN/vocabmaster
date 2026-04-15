@@ -45,8 +45,8 @@ const App = {
         this.startSession();
     },
 
-    // All category IDs
-    categories: ['senses', 'kitchen', 'home', 'family', 'work', 'shopping', 'travel', 'health', 'education', 'emotions', 'weather', 'hobbies', 'technology', 'clothing', 'city', 'sports', 'music', 'nature', 'food', 'finance', 'law', 'science', 'relationships', 'business', 'computer', 'daily', 'academic', 'animals', 'arts'],
+    // All category IDs - 15 categories
+    categories: ['daily', 'family', 'home', 'food', 'shopping', 'travel', 'health', 'work', 'education', 'technology', 'nature', 'emotions', 'weather', 'hobbies', 'city'],
 
     /**
      * Load words from JSON files (categories)

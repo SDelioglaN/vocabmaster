@@ -1,802 +1,452 @@
 [
-    {
-        "id": 1,
-        "word": "amphibian",
-        "translation": "amfibi / iki yaşamlı",
-        "example": "Frogs are amphibians.",
-        "exampleTr": "Kurbağalar amfibidir.",
-        "phonetic": "/æmˈfɪbiən/"
-    },
-    {
-        "id": 2,
-        "word": "antler",
-        "translation": "geyik boynuzu",
-        "example": "The deer has large antlers.",
-        "exampleTr": "Geyiğin büyük boynuzları var.",
-        "phonetic": "/ˈæntlər/"
-    },
-    {
-        "id": 3,
-        "word": "aquarium",
-        "translation": "akvaryum",
-        "example": "We visited the aquarium.",
-        "exampleTr": "Akvaryumu ziyaret ettik.",
-        "phonetic": "/əˈkweriəm/"
-    },
-    {
-        "id": 4,
-        "word": "beak",
-        "translation": "gaga",
-        "example": "The bird has a sharp beak.",
-        "exampleTr": "Kuşun keskin gagası var.",
-        "phonetic": "/biːk/"
-    },
-    {
-        "id": 5,
-        "word": "breed",
-        "translation": "cins / yetiştirmek",
-        "example": "What breed is your dog?",
-        "exampleTr": "Köpeğin ne cinsi?",
-        "phonetic": "/briːd/"
-    },
-    {
-        "id": 6,
-        "word": "burrow",
-        "translation": "yuva / tünel",
-        "example": "Rabbits dig burrows.",
-        "exampleTr": "Tavşanlar tünel kazar.",
-        "phonetic": "/ˈbʌroʊ/"
-    },
-    {
-        "id": 7,
-        "word": "camouflage",
-        "translation": "kamuflaj",
-        "example": "Chameleons use camouflage.",
-        "exampleTr": "Bukalemunlar kamuflaj kullanır.",
-        "phonetic": "/ˈkæməflɑːʒ/"
-    },
-    {
-        "id": 8,
-        "word": "carnivore",
-        "translation": "etçil",
-        "example": "Lions are carnivores.",
-        "exampleTr": "Aslanlar etçildir.",
-        "phonetic": "/ˈkɑːrnɪvɔːr/"
-    },
-    {
-        "id": 9,
-        "word": "claw",
-        "translation": "pençe / tırnak",
-        "example": "The cat extended its claws.",
-        "exampleTr": "Kedi pençelerini çıkardı.",
-        "phonetic": "/klɔː/"
-    },
-    {
-        "id": 10,
-        "word": "cocoon",
-        "translation": "koza",
-        "example": "The caterpillar forms a cocoon.",
-        "exampleTr": "Tırtıl koza oluşturur.",
-        "phonetic": "/kəˈkuːn/"
-    },
-    {
-        "id": 11,
-        "word": "colony",
-        "translation": "koloni",
-        "example": "An ant colony.",
-        "exampleTr": "Bir karınca kolonisi.",
-        "phonetic": "/ˈkɒləni/"
-    },
-    {
-        "id": 12,
-        "word": "cub",
-        "translation": "yavru (büyük hayvan)",
-        "example": "The lion cub was playful.",
-        "exampleTr": "Aslan yavrusu oyuncuydu.",
-        "phonetic": "/kʌb/"
-    },
-    {
-        "id": 13,
-        "word": "den",
-        "translation": "in / yuva",
-        "example": "The bear sleeps in its den.",
-        "exampleTr": "Ayı ininde uyur.",
-        "phonetic": "/den/"
-    },
-    {
-        "id": 14,
-        "word": "domesticate",
-        "translation": "evcilleştirmek",
-        "example": "Humans domesticated dogs.",
-        "exampleTr": "İnsanlar köpekleri evcilleştirdi.",
-        "phonetic": "/dəˈmestɪkeɪt/"
-    },
-    {
-        "id": 15,
-        "word": "eagle",
-        "translation": "kartal",
-        "example": "The eagle soared high.",
-        "exampleTr": "Kartal yükseğe süzüldü.",
-        "phonetic": "/ˈiːɡl/"
-    },
-    {
-        "id": 16,
-        "word": "ecosystem",
-        "translation": "ekosistem",
-        "example": "Protect the ecosystem.",
-        "exampleTr": "Ekosistemi koru.",
-        "phonetic": "/ˈiːkoʊsɪstəm/"
-    },
-    {
-        "id": 17,
-        "word": "elephant",
-        "translation": "fil",
-        "example": "Elephants never forget.",
-        "exampleTr": "Filler asla unutmaz.",
-        "phonetic": "/ˈelɪfənt/"
-    },
-    {
-        "id": 18,
-        "word": "endangered",
-        "translation": "nesli tükenmekte olan",
-        "example": "Pandas are endangered.",
-        "exampleTr": "Pandaların nesli tükenmekte.",
-        "phonetic": "/ɪnˈdeɪndʒərd/"
-    },
-    {
-        "id": 19,
-        "word": "extinction",
-        "translation": "yok olma / nesil tükenmesi",
-        "example": "Dinosaurs faced extinction.",
-        "exampleTr": "Dinozorlar yok olmaya uğradı.",
-        "phonetic": "/ɪkˈstɪŋkʃn/"
-    },
-    {
-        "id": 20,
-        "word": "fang",
-        "translation": "köpek dişi / zehirli diş",
-        "example": "The snake bared its fangs.",
-        "exampleTr": "Yılan dişlerini gösterdi.",
-        "phonetic": "/fæŋ/"
-    },
-    {
-        "id": 21,
-        "word": "feather",
-        "translation": "tüy (kuş)",
-        "example": "The feather was colorful.",
-        "exampleTr": "Tüy renkli idi.",
-        "phonetic": "/ˈfeðər/"
-    },
-    {
-        "id": 22,
-        "word": "feline",
-        "translation": "kedigil",
-        "example": "Cats are felines.",
-        "exampleTr": "Kediler kedigillerdir.",
-        "phonetic": "/ˈfiːlaɪn/"
-    },
-    {
-        "id": 23,
-        "word": "fin",
-        "translation": "yüzgeç",
-        "example": "Sharks have dorsal fins.",
-        "exampleTr": "Köpek balıklarının sırt yüzgeci var.",
-        "phonetic": "/fɪn/"
-    },
-    {
-        "id": 24,
-        "word": "flock",
-        "translation": "sürü (kuş)",
-        "example": "A flock of birds flew overhead.",
-        "exampleTr": "Bir kuş sürüsü üstümüzden uçtu.",
-        "phonetic": "/flɒk/"
-    },
-    {
-        "id": 25,
-        "word": "foal",
-        "translation": "tay",
-        "example": "The foal ran in the field.",
-        "exampleTr": "Tay arazide koştu.",
-        "phonetic": "/foʊl/"
-    },
-    {
-        "id": 26,
-        "word": "fossil",
-        "translation": "fosil",
-        "example": "They found a dinosaur fossil.",
-        "exampleTr": "Bir dinozor fosili buldular.",
-        "phonetic": "/ˈfɒsl/"
-    },
-    {
-        "id": 27,
-        "word": "fur",
-        "translation": "kürk / post",
-        "example": "The cat has soft fur.",
-        "exampleTr": "Kedinin yumuşak kürkü var.",
-        "phonetic": "/fɜːr/"
-    },
-    {
-        "id": 28,
-        "word": "giraffe",
-        "translation": "zürafa",
-        "example": "The giraffe is very tall.",
-        "exampleTr": "Zürafa çok uzun.",
-        "phonetic": "/dʒɪˈræf/"
-    },
-    {
-        "id": 29,
-        "word": "graze",
-        "translation": "otlamak",
-        "example": "Cows graze in the field.",
-        "exampleTr": "İnekler tarlada otlar.",
-        "phonetic": "/ɡreɪz/"
-    },
-    {
-        "id": 30,
-        "word": "habitat",
-        "translation": "yaşam alanı",
-        "example": "Protect their natural habitat.",
-        "exampleTr": "Doğal yaşam alanlarını koru.",
-        "phonetic": "/ˈhæbɪtæt/"
-    },
-    {
-        "id": 31,
-        "word": "hatch",
-        "translation": "yumurtadan çıkmak",
-        "example": "The eggs hatched.",
-        "exampleTr": "Yumurtalar çatladı.",
-        "phonetic": "/hætʃ/"
-    },
-    {
-        "id": 32,
-        "word": "herbivore",
-        "translation": "otçul",
-        "example": "Cows are herbivores.",
-        "exampleTr": "İnekler otçuldur.",
-        "phonetic": "/ˈhɜːrbɪvɔːr/"
-    },
-    {
-        "id": 33,
-        "word": "herd",
-        "translation": "sürü (büyükbaş)",
-        "example": "A herd of cattle.",
-        "exampleTr": "Bir sığır sürüsü.",
-        "phonetic": "/hɜːrd/"
-    },
-    {
-        "id": 34,
-        "word": "hibernate",
-        "translation": "kış uykusuna yatmak",
-        "example": "Bears hibernate in winter.",
-        "exampleTr": "Ayılar kışın uykuya yatar.",
-        "phonetic": "/ˈhaɪbərneɪt/"
-    },
-    {
-        "id": 35,
-        "word": "hive",
-        "translation": "arı kovanı",
-        "example": "Bees live in a hive.",
-        "exampleTr": "Arılar kovanda yaşar.",
-        "phonetic": "/haɪv/"
-    },
-    {
-        "id": 36,
-        "word": "hoof",
-        "translation": "toynak",
-        "example": "Horse hooves need care.",
-        "exampleTr": "At toynakları bakım gerektirir.",
-        "phonetic": "/huːf/"
-    },
-    {
-        "id": 37,
-        "word": "horn",
-        "translation": "boynuz",
-        "example": "The rhino has a horn.",
-        "exampleTr": "Gergedanın boynuzu var.",
-        "phonetic": "/hɔːrn/"
-    },
-    {
-        "id": 38,
-        "word": "howl",
-        "translation": "ulumak",
-        "example": "Wolves howl at the moon.",
-        "exampleTr": "Kurtlar aya uluyor.",
-        "phonetic": "/haʊl/"
-    },
-    {
-        "id": 39,
-        "word": "insect",
-        "translation": "böcek",
-        "example": "Ants are insects.",
-        "exampleTr": "Karıncalar böcektir.",
-        "phonetic": "/ˈɪnsekt/"
-    },
-    {
-        "id": 40,
-        "word": "instinct",
-        "translation": "içgüdü",
-        "example": "Animals act on instinct.",
-        "exampleTr": "Hayvanlar içgüdüyle hareket eder.",
-        "phonetic": "/ˈɪnstɪŋkt/"
-    },
-    {
-        "id": 41,
-        "word": "ivory",
-        "translation": "fildişi",
-        "example": "Ivory trade is banned.",
-        "exampleTr": "Fildişi ticareti yasaklandı.",
-        "phonetic": "/ˈaɪvəri/"
-    },
-    {
-        "id": 42,
-        "word": "kennel",
-        "translation": "köpek kulübesi",
-        "example": "The dog sleeps in its kennel.",
-        "exampleTr": "Köpek kulübesinde uyur.",
-        "phonetic": "/ˈkenl/"
-    },
-    {
-        "id": 43,
-        "word": "kitten",
-        "translation": "yavru kedi",
-        "example": "The kitten is playful.",
-        "exampleTr": "Yavru kedi oyuncu.",
-        "phonetic": "/ˈkɪtn/"
-    },
-    {
-        "id": 44,
-        "word": "larvae",
-        "translation": "larva",
-        "example": "Mosquito larvae live in water.",
-        "exampleTr": "Sivrisinek larvaları suda yaşar.",
-        "phonetic": "/ˈlɑːrviː/"
-    },
-    {
-        "id": 45,
-        "word": "leopard",
-        "translation": "leopar",
-        "example": "Leopards are fast.",
-        "exampleTr": "Leoparlar hızlıdır.",
-        "phonetic": "/ˈlepərd/"
-    },
-    {
-        "id": 46,
-        "word": "mammal",
-        "translation": "memeli",
-        "example": "Whales are mammals.",
-        "exampleTr": "Balinalar memelidir.",
-        "phonetic": "/ˈmæml/"
-    },
-    {
-        "id": 47,
-        "word": "mane",
-        "translation": "yele",
-        "example": "The lion's mane is magnificent.",
-        "exampleTr": "Aslanın yelesi muhteşem.",
-        "phonetic": "/meɪn/"
-    },
-    {
-        "id": 48,
-        "word": "migrate",
-        "translation": "göç etmek",
-        "example": "Birds migrate south.",
-        "exampleTr": "Kuşlar güneye göç eder.",
-        "phonetic": "/ˈmaɪɡreɪt/"
-    },
-    {
-        "id": 49,
-        "word": "molt",
-        "translation": "tüy dökmek",
-        "example": "Snakes molt their skin.",
-        "exampleTr": "Yılanlar deri değiştirir.",
-        "phonetic": "/moʊlt/"
-    },
-    {
-        "id": 50,
-        "word": "nest",
-        "translation": "yuva",
-        "example": "Birds build nests.",
-        "exampleTr": "Kuşlar yuva yapar.",
-        "phonetic": "/nest/"
-    },
-    {
-        "id": 51,
-        "word": "nocturnal",
-        "translation": "gece aktif olan",
-        "example": "Owls are nocturnal.",
-        "exampleTr": "Baykuşlar gececi.",
-        "phonetic": "/nɒkˈtɜːrnl/"
-    },
-    {
-        "id": 52,
-        "word": "omnivore",
-        "translation": "hepçil",
-        "example": "Pigs are omnivores.",
-        "exampleTr": "Domuzlar hepçildir.",
-        "phonetic": "/ˈɒmnɪvɔːr/"
-    },
-    {
-        "id": 53,
-        "word": "offspring",
-        "translation": "yavru",
-        "example": "The bird protects its offspring.",
-        "exampleTr": "Kuş yavrularını korur.",
-        "phonetic": "/ˈɒfsprɪŋ/"
-    },
-    {
-        "id": 54,
-        "word": "owl",
-        "translation": "baykuş",
-        "example": "The owl hunts at night.",
-        "exampleTr": "Baykuş gece avlanır.",
-        "phonetic": "/aʊl/"
-    },
-    {
-        "id": 55,
-        "word": "paw",
-        "translation": "pati",
-        "example": "The dog gave me its paw.",
-        "exampleTr": "Köpek patisini verdi.",
-        "phonetic": "/pɔː/"
-    },
-    {
-        "id": 56,
-        "word": "peacock",
-        "translation": "tavus kuşu",
-        "example": "The peacock displayed its feathers.",
-        "exampleTr": "Tavus kuşu tüylerini serdi.",
-        "phonetic": "/ˈpiːkɒk/"
-    },
-    {
-        "id": 57,
-        "word": "penguin",
-        "translation": "penguen",
-        "example": "Penguins live in cold climates.",
-        "exampleTr": "Penguenler soğuk iklimlerde yaşar.",
-        "phonetic": "/ˈpeŋɡwɪn/"
-    },
-    {
-        "id": 58,
-        "word": "poach",
-        "translation": "kaçak avlamak",
-        "example": "Poaching is illegal.",
-        "exampleTr": "Kaçak avcılık yasadışı.",
-        "phonetic": "/poʊtʃ/"
-    },
-    {
-        "id": 59,
-        "word": "porcupine",
-        "translation": "oklu kirpi",
-        "example": "Porcupines have sharp quills.",
-        "exampleTr": "Oklu kirpilerin keskin dikenleri var.",
-        "phonetic": "/ˈpɔːrkjupaɪn/"
-    },
-    {
-        "id": 60,
-        "word": "predator",
-        "translation": "avcı / yırtıcı",
-        "example": "Lions are top predators.",
-        "exampleTr": "Aslanlar en üst yırtıcılardır.",
-        "phonetic": "/ˈpredətər/"
-    },
-    {
-        "id": 61,
-        "word": "prey",
-        "translation": "av",
-        "example": "The eagle caught its prey.",
-        "exampleTr": "Kartal avını yakaladı.",
-        "phonetic": "/preɪ/"
-    },
-    {
-        "id": 62,
-        "word": "primate",
-        "translation": "primat",
-        "example": "Gorillas are primates.",
-        "exampleTr": "Goriller primattır.",
-        "phonetic": "/ˈpraɪmeɪt/"
-    },
-    {
-        "id": 63,
-        "word": "puppy",
-        "translation": "yavru köpek",
-        "example": "The puppy is adorable.",
-        "exampleTr": "Yavru köpek çok sevimli.",
-        "phonetic": "/ˈpʌpi/"
-    },
-    {
-        "id": 64,
-        "word": "reptile",
-        "translation": "sürüngen",
-        "example": "Snakes are reptiles.",
-        "exampleTr": "Yılanlar sürüngendir.",
-        "phonetic": "/ˈreptaɪl/"
-    },
-    {
-        "id": 65,
-        "word": "roar",
-        "translation": "kükremek",
-        "example": "The lion roared.",
-        "exampleTr": "Aslan kükredi.",
-        "phonetic": "/rɔːr/"
-    },
-    {
-        "id": 66,
-        "word": "rodent",
-        "translation": "kemirgen",
-        "example": "Mice are rodents.",
-        "exampleTr": "Fareler kemirgendir.",
-        "phonetic": "/ˈroʊdnt/"
-    },
-    {
-        "id": 67,
-        "word": "safari",
-        "translation": "safari",
-        "example": "We went on a safari.",
-        "exampleTr": "Safariye gittik.",
-        "phonetic": "/səˈfɑːri/"
-    },
-    {
-        "id": 68,
-        "word": "scale",
-        "translation": "pul (balık/sürüngen)",
-        "example": "Fish have scales.",
-        "exampleTr": "Balıkların pulları var.",
-        "phonetic": "/skeɪl/"
-    },
-    {
-        "id": 69,
-        "word": "scavenger",
-        "translation": "leş yiyen / çöpçü",
-        "example": "Vultures are scavengers.",
-        "exampleTr": "Akbabalar leş yiyendir.",
-        "phonetic": "/ˈskævɪndʒər/"
-    },
-    {
-        "id": 70,
-        "word": "shelter",
-        "translation": "barınak / sığınak",
-        "example": "Adopt from a shelter.",
-        "exampleTr": "Barınaktan sahiplen.",
-        "phonetic": "/ˈʃeltər/"
-    },
-    {
-        "id": 71,
-        "word": "snout",
-        "translation": "burun (hayvan)",
-        "example": "The pig has a flat snout.",
-        "exampleTr": "Domuzun düz burnu var.",
-        "phonetic": "/snaʊt/"
-    },
-    {
-        "id": 72,
-        "word": "species",
-        "translation": "tür",
-        "example": "Many species are endangered.",
-        "exampleTr": "Birçok tür tehlike altında.",
-        "phonetic": "/ˈspiːʃiːz/"
-    },
-    {
-        "id": 73,
-        "word": "squirrel",
-        "translation": "sincap",
-        "example": "Squirrels collect nuts.",
-        "exampleTr": "Sincaplar fındık toplar.",
-        "phonetic": "/ˈskwɜːrəl/"
-    },
-    {
-        "id": 74,
-        "word": "stallion",
-        "translation": "aygır",
-        "example": "The stallion galloped fast.",
-        "exampleTr": "Aygır hızla dörtnala koştu.",
-        "phonetic": "/ˈstæliən/"
-    },
-    {
-        "id": 75,
-        "word": "sting",
-        "translation": "sokmak (arı)",
-        "example": "The bee stung me.",
-        "exampleTr": "Arı beni soktu.",
-        "phonetic": "/stɪŋ/"
-    },
-    {
-        "id": 76,
-        "word": "swarm",
-        "translation": "sürü (arı/böcek)",
-        "example": "A swarm of bees.",
-        "exampleTr": "Bir arı sürüsü.",
-        "phonetic": "/swɔːrm/"
-    },
-    {
-        "id": 77,
-        "word": "tail",
-        "translation": "kuyruk",
-        "example": "The dog wagged its tail.",
-        "exampleTr": "Köpek kuyruğunu salladı.",
-        "phonetic": "/teɪl/"
-    },
-    {
-        "id": 78,
-        "word": "tame",
-        "translation": "evcil / ehlileştirmek",
-        "example": "The parrot is tame.",
-        "exampleTr": "Papağan evcil.",
-        "phonetic": "/teɪm/"
-    },
-    {
-        "id": 79,
-        "word": "territory",
-        "translation": "bölge / toprak",
-        "example": "The wolf guards its territory.",
-        "exampleTr": "Kurt bölgesini korur.",
-        "phonetic": "/ˈterɪtɔːri/"
-    },
-    {
-        "id": 80,
-        "word": "tiger",
-        "translation": "kaplan",
-        "example": "Tigers are solitary animals.",
-        "exampleTr": "Kaplanlar yalnız hayvanlardır.",
-        "phonetic": "/ˈtaɪɡər/"
-    },
-    {
-        "id": 81,
-        "word": "tortoise",
-        "translation": "kaplumbağa (kara)",
-        "example": "The tortoise moves slowly.",
-        "exampleTr": "Kaplumbağa yavaş hareket eder.",
-        "phonetic": "/ˈtɔːrtəs/"
-    },
-    {
-        "id": 82,
-        "word": "trot",
-        "translation": "hafif koşmak (at)",
-        "example": "The horse trotted.",
-        "exampleTr": "At hafifçe koştu.",
-        "phonetic": "/trɒt/"
-    },
-    {
-        "id": 83,
-        "word": "trunk",
-        "translation": "hortum (fil)",
-        "example": "Elephants use their trunk.",
-        "exampleTr": "Filler hortumlarını kullanır.",
-        "phonetic": "/trʌŋk/"
-    },
-    {
-        "id": 84,
-        "word": "tusk",
-        "translation": "fil dişi",
-        "example": "Elephants have tusks.",
-        "exampleTr": "Fillerin dişleri var.",
-        "phonetic": "/tʌsk/"
-    },
-    {
-        "id": 85,
-        "word": "venom",
-        "translation": "zehir",
-        "example": "Snake venom can be deadly.",
-        "exampleTr": "Yılan zehri ölümcül olabilir.",
-        "phonetic": "/ˈvenəm/"
-    },
-    {
-        "id": 86,
-        "word": "vertebrate",
-        "translation": "omurgalı",
-        "example": "Humans are vertebrates.",
-        "exampleTr": "İnsanlar omurgalıdır.",
-        "phonetic": "/ˈvɜːrtɪbrət/"
-    },
-    {
-        "id": 87,
-        "word": "veterinarian",
-        "translation": "veteriner",
-        "example": "Take the dog to the vet.",
-        "exampleTr": "Köpeği veterinere götür.",
-        "phonetic": "/ˌvetərɪˈneriən/"
-    },
-    {
-        "id": 88,
-        "word": "vulture",
-        "translation": "akbaba",
-        "example": "Vultures circle above.",
-        "exampleTr": "Akbabalar tepede döner.",
-        "phonetic": "/ˈvʌltʃər/"
-    },
-    {
-        "id": 89,
-        "word": "whale",
-        "translation": "balina",
-        "example": "Blue whales are enormous.",
-        "exampleTr": "Mavi balinalar devasa.",
-        "phonetic": "/weɪl/"
-    },
-    {
-        "id": 90,
-        "word": "whisker",
-        "translation": "bıyık (hayvan)",
-        "example": "Cats have whiskers.",
-        "exampleTr": "Kedilerin bıyıkları var.",
-        "phonetic": "/ˈwɪskər/"
-    },
-    {
-        "id": 91,
-        "word": "wild",
-        "translation": "vahşi / yabani",
-        "example": "Wild animals live in the forest.",
-        "exampleTr": "Vahşi hayvanlar ormanda yaşar.",
-        "phonetic": "/waɪld/"
-    },
-    {
-        "id": 92,
-        "word": "wing",
-        "translation": "kanat",
-        "example": "Birds have wings.",
-        "exampleTr": "Kuşların kanatları var.",
-        "phonetic": "/wɪŋ/"
-    },
-    {
-        "id": 93,
-        "word": "worm",
-        "translation": "solucan",
-        "example": "Birds eat worms.",
-        "exampleTr": "Kuşlar solucan yer.",
-        "phonetic": "/wɜːrm/"
-    },
-    {
-        "id": 94,
-        "word": "zebra",
-        "translation": "zebra",
-        "example": "Zebras have stripes.",
-        "exampleTr": "Zebraların çizgileri var.",
-        "phonetic": "/ˈziːbrə/"
-    },
-    {
-        "id": 95,
-        "word": "zoo",
-        "translation": "hayvanat bahçesi",
-        "example": "We visited the zoo.",
-        "exampleTr": "Hayvanat bahçesini ziyaret ettik.",
-        "phonetic": "/zuː/"
-    },
-    {
-        "id": 96,
-        "word": "aquatic",
-        "translation": "suda yaşayan",
-        "example": "Dolphins are aquatic mammals.",
-        "exampleTr": "Yunuslar suda yaşayan memeliler.",
-        "phonetic": "/əˈkwætɪk/"
-    },
-    {
-        "id": 97,
-        "word": "caterpillar",
-        "translation": "tırtıl",
-        "example": "Caterpillars become butterflies.",
-        "exampleTr": "Tırtıllar kelebek olur.",
-        "phonetic": "/ˈkætərpɪlər/"
-    },
-    {
-        "id": 98,
-        "word": "dolphin",
-        "translation": "yunus",
-        "example": "Dolphins are intelligent.",
-        "exampleTr": "Yunuslar zekidir.",
-        "phonetic": "/ˈdɒlfɪn/"
-    },
-    {
-        "id": 99,
-        "word": "gorilla",
-        "translation": "goril",
-        "example": "Gorillas are gentle giants.",
-        "exampleTr": "Goriller nazik devlerdir.",
-        "phonetic": "/ɡəˈrɪlə/"
-    },
-    {
-        "id": 100,
-        "word": "parrot",
-        "translation": "papağan",
-        "example": "The parrot can talk.",
-        "exampleTr": "Papağan konuşabiliyor.",
-        "phonetic": "/ˈpærət/"
-    }
+  {
+    "id": 1,
+    "word": "time",
+    "translation": "zaman",
+    "example": "What time is it?",
+    "exampleTr": "Saat kaç?",
+    "phonetic": "/taɪm/",
+    "level": "a1"
+  },
+  {
+    "id": 2,
+    "word": "hour",
+    "translation": "saat",
+    "example": "It takes one hour.",
+    "exampleTr": "Bir saat sürüyor.",
+    "phonetic": "/aʊər/",
+    "level": "a1"
+  },
+  {
+    "id": 3,
+    "word": "minute",
+    "translation": "dakika",
+    "example": "Wait a minute.",
+    "exampleTr": "Bir dakika bekle.",
+    "phonetic": "/ˈmɪnɪt/",
+    "level": "a1"
+  },
+  {
+    "id": 4,
+    "word": "second",
+    "translation": "saniye",
+    "example": "I'll be there in a second.",
+    "exampleTr": "Bir saniyede orada olacağım.",
+    "phonetic": "/ˈsekənd/",
+    "level": "a1"
+  },
+  {
+    "id": 5,
+    "word": "day",
+    "translation": "gün",
+    "example": "Today is a beautiful day.",
+    "exampleTr": "Bugün güzel bir gün.",
+    "phonetic": "/deɪ/",
+    "level": "a1"
+  },
+  {
+    "id": 6,
+    "word": "week",
+    "translation": "hafta",
+    "example": "I'll see you next week.",
+    "exampleTr": "Gelecek hafta görüşürüz.",
+    "phonetic": "/wiːk/",
+    "level": "a1"
+  },
+  {
+    "id": 7,
+    "word": "month",
+    "translation": "ay",
+    "example": "This month is very hot.",
+    "exampleTr": "Bu ay çok sıcak.",
+    "phonetic": "/mʌnθ/",
+    "level": "a1"
+  },
+  {
+    "id": 8,
+    "word": "year",
+    "translation": "yıl",
+    "example": "Happy new year!",
+    "exampleTr": "Yeni yılın kutlu olsun!",
+    "phonetic": "/jɪər/",
+    "level": "a1"
+  },
+  {
+    "id": 9,
+    "word": "today",
+    "translation": "bugün",
+    "example": "I have a lot of work today.",
+    "exampleTr": "Bugün çok işim var.",
+    "phonetic": "/təˈdeɪ/",
+    "level": "a1"
+  },
+  {
+    "id": 10,
+    "word": "yesterday",
+    "translation": "dün",
+    "example": "I went to the cinema yesterday.",
+    "exampleTr": "Dün sinemaya gittim.",
+    "phonetic": "/ˈjestərdeɪ/",
+    "level": "a1"
+  },
+  {
+    "id": 11,
+    "word": "tomorrow",
+    "translation": "yarın",
+    "example": "I'll see you tomorrow.",
+    "exampleTr": "Yarın görüşürüz.",
+    "phonetic": "/təˈmɒroʊ/",
+    "level": "a1"
+  },
+  {
+    "id": 12,
+    "word": "morning",
+    "translation": "sabah",
+    "example": "I exercise in the morning.",
+    "exampleTr": "Sabah egzersiz yapıyorum.",
+    "phonetic": "/ˈmɔːrnɪŋ/",
+    "level": "a1"
+  },
+  {
+    "id": 13,
+    "word": "afternoon",
+    "translation": "öğleden sonra",
+    "example": "I'll call you this afternoon.",
+    "exampleTr": "Bu öğleden sonra seni arayacağım.",
+    "phonetic": "/ˌæftərˈnuːn/",
+    "level": "a1"
+  },
+  {
+    "id": 14,
+    "word": "evening",
+    "translation": "akşam",
+    "example": "I usually eat dinner in the evening.",
+    "exampleTr": "Genellikle akşam yemeği yerim.",
+    "phonetic": "/ˈiːvnɪŋ/",
+    "level": "a1"
+  },
+  {
+    "id": 15,
+    "word": "night",
+    "translation": "gece",
+    "example": "I sleep at night.",
+    "exampleTr": "Geceleri uyuyorum.",
+    "phonetic": "/naɪt/",
+    "level": "a1"
+  },
+  {
+    "id": 16,
+    "word": "Monday",
+    "translation": "Pazartesi",
+    "example": "I work on Mondays.",
+    "exampleTr": "Pazartesi günleri çalışıyorum.",
+    "phonetic": "/ˈmʌndeɪ/",
+    "level": "a1"
+  },
+  {
+    "id": 17,
+    "word": "Tuesday",
+    "translation": "Salı",
+    "example": "Let's meet on Tuesday.",
+    "exampleTr": "Salı günü buluşalım.",
+    "phonetic": "/ˈtjuːzdeɪ/",
+    "level": "a1"
+  },
+  {
+    "id": 18,
+    "word": "Wednesday",
+    "translation": "Çarşamba",
+    "example": "I have a meeting on Wednesday.",
+    "exampleTr": "Çarşamba günü toplantım var.",
+    "phonetic": "/ˈwenzdeɪ/",
+    "level": "a1"
+  },
+  {
+    "id": 19,
+    "word": "Thursday",
+    "translation": "Perşembe",
+    "example": "Thursday is my favorite day.",
+    "exampleTr": "Perşembe en sevdiğim gün.",
+    "phonetic": "/ˈθɜːrzdeɪ/",
+    "level": "a1"
+  },
+  {
+    "id": 20,
+    "word": "Friday",
+    "translation": "Cuma",
+    "example": "I finish work early on Friday.",
+    "exampleTr": "Cuma günü işi erken bitiriyorum.",
+    "phonetic": "/ˈfraɪdeɪ/",
+    "level": "a1"
+  },
+  {
+    "id": 21,
+    "word": "Saturday",
+    "translation": "Cumartesi",
+    "example": "I go shopping on Saturday.",
+    "exampleTr": "Cumartesi günleri alışverişe gidiyorum.",
+    "phonetic": "/ˈsætərdeɪ/",
+    "level": "a1"
+  },
+  {
+    "id": 22,
+    "word": "Sunday",
+    "translation": "Pazar",
+    "example": "I relax on Sunday.",
+    "exampleTr": "Pazar günü dinleniyorum.",
+    "phonetic": "/ˈsʌndeɪ/",
+    "level": "a1"
+  },
+  {
+    "id": 23,
+    "word": "January",
+    "translation": "Ocak",
+    "example": "January is the first month.",
+    "exampleTr": "Ocak ilk ay.",
+    "phonetic": "/ˈdʒænjuəri/",
+    "level": "a1"
+  },
+  {
+    "id": 24,
+    "word": "February",
+    "translation": "Şubat",
+    "example": "February is cold.",
+    "exampleTr": "Şubat ayı soğuk.",
+    "phonetic": "/ˈfebruəri/",
+    "level": "a1"
+  },
+  {
+    "id": 25,
+    "word": "March",
+    "translation": "Mart",
+    "example": "Spring starts in March.",
+    "exampleTr": "İlkbahar Mart'ta başlar.",
+    "phonetic": "/mɑːrtʃ/",
+    "level": "a1"
+  },
+  {
+    "id": 26,
+    "word": "April",
+    "translation": "Nisan",
+    "example": "April showers bring May flowers.",
+    "exampleTr": "Nisan yağmurları Mayıs çiçeklerini getirir.",
+    "phonetic": "/ˈeɪprəl/",
+    "level": "a1"
+  },
+  {
+    "id": 27,
+    "word": "May",
+    "translation": "Mayıs",
+    "example": "May is a beautiful month.",
+    "exampleTr": "Mayıs güzel bir ay.",
+    "phonetic": "/meɪ/",
+    "level": "a1"
+  },
+  {
+    "id": 28,
+    "word": "June",
+    "translation": "Haziran",
+    "example": "School ends in June.",
+    "exampleTr": "Okul Haziran'da bitiyor.",
+    "phonetic": "/dʒuːn/",
+    "level": "a1"
+  },
+  {
+    "id": 29,
+    "word": "July",
+    "translation": "Temmuz",
+    "example": "It's very hot in July.",
+    "exampleTr": "Temmuz'da çok sıcak.",
+    "phonetic": "/dʒuˈlaɪ/",
+    "level": "a1"
+  },
+  {
+    "id": 30,
+    "word": "August",
+    "translation": "Ağustos",
+    "example": "I go on vacation in August.",
+    "exampleTr": "Ağustos'ta tatile gidiyorum.",
+    "phonetic": "/ˈɔːɡəst/",
+    "level": "a1"
+  },
+  {
+    "id": 31,
+    "word": "September",
+    "translation": "Eylül",
+    "example": "School starts in September.",
+    "exampleTr": "Okul Eylül'de başlıyor.",
+    "phonetic": "/sepˈtembər/",
+    "level": "a1"
+  },
+  {
+    "id": 32,
+    "word": "October",
+    "translation": "Ekim",
+    "example": "October is autumn.",
+    "exampleTr": "Ekim ayı sonbahar.",
+    "phonetic": "/ɒkˈtoʊbər/",
+    "level": "a1"
+  },
+  {
+    "id": 33,
+    "word": "November",
+    "translation": "Kasım",
+    "example": "November is getting cold.",
+    "exampleTr": "Kasım soğumaya başlıyor.",
+    "phonetic": "/noˈvembər/",
+    "level": "a1"
+  },
+  {
+    "id": 34,
+    "word": "December",
+    "translation": "Aralık",
+    "example": "Christmas is in December.",
+    "exampleTr": "Noel Aralık'ta.",
+    "phonetic": "/dɪˈsembər/",
+    "level": "a1"
+  },
+  {
+    "id": 35,
+    "word": "one",
+    "translation": "bir",
+    "example": "I have one brother.",
+    "exampleTr": "Bir erkek kardeşim var.",
+    "phonetic": "/wʌn/",
+    "level": "a1"
+  },
+  {
+    "id": 36,
+    "word": "two",
+    "translation": "iki",
+    "example": "I have two cats.",
+    "exampleTr": "İki kedim var.",
+    "phonetic": "/tuː/",
+    "level": "a1"
+  },
+  {
+    "id": 37,
+    "word": "three",
+    "translation": "üç",
+    "example": "There are three people in my family.",
+    "exampleTr": "Ailemde üç kişi var.",
+    "phonetic": "/θriː/",
+    "level": "a1"
+  },
+  {
+    "id": 38,
+    "word": "four",
+    "translation": "dört",
+    "example": "I work four days a week.",
+    "exampleTr": "Haftada dört gün çalışıyorum.",
+    "phonetic": "/fɔːr/",
+    "level": "a1"
+  },
+  {
+    "id": 39,
+    "word": "five",
+    "translation": "beş",
+    "example": "I wake up at five in the morning.",
+    "exampleTr": "Sabah beşte uyanıyorum.",
+    "phonetic": "/faɪv/",
+    "level": "a1"
+  },
+  {
+    "id": 40,
+    "word": "ten",
+    "translation": "on",
+    "example": "I count to ten.",
+    "exampleTr": "On'a kadar sayıyorum.",
+    "phonetic": "/ten/",
+    "level": "a1"
+  },
+  {
+    "id": 41,
+    "word": "hundred",
+    "translation": "yüz",
+    "example": "One hundred is a lot.",
+    "exampleTr": "Yüz çok fazla.",
+    "phonetic": "/ˈhʌndrəd/",
+    "level": "a1"
+  },
+  {
+    "id": 42,
+    "word": "thousand",
+    "translation": "bin",
+    "example": "There are a thousand people here.",
+    "exampleTr": "Burada bin kişi var.",
+    "phonetic": "/ˈθaʊzənd/",
+    "level": "a1"
+  },
+  {
+    "id": 43,
+    "word": "million",
+    "translation": "milyon",
+    "example": "The city has one million people.",
+    "exampleTr": "Şehrin bir milyon nüfusu var.",
+    "phonetic": "/ˈmɪljən/",
+    "level": "a1"
+  },
+  {
+    "id": 44,
+    "word": "half",
+    "translation": "yarım",
+    "example": "Give me half of it.",
+    "exampleTr": "Yarısını ver.",
+    "phonetic": "/hæf/",
+    "level": "a1"
+  },
+  {
+    "id": 45,
+    "word": "quarter",
+    "translation": "çeyrek",
+    "example": "It's a quarter past three.",
+    "exampleTr": "Üçe çeyrek var.",
+    "phonetic": "/ˈkwɔːrtər/",
+    "level": "a1"
+  },
+  {
+    "id": 46,
+    "word": "meter",
+    "translation": "metre",
+    "example": "The road is one hundred meters long.",
+    "exampleTr": "Yol yüz metre uzun.",
+    "phonetic": "/ˈmiːtər/",
+    "level": "a1"
+  },
+  {
+    "id": 47,
+    "word": "kilometer",
+    "translation": "kilometre",
+    "example": "It's ten kilometers away.",
+    "exampleTr": "On kilometre uzakta.",
+    "phonetic": "/kɪˈlɒmɪtər/",
+    "level": "a2"
+  },
+  {
+    "id": 48,
+    "word": "kilogram",
+    "translation": "kilogram",
+    "example": "I weigh seventy kilograms.",
+    "exampleTr": "Yetmiş kilogram ağırlığım var.",
+    "phonetic": "/ˈkɪləɡræm/",
+    "level": "a2"
+  },
+  {
+    "id": 49,
+    "word": "liter",
+    "translation": "litre",
+    "example": "I need two liters of water.",
+    "exampleTr": "İki litre suya ihtiyacım var.",
+    "phonetic": "/ˈliːtər/",
+    "level": "a2"
+  },
+  {
+    "id": 50,
+    "word": "gram",
+    "translation": "gram",
+    "example": "This is two hundred grams.",
+    "exampleTr": "Bu iki yüz gram.",
+    "phonetic": "/ɡræm/",
+    "level": "a2"
+  }
 ]
