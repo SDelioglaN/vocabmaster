@@ -2,28 +2,37 @@
    CSS Reset & Variables
    ======================================== */
 :root {
-    /* Colors — Deep Ocean + Warm Accents */
-    --bg-primary: #080c14;
-    --bg-secondary: #0d1520;
-    --bg-card: rgba(13, 22, 36, 0.85);
-    --bg-glass: rgba(255, 255, 255, 0.04);
+    /* Modern Dark Theme - Neon */
+    --bg-primary: #0a0a0f;
+    --bg-secondary: #12121a;
+    --bg-card: rgba(25, 25, 40, 0.95);
+    --bg-glass: rgba(255, 255, 255, 0.05);
+    --bg-glass-hover: rgba(255, 255, 255, 0.08);
 
-    --text-primary: #f0f4f8;
-    --text-secondary: #94a3b8;
-    --text-muted: #4a5568;
+    --text-primary: #ffffff;
+    --text-secondary: #b0b0c0;
+    --text-muted: #606070;
 
-    --accent-primary: #0ea5e9;
-    --accent-secondary: #06b6d4;
-    --accent-gradient: linear-gradient(135deg, #0ea5e9 0%, #10b981 100%);
-    --accent-warm: #f59e0b;
-    --accent-orange: #f97316;
+    /* Neon Accent Colors */
+    --neon-green: #00ff88;
+    --neon-cyan: #00f0ff;
+    --neon-orange: #ff6b35;
+    --neon-purple: #a855f7;
+    --neon-pink: #ff0080;
+    --neon-blue: #0080ff;
+    
+    --accent-primary: #00f0ff;
+    --accent-secondary: #00ff88;
+    --accent-gradient: linear-gradient(135deg, #00f0ff 0%, #00ff88 100%);
+    --accent-warm: #ff6b35;
+    --accent-orange: #ff6b35;
 
-    --success: #10b981;
-    --success-glow: rgba(16, 185, 129, 0.3);
-    --warning: #f59e0b;
-    --warning-glow: rgba(245, 158, 11, 0.3);
-    --error: #dc2626;
-    --error-glow: rgba(220, 38, 38, 0.3);
+    --success: #00ff88;
+    --success-glow: rgba(0, 255, 136, 0.3);
+    --warning: #ff6b35;
+    --warning-glow: rgba(255, 107, 53, 0.3);
+    --error: #ff0080;
+    --error-glow: rgba(255, 0, 128, 0.3);
 
     /* Category Colors */
     --cat-blue: #1d4ed8;
