@@ -95,6 +95,29 @@ const App = {
         });
 
         document.addEventListener('keydown', (e) => this.handleKeyboard(e));
+
+        // Ana Sekme Navigasyonu
+        document.querySelectorAll('.main-tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                const targetTab = tab.dataset.tab;
+                if (!targetTab) return;
+
+                // Tüm sekme butonlarından active sınıfını kaldır
+                document.querySelectorAll('.main-tab').forEach(t => t.classList.remove('active'));
+                tab.classList.add('active');
+
+                // Tüm panellerden active kaldır, hedefi göster
+                document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+                const targetPanel = document.getElementById(targetTab + 'Tab');
+                if (targetPanel) targetPanel.classList.add('active');
+
+                // İlk açılışta modülleri tetikle
+                if (targetTab === 'stats' && typeof Stats !== 'undefined') Stats.render();
+                if (targetTab === 'patterns' && typeof Patterns !== 'undefined') Patterns.init();
+                if (targetTab === 'wordlist' && typeof WordList !== 'undefined') WordList.applyFilters();
+                if (targetTab === 'dictionary' && typeof Dictionary !== 'undefined') Dictionary.init();
+            });
+        });
     },
 
     async startSession() {
