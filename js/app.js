@@ -17,8 +17,8 @@ const App = {
             await Database.init();
             
             // 2. Tohumlama (Seeding) işleminin bittiğinden emin ol
-            if (typeof WordList !== 'undefined' && WordList.syncDatabase) {
-                await WordList.syncDatabase();
+            if (typeof WordList !== 'undefined' && WordList.init) {
+                await WordList.init();
             }
 
             // Ses motorunu başlat

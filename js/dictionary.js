@@ -27,6 +27,7 @@ const Dictionary = {
             audio: apiData.phonetics.find(p => p.audio)?.audio || '',
             example: definition ? (definition.example || "No example found.") : "",
             level: "custom", // Kullanıcının eklediği kelimeler her zaman 'custom' etiketini alır
+            category: "custom", // Kategoriyi de filtreler için custom yap
             status: "new"
         };
     },
