@@ -1,434 +1,191 @@
-// matching.js - Eşleştirme Oyunu (Matching Game) logic
+// js/matching.js - Asenkron ve Vizyoner Eşleştirme Motoru
 
 const MatchingGame = {
-    // State
-    cards: [],
-    flippedCards: [],
-    matchedPairs: 0,
-    totalPairs: 6,
-    moves: 0,
-    timer: null,
-    seconds: 0,
-    isLocked: false,
-    gameActive: false,
-    selectedWords: [],
+    cards: [], flippedCards: [], matchedPairs: 0, totalPairs: 6,
+    moves: 0, timer: null, seconds: 0, isLocked: false, gameActive: false,
 
-    /**
-     * Initialize the matching game
-     */
     init() {
-        this.setupEventListeners();
+        document.getElementById('matchingStartBtn')?.addEventListener('click', () => this.startGame());
+        document.getElementById('matchingRestartBtn')?.addEventListener('click', () => this.startGame());
     },
 
-    /**
-     * Setup event listeners
-     */
-    setupEventListeners() {
-        const startBtn = document.getElementById('matchingStartBtn');
-        if (startBtn) {
-            startBtn.addEventListener('click', () => this.startGame());
-        }
+    async startGame() {
+        this.flippedCards = []; this.matchedPairs = 0; this.moves = 0;
+        this.seconds = 0; this.isLocked = false; this.gameActive = true;
+        this.updateStats();
+        this.startTimer();
 
-        const restartBtn = document.getElementById('matchingRestartBtn');
-        if (restartBtn) {
-            restartBtn.addEventListener('click', () => this.startGame());
-        }
-    },
+        // Geleneksel RAM şişirmesi yok. Verileri doğrudan vizyoner veritabanından (IndexedDB) çekiyoruz.
+        const level = await Database.getSetting('level', 'all');
+        const category = await Database.getSetting('category', 'all');
+        const allWords = await Database._getAll('words') || [];
 
-    /**
-     * Start a new matching game
-     */
-    startGame() {
-        // Reset state
-        this.flippedCards = [];
-        this.matchedPairs = 0;
-        this.moves = 0;
-        this.seconds = 0;
-        this.isLocked = false;
-        this.gameActive = true;
+        let pool = allWords;
+        if (level !== 'all') pool = pool.filter(w => w.level === level);
+        if (category !== 'all') pool = pool.filter(w => w.category === category);
 
-        // Get words from App
-        const words = this.getGameWords();
-        if (words.length < this.totalPairs) {
+        if (pool.length < this.totalPairs) {
             this.showNotEnoughWords();
             return;
         }
 
-        this.selectedWords = words.slice(0, this.totalPairs);
+        // Fisher-Yates Karıştırma Algoritması ile 6 rastgele kelime seç
+        const shuffledPool = pool.sort(() => 0.5 - Math.random());
+        const selectedWords = shuffledPool.slice(0, this.totalPairs);
 
-        // Create card pairs (English + Turkish)
+        // Kartları oluştur (İngilizce ve Türkçe çiftler)
         this.cards = [];
-        this.selectedWords.forEach((word, index) => {
-            // English card
-            this.cards.push({
-                id: index,
-                pairId: index,
-                text: word.word,
-                type: 'english',
-                matched: false,
-                wordData: word
-            });
-            // Turkish card
-            this.cards.push({
-                id: index + this.totalPairs,
-                pairId: index,
-                text: word.translation,
-                type: 'turkish',
-                matched: false,
-                wordData: word
-            });
+        selectedWords.forEach(word => {
+            this.cards.push({ id: word.id, text: word.word, type: 'en', matchId: word.id });
+            this.cards.push({ id: word.id + '_tr', text: word.translation, type: 'tr', matchId: word.id });
         });
 
-        // Shuffle cards
-        this.shuffleCards();
-
-        // Render game board
+        this.cards.sort(() => 0.5 - Math.random());
         this.renderBoard();
-
-        // Start timer
-        this.startTimer();
-
-        // Update UI
-        this.updateStats();
-
-        // Hide result, show board
-        const result = document.getElementById('matchingResult');
-        if (result) result.style.display = 'none';
-
-        const board = document.getElementById('matchingBoard');
-        if (board) board.style.display = 'grid';
-
-        const startBtn = document.getElementById('matchingStartBtn');
-        if (startBtn) startBtn.style.display = 'none';
-
-        const gameStats = document.getElementById('matchingGameStats');
-        if (gameStats) gameStats.style.display = 'flex';
+        
+        const overlay = document.getElementById('matchingOverlay');
+        if (overlay) overlay.style.display = 'none';
     },
 
-    /**
-     * Get words for the game from App's loaded words
-     */
-    getGameWords() {
-        if (!App || !App.words || App.words.length === 0) {
-            return [];
-        }
-        // Shuffle and pick words
-        const shuffled = [...App.words].sort(() => Math.random() - 0.5);
-        return shuffled.slice(0, this.totalPairs);
-    },
-
-    /**
-     * Shuffle cards using Fisher-Yates algorithm
-     */
-    shuffleCards() {
-        for (let i = this.cards.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [this.cards[i], this.cards[j]] = [this.cards[j], this.cards[i]];
-        }
-    },
-
-    /**
-     * Render the game board
-     */
     renderBoard() {
         const board = document.getElementById('matchingBoard');
         if (!board) return;
-
         board.innerHTML = '';
+        board.style.display = 'grid';
 
         this.cards.forEach((card, index) => {
             const cardEl = document.createElement('div');
-            cardEl.className = `matching-card ${card.type}`;
+            cardEl.className = 'matching-card';
             cardEl.dataset.index = index;
+            cardEl.dataset.matchId = card.matchId;
+
             cardEl.innerHTML = `
                 <div class="matching-card-inner">
-                    <div class="matching-card-front">
-                        <i class="fas ${card.type === 'english' ? 'fa-flag-usa' : 'fa-moon'}"></i>
-                    </div>
-                    <div class="matching-card-back">
-                        <span class="matching-card-label">${card.type === 'english' ? 'EN' : 'TR'}</span>
-                        <span class="matching-card-text">${card.text}</span>
-                    </div>
+                    <div class="matching-card-front"><i class="fas fa-question"></i></div>
+                    <div class="matching-card-back">${card.text}</div>
                 </div>
             `;
-
-            cardEl.addEventListener('click', () => this.selectCard(index, cardEl));
+            cardEl.addEventListener('click', () => this.flipCard(index));
             board.appendChild(cardEl);
         });
     },
 
-    /**
-     * Handle card selection
-     */
-    selectCard(index, element) {
-        // Guards
-        if (this.isLocked) return;
-        if (!this.gameActive) return;
-        if (this.cards[index].matched) return;
-        if (this.flippedCards.length >= 2) return;
-        if (this.flippedCards.some(fc => fc.index === index)) return;
+    flipCard(index) {
+        if (!this.gameActive || this.isLocked) return;
+        const cardEl = document.querySelector(`.matching-card[data-index="${index}"]`);
+        if (cardEl.classList.contains('flipped') || cardEl.classList.contains('matched')) return;
 
-        // Flip card
-        element.classList.add('flipped');
-        this.flippedCards.push({ index, element });
+        cardEl.classList.add('flipped');
+        this.flippedCards.push({ index, element: cardEl, matchId: this.cards[index].matchId });
 
-        // Check if two cards are flipped
         if (this.flippedCards.length === 2) {
             this.moves++;
-            this.updateStats();
+            const movesEl = document.getElementById('matchingMoves');
+            if (movesEl) movesEl.textContent = this.moves;
             this.checkMatch();
         }
     },
 
-    /**
-     * Check if two flipped cards match
-     */
     checkMatch() {
         this.isLocked = true;
+        const [card1, card2] = this.flippedCards;
 
-        const [first, second] = this.flippedCards;
-        const card1 = this.cards[first.index];
-        const card2 = this.cards[second.index];
-
-        // Cards match if they have the same pairId but different types
-        const isMatch = card1.pairId === card2.pairId && card1.type !== card2.type;
-
-        if (isMatch) {
-            // Match found!
-            card1.matched = true;
-            card2.matched = true;
-            this.matchedPairs++;
-
-            // Animate match
+        if (card1.matchId === card2.matchId) {
             setTimeout(() => {
-                first.element.classList.add('matched');
-                second.element.classList.add('matched');
-
-                // Add sparkle effect
-                this.addSparkle(first.element);
-                this.addSparkle(second.element);
-
+                card1.element.classList.add('matched');
+                card2.element.classList.add('matched');
+                this.matchedPairs++;
                 this.flippedCards = [];
                 this.isLocked = false;
 
-                // Check if game is complete
-                if (this.matchedPairs === this.totalPairs) {
-                    this.endGame();
-                }
-            }, 400);
+                if (this.matchedPairs === this.totalPairs) this.endGame();
+            }, 500);
         } else {
-            // No match - shake and flip back
             setTimeout(() => {
-                first.element.classList.add('shake');
-                second.element.classList.add('shake');
-
-                setTimeout(() => {
-                    first.element.classList.remove('flipped', 'shake');
-                    second.element.classList.remove('flipped', 'shake');
-                    this.flippedCards = [];
-                    this.isLocked = false;
-                }, 600);
-            }, 800);
+                card1.element.classList.remove('flipped');
+                card2.element.classList.remove('flipped');
+                this.flippedCards = [];
+                this.isLocked = false;
+            }, 1000);
         }
     },
 
-    /**
-     * Add sparkle effect to matched card
-     */
-    addSparkle(element) {
-        const sparkle = document.createElement('div');
-        sparkle.className = 'matching-sparkle';
-        sparkle.innerHTML = '✨';
-        element.appendChild(sparkle);
-        setTimeout(() => sparkle.remove(), 800);
-    },
-
-    /**
-     * Start the timer
-     */
     startTimer() {
-        this.stopTimer();
-        this.seconds = 0;
+        clearInterval(this.timer);
+        const timerEl = document.getElementById('matchingTimer');
+        if(timerEl) timerEl.textContent = '0:00';
         this.timer = setInterval(() => {
             this.seconds++;
-            this.updateTimerDisplay();
+            const mins = Math.floor(this.seconds / 60);
+            const secs = this.seconds % 60;
+            if(timerEl) timerEl.textContent = `${mins}:${secs.toString().padStart(2, '0')}`;
         }, 1000);
     },
 
-    /**
-     * Stop the timer
-     */
-    stopTimer() {
-        if (this.timer) {
-            clearInterval(this.timer);
-            this.timer = null;
-        }
-    },
-
-    /**
-     * Update timer display
-     */
-    updateTimerDisplay() {
-        const timerEl = document.getElementById('matchingTimer');
-        if (timerEl) {
-            const mins = Math.floor(this.seconds / 60);
-            const secs = this.seconds % 60;
-            timerEl.textContent = `${mins}:${secs.toString().padStart(2, '0')}`;
-        }
-    },
-
-    /**
-     * Update move counter and pairs display
-     */
-    updateStats() {
-        const movesEl = document.getElementById('matchingMoves');
-        if (movesEl) {
-            movesEl.textContent = this.moves;
-        }
-
-        const pairsEl = document.getElementById('matchingPairs');
-        if (pairsEl) {
-            pairsEl.textContent = `${this.matchedPairs}/${this.totalPairs}`;
-        }
-    },
-
-    /**
-     * End the game
-     */
-    endGame() {
+    async endGame() {
         this.gameActive = false;
-        this.stopTimer();
+        clearInterval(this.timer);
 
-        // Calculate XP based on performance
-        const xp = this.calculateXP();
-
-        // Add XP
-        Storage.addXP(xp);
-        Storage.updateStreak();
-
-        // Show result
-        this.showResult(xp);
-
-        // Update main UI
-        App.updateUI();
-    },
-
-    /**
-     * Calculate XP reward based on moves and time
-     */
-    calculateXP() {
-        const perfectMoves = this.totalPairs; // Minimum possible moves
-        const moveRatio = perfectMoves / Math.max(this.moves, perfectMoves);
-        const timeBonus = Math.max(0, 60 - this.seconds) / 60; // Bonus for finishing under 60s
-
-        // Base XP: 50, scaled by performance
-        let xp = Math.round(50 * moveRatio + 20 * timeBonus);
-
-        // Minimum 10 XP
-        return Math.max(10, xp);
-    },
-
-    /**
-     * Show game result
-     */
-    showResult(xp) {
-        const result = document.getElementById('matchingResult');
-        if (!result) return;
-
-        const stars = this.getStarRating();
-        const mins = Math.floor(this.seconds / 60);
-        const secs = this.seconds % 60;
-        const timeStr = `${mins}:${secs.toString().padStart(2, '0')}`;
-
-        result.innerHTML = `
-            <div class="matching-result-content">
-                <div class="matching-result-icon">🎉</div>
-                <h3>Tebrikler!</h3>
-                <div class="matching-stars">
-                    ${stars}
-                </div>
-                <div class="matching-result-stats">
-                    <div class="matching-result-stat">
-                        <i class="fas fa-hand-pointer"></i>
-                        <span>${this.moves} Hamle</span>
-                    </div>
-                    <div class="matching-result-stat">
-                        <i class="fas fa-clock"></i>
-                        <span>${timeStr}</span>
-                    </div>
-                    <div class="matching-result-stat xp-earned">
-                        <i class="fas fa-star"></i>
-                        <span>+${xp} XP</span>
-                    </div>
-                </div>
-                <div class="matching-result-words">
-                    <h4>Eşleştirdiğin Kelimeler:</h4>
-                    <div class="matched-word-list">
-                        ${this.selectedWords.map(w => `
-                            <div class="matched-word-item">
-                                <span class="mw-en">${w.word}</span>
-                                <i class="fas fa-arrows-alt-h"></i>
-                                <span class="mw-tr">${w.translation}</span>
-                            </div>
-                        `).join('')}
-                    </div>
-                </div>
-                <button class="matching-play-again-btn" onclick="MatchingGame.startGame()">
-                    <i class="fas fa-redo"></i> Tekrar Oyna
-                </button>
-            </div>
-        `;
-
-        result.style.display = 'block';
-
-        const board = document.getElementById('matchingBoard');
-        if (board) board.style.display = 'none';
-    },
-
-    /**
-     * Get star rating HTML based on performance
-     */
-    getStarRating() {
+        // Performansa göre geleneksel XP ve Yıldız hesaplama
         const perfectMoves = this.totalPairs;
-        let starCount;
+        let starCount = 1, xpReward = 5;
+        if (this.moves <= perfectMoves + 2) { starCount = 3; xpReward = 15; }
+        else if (this.moves <= perfectMoves * 2) { starCount = 2; xpReward = 10; }
 
-        if (this.moves <= perfectMoves + 2) {
-            starCount = 3; // Perfect or near-perfect
-        } else if (this.moves <= perfectMoves * 2) {
-            starCount = 2; // Good
-        } else {
-            starCount = 1; // Completed
+        // Ölü Storage yapısı yerine IndexedDB'ye güvenli asenkron kayıt
+        try {
+            const today = new Date().toISOString().split('T')[0];
+            let log = await Database._read('logs', today) || { date: today, wordsStudied: 0, xpEarned: 0 };
+            log.xpEarned += xpReward;
+            await Database._write('logs', log);
+
+            // Global UI güncellemesini tetikle
+            if (typeof App !== 'undefined' && App.updateUI) await App.updateUI();
+            if (typeof App !== 'undefined' && App.showXPPopup) App.showXPPopup(xpReward);
+        } catch (e) {
+            console.error("Vizyoner veritabanı XP kaydı başarısız:", e);
         }
 
+        this.showOverlay(starCount, xpReward);
+    },
+
+    showOverlay(stars, xp) {
+        const overlay = document.getElementById('matchingOverlay');
+        if (!overlay) return;
+        
         let starsHtml = '';
         for (let i = 0; i < 3; i++) {
-            if (i < starCount) {
-                starsHtml += '<i class="fas fa-star matching-star active"></i>';
-            } else {
-                starsHtml += '<i class="fas fa-star matching-star"></i>';
-            }
+            starsHtml += `<i class="fas fa-star matching-star ${i < stars ? 'active' : ''}"></i>`;
         }
-        return starsHtml;
+        
+        overlay.innerHTML = `
+            <div class="matching-result">
+                <h2>Harika!</h2>
+                <div class="matching-stars">${starsHtml}</div>
+                <div class="matching-stats">
+                    <p>Süre: ${Math.floor(this.seconds/60)}:${(this.seconds%60).toString().padStart(2,'0')}</p>
+                    <p>Hamle: ${this.moves}</p>
+                    <p>Kazanılan: +${xp} XP</p>
+                </div>
+                <button class="action-btn" id="overlayRestartBtn" style="margin-top: 20px;"><i class="fas fa-redo"></i> Tekrar Oyna</button>
+            </div>
+        `;
+        overlay.style.display = 'flex';
+        document.getElementById('overlayRestartBtn')?.addEventListener('click', () => this.startGame());
     },
 
-    /**
-     * Show message when not enough words
-     */
+    updateStats() {
+        const movesEl = document.getElementById('matchingMoves');
+        if(movesEl) movesEl.textContent = this.moves;
+    },
+
     showNotEnoughWords() {
         const board = document.getElementById('matchingBoard');
-        if (board) {
-            board.innerHTML = `
-                <div class="matching-no-words">
-                    <i class="fas fa-exclamation-circle"></i>
-                    <p>Yeterli kelime bulunamadı. Lütfen kategori veya seviye değiştirin.</p>
-                </div>
-            `;
-            board.style.display = 'flex';
-        }
+        if (board) board.innerHTML = `<div class="matching-no-words"><i class="fas fa-exclamation-circle"></i><p>Yeterli kelime bulunamadı. Lütfen ayarlar'dan filtreleri genişletin.</p></div>`;
+        const overlay = document.getElementById('matchingOverlay');
+        if (overlay) overlay.style.display = 'none';
     }
 };
 
-// Initialize when DOM ready
-document.addEventListener('DOMContentLoaded', () => {
-    MatchingGame.init();
-});
+window.MatchingGame = MatchingGame;
+document.addEventListener('DOMContentLoaded', () => MatchingGame.init());
