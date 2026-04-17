@@ -58,45 +58,57 @@ const WordList = {
 
     async syncDatabase() {
         const existingWords = await Database._getAll('words');
+        const hasOxford = existingWords.some(w => w.id && w.id.startsWith('ox_'));
         
-        // Eğer kelime yoksa VEYA seviyeler hatalı (matematiksel) atandıysa gerçek dosyalarla onar
+        let filesToFetch = [];
         if (existingWords.length === 0 || existingWords.some(w => w.id.includes('senses_') || w.id.includes('kitchen_'))) {
-            console.log("Gerçek seviye dosyaları (A1-C1) IndexedDB'ye tohumlanıyor/onarılıyor...");
+            filesToFetch = ['a1', 'a2', 'b1', 'b2', 'c1', 'oxford'];
+        } else if (!hasOxford) {
+            filesToFetch = ['oxford'];
+        }
+        
+        if (filesToFetch.length > 0) {
+            console.log("Gelişmiş tohumlama devrede (Bulk Load):", filesToFetch);
+            let allWords = [];
             
-            const levels = ['a1', 'a2', 'b1', 'b2', 'c1'];
-            let totalAdded = 0;
-
-            for (const level of levels) {
+            for (const file of filesToFetch) {
                 try {
-                    const response = await fetch(`data/words-${level}.json`);
+                    const response = await fetch(`data/words-${file}.json`);
                     if (!response.ok) continue;
                     const words = await response.json();
                     
                     for (let w of words) {
-                        const wordData = {
+                        allWords.push({
                             ...w,
-                            id: `${level}_${w.id}`,
-                            category: 'daily', // Varsayılan kategori
-                            level: level
-                        };
-                        await Database._write('words', wordData);
-                        totalAdded++;
+                            id: w.id || `${file}_${w.word}`,
+                            category: w.category || 'daily',
+                            level: w.level || file
+                        });
                     }
                 } catch (error) {
-                    console.error(`${level} dosyası yüklenemedi:`, error);
-                }
-            }
-            
-            // Eğer sistemde eski hatalı ID'li (örn: senses_1) kelimeler varsa temizle
-            const allCleanWords = await Database._getAll('words');
-            for (let cw of allCleanWords) {
-                if (cw.id.includes('senses_') || cw.id.includes('kitchen_') || cw.id.includes('home_')) {
-                    const tx = Database.db.transaction('words', 'readwrite');
-                    tx.objectStore('words').delete(cw.id);
+                    console.error(`${file} dosyası alınamadı:`, error);
                 }
             }
 
-            console.log(`Tohumlama tamamlandı. Toplam ${totalAdded} kelime gerçek seviyesiyle sisteme işlendi.`);
+            return new Promise((resolve) => {
+                const tx = Database.db.transaction('words', 'readwrite');
+                const store = tx.objectStore('words');
+                
+                let count = 0;
+                for (let w of allWords) {
+                    store.put(w);
+                    count++;
+                }
+
+                tx.oncomplete = () => {
+                    console.log(`Tohumlama/Senkronizasyon başarılı: ${count} kelime yüklendi.`);
+                    resolve();
+                };
+                tx.onerror = () => {
+                    console.error("Toplu tohumlama hatası");
+                    resolve();
+                };
+            });
         }
     },
 
