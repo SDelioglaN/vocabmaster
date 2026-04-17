@@ -5,8 +5,55 @@ const WordList = {
 
     async init() {
         await this.syncDatabase();
+        await this.migrateCategories();
         this.setupEventListeners();
         await this.applyFilters();
+    },
+
+    async migrateCategories() {
+        if (localStorage.getItem('vocab_migration_v5')) return;
+        
+        return new Promise((resolve) => {
+            const tx = Database.db.transaction('words', 'readwrite');
+            const store = tx.objectStore('words');
+            const request = store.getAll();
+            
+            request.onsuccess = (e) => {
+                const words = e.target.result;
+                const categories = ['daily', 'family', 'home', 'food', 'shopping', 'travel', 'health', 'work', 'education', 'technology', 'nature', 'emotions', 'weather', 'hobbies', 'city'];
+                
+                let needsUpdate = false;
+                let catIndex = 0;
+                
+                for (let w of words) {
+                    if (w.id.toString().startsWith('oxford_')) {
+                        store.delete(w.id);
+                        needsUpdate = true;
+                        continue;
+                    }
+                    
+                    if (!categories.includes(w.category) || w.category === 'general' || w.category === 'oxford' || w.category === 'custom') {
+                        w.category = categories[catIndex % categories.length];
+                        store.put(w);
+                        catIndex++;
+                        needsUpdate = true;
+                    }
+                }
+                
+                tx.oncomplete = () => {
+                    if (needsUpdate) console.log("Veritabanı temizlendi ve kategoriler 15 ana gruba adil olarak dağıtıldı.");
+                    localStorage.setItem('vocab_migration_v5', '1');
+                    resolve();
+                };
+                
+                tx.onerror = () => {
+                    console.error("Migration hatası");
+                    resolve();
+                };
+            };
+            
+            request.onerror = () => resolve();
+        });
     },
 
     async syncDatabase() {
@@ -29,7 +76,7 @@ const WordList = {
                         const wordData = {
                             ...w,
                             id: `${level}_${w.id}`,
-                            category: 'general', // Orijinal Oxford yapısında genel havuz
+                            category: 'daily', // Varsayılan kategori
                             level: level
                         };
                         await Database._write('words', wordData);
@@ -114,12 +161,9 @@ const WordList = {
                             <span class="wl-word-level" style="background: ${lvlColor}20; color: ${lvlColor}; border: 1px solid ${lvlColor};">${w.level.toUpperCase()}</span>
                         </div>
                         <span class="wl-word-tr">${w.translation}</span>
-                        <span class="wl-word-phonetic">${w.phonetic || ''}</span>
+
                     </div>
                     <div style="display: flex; flex-direction: column; gap: 5px; justify-content: center; padding-right: 10px;">
-                        <button class="wl-speak-btn" onclick="event.stopPropagation(); WordList.speakWord('${w.word.replace(/'/g, "\\'")}')" style="position:relative; right:0; bottom:0; opacity:1; transform:none; margin-bottom:5px;">
-                            <i class="fas fa-volume-up"></i>
-                        </button>
                         <button onclick="event.stopPropagation(); WordList.openEditModal('${w.id}')" style="width:32px; height:32px; border-radius:50%; background:#374151; color:white; border:none; cursor:pointer;" title="Düzenle">
                             <i class="fas fa-pen"></i>
                         </button>
@@ -141,6 +185,24 @@ const WordList = {
                     <input type="text" id="editWordEn" style="width:100%; padding:8px; margin-bottom:10px; background:#111827; border:1px solid #4b5563; color:white; border-radius:4px;">
                     <label style="color:#9ca3af; font-size:0.8rem;">Türkçe Anlamı</label>
                     <input type="text" id="editWordTr" style="width:100%; padding:8px; margin-bottom:10px; background:#111827; border:1px solid #4b5563; color:white; border-radius:4px;">
+                    <label style="color:#9ca3af; font-size:0.8rem;">Kategori</label>
+                    <select id="editWordCategory" style="width:100%; padding:8px; margin-bottom:10px; background:#111827; border:1px solid #4b5563; color:white; border-radius:4px;">
+                        <option value="daily">💬 Günlük Hayat</option>
+                        <option value="family">👨‍👩‍👧‍👦 Aile & İlişkiler</option>
+                        <option value="home">🏠 Ev & Yaşam</option>
+                        <option value="food">🍽️ Yemek & İçecek</option>
+                        <option value="shopping">🛒 Alışveriş & Giyim</option>
+                        <option value="travel">✈️ Seyahat & Ulaşım</option>
+                        <option value="health">🏥 Sağlık & Vücut</option>
+                        <option value="work">💼 İş & Kariyer</option>
+                        <option value="education">🎓 Eğitim & Öğrenme</option>
+                        <option value="technology">💻 Teknoloji & İletişim</option>
+                        <option value="nature">🌿 Doğa & Çevre</option>
+                        <option value="emotions">🎭 Duygular & Karakter</option>
+                        <option value="weather">⛅ Hava & Mevsimler</option>
+                        <option value="hobbies">🎮 Hobiler & Eğlence</option>
+                        <option value="city">🏙️ Şehir & Toplum</option>
+                    </select>
                     <label style="color:#9ca3af; font-size:0.8rem;">Seviye</label>
                     <select id="editWordLevel" style="width:100%; padding:8px; margin-bottom:20px; background:#111827; border:1px solid #4b5563; color:white; border-radius:4px;">
                         <option value="a1">A1</option><option value="a2">A2</option><option value="b1">B1</option>
@@ -173,6 +235,7 @@ const WordList = {
         document.getElementById('editWordEn').value = word.word;
         document.getElementById('editWordTr').value = word.translation;
         document.getElementById('editWordLevel').value = word.level;
+        document.getElementById('editWordCategory').value = word.category || 'daily';
         
         document.getElementById('editWordModal').style.display = 'flex';
     },
@@ -185,6 +248,7 @@ const WordList = {
             wordData.word = document.getElementById('editWordEn').value;
             wordData.translation = document.getElementById('editWordTr').value;
             wordData.level = document.getElementById('editWordLevel').value;
+            wordData.category = document.getElementById('editWordCategory').value;
             
             await Database._write('words', wordData);
             document.getElementById('editWordModal').style.display = 'none';
@@ -221,8 +285,7 @@ const WordList = {
                 preview.innerHTML = `
                     <div style="background: #111827; padding: 15px; border-radius: 6px; border-left: 4px solid #10b981;">
                         <div style="display:flex; justify-content:space-between; align-items:center;">
-                            <h4 style="font-size: 1.2rem; color: #10b981;">${data.word} <small style="color:#9ca3af; font-weight:normal;">${data.phonetic}</small></h4>
-                            <button onclick="WordList.speakWord('${data.word}')" style="background:none; border:none; color:#3b82f6; cursor:pointer;"><i class="fas fa-volume-up"></i></button>
+                            <h4 style="font-size: 1.2rem; color: #10b981;">${data.word}</h4>
                         </div>
                         <p style="margin: 10px 0; font-size: 0.9rem; font-style: italic; color: #d1d5db;">"${data.example}"</p>
                         <label style="display:block; font-size: 0.8rem; color:#9ca3af; margin-bottom:5px;">Türkçe Anlamı:</label>
@@ -245,9 +308,7 @@ const WordList = {
         btn.textContent = "Sözlükte Ara"; btn.disabled = false;
     },
 
-    speakWord(word) {
-        if (typeof Speech !== 'undefined' && Speech.speakWord) Speech.speakWord(word);
-    }
+
 };
 
 window.WordList = WordList;

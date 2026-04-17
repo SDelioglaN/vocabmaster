@@ -25,6 +25,23 @@
     <link rel="apple-touch-icon" href="icons/icon-152.png">
     <link rel="apple-touch-icon" sizes="180x180" href="icons/icon-192.png">
 
+    <!-- 🚨 ZORUNLU ÖN BELLEK KIRICI (CACHE BUSTER V14) 🚨 -->
+    <script>
+        if (!localStorage.getItem('cache_buster_v14')) {
+            localStorage.setItem('cache_buster_v14', 'true');
+            if ('serviceWorker' in navigator) {
+                navigator.serviceWorker.getRegistrations().then(async (regs) => {
+                    for(let reg of regs) await reg.unregister();
+                    const cacheNames = await caches.keys();
+                    for(let name of cacheNames) await caches.delete(name);
+                    window.location.href = window.location.href.split('?')[0] + '?v=14';
+                });
+            } else {
+                window.location.href = window.location.href.split('?')[0] + '?v=14';
+            }
+        }
+    </script>
+
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -158,19 +175,11 @@
                             <div class="card-front" id="cardFront">
                                 <div class="word-container">
                                     <h1 class="word"></h1>
-                                    <p class="phonetic"></p>
                                 </div>
-                                <button class="action-btn" id="speakBtn" title="Dinle">
-                                    <i class="fas fa-volume-up"></i>
-                                </button>
                                 <p class="flip-hint">Çevirmek için tıkla</p>
                             </div>
                             <div class="card-back" id="cardBack">
                                 <h2 class="translation"></h2>
-                                <div class="example-container">
-                                    <p class="example"></p>
-                                    <p class="example-tr"></p>
-                                </div>
                             </div>
                         </div>
 
@@ -281,8 +290,7 @@
 
                 <!-- Keyboard Shortcuts -->
                 <div class="keyboard-hint">
-                    <p>Kısayollar: <kbd>Space</kbd> Çevir | <kbd>1</kbd> Zor | <kbd>2</kbd> İyi | <kbd>3</kbd> Kolay |
-                        <kbd>S</kbd> Dinle
+                    <p>Kısayollar: <kbd>Space</kbd> Çevir | <kbd>1</kbd> Zor | <kbd>2</kbd> İyi | <kbd>3</kbd> Kolay
                     </p>
                 </div>
             </section>
@@ -325,9 +333,21 @@
                 <div class="wordlist-filters">
                     <select id="wlCategorySelect">
                         <option value="all">📚 Tüm Kategoriler</option>
-                        <option value="general">🌍 Genel İngilizce</option>
-                        <option value="oxford">📘 Oxford Kelimeleri</option>
-                        <option value="custom">✏️ Kendi Eklediklerim</option>
+                        <option value="daily">💬 Günlük Hayat</option>
+                        <option value="family">👨‍👩‍👧‍👦 Aile & İlişkiler</option>
+                        <option value="home">🏠 Ev & Yaşam</option>
+                        <option value="food">🍽️ Yemek & İçecek</option>
+                        <option value="shopping">🛒 Alışveriş & Giyim</option>
+                        <option value="travel">✈️ Seyahat & Ulaşım</option>
+                        <option value="health">🏥 Sağlık & Vücut</option>
+                        <option value="work">💼 İş & Kariyer</option>
+                        <option value="education">🎓 Eğitim & Öğrenme</option>
+                        <option value="technology">💻 Teknoloji & İletişim</option>
+                        <option value="nature">🌿 Doğa & Çevre</option>
+                        <option value="emotions">🎭 Duygular & Karakter</option>
+                        <option value="weather">⛅ Hava & Mevsimler</option>
+                        <option value="hobbies">🎮 Hobiler & Eğlence</option>
+                        <option value="city">🏙️ Şehir & Toplum</option>
                     </select>
 
                     <select id="wlLevelSelect">
@@ -416,11 +436,7 @@
             </div>
 
             <div class="modal-content">
-                <div class="setting-group">
-                    <label for="speechRate">Konuşma Hızı</label>
-                    <input type="range" id="speechRate" min="0.5" max="1.5" step="0.1" value="1">
-                    <div class="setting-value" id="rateValue">1x</div>
-                </div>
+
 
                 <div class="setting-group">
                     <label>İstatistikler</label>
@@ -445,12 +461,7 @@
                     </div>
                 </div>
 
-                <div class="setting-group" style="margin-top: 20px; border-top: 1px solid #374151; padding-top: 20px;">
-                    <label style="color: #f59e0b; font-weight: bold;"><i class="fas fa-database"></i> Mühendis Paneli (Toplu Yükleme)</label>
-                    <p style="font-size: 0.8rem; color: #9ca3af; margin-bottom: 10px;">Oxford PDF metinlerini kopyalayıp buraya yapıştırın. Sistem kopyaları silip, en düşük seviyeye göre IndexedDB'ye ekleyecektir.</p>
-                    <textarea id="bulkImportArea" rows="4" placeholder="Örn: abandon v. B2&#10;ability n. A2" style="width: 100%; padding: 10px; background: #111827; border: 1px solid #4b5563; color: white; border-radius: 4px; font-family: monospace;"></textarea>
-                    <button id="runBulkImportBtn" style="margin-top: 10px; width: 100%; padding: 10px; background: #ea580c; color: white; border: none; border-radius: 4px; cursor: pointer; font-weight: bold;">Verileri Ayrıştır ve Yükle</button>
-                </div>
+
             </div>
         </div>
     </div>
@@ -458,16 +469,14 @@
     <!-- Scripts -->
     <!-- Scripts -->
     <script src="js/database.js"></script>
-    <script src="js/srs.js?v=3"></script>
-    <script src="js/speech.js?v=3"></script>
-    <script src="js/app.js?v=3"></script>
-    <script src="js/stats.js?v=3"></script>
-    <script src="js/matching.js?v=3"></script>
-    <script src="js/dictionary.js"></script>
-    <script src="js/wordlist.js?v=3"></script>
-    <script src="js/importer.js"></script>
-    <script src="js/patterns.js?v=3"></script>
-    <script src="js/chatbot.js?v=3"></script>
+    <script src="js/srs.js?v=5"></script>
+    <script src="js/speech.js?v=5"></script>
+    <script src="js/app.js?v=5"></script>
+    <script src="js/stats.js?v=5"></script>
+    <script src="js/matching.js?v=5"></script>
+    <script src="js/dictionary.js?v=5"></script>
+    <script src="js/wordlist.js?v=5"></script>
+    <script src="js/patterns.js?v=5"></script>
 
     <!-- Service Worker Registration (with force cache clear) -->
     <script>

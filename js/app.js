@@ -21,9 +21,6 @@ const App = {
                 await WordList.init();
             }
 
-            // Ses motorunu başlat
-            try { Speech.init(); } catch (e) { console.warn('TTS başlatılamadı:', e); }
-
             // Geleneksel olay dinleyicilerini kur
             this.setupEventListeners();
             
@@ -44,11 +41,6 @@ const App = {
             if (!e.target.closest('.action-btn') && !e.target.closest('.rating-btn')) {
                 this.flipCard();
             }
-        });
-
-        document.getElementById('speakBtn')?.addEventListener('click', (e) => {
-            e.stopPropagation();
-            this.speakWord();
         });
 
         // Asenkron Değerlendirme Butonları
@@ -149,11 +141,8 @@ const App = {
         card.style.transition = '';
 
         front.querySelector('.word').textContent = word.word;
-        front.querySelector('.phonetic').textContent = word.phonetic || '';
         
         back.querySelector('.translation').textContent = word.translation;
-        back.querySelector('.example').textContent = word.example || '';
-        back.querySelector('.example-tr').textContent = word.exampleTr || '';
 
         document.getElementById('ratingBtns').classList.remove('show');
         this.updateProgress();
@@ -178,10 +167,6 @@ const App = {
             card.classList.remove('flipped');
             document.getElementById('ratingBtns').classList.remove('show');
         }
-    },
-
-    speakWord() {
-        if (this.currentWord) Speech.speakWord(this.currentWord.word);
     },
 
     async rateWord(quality) {
@@ -366,7 +351,6 @@ const App = {
             case '1': this.rateWord(1); break;
             case '2': this.rateWord(3); break;
             case '3': this.rateWord(5); break;
-            case 's': this.speakWord(); break;
         }
     }
 };
